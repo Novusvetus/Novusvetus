@@ -1,0 +1,29 @@
+# Ignore temporary files (left by editors and OS)
+.DS_Store
+*._*
+*.AppleDouble
+*.bak
+*.swp
+*~
+composer.lock
+.env
+
+# Ignore by common IDEs used directories/files
+.buildpath
+.settings
+.TemporaryItems
+.webprj
+*.idea
+*.project
+nbproject
+
+# Temporary files and folders
+.cache
+.php_cs.cache
+.sass-cache
+.session
+*.log
+
+# Files by Build tool
+.vagrant
+Vagrantfile
