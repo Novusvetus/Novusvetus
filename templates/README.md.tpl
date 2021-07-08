@@ -31,6 +31,11 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [{{.User.Login}}]({{.User.URL}})
 {{- end}}
 
+#### 👯 Check out some of my recent followers
+{{range followers 10}}
+- [{{.Login}}]({{.URL}})
+{{- end}}
+
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
 I will try my best to help!
