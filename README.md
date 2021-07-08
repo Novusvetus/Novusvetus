@@ -30,6 +30,12 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 #### ❤️ These awesome people sponsor me (thank you!)
 
 
+#### 👯 Check out some of my recent followers
+
+- [SvenMeierhans](https://github.com/SvenMeierhans)
+- [ksh5](https://github.com/ksh5)
+- [JonathanSchndr](https://github.com/JonathanSchndr)
+
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
 I will try my best to help!
