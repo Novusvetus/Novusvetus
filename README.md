@@ -6,23 +6,24 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 * [Novusvetus](https://novusvetus.de) (My personal page)
 * [MEN AT WORK Werbeagentur GmbH](https://www.men-at-work.de/) (My employer)
 
-#### 👷 Check out what I'm currently working on
+#### 💻 Check out what I'm currently working on
 
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - Tracking your IntelliJ activity and push it to your own Endpoint.
-- [Novusvetus/GamersMQTT](https://github.com/Novusvetus/GamersMQTT) - 
+- [Novusvetus/GamersMQTT](https://github.com/Novusvetus/GamersMQTT)
 
-#### 🌱 My latest projects
+#### 🐣 My latest projects
 
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - Tracking your IntelliJ activity and push it to your own Endpoint.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - The Docker LAMP stack I use for PHP development.
-- [Novusvetus/GamersMQTT](https://github.com/Novusvetus/GamersMQTT) - 
+- [Novusvetus/GamersMQTT](https://github.com/Novusvetus/GamersMQTT)
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 
-#### 🔭 Latest releases I've contributed to
+#### 🗜 Latest releases I've contributed to
 
+_Really? Nothing?_
 
-#### 🔨 Latest Pull Requests I published
+#### 🛠 Latest Pull Requests I published
 
 - [Fixed escaping of insertFormFieldTags](https://github.com/menatwork-ia/contao-efg-bundle/pull/1) on [menatwork-ia/contao-efg-bundle](https://github.com/menatwork-ia/contao-efg-bundle)
 - [Make &#34;vendor/package:resource&#34; available.](https://github.com/axllent/silverstripe-scss/pull/2) on [axllent/silverstripe-scss](https://github.com/axllent/silverstripe-scss)
@@ -31,6 +32,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
+_Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
