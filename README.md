@@ -36,6 +36,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [elacalle](https://github.com/elacalle)
+- [jishanshaikh4](https://github.com/jishanshaikh4)
 - [Stakdek](https://github.com/Stakdek)
 - [SvenMeierhans](https://github.com/SvenMeierhans)
 - [ksh5](https://github.com/ksh5)
