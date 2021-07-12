@@ -36,6 +36,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mrcrypster](https://github.com/mrcrypster)
+- [patevs](https://github.com/patevs)
 - [obrienser](https://github.com/obrienser)
 - [rc-chuah](https://github.com/rc-chuah)
 - [eyedeekay](https://github.com/eyedeekay)
@@ -44,7 +46,6 @@ _Nobody sponsors me. I am poor..._
 - [Stakdek](https://github.com/Stakdek)
 - [SvenMeierhans](https://github.com/SvenMeierhans)
 - [ksh5](https://github.com/ksh5)
-- [JonathanSchndr](https://github.com/JonathanSchndr)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
