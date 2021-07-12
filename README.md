@@ -36,6 +36,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [stefoxp](https://github.com/stefoxp)
 - [mrcrypster](https://github.com/mrcrypster)
 - [patevs](https://github.com/patevs)
 - [obrienser](https://github.com/obrienser)
@@ -45,7 +46,6 @@ _Nobody sponsors me. I am poor..._
 - [jishanshaikh4](https://github.com/jishanshaikh4)
 - [Stakdek](https://github.com/Stakdek)
 - [SvenMeierhans](https://github.com/SvenMeierhans)
-- [ksh5](https://github.com/ksh5)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
