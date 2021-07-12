@@ -36,6 +36,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dennohpeter](https://github.com/dennohpeter)
+- [zaidajani](https://github.com/zaidajani)
 - [snowwhite-boss](https://github.com/snowwhite-boss)
 - [shahnewaztameem](https://github.com/shahnewaztameem)
 - [stefoxp](https://github.com/stefoxp)
@@ -44,8 +46,6 @@ _Nobody sponsors me. I am poor..._
 - [obrienser](https://github.com/obrienser)
 - [rc-chuah](https://github.com/rc-chuah)
 - [eyedeekay](https://github.com/eyedeekay)
-- [elacalle](https://github.com/elacalle)
-- [jishanshaikh4](https://github.com/jishanshaikh4)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
