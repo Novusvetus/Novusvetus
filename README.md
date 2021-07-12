@@ -8,11 +8,13 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
+- [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - Tracking your IntelliJ activity and push it to your own Endpoint.
 - [Novusvetus/GamersMQTT](https://github.com/Novusvetus/GamersMQTT)
 
 #### 🐣 My latest projects
 
+- [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - Tracking your IntelliJ activity and push it to your own Endpoint.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - The Docker LAMP stack I use for PHP development.
 - [Novusvetus/GamersMQTT](https://github.com/Novusvetus/GamersMQTT)
