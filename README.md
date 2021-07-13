@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [meehawk](https://github.com/meehawk)
 - [0x30c4](https://github.com/0x30c4)
 - [krvaibhaw](https://github.com/krvaibhaw)
 - [JustNikhill](https://github.com/JustNikhill)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [Rabios](https://github.com/Rabios)
 - [Bzeppeli](https://github.com/Bzeppeli)
 - [dennohpeter](https://github.com/dennohpeter)
-- [zaidajani](https://github.com/zaidajani)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
