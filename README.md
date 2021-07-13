@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [krvaibhaw](https://github.com/krvaibhaw)
 - [laionazeredo](https://github.com/laionazeredo)
 - [Rabios](https://github.com/Rabios)
 - [Bzeppeli](https://github.com/Bzeppeli)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [shahnewaztameem](https://github.com/shahnewaztameem)
 - [stefoxp](https://github.com/stefoxp)
 - [mrcrypster](https://github.com/mrcrypster)
-- [patevs](https://github.com/patevs)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
