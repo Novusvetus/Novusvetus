@@ -38,6 +38,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jaque20050](https://github.com/jaque20050)
+- [Sherlockcxk](https://github.com/Sherlockcxk)
+- [Los-had](https://github.com/Los-had)
 - [edesoares](https://github.com/edesoares)
 - [Pragyanurag](https://github.com/Pragyanurag)
 - [xdvrx1](https://github.com/xdvrx1)
@@ -45,9 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [aryashah2k](https://github.com/aryashah2k)
 - [spaceneedle2019](https://github.com/spaceneedle2019)
 - [meehawk](https://github.com/meehawk)
-- [0x30c4](https://github.com/0x30c4)
-- [krvaibhaw](https://github.com/krvaibhaw)
-- [aditineemkar](https://github.com/aditineemkar)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
