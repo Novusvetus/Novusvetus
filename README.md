@@ -38,13 +38,13 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xdvrx1](https://github.com/xdvrx1)
 - [SelimHorri](https://github.com/SelimHorri)
 - [aryashah2k](https://github.com/aryashah2k)
 - [spaceneedle2019](https://github.com/spaceneedle2019)
 - [meehawk](https://github.com/meehawk)
 - [0x30c4](https://github.com/0x30c4)
 - [krvaibhaw](https://github.com/krvaibhaw)
-- [JustNikhill](https://github.com/JustNikhill)
 - [aditineemkar](https://github.com/aditineemkar)
 - [pkalemba](https://github.com/pkalemba)
 - [laionazeredo](https://github.com/laionazeredo)
