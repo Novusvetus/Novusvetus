@@ -38,6 +38,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SelimHorri](https://github.com/SelimHorri)
+- [aryashah2k](https://github.com/aryashah2k)
 - [spaceneedle2019](https://github.com/spaceneedle2019)
 - [meehawk](https://github.com/meehawk)
 - [0x30c4](https://github.com/0x30c4)
@@ -46,8 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [aditineemkar](https://github.com/aditineemkar)
 - [pkalemba](https://github.com/pkalemba)
 - [laionazeredo](https://github.com/laionazeredo)
-- [Rabios](https://github.com/Rabios)
-- [Bzeppeli](https://github.com/Bzeppeli)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
