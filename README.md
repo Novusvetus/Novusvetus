@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pragyanurag](https://github.com/Pragyanurag)
 - [xdvrx1](https://github.com/xdvrx1)
 - [SelimHorri](https://github.com/SelimHorri)
 - [aryashah2k](https://github.com/aryashah2k)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [krvaibhaw](https://github.com/krvaibhaw)
 - [aditineemkar](https://github.com/aditineemkar)
 - [pkalemba](https://github.com/pkalemba)
-- [laionazeredo](https://github.com/laionazeredo)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
