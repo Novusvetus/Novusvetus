@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [arathimahesh](https://github.com/arathimahesh)
 - [xchanmolx](https://github.com/xchanmolx)
 - [manjunath5496](https://github.com/manjunath5496)
 - [MatheuSilvaSant](https://github.com/MatheuSilvaSant)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [jaque20050](https://github.com/jaque20050)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [Los-had](https://github.com/Los-had)
-- [edesoares](https://github.com/edesoares)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
