@@ -38,6 +38,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nimiology](https://github.com/nimiology)
+- [Amoo-Srwsh](https://github.com/Amoo-Srwsh)
 - [arathimahesh](https://github.com/arathimahesh)
 - [xchanmolx](https://github.com/xchanmolx)
 - [manjunath5496](https://github.com/manjunath5496)
@@ -46,8 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [HangeZoe](https://github.com/HangeZoe)
 - [reegulus](https://github.com/reegulus)
 - [jaque20050](https://github.com/jaque20050)
-- [Sherlockcxk](https://github.com/Sherlockcxk)
-- [Los-had](https://github.com/Los-had)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
