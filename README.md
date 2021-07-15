@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xyzhanjiang](https://github.com/xyzhanjiang)
 - [HangeZoe](https://github.com/HangeZoe)
 - [reegulus](https://github.com/reegulus)
 - [jaque20050](https://github.com/jaque20050)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [Pragyanurag](https://github.com/Pragyanurag)
 - [xdvrx1](https://github.com/xdvrx1)
 - [SelimHorri](https://github.com/SelimHorri)
-- [aryashah2k](https://github.com/aryashah2k)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
