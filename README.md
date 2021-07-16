@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jishanshaikh4](https://github.com/jishanshaikh4)
 - [HAMMADMOBIN](https://github.com/HAMMADMOBIN)
 - [ToVinhKhang](https://github.com/ToVinhKhang)
 - [amirmohammad0000](https://github.com/amirmohammad0000)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [mahtamun-hoque-fahim](https://github.com/mahtamun-hoque-fahim)
 - [00mjk](https://github.com/00mjk)
 - [AlvaroIsrael](https://github.com/AlvaroIsrael)
-- [neodigm](https://github.com/neodigm)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
