@@ -38,6 +38,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [PremChapagain](https://github.com/PremChapagain)
+- [aacassandra](https://github.com/aacassandra)
 - [ranon-rat](https://github.com/ranon-rat)
 - [ErfiDev](https://github.com/ErfiDev)
 - [aindrila2412](https://github.com/aindrila2412)
@@ -46,8 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [nonunicorn](https://github.com/nonunicorn)
 - [shibuwd](https://github.com/shibuwd)
 - [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
-- [petrozavodsky](https://github.com/petrozavodsky)
-- [Swarnika07](https://github.com/Swarnika07)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
