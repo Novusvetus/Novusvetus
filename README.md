@@ -38,6 +38,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Mahi-Kanakdhar](https://github.com/Mahi-Kanakdhar)
+- [evalPenny](https://github.com/evalPenny)
 - [nonunicorn](https://github.com/nonunicorn)
 - [shibuwd](https://github.com/shibuwd)
 - [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
@@ -46,8 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [krysits](https://github.com/krysits)
 - [Mu9nd](https://github.com/Mu9nd)
 - [cxk-bugsfly](https://github.com/cxk-bugsfly)
-- [alex-battikha](https://github.com/alex-battikha)
-- [5l1v3r1](https://github.com/5l1v3r1)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
