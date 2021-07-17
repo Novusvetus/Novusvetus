@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [muhiqsimui](https://github.com/muhiqsimui)
 - [PremChapagain](https://github.com/PremChapagain)
 - [aacassandra](https://github.com/aacassandra)
 - [ranon-rat](https://github.com/ranon-rat)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [evalPenny](https://github.com/evalPenny)
 - [nonunicorn](https://github.com/nonunicorn)
 - [shibuwd](https://github.com/shibuwd)
-- [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
