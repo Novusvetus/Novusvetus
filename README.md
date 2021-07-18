@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [trojan0x](https://github.com/trojan0x)
 - [hamzaali81](https://github.com/hamzaali81)
 - [donPabloNow](https://github.com/donPabloNow)
 - [josemalcher](https://github.com/josemalcher)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [aacassandra](https://github.com/aacassandra)
 - [ranon-rat](https://github.com/ranon-rat)
 - [ErfiDev](https://github.com/ErfiDev)
-- [aindrila2412](https://github.com/aindrila2412)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
