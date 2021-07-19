@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Khasan-Meliev](https://github.com/Khasan-Meliev)
 - [wg-d](https://github.com/wg-d)
 - [trojan0x](https://github.com/trojan0x)
 - [hamzaali81](https://github.com/hamzaali81)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [muhiqsimui](https://github.com/muhiqsimui)
 - [PremChapagain](https://github.com/PremChapagain)
 - [aacassandra](https://github.com/aacassandra)
-- [ranon-rat](https://github.com/ranon-rat)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
