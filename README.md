@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cxk-bugsfly](https://github.com/cxk-bugsfly)
 - [nophora](https://github.com/nophora)
 - [Fliw](https://github.com/Fliw)
 - [ToVinhKhang](https://github.com/ToVinhKhang)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [hamzaali81](https://github.com/hamzaali81)
 - [donPabloNow](https://github.com/donPabloNow)
 - [josemalcher](https://github.com/josemalcher)
-- [gabrielferrazduque](https://github.com/gabrielferrazduque)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
