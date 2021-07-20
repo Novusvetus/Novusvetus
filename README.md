@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hamiecod](https://github.com/hamiecod)
 - [acatzk](https://github.com/acatzk)
 - [lucasrmagalhaes](https://github.com/lucasrmagalhaes)
 - [kroitor](https://github.com/kroitor)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [samuelalmeida95](https://github.com/samuelalmeida95)
 - [gerrishons](https://github.com/gerrishons)
 - [JohannesVDM](https://github.com/JohannesVDM)
-- [atimilson](https://github.com/atimilson)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
