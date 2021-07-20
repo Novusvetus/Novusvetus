@@ -57,3 +57,4 @@ I will try my best to help!
 - Mail: [development@novusvetus.de](mailto:development@novusvetus.de)
 - My personal page: [https://novusvetus.de](https://novusvetus.de)
 - Twitter: [https://twitter.com/novusvetus](https://twitter.com/novusvetus)
+- Telegram: [https://t.me/novusvetus](https://t.me/novusvetus)
