@@ -38,6 +38,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kroitor](https://github.com/kroitor)
 - [rakktheantenna](https://github.com/rakktheantenna)
 - [ArshdeepSahni](https://github.com/ArshdeepSahni)
 - [raviprakash11](https://github.com/raviprakash11)
@@ -47,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 - [atimilson](https://github.com/atimilson)
 - [shabnamghaemiprogrammer](https://github.com/shabnamghaemiprogrammer)
 - [cxk-bugsfly](https://github.com/cxk-bugsfly)
-- [nophora](https://github.com/nophora)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
