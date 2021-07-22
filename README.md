@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jaayperez](https://github.com/jaayperez)
 - [mmnkuh](https://github.com/mmnkuh)
 - [CXK-53](https://github.com/CXK-53)
 - [gamer13alone](https://github.com/gamer13alone)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [hamiecod](https://github.com/hamiecod)
 - [acatzk](https://github.com/acatzk)
 - [lucasrmagalhaes](https://github.com/lucasrmagalhaes)
-- [kroitor](https://github.com/kroitor)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
