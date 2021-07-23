@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [danieljvsa](https://github.com/danieljvsa)
+- [uplusware](https://github.com/uplusware)
 - [MartMbithi](https://github.com/MartMbithi)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [errir503](https://github.com/errir503)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [mmnkuh](https://github.com/mmnkuh)
 - [gamer13alone](https://github.com/gamer13alone)
 - [Jkalio52](https://github.com/Jkalio52)
-- [mhopfner](https://github.com/mhopfner)
-- [zakarialaoui10](https://github.com/zakarialaoui10)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
