@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [MartMbithi](https://github.com/MartMbithi)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [errir503](https://github.com/errir503)
 - [silvesterwali](https://github.com/silvesterwali)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Jkalio52](https://github.com/Jkalio52)
 - [mhopfner](https://github.com/mhopfner)
 - [zakarialaoui10](https://github.com/zakarialaoui10)
-- [hamiecod](https://github.com/hamiecod)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
