@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Soldy](https://github.com/Soldy)
 - [LucioFex](https://github.com/LucioFex)
 - [pinhe91](https://github.com/pinhe91)
 - [Voltranex](https://github.com/Voltranex)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [MartMbithi](https://github.com/MartMbithi)
 - [Sherlockcxk](https://github.com/Sherlockcxk)
 - [errir503](https://github.com/errir503)
-- [silvesterwali](https://github.com/silvesterwali)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
