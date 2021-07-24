@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lilujunai](https://github.com/lilujunai)
 - [jake100](https://github.com/jake100)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [arnab132](https://github.com/arnab132)
@@ -50,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 - [prathimacode-hub](https://github.com/prathimacode-hub)
 - [Magicianred](https://github.com/Magicianred)
 - [Soldy](https://github.com/Soldy)
-- [LucioFex](https://github.com/LucioFex)
 - [pinhe91](https://github.com/pinhe91)
 - [Voltranex](https://github.com/Voltranex)
 
