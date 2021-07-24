@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [arnab132](https://github.com/arnab132)
+- [NishaJoshi666](https://github.com/NishaJoshi666)
 - [prathimacode-hub](https://github.com/prathimacode-hub)
 - [Magicianred](https://github.com/Magicianred)
 - [Soldy](https://github.com/Soldy)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Voltranex](https://github.com/Voltranex)
 - [daliborkoenig](https://github.com/daliborkoenig)
 - [danieljvsa](https://github.com/danieljvsa)
-- [uplusware](https://github.com/uplusware)
-- [MartMbithi](https://github.com/MartMbithi)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
