@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Mahmoud-Italy](https://github.com/Mahmoud-Italy)
 - [JonnyBanana](https://github.com/JonnyBanana)
 - [devhrs](https://github.com/devhrs)
 - [lilujunai](https://github.com/lilujunai)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [NishaJoshi666](https://github.com/NishaJoshi666)
 - [prathimacode-hub](https://github.com/prathimacode-hub)
 - [Magicianred](https://github.com/Magicianred)
-- [Soldy](https://github.com/Soldy)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
