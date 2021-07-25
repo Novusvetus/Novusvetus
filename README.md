@@ -45,6 +45,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [JonnyBanana](https://github.com/JonnyBanana)
 - [devhrs](https://github.com/devhrs)
 - [lilujunai](https://github.com/lilujunai)
 - [jake100](https://github.com/jake100)
@@ -54,7 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [prathimacode-hub](https://github.com/prathimacode-hub)
 - [Magicianred](https://github.com/Magicianred)
 - [Soldy](https://github.com/Soldy)
-- [pinhe91](https://github.com/pinhe91)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
