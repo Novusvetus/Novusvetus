@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gamer13alone](https://github.com/gamer13alone)
 - [timo-cmd2](https://github.com/timo-cmd2)
 - [samruddhibhoyar3](https://github.com/samruddhibhoyar3)
 - [PrathmeshSadake](https://github.com/PrathmeshSadake)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [dimitriwalters](https://github.com/dimitriwalters)
 - [Super45coder](https://github.com/Super45coder)
 - [Mahmoud-Italy](https://github.com/Mahmoud-Italy)
-- [JonnyBanana](https://github.com/JonnyBanana)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
