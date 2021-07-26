@@ -46,13 +46,13 @@ _Nobody sponsors me. I am poor..._
 - [samruddhibhoyar3](https://github.com/samruddhibhoyar3)
 - [PrathmeshSadake](https://github.com/PrathmeshSadake)
 - [IndrajeetPatil](https://github.com/IndrajeetPatil)
-- [CXK-53](https://github.com/CXK-53)
 - [cherucole](https://github.com/cherucole)
 - [brettkromkamp](https://github.com/brettkromkamp)
 - [dimitriwalters](https://github.com/dimitriwalters)
 - [Super45coder](https://github.com/Super45coder)
 - [Mahmoud-Italy](https://github.com/Mahmoud-Italy)
 - [JonnyBanana](https://github.com/JonnyBanana)
+- [devhrs](https://github.com/devhrs)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
