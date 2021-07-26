@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [IndrajeetPatil](https://github.com/IndrajeetPatil)
+- [CXK-53](https://github.com/CXK-53)
 - [cherucole](https://github.com/cherucole)
 - [brettkromkamp](https://github.com/brettkromkamp)
 - [dimitriwalters](https://github.com/dimitriwalters)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [JonnyBanana](https://github.com/JonnyBanana)
 - [devhrs](https://github.com/devhrs)
 - [lilujunai](https://github.com/lilujunai)
-- [jake100](https://github.com/jake100)
-- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
