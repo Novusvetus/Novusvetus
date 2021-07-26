@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cherucole](https://github.com/cherucole)
+- [brettkromkamp](https://github.com/brettkromkamp)
 - [dimitriwalters](https://github.com/dimitriwalters)
 - [Super45coder](https://github.com/Super45coder)
 - [Mahmoud-Italy](https://github.com/Mahmoud-Italy)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [lilujunai](https://github.com/lilujunai)
 - [jake100](https://github.com/jake100)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
-- [arnab132](https://github.com/arnab132)
-- [NishaJoshi666](https://github.com/NishaJoshi666)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
