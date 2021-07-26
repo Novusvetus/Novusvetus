@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rescenic](https://github.com/rescenic)
 - [CXK-53](https://github.com/CXK-53)
 - [gamer13alone](https://github.com/gamer13alone)
 - [timo-cmd2](https://github.com/timo-cmd2)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [cherucole](https://github.com/cherucole)
 - [brettkromkamp](https://github.com/brettkromkamp)
 - [dimitriwalters](https://github.com/dimitriwalters)
-- [Super45coder](https://github.com/Super45coder)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
