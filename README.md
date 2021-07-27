@@ -45,7 +45,6 @@ _Nobody sponsors me. I am poor..._
 
 - [andreyscott](https://github.com/andreyscott)
 - [rescenic](https://github.com/rescenic)
-- [CXK-53](https://github.com/CXK-53)
 - [gamer13alone](https://github.com/gamer13alone)
 - [timo-cmd2](https://github.com/timo-cmd2)
 - [samruddhibhoyar3](https://github.com/samruddhibhoyar3)
@@ -53,6 +52,7 @@ _Nobody sponsors me. I am poor..._
 - [IndrajeetPatil](https://github.com/IndrajeetPatil)
 - [cherucole](https://github.com/cherucole)
 - [brettkromkamp](https://github.com/brettkromkamp)
+- [dimitriwalters](https://github.com/dimitriwalters)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
