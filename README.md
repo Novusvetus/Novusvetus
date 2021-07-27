@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [21007619](https://github.com/21007619)
 - [swdreams](https://github.com/swdreams)
 - [ab25cq](https://github.com/ab25cq)
 - [dihak](https://github.com/dihak)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [timo-cmd2](https://github.com/timo-cmd2)
 - [samruddhibhoyar3](https://github.com/samruddhibhoyar3)
 - [PrathmeshSadake](https://github.com/PrathmeshSadake)
-- [IndrajeetPatil](https://github.com/IndrajeetPatil)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
