@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Bianca-Machado](https://github.com/Bianca-Machado)
 - [CXK-53](https://github.com/CXK-53)
 - [rh4y](https://github.com/rh4y)
 - [danielmuthama](https://github.com/danielmuthama)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [dihak](https://github.com/dihak)
 - [andreyscott](https://github.com/andreyscott)
 - [rescenic](https://github.com/rescenic)
-- [gamer13alone](https://github.com/gamer13alone)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
