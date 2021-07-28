@@ -45,7 +45,6 @@ _Nobody sponsors me. I am poor..._
 
 - [LucioFex](https://github.com/LucioFex)
 - [Bianca-Machado](https://github.com/Bianca-Machado)
-- [CXK-53](https://github.com/CXK-53)
 - [rh4y](https://github.com/rh4y)
 - [danielmuthama](https://github.com/danielmuthama)
 - [21007619](https://github.com/21007619)
@@ -53,6 +52,7 @@ _Nobody sponsors me. I am poor..._
 - [ab25cq](https://github.com/ab25cq)
 - [dihak](https://github.com/dihak)
 - [andreyscott](https://github.com/andreyscott)
+- [rescenic](https://github.com/rescenic)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
