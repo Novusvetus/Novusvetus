@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Oussama1403](https://github.com/Oussama1403)
 - [manolia](https://github.com/manolia)
 - [jsreputation](https://github.com/jsreputation)
 - [DSB88](https://github.com/DSB88)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [rh4y](https://github.com/rh4y)
 - [danielmuthama](https://github.com/danielmuthama)
 - [21007619](https://github.com/21007619)
-- [swdreams](https://github.com/swdreams)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
