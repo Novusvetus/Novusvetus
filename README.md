@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DSB88](https://github.com/DSB88)
+- [pinhe91](https://github.com/pinhe91)
 - [LucioFex](https://github.com/LucioFex)
 - [Bianca-Machado](https://github.com/Bianca-Machado)
 - [rh4y](https://github.com/rh4y)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [swdreams](https://github.com/swdreams)
 - [ab25cq](https://github.com/ab25cq)
 - [dihak](https://github.com/dihak)
-- [andreyscott](https://github.com/andreyscott)
-- [rescenic](https://github.com/rescenic)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
