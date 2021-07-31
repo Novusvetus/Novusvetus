@@ -47,12 +47,12 @@ _Nobody sponsors me. I am poor..._
 - [aacassandra](https://github.com/aacassandra)
 - [Amoo-Srwsh](https://github.com/Amoo-Srwsh)
 - [Oussama1403](https://github.com/Oussama1403)
-- [manolia](https://github.com/manolia)
 - [jsreputation](https://github.com/jsreputation)
 - [DSB88](https://github.com/DSB88)
 - [pinhe91](https://github.com/pinhe91)
 - [Bianca-Machado](https://github.com/Bianca-Machado)
 - [rh4y](https://github.com/rh4y)
+- [danielmuthama](https://github.com/danielmuthama)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
