@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [artkirienko](https://github.com/artkirienko)
+- [Pleiterson](https://github.com/Pleiterson)
 - [scalarwaves](https://github.com/scalarwaves)
 - [LucioFex](https://github.com/LucioFex)
 - [kxkx5150](https://github.com/kxkx5150)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [iamrajee](https://github.com/iamrajee)
 - [aacassandra](https://github.com/aacassandra)
 - [Amoo-Srwsh](https://github.com/Amoo-Srwsh)
-- [Oussama1403](https://github.com/Oussama1403)
-- [DSB88](https://github.com/DSB88)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
