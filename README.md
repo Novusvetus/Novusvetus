@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [moj361](https://github.com/moj361)
+- [ilkerhalil](https://github.com/ilkerhalil)
 - [iamrajee](https://github.com/iamrajee)
 - [aacassandra](https://github.com/aacassandra)
 - [Amoo-Srwsh](https://github.com/Amoo-Srwsh)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [DSB88](https://github.com/DSB88)
 - [pinhe91](https://github.com/pinhe91)
 - [Bianca-Machado](https://github.com/Bianca-Machado)
-- [rh4y](https://github.com/rh4y)
-- [danielmuthama](https://github.com/danielmuthama)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
