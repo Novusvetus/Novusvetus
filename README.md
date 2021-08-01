@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [danieljennin74](https://github.com/danieljennin74)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [nouraellm](https://github.com/nouraellm)
 - [CXK-53](https://github.com/CXK-53)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [PlumpMath](https://github.com/PlumpMath)
 - [nehitha15107](https://github.com/nehitha15107)
 - [lanastasov](https://github.com/lanastasov)
-- [matheusgarrido](https://github.com/matheusgarrido)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
