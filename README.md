@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [choonghyunryu](https://github.com/choonghyunryu)
+- [CalebCheptumo](https://github.com/CalebCheptumo)
 - [kxkx5150](https://github.com/kxkx5150)
 - [PlumpMath](https://github.com/PlumpMath)
 - [nehitha15107](https://github.com/nehitha15107)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [artkirienko](https://github.com/artkirienko)
 - [Pleiterson](https://github.com/Pleiterson)
 - [scalarwaves](https://github.com/scalarwaves)
-- [LucioFex](https://github.com/LucioFex)
-- [moj361](https://github.com/moj361)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
