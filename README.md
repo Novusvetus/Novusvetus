@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kxkx5150](https://github.com/kxkx5150)
 - [donPabloNow](https://github.com/donPabloNow)
 - [jazflynn](https://github.com/jazflynn)
 - [cyplx](https://github.com/cyplx)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [danieljennin74](https://github.com/danieljennin74)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [nouraellm](https://github.com/nouraellm)
-- [CXK-53](https://github.com/CXK-53)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
