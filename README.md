@@ -43,6 +43,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [yasutakatou](https://github.com/yasutakatou)
+- [08Z](https://github.com/08Z)
+- [chrdek](https://github.com/chrdek)
 - [goandreus](https://github.com/goandreus)
 - [kxkx5150](https://github.com/kxkx5150)
 - [donPabloNow](https://github.com/donPabloNow)
@@ -50,9 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [cyplx](https://github.com/cyplx)
 - [dphov](https://github.com/dphov)
 - [valera-rozuvan](https://github.com/valera-rozuvan)
-- [loftwah](https://github.com/loftwah)
-- [danieljennin74](https://github.com/danieljennin74)
-- [WilliamMajanja](https://github.com/WilliamMajanja)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
