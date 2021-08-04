@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jcanjosjr](https://github.com/jcanjosjr)
 - [yasutakatou](https://github.com/yasutakatou)
 - [08Z](https://github.com/08Z)
 - [chrdek](https://github.com/chrdek)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [jazflynn](https://github.com/jazflynn)
 - [cyplx](https://github.com/cyplx)
 - [dphov](https://github.com/dphov)
-- [valera-rozuvan](https://github.com/valera-rozuvan)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
