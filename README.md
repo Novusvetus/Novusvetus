@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kxkx5150](https://github.com/kxkx5150)
+- [GiuZambot](https://github.com/GiuZambot)
 - [cambusa](https://github.com/cambusa)
 - [AlvaroIsrael](https://github.com/AlvaroIsrael)
 - [jcanjosjr](https://github.com/jcanjosjr)
@@ -50,9 +52,7 @@ _Nobody sponsors me. I am poor..._
 - [08Z](https://github.com/08Z)
 - [chrdek](https://github.com/chrdek)
 - [goandreus](https://github.com/goandreus)
-- [kxkx5150](https://github.com/kxkx5150)
 - [donPabloNow](https://github.com/donPabloNow)
-- [jazflynn](https://github.com/jazflynn)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
