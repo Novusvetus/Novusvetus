@@ -49,10 +49,10 @@ _Nobody sponsors me. I am poor..._
 - [GiuZambot](https://github.com/GiuZambot)
 - [cambusa](https://github.com/cambusa)
 - [AlvaroIsrael](https://github.com/AlvaroIsrael)
-- [jcanjosjr](https://github.com/jcanjosjr)
 - [yasutakatou](https://github.com/yasutakatou)
 - [08Z](https://github.com/08Z)
 - [chrdek](https://github.com/chrdek)
+- [goandreus](https://github.com/goandreus)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
