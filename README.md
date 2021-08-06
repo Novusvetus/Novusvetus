@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [elitwilliams](https://github.com/elitwilliams)
+- [thezedwards](https://github.com/thezedwards)
 - [toomastahves](https://github.com/toomastahves)
 - [XuQingGen](https://github.com/XuQingGen)
 - [meehawk](https://github.com/meehawk)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [cambusa](https://github.com/cambusa)
 - [AlvaroIsrael](https://github.com/AlvaroIsrael)
 - [yasutakatou](https://github.com/yasutakatou)
-- [08Z](https://github.com/08Z)
-- [chrdek](https://github.com/chrdek)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
