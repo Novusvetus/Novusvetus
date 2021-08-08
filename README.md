@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Senpai-10](https://github.com/Senpai-10)
 - [m4rktnOfficiel](https://github.com/m4rktnOfficiel)
 - [fazaltech](https://github.com/fazaltech)
 - [mxmnk](https://github.com/mxmnk)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [thezedwards](https://github.com/thezedwards)
 - [toomastahves](https://github.com/toomastahves)
 - [XuQingGen](https://github.com/XuQingGen)
-- [meehawk](https://github.com/meehawk)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
