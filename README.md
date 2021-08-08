@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [fazaltech](https://github.com/fazaltech)
 - [mxmnk](https://github.com/mxmnk)
 - [ClaudiaJKang](https://github.com/ClaudiaJKang)
 - [mhopfner](https://github.com/mhopfner)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [XuQingGen](https://github.com/XuQingGen)
 - [meehawk](https://github.com/meehawk)
 - [kxkx5150](https://github.com/kxkx5150)
-- [GiuZambot](https://github.com/GiuZambot)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
