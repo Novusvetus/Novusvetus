@@ -43,16 +43,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mitchan0321](https://github.com/mitchan0321)
+- [maykonmichel](https://github.com/maykonmichel)
 - [Senpai-10](https://github.com/Senpai-10)
-- [m4rktnOfficiel](https://github.com/m4rktnOfficiel)
+- [www-root](https://github.com/www-root)
 - [fazaltech](https://github.com/fazaltech)
 - [mxmnk](https://github.com/mxmnk)
 - [ClaudiaJKang](https://github.com/ClaudiaJKang)
 - [mhopfner](https://github.com/mhopfner)
 - [elitwilliams](https://github.com/elitwilliams)
 - [thezedwards](https://github.com/thezedwards)
-- [toomastahves](https://github.com/toomastahves)
-- [XuQingGen](https://github.com/XuQingGen)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
