@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [acen20](https://github.com/acen20)
 - [mwt](https://github.com/mwt)
 - [mitchan0321](https://github.com/mitchan0321)
 - [maykonmichel](https://github.com/maykonmichel)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [mxmnk](https://github.com/mxmnk)
 - [ClaudiaJKang](https://github.com/ClaudiaJKang)
 - [mhopfner](https://github.com/mhopfner)
-- [elitwilliams](https://github.com/elitwilliams)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
