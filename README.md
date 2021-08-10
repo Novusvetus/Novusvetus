@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hurutta](https://github.com/hurutta)
 - [vjanz](https://github.com/vjanz)
 - [alaamimi](https://github.com/alaamimi)
 - [devSahinur](https://github.com/devSahinur)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [dahaupt](https://github.com/dahaupt)
 - [acen20](https://github.com/acen20)
 - [mwt](https://github.com/mwt)
-- [mitchan0321](https://github.com/mitchan0321)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
