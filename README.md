@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lykmapipo](https://github.com/lykmapipo)
 - [cain2](https://github.com/cain2)
 - [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
 - [emojistacks](https://github.com/emojistacks)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [alaamimi](https://github.com/alaamimi)
 - [devSahinur](https://github.com/devSahinur)
 - [kenjinote](https://github.com/kenjinote)
-- [aawezk786](https://github.com/aawezk786)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
