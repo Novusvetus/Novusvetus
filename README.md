@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
 - [emojistacks](https://github.com/emojistacks)
 - [LucioFex](https://github.com/LucioFex)
 - [hurutta](https://github.com/hurutta)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [kenjinote](https://github.com/kenjinote)
 - [aawezk786](https://github.com/aawezk786)
 - [kxkx5150](https://github.com/kxkx5150)
-- [dahaupt](https://github.com/dahaupt)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
