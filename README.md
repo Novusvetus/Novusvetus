@@ -51,8 +51,8 @@ _Nobody sponsors me. I am poor..._
 - [emojistacks](https://github.com/emojistacks)
 - [LucioFex](https://github.com/LucioFex)
 - [hurutta](https://github.com/hurutta)
-- [vjanz](https://github.com/vjanz)
 - [alaamimi](https://github.com/alaamimi)
+- [devSahinur](https://github.com/devSahinur)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
