@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [devSahinur](https://github.com/devSahinur)
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [vjanz](https://github.com/vjanz)
 - [m3yevn](https://github.com/m3yevn)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [cain2](https://github.com/cain2)
 - [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
 - [emojistacks](https://github.com/emojistacks)
-- [LucioFex](https://github.com/LucioFex)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
