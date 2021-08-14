@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [7k5x](https://github.com/7k5x)
 - [barrelofsnakes](https://github.com/barrelofsnakes)
 - [devSahinur](https://github.com/devSahinur)
 - [yekoroglu27](https://github.com/yekoroglu27)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [VictorLira-DEV](https://github.com/VictorLira-DEV)
 - [lykmapipo](https://github.com/lykmapipo)
 - [cain2](https://github.com/cain2)
-- [Programmer-RD-AI](https://github.com/Programmer-RD-AI)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
