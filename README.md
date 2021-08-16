@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AthosFB](https://github.com/AthosFB)
 - [markwylde](https://github.com/markwylde)
 - [hurutta](https://github.com/hurutta)
 - [WysockiD](https://github.com/WysockiD)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [vjanz](https://github.com/vjanz)
 - [m3yevn](https://github.com/m3yevn)
-- [chrmc](https://github.com/chrmc)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
