@@ -48,11 +48,11 @@ _Nobody sponsors me. I am poor..._
 - [CloudSandboxAnalysisApp](https://github.com/CloudSandboxAnalysisApp)
 - [kxkx5150](https://github.com/kxkx5150)
 - [7k5x](https://github.com/7k5x)
-- [barrelofsnakes](https://github.com/barrelofsnakes)
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [vjanz](https://github.com/vjanz)
 - [m3yevn](https://github.com/m3yevn)
 - [chrmc](https://github.com/chrmc)
+- [VictorLira-DEV](https://github.com/VictorLira-DEV)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
