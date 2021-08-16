@@ -43,10 +43,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [WysockiD](https://github.com/WysockiD)
 - [AthosFB](https://github.com/AthosFB)
 - [markwylde](https://github.com/markwylde)
 - [hurutta](https://github.com/hurutta)
-- [WysockiD](https://github.com/WysockiD)
 - [devSahinur](https://github.com/devSahinur)
 - [CloudSandboxAnalysisApp](https://github.com/CloudSandboxAnalysisApp)
 - [kxkx5150](https://github.com/kxkx5150)
