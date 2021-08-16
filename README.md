@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hurutta](https://github.com/hurutta)
 - [WysockiD](https://github.com/WysockiD)
 - [devSahinur](https://github.com/devSahinur)
 - [CloudSandboxAnalysisApp](https://github.com/CloudSandboxAnalysisApp)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [m3yevn](https://github.com/m3yevn)
 - [chrmc](https://github.com/chrmc)
 - [VictorLira-DEV](https://github.com/VictorLira-DEV)
-- [lykmapipo](https://github.com/lykmapipo)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
