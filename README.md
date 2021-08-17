@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [arnaldotecadm](https://github.com/arnaldotecadm)
+- [akuudenlo12](https://github.com/akuudenlo12)
 - [annadi12](https://github.com/annadi12)
 - [maudalio](https://github.com/maudalio)
 - [nnadepoi](https://github.com/nnadepoi)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [markwylde](https://github.com/markwylde)
 - [hurutta](https://github.com/hurutta)
 - [devSahinur](https://github.com/devSahinur)
-- [CloudSandboxAnalysisApp](https://github.com/CloudSandboxAnalysisApp)
-- [kxkx5150](https://github.com/kxkx5150)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
