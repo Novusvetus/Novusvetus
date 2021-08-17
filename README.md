@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [devSahinur](https://github.com/devSahinur)
 - [Aldiyu](https://github.com/Aldiyu)
 - [allpasoto](https://github.com/allpasoto)
 - [vjanz](https://github.com/vjanz)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [nnadepoi](https://github.com/nnadepoi)
 - [WysockiD](https://github.com/WysockiD)
 - [AthosFB](https://github.com/AthosFB)
-- [markwylde](https://github.com/markwylde)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
