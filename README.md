@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hacker8853](https://github.com/hacker8853)
 - [SIavSuperstar](https://github.com/SIavSuperstar)
 - [Marvirlo](https://github.com/Marvirlo)
 - [devSahinur](https://github.com/devSahinur)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [WysockiD](https://github.com/WysockiD)
 - [AthosFB](https://github.com/AthosFB)
 - [markwylde](https://github.com/markwylde)
-- [hurutta](https://github.com/hurutta)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
