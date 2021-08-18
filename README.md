@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [zendy199x](https://github.com/zendy199x)
+- [Jesubannaerp](https://github.com/Jesubannaerp)
 - [Baramesi](https://github.com/Baramesi)
 - [hacker8853](https://github.com/hacker8853)
 - [SIavSuperstar](https://github.com/SIavSuperstar)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [allpasoto](https://github.com/allpasoto)
 - [vjanz](https://github.com/vjanz)
 - [arnaldotecadm](https://github.com/arnaldotecadm)
-- [WysockiD](https://github.com/WysockiD)
-- [AthosFB](https://github.com/AthosFB)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
