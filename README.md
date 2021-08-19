@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ajauntor](https://github.com/ajauntor)
 - [Rickitlo](https://github.com/Rickitlo)
 - [tjennt](https://github.com/tjennt)
 - [kxkx5150](https://github.com/kxkx5150)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Baramesi](https://github.com/Baramesi)
 - [hacker8853](https://github.com/hacker8853)
 - [SIavSuperstar](https://github.com/SIavSuperstar)
-- [devSahinur](https://github.com/devSahinur)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
