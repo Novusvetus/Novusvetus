@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ulisesvina](https://github.com/ulisesvina)
 - [noahbroyles](https://github.com/noahbroyles)
 - [kkaori146](https://github.com/kkaori146)
 - [Mikla210420](https://github.com/Mikla210420)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Rickitlo](https://github.com/Rickitlo)
 - [tjennt](https://github.com/tjennt)
 - [kxkx5150](https://github.com/kxkx5150)
-- [Gusinion](https://github.com/Gusinion)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
