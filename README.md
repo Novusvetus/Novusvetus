@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Mikla210420](https://github.com/Mikla210420)
+- [MeghnaS21](https://github.com/MeghnaS21)
 - [vjanz](https://github.com/vjanz)
 - [ajauntor](https://github.com/ajauntor)
 - [Rickitlo](https://github.com/Rickitlo)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Gusinion](https://github.com/Gusinion)
 - [zendy199x](https://github.com/zendy199x)
 - [Jesubannaerp](https://github.com/Jesubannaerp)
-- [Baramesi](https://github.com/Baramesi)
-- [hacker8853](https://github.com/hacker8853)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
