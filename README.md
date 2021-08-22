@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Hadi-bakhshi](https://github.com/Hadi-bakhshi)
+- [AmandaBacchi](https://github.com/AmandaBacchi)
 - [Sreedeepta](https://github.com/Sreedeepta)
 - [esin](https://github.com/esin)
 - [wuufeii](https://github.com/wuufeii)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [descholar-ceo](https://github.com/descholar-ceo)
 - [Anvi98](https://github.com/Anvi98)
-- [ulisesvina](https://github.com/ulisesvina)
-- [noahbroyles](https://github.com/noahbroyles)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
