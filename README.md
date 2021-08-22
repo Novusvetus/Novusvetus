@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ifycode](https://github.com/Ifycode)
+- [the-one-who-knoccks](https://github.com/the-one-who-knoccks)
 - [japoewn](https://github.com/japoewn)
 - [Hadi-bakhshi](https://github.com/Hadi-bakhshi)
 - [AmandaBacchi](https://github.com/AmandaBacchi)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [wuufeii](https://github.com/wuufeii)
 - [ExTTT](https://github.com/ExTTT)
 - [jonassyon](https://github.com/jonassyon)
-- [Nikolas-as](https://github.com/Nikolas-as)
-- [descholar-ceo](https://github.com/descholar-ceo)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
