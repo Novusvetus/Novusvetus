@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ExTTT](https://github.com/ExTTT)
 - [jonassyon](https://github.com/jonassyon)
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [descholar-ceo](https://github.com/descholar-ceo)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [kkaori146](https://github.com/kkaori146)
 - [Mikla210420](https://github.com/Mikla210420)
 - [MeghnaS21](https://github.com/MeghnaS21)
-- [vjanz](https://github.com/vjanz)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
