@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [esin](https://github.com/esin)
+- [wuufeii](https://github.com/wuufeii)
 - [ExTTT](https://github.com/ExTTT)
 - [jonassyon](https://github.com/jonassyon)
 - [Nikolas-as](https://github.com/Nikolas-as)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [ulisesvina](https://github.com/ulisesvina)
 - [noahbroyles](https://github.com/noahbroyles)
 - [kkaori146](https://github.com/kkaori146)
-- [Mikla210420](https://github.com/Mikla210420)
-- [MeghnaS21](https://github.com/MeghnaS21)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
