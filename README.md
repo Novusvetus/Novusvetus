@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [T-R-T](https://github.com/T-R-T)
 - [Cooperator0419](https://github.com/Cooperator0419)
 - [Ifycode](https://github.com/Ifycode)
 - [the-one-who-knoccks](https://github.com/the-one-who-knoccks)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Sreedeepta](https://github.com/Sreedeepta)
 - [esin](https://github.com/esin)
 - [wuufeii](https://github.com/wuufeii)
-- [ExTTT](https://github.com/ExTTT)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
