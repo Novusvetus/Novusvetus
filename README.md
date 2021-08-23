@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Topdev0104](https://github.com/Topdev0104)
 - [Irindare](https://github.com/Irindare)
 - [T-R-T](https://github.com/T-R-T)
 - [Cooperator0419](https://github.com/Cooperator0419)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Hadi-bakhshi](https://github.com/Hadi-bakhshi)
 - [AmandaBacchi](https://github.com/AmandaBacchi)
 - [Sreedeepta](https://github.com/Sreedeepta)
-- [esin](https://github.com/esin)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
