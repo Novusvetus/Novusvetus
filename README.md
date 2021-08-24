@@ -50,7 +50,7 @@ _Nobody sponsors me. I am poor..._
 - [Topdev0104](https://github.com/Topdev0104)
 - [Irindare](https://github.com/Irindare)
 - [T-R-T](https://github.com/T-R-T)
-- [Cooperator0419](https://github.com/Cooperator0419)
+- [Forever78419](https://github.com/Forever78419)
 - [Ifycode](https://github.com/Ifycode)
 - [the-one-who-knoccks](https://github.com/the-one-who-knoccks)
 
