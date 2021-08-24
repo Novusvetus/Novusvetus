@@ -47,12 +47,12 @@ _Nobody sponsors me. I am poor..._
 - [cherucole](https://github.com/cherucole)
 - [Mamaspam](https://github.com/Mamaspam)
 - [rescenic](https://github.com/rescenic)
-- [Torbet](https://github.com/Torbet)
 - [RuntimeTerror418](https://github.com/RuntimeTerror418)
 - [MahmoudEsmail404](https://github.com/MahmoudEsmail404)
 - [Topdev0104](https://github.com/Topdev0104)
 - [Irindare](https://github.com/Irindare)
 - [T-hun](https://github.com/T-hun)
+- [Forever78419](https://github.com/Forever78419)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
