@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rescenic](https://github.com/rescenic)
 - [Torbet](https://github.com/Torbet)
 - [RuntimeTerror418](https://github.com/RuntimeTerror418)
 - [MahmoudEsmail404](https://github.com/MahmoudEsmail404)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [T-R-T](https://github.com/T-R-T)
 - [Forever78419](https://github.com/Forever78419)
 - [Ifycode](https://github.com/Ifycode)
-- [the-one-who-knoccks](https://github.com/the-one-who-knoccks)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
