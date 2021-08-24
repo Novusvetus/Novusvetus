@@ -43,6 +43,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Torbet](https://github.com/Torbet)
+- [Ibukiyoshidaa](https://github.com/Ibukiyoshidaa)
 - [anakaoil](https://github.com/anakaoil)
 - [cherucole](https://github.com/cherucole)
 - [Mamaspam](https://github.com/Mamaspam)
@@ -51,8 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [MahmoudEsmail404](https://github.com/MahmoudEsmail404)
 - [Topdev0104](https://github.com/Topdev0104)
 - [Irindare](https://github.com/Irindare)
-- [T-hun](https://github.com/T-hun)
-- [Forever78419](https://github.com/Forever78419)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
