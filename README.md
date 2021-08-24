@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Mamaspam](https://github.com/Mamaspam)
 - [rescenic](https://github.com/rescenic)
 - [Torbet](https://github.com/Torbet)
 - [RuntimeTerror418](https://github.com/RuntimeTerror418)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Irindare](https://github.com/Irindare)
 - [T-hun](https://github.com/T-hun)
 - [Forever78419](https://github.com/Forever78419)
-- [Ifycode](https://github.com/Ifycode)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
