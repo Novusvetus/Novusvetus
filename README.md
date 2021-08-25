@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ELPanaJose](https://github.com/ELPanaJose)
 - [ajauntor](https://github.com/ajauntor)
 - [websmartdream](https://github.com/websmartdream)
 - [vjanz](https://github.com/vjanz)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Ibukiyoshidaa](https://github.com/Ibukiyoshidaa)
 - [anakaoil](https://github.com/anakaoil)
 - [cherucole](https://github.com/cherucole)
-- [Mamaspam](https://github.com/Mamaspam)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
