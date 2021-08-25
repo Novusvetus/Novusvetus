@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DGKSK8LIFE](https://github.com/DGKSK8LIFE)
 - [robertolima-dev](https://github.com/robertolima-dev)
 - [Torbet](https://github.com/Torbet)
 - [Ibukiyoshidaa](https://github.com/Ibukiyoshidaa)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [rescenic](https://github.com/rescenic)
 - [RuntimeTerror418](https://github.com/RuntimeTerror418)
 - [MahmoudEsmail404](https://github.com/MahmoudEsmail404)
-- [Topdev0104](https://github.com/Topdev0104)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
