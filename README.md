@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nafasebra](https://github.com/nafasebra)
 - [websmartdream](https://github.com/websmartdream)
 - [vjanz](https://github.com/vjanz)
 - [DGKSK8LIFE](https://github.com/DGKSK8LIFE)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [anakaoil](https://github.com/anakaoil)
 - [cherucole](https://github.com/cherucole)
 - [Mamaspam](https://github.com/Mamaspam)
-- [rescenic](https://github.com/rescenic)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
