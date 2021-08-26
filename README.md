@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hnrs](https://github.com/hnrs)
 - [devSahinur](https://github.com/devSahinur)
 - [nafasebra](https://github.com/nafasebra)
 - [websmartdream](https://github.com/websmartdream)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [Torbet](https://github.com/Torbet)
 - [Ibukiyoshidaa](https://github.com/Ibukiyoshidaa)
 - [anakaoil](https://github.com/anakaoil)
-- [cherucole](https://github.com/cherucole)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
