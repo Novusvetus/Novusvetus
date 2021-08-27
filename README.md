@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LucioFex](https://github.com/LucioFex)
 - [wuufeii](https://github.com/wuufeii)
 - [lazarnarcis](https://github.com/lazarnarcis)
 - [hnrs](https://github.com/hnrs)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [vjanz](https://github.com/vjanz)
 - [DGKSK8LIFE](https://github.com/DGKSK8LIFE)
 - [robertolima-dev](https://github.com/robertolima-dev)
-- [Torbet](https://github.com/Torbet)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
