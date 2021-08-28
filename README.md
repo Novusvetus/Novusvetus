@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
 - [aeristhy](https://github.com/aeristhy)
 - [T-hun](https://github.com/T-hun)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [hnrs](https://github.com/hnrs)
 - [nafasebra](https://github.com/nafasebra)
 - [websmartdream](https://github.com/websmartdream)
-- [vjanz](https://github.com/vjanz)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
