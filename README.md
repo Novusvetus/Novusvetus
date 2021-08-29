@@ -43,6 +43,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [alexnogueirasilva](https://github.com/alexnogueirasilva)
+- [devSahinur](https://github.com/devSahinur)
+- [davidlotfi](https://github.com/davidlotfi)
 - [tugnt](https://github.com/tugnt)
 - [lyushher](https://github.com/lyushher)
 - [airtonlimajr](https://github.com/airtonlimajr)
@@ -50,9 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [leovincentseles](https://github.com/leovincentseles)
 - [mig1023](https://github.com/mig1023)
 - [cxml2](https://github.com/cxml2)
-- [XuQingGen](https://github.com/XuQingGen)
-- [Ifycode](https://github.com/Ifycode)
-- [CleuJunior](https://github.com/CleuJunior)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
