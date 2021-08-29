@@ -43,6 +43,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [metekaya](https://github.com/metekaya)
 - [suchismita004](https://github.com/suchismita004)
 - [Dang-The-Vuong](https://github.com/Dang-The-Vuong)
 - [PatoGordo](https://github.com/PatoGordo)
@@ -52,7 +53,6 @@ _Nobody sponsors me. I am poor..._
 - [tugnt](https://github.com/tugnt)
 - [lyushher](https://github.com/lyushher)
 - [airtonlimajr](https://github.com/airtonlimajr)
-- [tymsai](https://github.com/tymsai)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
