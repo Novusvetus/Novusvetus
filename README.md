@@ -8,6 +8,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - (WIP) GitHub PHP_CodeSniffer action
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
@@ -17,6 +18,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🐣 My latest projects
 
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - (WIP) GitHub PHP_CodeSniffer action
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
@@ -43,6 +45,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jmparlett](https://github.com/jmparlett)
+- [AcaiBerii](https://github.com/AcaiBerii)
+- [Leonardo-Burtet](https://github.com/Leonardo-Burtet)
 - [lucasamorimd](https://github.com/lucasamorimd)
 - [Aditthdyt](https://github.com/Aditthdyt)
 - [INNOVASE](https://github.com/INNOVASE)
@@ -50,9 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [suchismita004](https://github.com/suchismita004)
 - [Dang-The-Vuong](https://github.com/Dang-The-Vuong)
 - [PatoGordo](https://github.com/PatoGordo)
-- [alexnogueirasilva](https://github.com/alexnogueirasilva)
-- [devSahinur](https://github.com/devSahinur)
-- [davidlotfi](https://github.com/davidlotfi)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
