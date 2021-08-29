@@ -45,6 +45,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vjanz](https://github.com/vjanz)
+- [zakarialaoui10](https://github.com/zakarialaoui10)
 - [jmparlett](https://github.com/jmparlett)
 - [AcaiBerii](https://github.com/AcaiBerii)
 - [Leonardo-Burtet](https://github.com/Leonardo-Burtet)
@@ -53,8 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [INNOVASE](https://github.com/INNOVASE)
 - [metekaya](https://github.com/metekaya)
 - [suchismita004](https://github.com/suchismita004)
-- [Dang-The-Vuong](https://github.com/Dang-The-Vuong)
-- [PatoGordo](https://github.com/PatoGordo)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
