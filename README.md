@@ -45,6 +45,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [YousifAbozid](https://github.com/YousifAbozid)
 - [CleuJunior](https://github.com/CleuJunior)
 - [YuiM](https://github.com/YuiM)
 - [Fernando-Rodrigo](https://github.com/Fernando-Rodrigo)
@@ -54,7 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [Chenhongmei789](https://github.com/Chenhongmei789)
 - [pinhe91](https://github.com/pinhe91)
 - [R-K-H](https://github.com/R-K-H)
-- [tymsai](https://github.com/tymsai)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
