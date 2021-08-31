@@ -45,6 +45,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [YuiM](https://github.com/YuiM)
 - [Fernando-Rodrigo](https://github.com/Fernando-Rodrigo)
 - [DomeSy](https://github.com/DomeSy)
 - [Motirck](https://github.com/Motirck)
@@ -54,7 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [R-K-H](https://github.com/R-K-H)
 - [tymsai](https://github.com/tymsai)
 - [vjanz](https://github.com/vjanz)
-- [zakarialaoui10](https://github.com/zakarialaoui10)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
