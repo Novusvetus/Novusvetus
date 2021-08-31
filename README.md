@@ -45,6 +45,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ibukiyoshidaa](https://github.com/ibukiyoshidaa)
 - [eduoliverdev](https://github.com/eduoliverdev)
 - [YousifAbozid](https://github.com/YousifAbozid)
 - [CleuJunior](https://github.com/CleuJunior)
@@ -54,7 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [Motirck](https://github.com/Motirck)
 - [Horlawhumy-dev](https://github.com/Horlawhumy-dev)
 - [Chenhongmei789](https://github.com/Chenhongmei789)
-- [pinhe91](https://github.com/pinhe91)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
