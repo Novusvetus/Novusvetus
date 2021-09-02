@@ -45,6 +45,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vjanz](https://github.com/vjanz)
 - [Boarhlina](https://github.com/Boarhlina)
 - [kkaori146](https://github.com/kkaori146)
 - [VictorLira-DEV](https://github.com/VictorLira-DEV)
@@ -54,7 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [eduoliverdev](https://github.com/eduoliverdev)
 - [YousifAbozid](https://github.com/YousifAbozid)
 - [CleuJunior](https://github.com/CleuJunior)
-- [YuiM](https://github.com/YuiM)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
