@@ -45,6 +45,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Gabrielcsg19](https://github.com/Gabrielcsg19)
 - [imene-swaan](https://github.com/imene-swaan)
 - [vjanz](https://github.com/vjanz)
 - [Boarhlina](https://github.com/Boarhlina)
@@ -54,7 +55,6 @@ _Nobody sponsors me. I am poor..._
 - [tymsai](https://github.com/tymsai)
 - [ibukiyoshidaa](https://github.com/ibukiyoshidaa)
 - [eduoliverdev](https://github.com/eduoliverdev)
-- [YousifAbozid](https://github.com/YousifAbozid)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
