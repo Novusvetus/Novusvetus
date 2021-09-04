@@ -46,11 +46,11 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kkaori146](https://github.com/kkaori146)
 - [Gabrielcsg19](https://github.com/Gabrielcsg19)
 - [imene-swaan](https://github.com/imene-swaan)
 - [vjanz](https://github.com/vjanz)
 - [Boarhlina](https://github.com/Boarhlina)
-- [kkaori146](https://github.com/kkaori146)
 - [VictorLira-DEV](https://github.com/VictorLira-DEV)
 - [fdeniz07](https://github.com/fdeniz07)
 - [tymsai](https://github.com/tymsai)
