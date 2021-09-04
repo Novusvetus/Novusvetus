@@ -53,9 +53,9 @@ _Nobody sponsors me. I am poor..._
 - [kkaori146](https://github.com/kkaori146)
 - [Gabrielcsg19](https://github.com/Gabrielcsg19)
 - [imene-swaan](https://github.com/imene-swaan)
-- [vjanz](https://github.com/vjanz)
 - [Boarhlina](https://github.com/Boarhlina)
 - [VictorLira-DEV](https://github.com/VictorLira-DEV)
+- [fdeniz07](https://github.com/fdeniz07)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
