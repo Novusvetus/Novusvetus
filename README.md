@@ -46,7 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [nekospara](https://github.com/nekospara)
+- [uhIgnacio](https://github.com/uhIgnacio)
 - [vjanz](https://github.com/vjanz)
 - [kylesu2738](https://github.com/kylesu2738)
 - [CleuJunior](https://github.com/CleuJunior)
