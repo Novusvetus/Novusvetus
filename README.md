@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kylesu2738](https://github.com/kylesu2738)
 - [CleuJunior](https://github.com/CleuJunior)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [imene-swaan](https://github.com/imene-swaan)
 - [Boarhlina](https://github.com/Boarhlina)
 - [VictorLira-DEV](https://github.com/VictorLira-DEV)
-- [fdeniz07](https://github.com/fdeniz07)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
