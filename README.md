@@ -46,11 +46,11 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vjanz](https://github.com/vjanz)
 - [saivron](https://github.com/saivron)
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [uhIgnacio](https://github.com/uhIgnacio)
-- [vjanz](https://github.com/vjanz)
 - [kylesu2738](https://github.com/kylesu2738)
 - [CleuJunior](https://github.com/CleuJunior)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
