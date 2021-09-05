@@ -46,6 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kxkx5150](https://github.com/kxkx5150)
+- [Nikolas-as](https://github.com/Nikolas-as)
 - [uhIgnacio](https://github.com/uhIgnacio)
 - [vjanz](https://github.com/vjanz)
 - [kylesu2738](https://github.com/kylesu2738)
@@ -54,8 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [NishaJoshi666](https://github.com/NishaJoshi666)
 - [lyushher](https://github.com/lyushher)
 - [kkaori146](https://github.com/kkaori146)
-- [Gabrielcsg19](https://github.com/Gabrielcsg19)
-- [imene-swaan](https://github.com/imene-swaan)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
