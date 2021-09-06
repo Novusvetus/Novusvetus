@@ -46,8 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [kkaori146](https://github.com/kkaori146)
 - [vjanz](https://github.com/vjanz)
+- [kkaori146](https://github.com/kkaori146)
 - [saivron](https://github.com/saivron)
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
