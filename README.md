@@ -48,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 
 - [XuQingGen](https://github.com/XuQingGen)
 - [AstroidDev](https://github.com/AstroidDev)
-- [Teejayx6](https://github.com/Teejayx6)
 - [ilymonkey](https://github.com/ilymonkey)
 - [vjanz](https://github.com/vjanz)
 - [kkaori146](https://github.com/kkaori146)
@@ -56,6 +55,7 @@ _Nobody sponsors me. I am poor..._
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [uhIgnacio](https://github.com/uhIgnacio)
 - [CleuJunior](https://github.com/CleuJunior)
+- [BestSilverTiger](https://github.com/BestSilverTiger)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
