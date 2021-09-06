@@ -46,6 +46,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AstroidDev](https://github.com/AstroidDev)
+- [Teejayx6](https://github.com/Teejayx6)
+- [ilymonkey](https://github.com/ilymonkey)
 - [vjanz](https://github.com/vjanz)
 - [kkaori146](https://github.com/kkaori146)
 - [saivron](https://github.com/saivron)
@@ -53,9 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [uhIgnacio](https://github.com/uhIgnacio)
 - [CleuJunior](https://github.com/CleuJunior)
-- [BestSilverTiger](https://github.com/BestSilverTiger)
-- [NishaJoshi666](https://github.com/NishaJoshi666)
-- [lyushher](https://github.com/lyushher)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
