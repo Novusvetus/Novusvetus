@@ -54,8 +54,8 @@ _Nobody sponsors me. I am poor..._
 - [kkaori146](https://github.com/kkaori146)
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
-- [uhIgnacio](https://github.com/uhIgnacio)
 - [CleuJunior](https://github.com/CleuJunior)
+- [BestSilverTiger](https://github.com/BestSilverTiger)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
