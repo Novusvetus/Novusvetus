@@ -46,8 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [vjanz](https://github.com/vjanz)
 - [kkaori146](https://github.com/kkaori146)
+- [vjanz](https://github.com/vjanz)
 - [Daoud-Hussain](https://github.com/Daoud-Hussain)
 - [menatwork-dev](https://github.com/menatwork-dev)
 - [XuQingGen](https://github.com/XuQingGen)
