@@ -46,11 +46,11 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Daoud-Hussain](https://github.com/Daoud-Hussain)
 - [menatwork-dev](https://github.com/menatwork-dev)
 - [kkaori146](https://github.com/kkaori146)
 - [XuQingGen](https://github.com/XuQingGen)
 - [ilymonkey](https://github.com/ilymonkey)
-- [vjanz](https://github.com/vjanz)
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [CleuJunior](https://github.com/CleuJunior)
