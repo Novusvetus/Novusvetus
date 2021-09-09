@@ -46,7 +46,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [saivron](https://github.com/saivron)
 - [menatwork-dev](https://github.com/menatwork-dev)
 - [kkaori146](https://github.com/kkaori146)
 - [XuQingGen](https://github.com/XuQingGen)
@@ -56,6 +55,7 @@ _Nobody sponsors me. I am poor..._
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [CleuJunior](https://github.com/CleuJunior)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
+- [NishaJoshi666](https://github.com/NishaJoshi666)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
