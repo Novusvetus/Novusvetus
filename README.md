@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Fredsandoval](https://github.com/Fredsandoval)
 - [4nalog](https://github.com/4nalog)
 - [Videamorales](https://github.com/Videamorales)
 - [arihant-jain-09](https://github.com/arihant-jain-09)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [vjanz](https://github.com/vjanz)
 - [Daoud-Hussain](https://github.com/Daoud-Hussain)
 - [menatwork-dev](https://github.com/menatwork-dev)
-- [XuQingGen](https://github.com/XuQingGen)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
