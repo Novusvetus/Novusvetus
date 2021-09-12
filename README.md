@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ClizaElibel](https://github.com/ClizaElibel)
 - [MitsukiGoto](https://github.com/MitsukiGoto)
 - [tomast1337](https://github.com/tomast1337)
 - [Fredsandoval](https://github.com/Fredsandoval)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [fathimanaaz](https://github.com/fathimanaaz)
 - [kauer3](https://github.com/kauer3)
 - [kkaori146](https://github.com/kkaori146)
-- [vjanz](https://github.com/vjanz)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
