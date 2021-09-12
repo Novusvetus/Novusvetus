@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [MitsukiGoto](https://github.com/MitsukiGoto)
 - [tomast1337](https://github.com/tomast1337)
 - [Fredsandoval](https://github.com/Fredsandoval)
 - [4nalog](https://github.com/4nalog)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [kauer3](https://github.com/kauer3)
 - [kkaori146](https://github.com/kkaori146)
 - [vjanz](https://github.com/vjanz)
-- [menatwork-dev](https://github.com/menatwork-dev)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
