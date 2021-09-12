@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kkaori146](https://github.com/kkaori146)
 - [CleuJunior](https://github.com/CleuJunior)
 - [ijagjeet](https://github.com/ijagjeet)
 - [nahidmbstu](https://github.com/nahidmbstu)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [MitsukiGoto](https://github.com/MitsukiGoto)
 - [tomast1337](https://github.com/tomast1337)
 - [Fredsandoval](https://github.com/Fredsandoval)
-- [4nalog](https://github.com/4nalog)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
