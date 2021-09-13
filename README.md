@@ -46,12 +46,12 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kkaori146](https://github.com/kkaori146)
 - [vjanz](https://github.com/vjanz)
 - [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 - [PatoGordo](https://github.com/PatoGordo)
-- [kkaori146](https://github.com/kkaori146)
 - [CleuJunior](https://github.com/CleuJunior)
 - [ijagjeet](https://github.com/ijagjeet)
 - [nahidmbstu](https://github.com/nahidmbstu)
