@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 - [PatoGordo](https://github.com/PatoGordo)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [nahidmbstu](https://github.com/nahidmbstu)
 - [mwickerson](https://github.com/mwickerson)
 - [Eloparto](https://github.com/Eloparto)
-- [ClizaElibel](https://github.com/ClizaElibel)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
