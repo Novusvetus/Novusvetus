@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Dingtolk](https://github.com/Dingtolk)
 - [donPabloNow](https://github.com/donPabloNow)
 - [CleuJunior](https://github.com/CleuJunior)
 - [javonn13](https://github.com/javonn13)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
-- [PatoGordo](https://github.com/PatoGordo)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
