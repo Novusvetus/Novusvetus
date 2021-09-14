@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Cristianelvh](https://github.com/Cristianelvh)
 - [maxamin](https://github.com/maxamin)
 - [Orochikimo](https://github.com/Orochikimo)
 - [Dingtolk](https://github.com/Dingtolk)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Pawarravipooja](https://github.com/Pawarravipooja)
 - [kkaori146](https://github.com/kkaori146)
 - [vjanz](https://github.com/vjanz)
-- [richiesuper](https://github.com/richiesuper)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
