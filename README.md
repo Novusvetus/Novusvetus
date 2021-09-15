@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Jondelet](https://github.com/Jondelet)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
 - [Salesd1](https://github.com/Salesd1)
 - [TheodoreAI](https://github.com/TheodoreAI)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Cristianelvh](https://github.com/Cristianelvh)
 - [maxamin](https://github.com/maxamin)
 - [Orochikimo](https://github.com/Orochikimo)
-- [Dingtolk](https://github.com/Dingtolk)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
