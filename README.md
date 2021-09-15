@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LeonardoMancilha](https://github.com/LeonardoMancilha)
 - [AranTom](https://github.com/AranTom)
 - [Ifycode](https://github.com/Ifycode)
 - [Jondelet](https://github.com/Jondelet)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [kkaori146](https://github.com/kkaori146)
 - [Cristianelvh](https://github.com/Cristianelvh)
-- [maxamin](https://github.com/maxamin)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
