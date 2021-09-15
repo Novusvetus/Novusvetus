@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TheodoreAI](https://github.com/TheodoreAI)
 - [w6t](https://github.com/w6t)
 - [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [kkaori146](https://github.com/kkaori146)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Dingtolk](https://github.com/Dingtolk)
 - [donPabloNow](https://github.com/donPabloNow)
 - [CleuJunior](https://github.com/CleuJunior)
-- [javonn13](https://github.com/javonn13)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
