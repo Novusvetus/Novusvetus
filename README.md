@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cherucole](https://github.com/cherucole)
 - [kerenRava](https://github.com/kerenRava)
 - [Bhuvany](https://github.com/Bhuvany)
 - [Pitasar](https://github.com/Pitasar)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Ifycode](https://github.com/Ifycode)
 - [Jondelet](https://github.com/Jondelet)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
-- [Salesd1](https://github.com/Salesd1)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
