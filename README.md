@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vjanz](https://github.com/vjanz)
 - [Zinberland](https://github.com/Zinberland)
 - [webpointdev](https://github.com/webpointdev)
 - [3UR](https://github.com/3UR)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [kerenRava](https://github.com/kerenRava)
 - [Bhuvany](https://github.com/Bhuvany)
 - [Pitasar](https://github.com/Pitasar)
-- [SingularisArt](https://github.com/SingularisArt)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
