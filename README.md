@@ -46,8 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [CleuJunior](https://github.com/CleuJunior)
 - [kkaori146](https://github.com/kkaori146)
+- [CleuJunior](https://github.com/CleuJunior)
 - [cherucole](https://github.com/cherucole)
 - [kerenRava](https://github.com/kerenRava)
 - [Bhuvany](https://github.com/Bhuvany)
