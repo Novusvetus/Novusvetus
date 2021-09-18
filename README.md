@@ -46,6 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Galielo-App](https://github.com/Galielo-App)
+- [kkaori146](https://github.com/kkaori146)
 - [donPabloNow](https://github.com/donPabloNow)
 - [winner108](https://github.com/winner108)
 - [vmthread](https://github.com/vmthread)
@@ -54,8 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [yakhyo04](https://github.com/yakhyo04)
 - [plaam](https://github.com/plaam)
 - [Ifycode](https://github.com/Ifycode)
-- [gabrieldim](https://github.com/gabrieldim)
-- [Respor](https://github.com/Respor)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
