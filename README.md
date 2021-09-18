@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vmthread](https://github.com/vmthread)
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
 - [Hoana1995](https://github.com/Hoana1995)
 - [yakhyo04](https://github.com/yakhyo04)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Respor](https://github.com/Respor)
 - [CleuJunior](https://github.com/CleuJunior)
 - [vjanz](https://github.com/vjanz)
-- [Zinberland](https://github.com/Zinberland)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
