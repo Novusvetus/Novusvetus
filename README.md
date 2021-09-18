@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ifycode](https://github.com/Ifycode)
 - [gabrieldim](https://github.com/gabrieldim)
 - [Respor](https://github.com/Respor)
 - [CleuJunior](https://github.com/CleuJunior)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [3UR](https://github.com/3UR)
 - [kkaori146](https://github.com/kkaori146)
 - [cherucole](https://github.com/cherucole)
-- [kerenRava](https://github.com/kerenRava)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
