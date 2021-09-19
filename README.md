@@ -46,16 +46,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [IceDev528](https://github.com/IceDev528)
+- [anna-lores](https://github.com/anna-lores)
+- [Demencun](https://github.com/Demencun)
+- [claudemartines](https://github.com/claudemartines)
 - [C8359Frank](https://github.com/C8359Frank)
 - [Mangapro](https://github.com/Mangapro)
 - [Spepoi](https://github.com/Spepoi)
 - [Marleede](https://github.com/Marleede)
 - [fawzirjili](https://github.com/fawzirjili)
 - [Galielo-App](https://github.com/Galielo-App)
-- [kkaori146](https://github.com/kkaori146)
-- [donPabloNow](https://github.com/donPabloNow)
-- [winner108](https://github.com/winner108)
-- [vmthread](https://github.com/vmthread)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
