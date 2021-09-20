@@ -46,6 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AcierP](https://github.com/AcierP)
+- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [aash-gates](https://github.com/aash-gates)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
@@ -54,8 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [IceDev528](https://github.com/IceDev528)
 - [anna-lores](https://github.com/anna-lores)
 - [Demencun](https://github.com/Demencun)
-- [claudemartines](https://github.com/claudemartines)
-- [C8359Frank](https://github.com/C8359Frank)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
