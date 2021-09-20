@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [Ifycode](https://github.com/Ifycode)
 - [Catell](https://github.com/Catell)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [claudemartines](https://github.com/claudemartines)
 - [C8359Frank](https://github.com/C8359Frank)
 - [Mangapro](https://github.com/Mangapro)
-- [Spepoi](https://github.com/Spepoi)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
