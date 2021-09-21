@@ -46,6 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vamper424](https://github.com/vamper424)
+- [dewitt4](https://github.com/dewitt4)
 - [anitatabaczka](https://github.com/anitatabaczka)
 - [Murilona](https://github.com/Murilona)
 - [AcierP](https://github.com/AcierP)
@@ -54,8 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [Ifycode](https://github.com/Ifycode)
-- [Catell](https://github.com/Catell)
-- [IceDev528](https://github.com/IceDev528)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
