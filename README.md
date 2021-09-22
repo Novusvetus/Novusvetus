@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Daoud-Hussain](https://github.com/Daoud-Hussain)
 - [Valpiol](https://github.com/Valpiol)
 - [Williaming2](https://github.com/Williaming2)
 - [AmirhoseinHesami](https://github.com/AmirhoseinHesami)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [fabiolealsc](https://github.com/fabiolealsc)
 - [Atul-Kumar-Official](https://github.com/Atul-Kumar-Official)
 - [jaydip1235](https://github.com/jaydip1235)
-- [viniciuspatzer](https://github.com/viniciuspatzer)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
