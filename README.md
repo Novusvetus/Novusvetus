@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [coder7290](https://github.com/coder7290)
 - [Kushal334](https://github.com/Kushal334)
 - [MeIzSaiPranav](https://github.com/MeIzSaiPranav)
 - [Daoud-Hussain](https://github.com/Daoud-Hussain)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [meehawk](https://github.com/meehawk)
 - [SanDovar1996](https://github.com/SanDovar1996)
 - [Guiequilen](https://github.com/Guiequilen)
-- [fabiolealsc](https://github.com/fabiolealsc)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
