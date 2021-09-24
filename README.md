@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Fannytim](https://github.com/Fannytim)
 - [leeevin97](https://github.com/leeevin97)
 - [Catellani55](https://github.com/Catellani55)
 - [coder7290](https://github.com/coder7290)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Williaming2](https://github.com/Williaming2)
 - [AmirhoseinHesami](https://github.com/AmirhoseinHesami)
 - [meehawk](https://github.com/meehawk)
-- [SanDovar1996](https://github.com/SanDovar1996)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
