@@ -28,7 +28,12 @@ jobs:
       - uses: actions/upload-artifact@v1
         with:
           name: README.md
-          path: '*.md'
+          path: README.md
+
+      - uses: actions/upload-artifact@v1
+        with:
+          name: Followers.md
+          path: Followers.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
