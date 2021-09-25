@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Idanref](https://github.com/Idanref)
 - [ridhomr](https://github.com/ridhomr)
 - [lyushher](https://github.com/lyushher)
 - [Fannytim](https://github.com/Fannytim)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [Kushal334](https://github.com/Kushal334)
 - [MeIzSaiPranav](https://github.com/MeIzSaiPranav)
 - [Valpiol](https://github.com/Valpiol)
-- [Williaming2](https://github.com/Williaming2)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
