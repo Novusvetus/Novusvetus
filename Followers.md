@@ -1,4 +1,5 @@
 
+- [ridhomr](https://github.com/ridhomr)
 - [lyushher](https://github.com/lyushher)
 - [Fannytim](https://github.com/Fannytim)
 - [leeevin97](https://github.com/leeevin97)
@@ -98,4 +99,3 @@
 - [YuiM](https://github.com/YuiM)
 - [Fernando-Rodrigo](https://github.com/Fernando-Rodrigo)
 - [DomeSy](https://github.com/DomeSy)
-- [Motirck](https://github.com/Motirck)
