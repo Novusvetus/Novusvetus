@@ -54,8 +54,8 @@ _Nobody sponsors me. I am poor..._
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [mariabarkouzou](https://github.com/mariabarkouzou)
 - [gylidian](https://github.com/gylidian)
-- [mrNobody95](https://github.com/mrNobody95)
 - [peter279k](https://github.com/peter279k)
+- [fbiego](https://github.com/fbiego)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
