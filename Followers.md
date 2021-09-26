@@ -33,7 +33,6 @@
 - [anitatabaczka](https://github.com/anitatabaczka)
 - [Murilona](https://github.com/Murilona)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [aash-gates](https://github.com/aash-gates)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [Ifycode](https://github.com/Ifycode)
@@ -99,3 +98,4 @@
 - [ilymonkey](https://github.com/ilymonkey)
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
+- [BestSilverTiger](https://github.com/BestSilverTiger)
