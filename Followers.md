@@ -57,7 +57,6 @@
 - [yakhyo04](https://github.com/yakhyo04)
 - [plaam](https://github.com/plaam)
 - [Respor](https://github.com/Respor)
-- [vjanz](https://github.com/vjanz)
 - [Zinberland](https://github.com/Zinberland)
 - [webpointdev](https://github.com/webpointdev)
 - [cherucole](https://github.com/cherucole)
@@ -99,3 +98,4 @@
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
+- [Gabrielcsg19](https://github.com/Gabrielcsg19)
