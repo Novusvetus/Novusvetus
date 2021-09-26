@@ -1,4 +1,8 @@
 
+- [gylidian](https://github.com/gylidian)
+- [mrNobody95](https://github.com/mrNobody95)
+- [peter279k](https://github.com/peter279k)
+- [fbiego](https://github.com/fbiego)
 - [Idanref](https://github.com/Idanref)
 - [ridhomr](https://github.com/ridhomr)
 - [lyushher](https://github.com/lyushher)
@@ -95,7 +99,3 @@
 - [Boarhlina](https://github.com/Boarhlina)
 - [fdeniz07](https://github.com/fdeniz07)
 - [tymsai](https://github.com/tymsai)
-- [ibukiyoshidaa](https://github.com/ibukiyoshidaa)
-- [YousifAbozid](https://github.com/YousifAbozid)
-- [YuiM](https://github.com/YuiM)
-- [Fernando-Rodrigo](https://github.com/Fernando-Rodrigo)
