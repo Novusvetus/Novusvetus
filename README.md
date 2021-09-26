@@ -46,6 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wtfsystems](https://github.com/wtfsystems)
+- [caiodev](https://github.com/caiodev)
 - [benjdiasaad](https://github.com/benjdiasaad)
 - [Mohammadbill](https://github.com/Mohammadbill)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
@@ -54,8 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [mrNobody95](https://github.com/mrNobody95)
 - [peter279k](https://github.com/peter279k)
 - [fbiego](https://github.com/fbiego)
-- [Idanref](https://github.com/Idanref)
-- [ridhomr](https://github.com/ridhomr)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
