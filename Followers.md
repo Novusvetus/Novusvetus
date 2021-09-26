@@ -1,4 +1,5 @@
 
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [mariabarkouzou](https://github.com/mariabarkouzou)
 - [gylidian](https://github.com/gylidian)
 - [mrNobody95](https://github.com/mrNobody95)
@@ -98,4 +99,3 @@
 - [Gabrielcsg19](https://github.com/Gabrielcsg19)
 - [imene-swaan](https://github.com/imene-swaan)
 - [Boarhlina](https://github.com/Boarhlina)
-- [fdeniz07](https://github.com/fdeniz07)

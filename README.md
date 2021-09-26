@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [mariabarkouzou](https://github.com/mariabarkouzou)
 - [gylidian](https://github.com/gylidian)
 - [mrNobody95](https://github.com/mrNobody95)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [ridhomr](https://github.com/ridhomr)
 - [lyushher](https://github.com/lyushher)
 - [Fannytim](https://github.com/Fannytim)
-- [leeevin97](https://github.com/leeevin97)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
