@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [aash-gates](https://github.com/aash-gates)
 - [wtfsystems](https://github.com/wtfsystems)
 - [caiodev](https://github.com/caiodev)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [mariabarkouzou](https://github.com/mariabarkouzou)
 - [gylidian](https://github.com/gylidian)
 - [peter279k](https://github.com/peter279k)
-- [fbiego](https://github.com/fbiego)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.

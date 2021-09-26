@@ -1,4 +1,5 @@
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [aash-gates](https://github.com/aash-gates)
 - [wtfsystems](https://github.com/wtfsystems)
 - [caiodev](https://github.com/caiodev)
@@ -98,4 +99,3 @@
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
-- [Gabrielcsg19](https://github.com/Gabrielcsg19)
