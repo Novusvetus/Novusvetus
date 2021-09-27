@@ -63,7 +63,6 @@
 - [kerenRava](https://github.com/kerenRava)
 - [Bhuvany](https://github.com/Bhuvany)
 - [Pitasar](https://github.com/Pitasar)
-- [SingularisArt](https://github.com/SingularisArt)
 - [LeonardoMancilha](https://github.com/LeonardoMancilha)
 - [AranTom](https://github.com/AranTom)
 - [Jondelet](https://github.com/Jondelet)
@@ -99,3 +98,4 @@
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
 - [Gabrielcsg19](https://github.com/Gabrielcsg19)
+- [imene-swaan](https://github.com/imene-swaan)
