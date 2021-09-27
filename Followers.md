@@ -11,7 +11,6 @@
 - [gylidian](https://github.com/gylidian)
 - [peter279k](https://github.com/peter279k)
 - [fbiego](https://github.com/fbiego)
-- [Idanref](https://github.com/Idanref)
 - [ridhomr](https://github.com/ridhomr)
 - [lyushher](https://github.com/lyushher)
 - [Fannytim](https://github.com/Fannytim)
@@ -99,3 +98,4 @@
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
 - [Gabrielcsg19](https://github.com/Gabrielcsg19)
+- [imene-swaan](https://github.com/imene-swaan)
