@@ -1,4 +1,6 @@
 
+- [ksenginew](https://github.com/ksenginew)
+- [seosigoto](https://github.com/seosigoto)
 - [WhiteSymmetry](https://github.com/WhiteSymmetry)
 - [Eugene0920](https://github.com/Eugene0920)
 - [CleuJunior](https://github.com/CleuJunior)
@@ -97,5 +99,3 @@
 - [kxkx5150](https://github.com/kxkx5150)
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
-- [Gabrielcsg19](https://github.com/Gabrielcsg19)
-- [imene-swaan](https://github.com/imene-swaan)
