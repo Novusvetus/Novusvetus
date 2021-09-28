@@ -17,7 +17,6 @@
 - [Fannytim](https://github.com/Fannytim)
 - [leeevin97](https://github.com/leeevin97)
 - [Catellani55](https://github.com/Catellani55)
-- [coder7290](https://github.com/coder7290)
 - [Kushal334](https://github.com/Kushal334)
 - [MeIzSaiPranav](https://github.com/MeIzSaiPranav)
 - [Valpiol](https://github.com/Valpiol)
@@ -99,3 +98,4 @@
 - [Nikolas-as](https://github.com/Nikolas-as)
 - [BestSilverTiger](https://github.com/BestSilverTiger)
 - [Gabrielcsg19](https://github.com/Gabrielcsg19)
+- [imene-swaan](https://github.com/imene-swaan)
