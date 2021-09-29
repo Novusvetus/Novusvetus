@@ -46,6 +46,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
+- [Laguis](https://github.com/Laguis)
 - [PatchDevel](https://github.com/PatchDevel)
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
@@ -54,8 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [mwt](https://github.com/mwt)
 - [Mammy22](https://github.com/Mammy22)
 - [ksenginew](https://github.com/ksenginew)
-- [WhiteSymmetry](https://github.com/WhiteSymmetry)
-- [Eugene0920](https://github.com/Eugene0920)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
