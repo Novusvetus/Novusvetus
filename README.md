@@ -46,16 +46,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [PatchDevel](https://github.com/PatchDevel)
+- [seosigoto](https://github.com/seosigoto)
+- [shakiliitju](https://github.com/shakiliitju)
 - [yalegama](https://github.com/yalegama)
 - [coolerwind](https://github.com/coolerwind)
 - [mwt](https://github.com/mwt)
 - [Mammy22](https://github.com/Mammy22)
 - [ksenginew](https://github.com/ksenginew)
-- [seosigoto](https://github.com/seosigoto)
 - [WhiteSymmetry](https://github.com/WhiteSymmetry)
 - [Eugene0920](https://github.com/Eugene0920)
-- [CleuJunior](https://github.com/CleuJunior)
-- [aash-gates](https://github.com/aash-gates)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
