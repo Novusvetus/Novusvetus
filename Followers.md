@@ -64,7 +64,6 @@
 - [vmthread](https://github.com/vmthread)
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
 - [Hoana1995](https://github.com/Hoana1995)
-- [yakhyo04](https://github.com/yakhyo04)
 - [plaam](https://github.com/plaam)
 - [Respor](https://github.com/Respor)
 - [Zinberland](https://github.com/Zinberland)
@@ -99,3 +98,4 @@
 - [Fredsandoval](https://github.com/Fredsandoval)
 - [4nalog](https://github.com/4nalog)
 - [Videamorales](https://github.com/Videamorales)
+- [arihant-jain-09](https://github.com/arihant-jain-09)
