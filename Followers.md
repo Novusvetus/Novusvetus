@@ -1,4 +1,5 @@
 
+- [Carlosdavil](https://github.com/Carlosdavil)
 - [Mortizno](https://github.com/Mortizno)
 - [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
 - [Laguis](https://github.com/Laguis)
@@ -98,4 +99,3 @@
 - [tomast1337](https://github.com/tomast1337)
 - [Fredsandoval](https://github.com/Fredsandoval)
 - [4nalog](https://github.com/4nalog)
-- [Videamorales](https://github.com/Videamorales)
