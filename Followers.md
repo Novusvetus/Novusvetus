@@ -82,6 +82,7 @@
 - [TheodoreAI](https://github.com/TheodoreAI)
 - [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [Cristianelvh](https://github.com/Cristianelvh)
+- [maxamin](https://github.com/maxamin)
 - [Orochikimo](https://github.com/Orochikimo)
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
@@ -98,4 +99,3 @@
 - [MitsukiGoto](https://github.com/MitsukiGoto)
 - [tomast1337](https://github.com/tomast1337)
 - [Fredsandoval](https://github.com/Fredsandoval)
-- [4nalog](https://github.com/4nalog)
