@@ -1,4 +1,5 @@
 
+- [Bayturfan](https://github.com/Bayturfan)
 - [Digambarkh](https://github.com/Digambarkh)
 - [Alexterri](https://github.com/Alexterri)
 - [Merlinmata](https://github.com/Merlinmata)
@@ -98,4 +99,3 @@
 - [mwickerson](https://github.com/mwickerson)
 - [Eloparto](https://github.com/Eloparto)
 - [ClizaElibel](https://github.com/ClizaElibel)
-- [MitsukiGoto](https://github.com/MitsukiGoto)
