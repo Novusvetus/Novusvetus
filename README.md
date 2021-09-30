@@ -30,10 +30,13 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🗜 Latest releases I've contributed to
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.0.0](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.0.0) - GitHub PHP_CodeSniffer action
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.1.0](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.1.0) - GitHub PHP_CodeSniffer action
 
 #### 🛠 Latest Pull Requests I published
 
+- [Better ReadMe.](https://github.com/Novusvetus/action-php_codesniffer/pull/42) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
+- [Improved version of the git diffs](https://github.com/Novusvetus/action-php_codesniffer/pull/41) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
+- [Packages updated to higher versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/40) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [New name and fixed phpcs call](https://github.com/Novusvetus/action-php_codesniffer/pull/39) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Introducing the new structure.](https://github.com/Novusvetus/action-php_codesniffer/pull/38) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Package updates.](https://github.com/Novusvetus/action-php_codesniffer/pull/9) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
