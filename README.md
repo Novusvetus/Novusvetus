@@ -34,6 +34,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [New name and fixed phpcs call](https://github.com/Novusvetus/action-php_codesniffer/pull/39) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
+- [Introducing the new structure.](https://github.com/Novusvetus/action-php_codesniffer/pull/38) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Package updates.](https://github.com/Novusvetus/action-php_codesniffer/pull/9) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Fixed escaping of insertFormFieldTags](https://github.com/menatwork-ia/contao-efg-bundle/pull/1) on [menatwork-ia/contao-efg-bundle](https://github.com/menatwork-ia/contao-efg-bundle)
 - [Make &#34;vendor/package:resource&#34; available.](https://github.com/axllent/silverstripe-scss/pull/2) on [axllent/silverstripe-scss](https://github.com/axllent/silverstripe-scss)
