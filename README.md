@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Digambarkh](https://github.com/Digambarkh)
 - [Alexterri](https://github.com/Alexterri)
 - [Merlinmata](https://github.com/Merlinmata)
 - [Carlosdavil](https://github.com/Carlosdavil)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [PatchDevel](https://github.com/PatchDevel)
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
-- [yalegama](https://github.com/yalegama)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.

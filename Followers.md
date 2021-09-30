@@ -1,4 +1,5 @@
 
+- [Digambarkh](https://github.com/Digambarkh)
 - [Alexterri](https://github.com/Alexterri)
 - [Merlinmata](https://github.com/Merlinmata)
 - [Carlosdavil](https://github.com/Carlosdavil)
@@ -98,4 +99,3 @@
 - [Eloparto](https://github.com/Eloparto)
 - [ClizaElibel](https://github.com/ClizaElibel)
 - [MitsukiGoto](https://github.com/MitsukiGoto)
-- [tomast1337](https://github.com/tomast1337)
