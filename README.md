@@ -46,6 +46,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Alexterri](https://github.com/Alexterri)
 - [Merlinmata](https://github.com/Merlinmata)
 - [Carlosdavil](https://github.com/Carlosdavil)
 - [Mortizno](https://github.com/Mortizno)
@@ -55,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
 - [yalegama](https://github.com/yalegama)
-- [coolerwind](https://github.com/coolerwind)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
