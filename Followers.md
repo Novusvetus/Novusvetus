@@ -65,7 +65,6 @@
 - [fawzirjili](https://github.com/fawzirjili)
 - [Galielo-App](https://github.com/Galielo-App)
 - [kkaori146](https://github.com/kkaori146)
-- [donPabloNow](https://github.com/donPabloNow)
 - [vmthread](https://github.com/vmthread)
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
 - [Hoana1995](https://github.com/Hoana1995)
@@ -99,3 +98,4 @@
 - [mwickerson](https://github.com/mwickerson)
 - [Eloparto](https://github.com/Eloparto)
 - [ClizaElibel](https://github.com/ClizaElibel)
+- [MitsukiGoto](https://github.com/MitsukiGoto)
