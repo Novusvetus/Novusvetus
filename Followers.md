@@ -1,4 +1,5 @@
 
+- [Ifycode](https://github.com/Ifycode)
 - [Bayturfan](https://github.com/Bayturfan)
 - [Digambarkh](https://github.com/Digambarkh)
 - [Alexterri](https://github.com/Alexterri)
@@ -52,7 +53,6 @@
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [Ifycode](https://github.com/Ifycode)
 - [Catell](https://github.com/Catell)
 - [IceDev528](https://github.com/IceDev528)
 - [anna-lores](https://github.com/anna-lores)

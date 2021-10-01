@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ifycode](https://github.com/Ifycode)
 - [Bayturfan](https://github.com/Bayturfan)
 - [Digambarkh](https://github.com/Digambarkh)
 - [Alexterri](https://github.com/Alexterri)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
 - [Laguis](https://github.com/Laguis)
 - [PatchDevel](https://github.com/PatchDevel)
-- [seosigoto](https://github.com/seosigoto)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
