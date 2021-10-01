@@ -22,7 +22,7 @@ _Nothing here!?_
 
 #### 🗜 Latest releases I've contributed to
 {{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}){{if .Description}} - {{.Description}}{{end}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}){{if .Description}} - {{.Description}}{{end}})
 {{- else}}
 _Really? Nothing?_
 {{- end}}
