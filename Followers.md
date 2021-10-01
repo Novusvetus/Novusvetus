@@ -13,7 +13,6 @@
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
 - [yalegama](https://github.com/yalegama)
-- [coolerwind](https://github.com/coolerwind)
 - [mwt](https://github.com/mwt)
 - [Mammy22](https://github.com/Mammy22)
 - [ksenginew](https://github.com/ksenginew)
@@ -99,3 +98,4 @@
 - [mwickerson](https://github.com/mwickerson)
 - [Eloparto](https://github.com/Eloparto)
 - [ClizaElibel](https://github.com/ClizaElibel)
+- [MitsukiGoto](https://github.com/MitsukiGoto)
