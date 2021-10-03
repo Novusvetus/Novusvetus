@@ -1,4 +1,5 @@
 
+- [Stathis96](https://github.com/Stathis96)
 - [MMahdiZojajiM](https://github.com/MMahdiZojajiM)
 - [Dianacarolinam](https://github.com/Dianacarolinam)
 - [VbSarmi](https://github.com/VbSarmi)
@@ -98,4 +99,3 @@
 - [PatoGordo](https://github.com/PatoGordo)
 - [ijagjeet](https://github.com/ijagjeet)
 - [nahidmbstu](https://github.com/nahidmbstu)
-- [mwickerson](https://github.com/mwickerson)
