@@ -1,4 +1,5 @@
 
+- [RoniKipnis](https://github.com/RoniKipnis)
 - [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
 - [vjanz](https://github.com/vjanz)
@@ -98,4 +99,3 @@
 - [ClizaElibel](https://github.com/ClizaElibel)
 - [MitsukiGoto](https://github.com/MitsukiGoto)
 - [tomast1337](https://github.com/tomast1337)
-- [Fredsandoval](https://github.com/Fredsandoval)

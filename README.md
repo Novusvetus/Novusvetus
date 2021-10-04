@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [RoniKipnis](https://github.com/RoniKipnis)
 - [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
 - [vjanz](https://github.com/vjanz)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [Stathis96](https://github.com/Stathis96)
 - [MMahdiZojajiM](https://github.com/MMahdiZojajiM)
 - [Ifycode](https://github.com/Ifycode)
-- [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
