@@ -19,7 +19,6 @@
 - [PatchDevel](https://github.com/PatchDevel)
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
-- [yalegama](https://github.com/yalegama)
 - [mwt](https://github.com/mwt)
 - [Mammy22](https://github.com/Mammy22)
 - [ksenginew](https://github.com/ksenginew)
@@ -99,3 +98,4 @@
 - [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
+- [PatoGordo](https://github.com/PatoGordo)
