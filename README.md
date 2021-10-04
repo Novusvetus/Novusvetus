@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jmoseka](https://github.com/jmoseka)
 - [coder7290](https://github.com/coder7290)
 - [Eloparto](https://github.com/Eloparto)
 - [Rostrana](https://github.com/Rostrana)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [VbSarmi](https://github.com/VbSarmi)
 - [Silvinaso](https://github.com/Silvinaso)
 - [Ifycode](https://github.com/Ifycode)
-- [Bayturfan](https://github.com/Bayturfan)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.

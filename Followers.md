@@ -1,4 +1,5 @@
 
+- [jmoseka](https://github.com/jmoseka)
 - [coder7290](https://github.com/coder7290)
 - [Eloparto](https://github.com/Eloparto)
 - [Rostrana](https://github.com/Rostrana)
@@ -98,4 +99,3 @@
 - [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
-- [PatoGordo](https://github.com/PatoGordo)
