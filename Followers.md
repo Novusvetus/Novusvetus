@@ -1,4 +1,5 @@
 
+- [Javiviro](https://github.com/Javiviro)
 - [jmoseka](https://github.com/jmoseka)
 - [coder7290](https://github.com/coder7290)
 - [Eloparto](https://github.com/Eloparto)
@@ -98,4 +99,3 @@
 - [Pawarravipooja](https://github.com/Pawarravipooja)
 - [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
-- [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
