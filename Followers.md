@@ -1,4 +1,5 @@
 
+- [vjanz](https://github.com/vjanz)
 - [Javiviro](https://github.com/Javiviro)
 - [jmoseka](https://github.com/jmoseka)
 - [coder7290](https://github.com/coder7290)
@@ -98,4 +99,3 @@
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
 - [richiesuper](https://github.com/richiesuper)
-- [Galetkuno](https://github.com/Galetkuno)
