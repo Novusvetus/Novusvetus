@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [metekaya](https://github.com/metekaya)
 - [vjanz](https://github.com/vjanz)
 - [Javiviro](https://github.com/Javiviro)
 - [jmoseka](https://github.com/jmoseka)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [Stathis96](https://github.com/Stathis96)
 - [MMahdiZojajiM](https://github.com/MMahdiZojajiM)
 - [Dianacarolinam](https://github.com/Dianacarolinam)
-- [VbSarmi](https://github.com/VbSarmi)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.

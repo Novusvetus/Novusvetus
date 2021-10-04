@@ -1,4 +1,5 @@
 
+- [metekaya](https://github.com/metekaya)
 - [vjanz](https://github.com/vjanz)
 - [Javiviro](https://github.com/Javiviro)
 - [jmoseka](https://github.com/jmoseka)
@@ -98,4 +99,3 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
-- [richiesuper](https://github.com/richiesuper)
