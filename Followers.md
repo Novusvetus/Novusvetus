@@ -1,4 +1,5 @@
 
+- [Alejandrmano](https://github.com/Alejandrmano)
 - [kaiseryao](https://github.com/kaiseryao)
 - [aash-gates](https://github.com/aash-gates)
 - [Melendia](https://github.com/Melendia)
@@ -98,4 +99,3 @@
 - [ijagjeet](https://github.com/ijagjeet)
 - [nahidmbstu](https://github.com/nahidmbstu)
 - [mwickerson](https://github.com/mwickerson)
-- [ClizaElibel](https://github.com/ClizaElibel)
