@@ -1,4 +1,6 @@
 
+- [aash-gates](https://github.com/aash-gates)
+- [Melendia](https://github.com/Melendia)
 - [RoniKipnis](https://github.com/RoniKipnis)
 - [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
@@ -19,7 +21,6 @@
 - [WhiteSymmetry](https://github.com/WhiteSymmetry)
 - [Eugene0920](https://github.com/Eugene0920)
 - [CleuJunior](https://github.com/CleuJunior)
-- [aash-gates](https://github.com/aash-gates)
 - [wtfsystems](https://github.com/wtfsystems)
 - [caiodev](https://github.com/caiodev)
 - [benjdiasaad](https://github.com/benjdiasaad)
@@ -98,4 +99,3 @@
 - [mwickerson](https://github.com/mwickerson)
 - [ClizaElibel](https://github.com/ClizaElibel)
 - [MitsukiGoto](https://github.com/MitsukiGoto)
-- [tomast1337](https://github.com/tomast1337)
