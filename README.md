@@ -8,7 +8,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
@@ -18,7 +18,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🐣 My latest projects
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
@@ -30,10 +30,11 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🗜 Latest releases I've contributed to
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.1.0](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.1.0) - GitHub PHP_CodeSniffer action)
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.1.0](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.1.0) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.)
 
 #### 🛠 Latest Pull Requests I published
 
+- [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/48) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Better ReadMe.](https://github.com/Novusvetus/action-php_codesniffer/pull/42) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Improved version of the git diffs](https://github.com/Novusvetus/action-php_codesniffer/pull/41) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Packages updated to higher versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/40) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -43,7 +44,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Fixed escaping of insertFormFieldTags](https://github.com/menatwork-ia/contao-efg-bundle/pull/1) on [menatwork-ia/contao-efg-bundle](https://github.com/menatwork-ia/contao-efg-bundle)
 - [Make &#34;vendor/package:resource&#34; available.](https://github.com/axllent/silverstripe-scss/pull/2) on [axllent/silverstripe-scss](https://github.com/axllent/silverstripe-scss)
 - [Varchar(50) for &#34;Code&#34; is much too short.](https://github.com/silverstripe/silverstripe-framework/pull/4797) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework)
-- [2.4: The filter was reset when you change the page.](https://github.com/silverstripe/silverstripe-framework/pull/57) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
