@@ -1,4 +1,5 @@
 
+- [Nicadva](https://github.com/Nicadva)
 - [Alejandrmano](https://github.com/Alejandrmano)
 - [kaiseryao](https://github.com/kaiseryao)
 - [aash-gates](https://github.com/aash-gates)
@@ -98,4 +99,3 @@
 - [PatoGordo](https://github.com/PatoGordo)
 - [ijagjeet](https://github.com/ijagjeet)
 - [nahidmbstu](https://github.com/nahidmbstu)
-- [mwickerson](https://github.com/mwickerson)
