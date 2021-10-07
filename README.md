@@ -34,6 +34,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Even more dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/53) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/48) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Better ReadMe.](https://github.com/Novusvetus/action-php_codesniffer/pull/42) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Improved version of the git diffs](https://github.com/Novusvetus/action-php_codesniffer/pull/41) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -43,7 +44,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Package updates.](https://github.com/Novusvetus/action-php_codesniffer/pull/9) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Fixed escaping of insertFormFieldTags](https://github.com/menatwork-ia/contao-efg-bundle/pull/1) on [menatwork-ia/contao-efg-bundle](https://github.com/menatwork-ia/contao-efg-bundle)
 - [Make &#34;vendor/package:resource&#34; available.](https://github.com/axllent/silverstripe-scss/pull/2) on [axllent/silverstripe-scss](https://github.com/axllent/silverstripe-scss)
-- [Varchar(50) for &#34;Code&#34; is much too short.](https://github.com/silverstripe/silverstripe-framework/pull/4797) on [silverstripe/silverstripe-framework](https://github.com/silverstripe/silverstripe-framework)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
