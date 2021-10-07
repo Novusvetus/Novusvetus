@@ -1,4 +1,5 @@
 
+- [Jcentent](https://github.com/Jcentent)
 - [Angelgomezl](https://github.com/Angelgomezl)
 - [Nicadva](https://github.com/Nicadva)
 - [Alejandrmano](https://github.com/Alejandrmano)
@@ -98,4 +99,3 @@
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
 - [PatoGordo](https://github.com/PatoGordo)
-- [ijagjeet](https://github.com/ijagjeet)
