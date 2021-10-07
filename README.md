@@ -9,6 +9,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 #### 💻 Check out what I'm currently working on
 
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
@@ -30,10 +31,13 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🗜 Latest releases I've contributed to
 
+- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) ([2.0.0](https://github.com/Novusvetus/ClassHelper/releases/tag/2.0.0) - Some class helper.)
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.1.0](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.1.0) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.)
 
 #### 🛠 Latest Pull Requests I published
 
+- [Better styled README.](https://github.com/Novusvetus/ClassHelper/pull/4) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
+- [New structure](https://github.com/Novusvetus/ClassHelper/pull/3) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Even more dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/53) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/48) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Better ReadMe.](https://github.com/Novusvetus/action-php_codesniffer/pull/42) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -42,8 +46,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [New name and fixed phpcs call](https://github.com/Novusvetus/action-php_codesniffer/pull/39) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Introducing the new structure.](https://github.com/Novusvetus/action-php_codesniffer/pull/38) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Package updates.](https://github.com/Novusvetus/action-php_codesniffer/pull/9) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Fixed escaping of insertFormFieldTags](https://github.com/menatwork-ia/contao-efg-bundle/pull/1) on [menatwork-ia/contao-efg-bundle](https://github.com/menatwork-ia/contao-efg-bundle)
-- [Make &#34;vendor/package:resource&#34; available.](https://github.com/axllent/silverstripe-scss/pull/2) on [axllent/silverstripe-scss](https://github.com/axllent/silverstripe-scss)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
