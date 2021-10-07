@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Angelgomezl](https://github.com/Angelgomezl)
 - [Nicadva](https://github.com/Nicadva)
 - [Alejandrmano](https://github.com/Alejandrmano)
 - [kaiseryao](https://github.com/kaiseryao)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
 - [vjanz](https://github.com/vjanz)
-- [jmoseka](https://github.com/jmoseka)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
