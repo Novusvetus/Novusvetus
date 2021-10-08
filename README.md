@@ -8,6 +8,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
+- [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
@@ -31,11 +32,14 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🗜 Latest releases I've contributed to
 
+- [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) ([2.0.0](https://github.com/Novusvetus/AutoGitIgnore/releases/tag/2.0.0) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.)
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) ([2.0.0](https://github.com/Novusvetus/ClassHelper/releases/tag/2.0.0) - Some class helper.)
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.1.0](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.1.0) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.)
 
 #### 🛠 Latest Pull Requests I published
 
+- [README updated.](https://github.com/Novusvetus/AutoGitIgnore/pull/4) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
+- [Refactor](https://github.com/Novusvetus/AutoGitIgnore/pull/3) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Better styled README.](https://github.com/Novusvetus/ClassHelper/pull/4) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [New structure](https://github.com/Novusvetus/ClassHelper/pull/3) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Even more dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/53) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -44,8 +48,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Improved version of the git diffs](https://github.com/Novusvetus/action-php_codesniffer/pull/41) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Packages updated to higher versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/40) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [New name and fixed phpcs call](https://github.com/Novusvetus/action-php_codesniffer/pull/39) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Introducing the new structure.](https://github.com/Novusvetus/action-php_codesniffer/pull/38) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Package updates.](https://github.com/Novusvetus/action-php_codesniffer/pull/9) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
