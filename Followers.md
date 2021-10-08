@@ -1,4 +1,5 @@
 
+- [daniel0525](https://github.com/daniel0525)
 - [Jcentent](https://github.com/Jcentent)
 - [Angelgomezl](https://github.com/Angelgomezl)
 - [Nicadva](https://github.com/Nicadva)
@@ -98,4 +99,3 @@
 - [richiesuper](https://github.com/richiesuper)
 - [Galetkuno](https://github.com/Galetkuno)
 - [CharlesCreativeContent](https://github.com/CharlesCreativeContent)
-- [PatoGordo](https://github.com/PatoGordo)
