@@ -1,4 +1,5 @@
 
+- [Bhaka](https://github.com/Bhaka)
 - [Scariasa](https://github.com/Scariasa)
 - [BlackScorp](https://github.com/BlackScorp)
 - [daniel0525](https://github.com/daniel0525)
@@ -98,4 +99,3 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
-- [richiesuper](https://github.com/richiesuper)
