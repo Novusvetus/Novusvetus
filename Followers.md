@@ -15,7 +15,6 @@
 - [RoniKipnis](https://github.com/RoniKipnis)
 - [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
-- [vjanz](https://github.com/vjanz)
 - [jmoseka](https://github.com/jmoseka)
 - [coder7290](https://github.com/coder7290)
 - [Eloparto](https://github.com/Eloparto)
@@ -99,3 +98,4 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
+- [richiesuper](https://github.com/richiesuper)
