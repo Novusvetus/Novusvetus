@@ -1,4 +1,5 @@
 
+- [vjanz](https://github.com/vjanz)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
 - [Bhaka](https://github.com/Bhaka)
@@ -98,4 +99,3 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
-- [richiesuper](https://github.com/richiesuper)
