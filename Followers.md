@@ -1,4 +1,5 @@
 
+- [kkaori146](https://github.com/kkaori146)
 - [Bhaka](https://github.com/Bhaka)
 - [Scariasa](https://github.com/Scariasa)
 - [BlackScorp](https://github.com/BlackScorp)
@@ -74,7 +75,6 @@
 - [Marleede](https://github.com/Marleede)
 - [fawzirjili](https://github.com/fawzirjili)
 - [Galielo-App](https://github.com/Galielo-App)
-- [kkaori146](https://github.com/kkaori146)
 - [vmthread](https://github.com/vmthread)
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
 - [Hoana1995](https://github.com/Hoana1995)
