@@ -1,4 +1,5 @@
 
+- [Scariasa](https://github.com/Scariasa)
 - [BlackScorp](https://github.com/BlackScorp)
 - [daniel0525](https://github.com/daniel0525)
 - [Jcentent](https://github.com/Jcentent)
@@ -98,4 +99,3 @@
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
 - [richiesuper](https://github.com/richiesuper)
-- [Galetkuno](https://github.com/Galetkuno)

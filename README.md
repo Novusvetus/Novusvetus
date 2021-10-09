@@ -55,6 +55,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Scariasa](https://github.com/Scariasa)
 - [BlackScorp](https://github.com/BlackScorp)
 - [daniel0525](https://github.com/daniel0525)
 - [Jcentent](https://github.com/Jcentent)
@@ -64,7 +65,6 @@ _Nobody sponsors me. I am poor..._
 - [kaiseryao](https://github.com/kaiseryao)
 - [aash-gates](https://github.com/aash-gates)
 - [Melendia](https://github.com/Melendia)
-- [RoniKipnis](https://github.com/RoniKipnis)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
