@@ -61,7 +61,6 @@
 - [dewitt4](https://github.com/dewitt4)
 - [anitatabaczka](https://github.com/anitatabaczka)
 - [Murilona](https://github.com/Murilona)
-- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [Catell](https://github.com/Catell)
@@ -99,3 +98,4 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
+- [richiesuper](https://github.com/richiesuper)
