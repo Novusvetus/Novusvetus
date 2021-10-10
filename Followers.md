@@ -20,7 +20,7 @@
 - [coder7290](https://github.com/coder7290)
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
-- [MMahdiZojajiM](https://github.com/MMahdiZojajiM)
+- [mahdizojaji](https://github.com/mahdizojaji)
 - [Ifycode](https://github.com/Ifycode)
 - [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
 - [PatchDevel](https://github.com/PatchDevel)
