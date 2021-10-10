@@ -55,6 +55,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [vjanz](https://github.com/vjanz)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
@@ -64,7 +65,6 @@ _Nobody sponsors me. I am poor..._
 - [daniel0525](https://github.com/daniel0525)
 - [Jcentent](https://github.com/Jcentent)
 - [Angelgomezl](https://github.com/Angelgomezl)
-- [Nicadva](https://github.com/Nicadva)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
