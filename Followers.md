@@ -17,7 +17,6 @@
 - [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
 - [jmoseka](https://github.com/jmoseka)
-- [coder7290](https://github.com/coder7290)
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
 - [mahdizojaji](https://github.com/mahdizojaji)
@@ -99,3 +98,4 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
+- [richiesuper](https://github.com/richiesuper)
