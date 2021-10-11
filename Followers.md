@@ -15,7 +15,6 @@
 - [aash-gates](https://github.com/aash-gates)
 - [Melendia](https://github.com/Melendia)
 - [RoniKipnis](https://github.com/RoniKipnis)
-- [coolerwind](https://github.com/coolerwind)
 - [metekaya](https://github.com/metekaya)
 - [jmoseka](https://github.com/jmoseka)
 - [Eloparto](https://github.com/Eloparto)
@@ -99,3 +98,4 @@
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
 - [Pawarravipooja](https://github.com/Pawarravipooja)
+- [richiesuper](https://github.com/richiesuper)
