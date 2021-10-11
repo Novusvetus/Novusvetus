@@ -12,8 +12,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
-- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
+- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - (WIP) Tracking your IntelliJ activity and push it to your own Endpoint.
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
 - [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
@@ -59,12 +59,12 @@ _Nobody sponsors me. I am poor..._
 - [vjanz](https://github.com/vjanz)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
-- [Bhaka](https://github.com/Bhaka)
 - [Scariasa](https://github.com/Scariasa)
 - [BlackScorp](https://github.com/BlackScorp)
 - [daniel0525](https://github.com/daniel0525)
 - [Jcentent](https://github.com/Jcentent)
 - [Angelgomezl](https://github.com/Angelgomezl)
+- [Nicadva](https://github.com/Nicadva)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
