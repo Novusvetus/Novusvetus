@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[he/him]
 Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germany.
 
 * [ReindeerWeb](https://reindeer-web.de) (My own company)
@@ -47,6 +48,12 @@ _Nobody sponsors me. I am poor..._
 {{- else}}
 _I have no friends..._
 {{- end}}
+
+#### 🎢 Stats
+
+![Novusvetus' stats](https://github-readme-stats.vercel.app/api?username=novusvetus&show_icons=true&count_private=true)
+
+![Novusvetus' used languages](https://github-readme-stats.vercel.app/api/top-langs?username=novusvetus&layout=compact)
 
 #### 💬 Feedback
 I look forward to hearing from you if you use one of my projects. Feel free to report bugs or feature requests.
