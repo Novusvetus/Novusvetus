@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [pauleta0126](https://github.com/pauleta0126)
+- [Lucas-HMSC](https://github.com/Lucas-HMSC)
 - [ApiLogik](https://github.com/ApiLogik)
 - [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [vjanz](https://github.com/vjanz)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
-- [kkaori146](https://github.com/kkaori146)
-- [Scariasa](https://github.com/Scariasa)
 
 #### 🎢 Stats
 

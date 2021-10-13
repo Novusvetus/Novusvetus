@@ -1,4 +1,6 @@
 
+- [pauleta0126](https://github.com/pauleta0126)
+- [Lucas-HMSC](https://github.com/Lucas-HMSC)
 - [ApiLogik](https://github.com/ApiLogik)
 - [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
@@ -97,5 +99,3 @@
 - [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
 - [Cristianelvh](https://github.com/Cristianelvh)
 - [maxamin](https://github.com/maxamin)
-- [Orochikimo](https://github.com/Orochikimo)
-- [Dingtolk](https://github.com/Dingtolk)
