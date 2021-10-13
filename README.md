@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [phanatagama](https://github.com/phanatagama)
+- [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
 - [pauleta0126](https://github.com/pauleta0126)
 - [Lucas-HMSC](https://github.com/Lucas-HMSC)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [devdreamsolution](https://github.com/devdreamsolution)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [aash-gates](https://github.com/aash-gates)
-- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [vjanz](https://github.com/vjanz)
 
 #### 🎢 Stats
 

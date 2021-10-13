@@ -1,4 +1,6 @@
 
+- [phanatagama](https://github.com/phanatagama)
+- [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
 - [pauleta0126](https://github.com/pauleta0126)
 - [Lucas-HMSC](https://github.com/Lucas-HMSC)
@@ -97,5 +99,3 @@
 - [NishaJoshi666](https://github.com/NishaJoshi666)
 - [Salesd1](https://github.com/Salesd1)
 - [TheodoreAI](https://github.com/TheodoreAI)
-- [MarwanAlsoltany](https://github.com/MarwanAlsoltany)
-- [Cristianelvh](https://github.com/Cristianelvh)
