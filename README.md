@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ApiLogik](https://github.com/ApiLogik)
 - [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
 - [Scariasa](https://github.com/Scariasa)
-- [BlackScorp](https://github.com/BlackScorp)
 
 #### 🎢 Stats
 
