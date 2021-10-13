@@ -1,4 +1,5 @@
 
+- [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [aash-gates](https://github.com/aash-gates)
@@ -98,4 +99,3 @@
 - [Orochikimo](https://github.com/Orochikimo)
 - [Dingtolk](https://github.com/Dingtolk)
 - [javonn13](https://github.com/javonn13)
-- [Pawarravipooja](https://github.com/Pawarravipooja)

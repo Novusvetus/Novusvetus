@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [aash-gates](https://github.com/aash-gates)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [kkaori146](https://github.com/kkaori146)
 - [Scariasa](https://github.com/Scariasa)
 - [BlackScorp](https://github.com/BlackScorp)
-- [daniel0525](https://github.com/daniel0525)
 
 #### 🎢 Stats
 
