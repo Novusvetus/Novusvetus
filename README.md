@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
 - [shomnathsomu](https://github.com/shomnathsomu)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ApiLogik](https://github.com/ApiLogik)
 - [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
-- [IzaacBaptista](https://github.com/IzaacBaptista)
 
 #### 🎢 Stats
 
