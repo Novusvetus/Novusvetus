@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [IzaacBaptista](https://github.com/IzaacBaptista)
 - [aash-gates](https://github.com/aash-gates)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [vjanz](https://github.com/vjanz)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [BlackScorp](https://github.com/BlackScorp)
 - [daniel0525](https://github.com/daniel0525)
 - [Jcentent](https://github.com/Jcentent)
-- [Angelgomezl](https://github.com/Angelgomezl)
 
 #### 🎢 Stats
 
