@@ -1,4 +1,5 @@
 
+- [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
 - [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
@@ -98,4 +99,3 @@
 - [Jondelet](https://github.com/Jondelet)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
 - [Salesd1](https://github.com/Salesd1)
-- [TheodoreAI](https://github.com/TheodoreAI)

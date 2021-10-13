@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
 - [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [DomeSy](https://github.com/DomeSy)
 - [devdreamsolution](https://github.com/devdreamsolution)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
-- [aash-gates](https://github.com/aash-gates)
 
 #### 🎢 Stats
 
