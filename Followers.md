@@ -12,7 +12,6 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [aash-gates](https://github.com/aash-gates)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [vjanz](https://github.com/vjanz)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
 - [Scariasa](https://github.com/Scariasa)
@@ -99,3 +98,4 @@
 - [AranTom](https://github.com/AranTom)
 - [Jondelet](https://github.com/Jondelet)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
+- [Salesd1](https://github.com/Salesd1)
