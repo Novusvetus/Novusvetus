@@ -27,7 +27,6 @@
 - [Melendia](https://github.com/Melendia)
 - [RoniKipnis](https://github.com/RoniKipnis)
 - [metekaya](https://github.com/metekaya)
-- [jmoseka](https://github.com/jmoseka)
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
 - [mahdizojaji](https://github.com/mahdizojaji)
@@ -99,3 +98,4 @@
 - [LeonardoMancilha](https://github.com/LeonardoMancilha)
 - [AranTom](https://github.com/AranTom)
 - [Jondelet](https://github.com/Jondelet)
+- [NishaJoshi666](https://github.com/NishaJoshi666)
