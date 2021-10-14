@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LucEast](https://github.com/LucEast)
 - [LucioFex](https://github.com/LucioFex)
 - [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [phanatagama](https://github.com/phanatagama)
 - [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
-- [pauleta0126](https://github.com/pauleta0126)
 
 #### 🎢 Stats
 

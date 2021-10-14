@@ -1,4 +1,5 @@
 
+- [LucEast](https://github.com/LucEast)
 - [LucioFex](https://github.com/LucioFex)
 - [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
@@ -98,4 +99,3 @@
 - [Bhuvany](https://github.com/Bhuvany)
 - [Pitasar](https://github.com/Pitasar)
 - [LeonardoMancilha](https://github.com/LeonardoMancilha)
-- [AranTom](https://github.com/AranTom)
