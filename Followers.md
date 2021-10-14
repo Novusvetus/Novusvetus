@@ -1,4 +1,5 @@
 
+- [Lakeil](https://github.com/Lakeil)
 - [vjanz](https://github.com/vjanz)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
@@ -98,4 +99,3 @@
 - [LeonardoMancilha](https://github.com/LeonardoMancilha)
 - [AranTom](https://github.com/AranTom)
 - [Jondelet](https://github.com/Jondelet)
-- [NishaJoshi666](https://github.com/NishaJoshi666)
