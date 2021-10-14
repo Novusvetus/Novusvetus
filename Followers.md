@@ -1,4 +1,5 @@
 
+- [vjanz](https://github.com/vjanz)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
@@ -98,4 +99,3 @@
 - [AranTom](https://github.com/AranTom)
 - [Jondelet](https://github.com/Jondelet)
 - [NishaJoshi666](https://github.com/NishaJoshi666)
-- [Salesd1](https://github.com/Salesd1)
