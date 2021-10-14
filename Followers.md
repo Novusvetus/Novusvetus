@@ -1,4 +1,5 @@
 
+- [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [bhartimeena](https://github.com/bhartimeena)
 - [LucEast](https://github.com/LucEast)
 - [LucioFex](https://github.com/LucioFex)
@@ -98,4 +99,3 @@
 - [cherucole](https://github.com/cherucole)
 - [kerenRava](https://github.com/kerenRava)
 - [Bhuvany](https://github.com/Bhuvany)
-- [Pitasar](https://github.com/Pitasar)
