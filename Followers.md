@@ -1,4 +1,6 @@
 
+- [LucioFex](https://github.com/LucioFex)
+- [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
 - [vjanz](https://github.com/vjanz)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
@@ -97,5 +99,3 @@
 - [Pitasar](https://github.com/Pitasar)
 - [LeonardoMancilha](https://github.com/LeonardoMancilha)
 - [AranTom](https://github.com/AranTom)
-- [Jondelet](https://github.com/Jondelet)
-- [NishaJoshi666](https://github.com/NishaJoshi666)

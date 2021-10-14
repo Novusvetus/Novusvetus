@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LucioFex](https://github.com/LucioFex)
+- [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
 - [vjanz](https://github.com/vjanz)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
 - [pauleta0126](https://github.com/pauleta0126)
-- [Lucas-HMSC](https://github.com/Lucas-HMSC)
-- [ApiLogik](https://github.com/ApiLogik)
 
 #### 🎢 Stats
 
