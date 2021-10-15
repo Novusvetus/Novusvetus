@@ -1,4 +1,5 @@
 
+- [k-takeuchi220](https://github.com/k-takeuchi220)
 - [Alfonsaroi](https://github.com/Alfonsaroi)
 - [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
@@ -98,4 +99,3 @@
 - [cherucole](https://github.com/cherucole)
 - [kerenRava](https://github.com/kerenRava)
 - [Bhuvany](https://github.com/Bhuvany)
-- [Pitasar](https://github.com/Pitasar)

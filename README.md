@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [k-takeuchi220](https://github.com/k-takeuchi220)
 - [Alfonsaroi](https://github.com/Alfonsaroi)
 - [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [bhartimeena](https://github.com/bhartimeena)
 - [LucEast](https://github.com/LucEast)
-- [LucioFex](https://github.com/LucioFex)
 
 #### 🎢 Stats
 
