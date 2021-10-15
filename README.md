@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [romanofficial](https://github.com/romanofficial)
+- [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [LucioFex](https://github.com/LucioFex)
 - [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
-- [vjanz](https://github.com/vjanz)
-- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 
 #### 🎢 Stats
 

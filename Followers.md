@@ -1,4 +1,6 @@
 
+- [romanofficial](https://github.com/romanofficial)
+- [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
@@ -97,5 +99,3 @@
 - [Pitasar](https://github.com/Pitasar)
 - [LeonardoMancilha](https://github.com/LeonardoMancilha)
 - [AranTom](https://github.com/AranTom)
-- [Jondelet](https://github.com/Jondelet)
-- [NishaJoshi666](https://github.com/NishaJoshi666)
