@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [LucEast](https://github.com/LucEast)
 - [LucioFex](https://github.com/LucioFex)
 - [jmoseka](https://github.com/jmoseka)
-- [Lakeil](https://github.com/Lakeil)
 
 #### 🎢 Stats
 
