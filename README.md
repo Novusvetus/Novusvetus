@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [bhartimeena](https://github.com/bhartimeena)
 - [LucEast](https://github.com/LucEast)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [vjanz](https://github.com/vjanz)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
-- [phanatagama](https://github.com/phanatagama)
 
 #### 🎢 Stats
 
