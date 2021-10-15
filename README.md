@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Puma1990](https://github.com/Puma1990)
 - [k-takeuchi220](https://github.com/k-takeuchi220)
 - [Alfonsaroi](https://github.com/Alfonsaroi)
 - [SamroodAli](https://github.com/SamroodAli)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [bhartimeena](https://github.com/bhartimeena)
-- [LucEast](https://github.com/LucEast)
 
 #### 🎢 Stats
 

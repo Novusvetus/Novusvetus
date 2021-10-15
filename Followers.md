@@ -1,4 +1,5 @@
 
+- [Puma1990](https://github.com/Puma1990)
 - [k-takeuchi220](https://github.com/k-takeuchi220)
 - [Alfonsaroi](https://github.com/Alfonsaroi)
 - [SamroodAli](https://github.com/SamroodAli)
@@ -98,4 +99,3 @@
 - [webpointdev](https://github.com/webpointdev)
 - [cherucole](https://github.com/cherucole)
 - [kerenRava](https://github.com/kerenRava)
-- [Bhuvany](https://github.com/Bhuvany)
