@@ -1,4 +1,5 @@
 
+- [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
 - [Mickylo](https://github.com/Mickylo)
 - [Akshay-Vs](https://github.com/Akshay-Vs)
@@ -98,4 +99,3 @@
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
 - [Hoana1995](https://github.com/Hoana1995)
 - [plaam](https://github.com/plaam)
-- [Respor](https://github.com/Respor)
