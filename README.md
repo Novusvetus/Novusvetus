@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Akshay-Vs](https://github.com/Akshay-Vs)
 - [Cycling11](https://github.com/Cycling11)
 - [Puma1990](https://github.com/Puma1990)
 - [k-takeuchi220](https://github.com/k-takeuchi220)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
-- [natanvalimcardoso](https://github.com/natanvalimcardoso)
 
 #### 🎢 Stats
 
