@@ -1,4 +1,5 @@
 
+- [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
 - [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
 - [Mickylo](https://github.com/Mickylo)
@@ -98,4 +99,3 @@
 - [vmthread](https://github.com/vmthread)
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
 - [Hoana1995](https://github.com/Hoana1995)
-- [plaam](https://github.com/plaam)

@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
 - [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
 - [Mickylo](https://github.com/Mickylo)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [k-takeuchi220](https://github.com/k-takeuchi220)
 - [Alfonsaroi](https://github.com/Alfonsaroi)
 - [SamroodAli](https://github.com/SamroodAli)
-- [romanofficial](https://github.com/romanofficial)
 
 #### 🎢 Stats
 
