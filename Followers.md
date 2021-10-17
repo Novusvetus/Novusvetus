@@ -1,4 +1,6 @@
 
+- [Ifycode](https://github.com/Ifycode)
+- [Damariela](https://github.com/Damariela)
 - [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
 - [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
@@ -43,7 +45,6 @@
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
 - [mahdizojaji](https://github.com/mahdizojaji)
-- [Ifycode](https://github.com/Ifycode)
 - [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
 - [PatchDevel](https://github.com/PatchDevel)
 - [seosigoto](https://github.com/seosigoto)
@@ -98,4 +99,3 @@
 - [Galielo-App](https://github.com/Galielo-App)
 - [vmthread](https://github.com/vmthread)
 - [aayushkumarmishra](https://github.com/aayushkumarmishra)
-- [Hoana1995](https://github.com/Hoana1995)
