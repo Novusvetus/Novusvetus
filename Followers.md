@@ -10,7 +10,6 @@
 - [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
 - [Mickylo](https://github.com/Mickylo)
-- [Akshay-Vs](https://github.com/Akshay-Vs)
 - [Cycling11](https://github.com/Cycling11)
 - [Puma1990](https://github.com/Puma1990)
 - [k-takeuchi220](https://github.com/k-takeuchi220)
@@ -99,3 +98,4 @@
 - [C8359Frank](https://github.com/C8359Frank)
 - [Mangapro](https://github.com/Mangapro)
 - [Spepoi](https://github.com/Spepoi)
+- [Marleede](https://github.com/Marleede)
