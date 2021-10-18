@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Galva21](https://github.com/Galva21)
 - [Chamepp](https://github.com/Chamepp)
 - [rishawsingh](https://github.com/rishawsingh)
 - [Kimberlypad](https://github.com/Kimberlypad)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Ifycode](https://github.com/Ifycode)
 - [Damariela](https://github.com/Damariela)
 - [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
-- [Joshaby](https://github.com/Joshaby)
 
 #### 🎢 Stats
 
