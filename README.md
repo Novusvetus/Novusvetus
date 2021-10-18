@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rishawsingh](https://github.com/rishawsingh)
 - [Kimberlypad](https://github.com/Kimberlypad)
 - [donPabloNow](https://github.com/donPabloNow)
 - [cherucole](https://github.com/cherucole)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
 - [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
-- [Mickylo](https://github.com/Mickylo)
 
 #### 🎢 Stats
 
