@@ -1,4 +1,6 @@
 
+- [Kimberlypad](https://github.com/Kimberlypad)
+- [donPabloNow](https://github.com/donPabloNow)
 - [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
@@ -97,5 +99,3 @@
 - [Mangapro](https://github.com/Mangapro)
 - [Spepoi](https://github.com/Spepoi)
 - [Marleede](https://github.com/Marleede)
-- [fawzirjili](https://github.com/fawzirjili)
-- [Galielo-App](https://github.com/Galielo-App)
