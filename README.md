@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
 - [Damariela](https://github.com/Damariela)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Mickylo](https://github.com/Mickylo)
 - [Akshay-Vs](https://github.com/Akshay-Vs)
 - [Cycling11](https://github.com/Cycling11)
-- [Puma1990](https://github.com/Puma1990)
 
 #### 🎢 Stats
 

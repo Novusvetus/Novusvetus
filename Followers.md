@@ -1,4 +1,5 @@
 
+- [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
 - [Damariela](https://github.com/Damariela)
@@ -98,4 +99,3 @@
 - [Marleede](https://github.com/Marleede)
 - [fawzirjili](https://github.com/fawzirjili)
 - [Galielo-App](https://github.com/Galielo-App)
-- [vmthread](https://github.com/vmthread)
