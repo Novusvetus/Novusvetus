@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
 - [Damariela](https://github.com/Damariela)
 - [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Akshay-Vs](https://github.com/Akshay-Vs)
 - [Cycling11](https://github.com/Cycling11)
 - [Puma1990](https://github.com/Puma1990)
-- [k-takeuchi220](https://github.com/k-takeuchi220)
 
 #### 🎢 Stats
 

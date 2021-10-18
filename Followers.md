@@ -1,4 +1,5 @@
 
+- [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
 - [Damariela](https://github.com/Damariela)
 - [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
@@ -98,4 +99,3 @@
 - [fawzirjili](https://github.com/fawzirjili)
 - [Galielo-App](https://github.com/Galielo-App)
 - [vmthread](https://github.com/vmthread)
-- [aayushkumarmishra](https://github.com/aayushkumarmishra)
