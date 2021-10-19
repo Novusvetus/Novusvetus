@@ -80,7 +80,6 @@
 - [Valpiol](https://github.com/Valpiol)
 - [Williaming2](https://github.com/Williaming2)
 - [AmirhoseinHesami](https://github.com/AmirhoseinHesami)
-- [meehawk](https://github.com/meehawk)
 - [SanDovar1996](https://github.com/SanDovar1996)
 - [Guiequilen](https://github.com/Guiequilen)
 - [fabiolealsc](https://github.com/fabiolealsc)
@@ -99,3 +98,4 @@
 - [Demencun](https://github.com/Demencun)
 - [claudemartines](https://github.com/claudemartines)
 - [C8359Frank](https://github.com/C8359Frank)
+- [Mangapro](https://github.com/Mangapro)
