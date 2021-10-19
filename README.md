@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aash-gates](https://github.com/aash-gates)
 - [suchismita004](https://github.com/suchismita004)
 - [Heisell](https://github.com/Heisell)
 - [Caberrios](https://github.com/Caberrios)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Kimberlypad](https://github.com/Kimberlypad)
 - [donPabloNow](https://github.com/donPabloNow)
 - [cherucole](https://github.com/cherucole)
-- [Salindar9](https://github.com/Salindar9)
 
 #### 🎢 Stats
 
