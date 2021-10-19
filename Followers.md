@@ -1,4 +1,5 @@
 
+- [Caberrios](https://github.com/Caberrios)
 - [Galva21](https://github.com/Galva21)
 - [Chamepp](https://github.com/Chamepp)
 - [rishawsingh](https://github.com/rishawsingh)
@@ -98,4 +99,3 @@
 - [Demencun](https://github.com/Demencun)
 - [claudemartines](https://github.com/claudemartines)
 - [C8359Frank](https://github.com/C8359Frank)
-- [Mangapro](https://github.com/Mangapro)
