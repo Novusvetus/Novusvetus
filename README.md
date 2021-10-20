@@ -64,11 +64,11 @@ _Nobody sponsors me. I am poor..._
 - [Galvezka](https://github.com/Galvezka)
 - [aash-gates](https://github.com/aash-gates)
 - [suchismita004](https://github.com/suchismita004)
-- [Heisell](https://github.com/Heisell)
 - [Caberrios](https://github.com/Caberrios)
 - [Galva21](https://github.com/Galva21)
 - [Chamepp](https://github.com/Chamepp)
 - [rishawsingh](https://github.com/rishawsingh)
+- [Kimberlypad](https://github.com/Kimberlypad)
 
 #### 🎢 Stats
 

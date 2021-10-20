@@ -4,7 +4,6 @@
 - [Galvezka](https://github.com/Galvezka)
 - [aash-gates](https://github.com/aash-gates)
 - [suchismita004](https://github.com/suchismita004)
-- [Heisell](https://github.com/Heisell)
 - [Caberrios](https://github.com/Caberrios)
 - [Galva21](https://github.com/Galva21)
 - [Chamepp](https://github.com/Chamepp)
@@ -99,3 +98,4 @@
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [Catell](https://github.com/Catell)
 - [IceDev528](https://github.com/IceDev528)
+- [anna-lores](https://github.com/anna-lores)
