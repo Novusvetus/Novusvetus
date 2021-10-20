@@ -1,4 +1,5 @@
 
+- [Galvezka](https://github.com/Galvezka)
 - [aash-gates](https://github.com/aash-gates)
 - [suchismita004](https://github.com/suchismita004)
 - [Heisell](https://github.com/Heisell)
@@ -98,4 +99,3 @@
 - [IceDev528](https://github.com/IceDev528)
 - [anna-lores](https://github.com/anna-lores)
 - [Demencun](https://github.com/Demencun)
-- [claudemartines](https://github.com/claudemartines)
