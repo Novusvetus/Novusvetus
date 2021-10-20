@@ -1,4 +1,5 @@
 
+- [lyushher](https://github.com/lyushher)
 - [carlarfranca](https://github.com/carlarfranca)
 - [Dilanma](https://github.com/Dilanma)
 - [Galvezka](https://github.com/Galvezka)
@@ -75,7 +76,6 @@
 - [peter279k](https://github.com/peter279k)
 - [fbiego](https://github.com/fbiego)
 - [ridhomr](https://github.com/ridhomr)
-- [lyushher](https://github.com/lyushher)
 - [Fannytim](https://github.com/Fannytim)
 - [leeevin97](https://github.com/leeevin97)
 - [Catellani55](https://github.com/Catellani55)
