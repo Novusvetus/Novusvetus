@@ -7,7 +7,6 @@
 - [suchismita004](https://github.com/suchismita004)
 - [Caberrios](https://github.com/Caberrios)
 - [Galva21](https://github.com/Galva21)
-- [Chamepp](https://github.com/Chamepp)
 - [rishawsingh](https://github.com/rishawsingh)
 - [Kimberlypad](https://github.com/Kimberlypad)
 - [donPabloNow](https://github.com/donPabloNow)
@@ -99,3 +98,4 @@
 - [Catell](https://github.com/Catell)
 - [IceDev528](https://github.com/IceDev528)
 - [anna-lores](https://github.com/anna-lores)
+- [Demencun](https://github.com/Demencun)
