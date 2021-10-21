@@ -1,4 +1,5 @@
 
+- [Laxime](https://github.com/Laxime)
 - [lyushher](https://github.com/lyushher)
 - [carlarfranca](https://github.com/carlarfranca)
 - [Dilanma](https://github.com/Dilanma)
@@ -98,4 +99,3 @@
 - [Catell](https://github.com/Catell)
 - [IceDev528](https://github.com/IceDev528)
 - [anna-lores](https://github.com/anna-lores)
-- [Demencun](https://github.com/Demencun)
