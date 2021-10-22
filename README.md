@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Manchaco](https://github.com/Manchaco)
 - [ljb1672](https://github.com/ljb1672)
 - [donPabloNow](https://github.com/donPabloNow)
 - [Laxime](https://github.com/Laxime)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Galvezka](https://github.com/Galvezka)
 - [aash-gates](https://github.com/aash-gates)
 - [suchismita004](https://github.com/suchismita004)
-- [Caberrios](https://github.com/Caberrios)
 
 #### 🎢 Stats
 

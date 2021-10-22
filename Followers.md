@@ -1,4 +1,5 @@
 
+- [Manchaco](https://github.com/Manchaco)
 - [ljb1672](https://github.com/ljb1672)
 - [donPabloNow](https://github.com/donPabloNow)
 - [Laxime](https://github.com/Laxime)
@@ -98,4 +99,3 @@
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [Catell](https://github.com/Catell)
-- [IceDev528](https://github.com/IceDev528)
