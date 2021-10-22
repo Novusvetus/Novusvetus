@@ -10,7 +10,6 @@
 - [Galva21](https://github.com/Galva21)
 - [rishawsingh](https://github.com/rishawsingh)
 - [Kimberlypad](https://github.com/Kimberlypad)
-- [donPabloNow](https://github.com/donPabloNow)
 - [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
@@ -99,3 +98,4 @@
 - [Catell](https://github.com/Catell)
 - [IceDev528](https://github.com/IceDev528)
 - [anna-lores](https://github.com/anna-lores)
+- [Demencun](https://github.com/Demencun)
