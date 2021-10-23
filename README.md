@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [lyushher](https://github.com/lyushher)
 - [carlarfranca](https://github.com/carlarfranca)
 - [Dilanma](https://github.com/Dilanma)
-- [Galvezka](https://github.com/Galvezka)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
@@ -35,7 +36,6 @@
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [bhartimeena](https://github.com/bhartimeena)
 - [LucEast](https://github.com/LucEast)
-- [LucioFex](https://github.com/LucioFex)
 - [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
 - [vjanz](https://github.com/vjanz)
