@@ -1,4 +1,5 @@
 
+- [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
 - [ljb1672](https://github.com/ljb1672)
@@ -98,4 +99,3 @@
 - [Murilona](https://github.com/Murilona)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [Catell](https://github.com/Catell)
