@@ -53,7 +53,6 @@
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
 - [BlackScorp](https://github.com/BlackScorp)
-- [daniel0525](https://github.com/daniel0525)
 - [kaiseryao](https://github.com/kaiseryao)
 - [RoniKipnis](https://github.com/RoniKipnis)
 - [metekaya](https://github.com/metekaya)
@@ -99,3 +98,4 @@
 - [Murilona](https://github.com/Murilona)
 - [Cyebukayire](https://github.com/Cyebukayire)
 - [shreyasinegi](https://github.com/shreyasinegi)
+- [Catell](https://github.com/Catell)
