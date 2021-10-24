@@ -1,4 +1,5 @@
 
+- [KotaroNakashima](https://github.com/KotaroNakashima)
 - [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
@@ -98,4 +99,3 @@
 - [anitatabaczka](https://github.com/anitatabaczka)
 - [Murilona](https://github.com/Murilona)
 - [Cyebukayire](https://github.com/Cyebukayire)
-- [shreyasinegi](https://github.com/shreyasinegi)
