@@ -36,7 +36,6 @@
 - [ibuninngu](https://github.com/ibuninngu)
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
-- [bhartimeena](https://github.com/bhartimeena)
 - [LucEast](https://github.com/LucEast)
 - [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
@@ -99,3 +98,4 @@
 - [dewitt4](https://github.com/dewitt4)
 - [anitatabaczka](https://github.com/anitatabaczka)
 - [Murilona](https://github.com/Murilona)
+- [Cyebukayire](https://github.com/Cyebukayire)
