@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aash-gates](https://github.com/aash-gates)
 - [aplus-developer](https://github.com/aplus-developer)
 - [KotaroNakashima](https://github.com/KotaroNakashima)
 - [1Crazymoney](https://github.com/1Crazymoney)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ljb1672](https://github.com/ljb1672)
 - [Laxime](https://github.com/Laxime)
 - [lyushher](https://github.com/lyushher)
-- [carlarfranca](https://github.com/carlarfranca)
 
 #### 🎢 Stats
 
