@@ -48,7 +48,7 @@
 - [Lucas-HMSC](https://github.com/Lucas-HMSC)
 - [ApiLogik](https://github.com/ApiLogik)
 - [DomeSy](https://github.com/DomeSy)
-- [devdreamsolution](https://github.com/devdreamsolution)
+- [hiccup0216](https://github.com/hiccup0216)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
