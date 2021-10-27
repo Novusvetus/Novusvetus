@@ -59,6 +59,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SingularisArt](https://github.com/SingularisArt)
+- [agathafr](https://github.com/agathafr)
+- [Karan36k](https://github.com/Karan36k)
 - [aash-gates](https://github.com/aash-gates)
 - [aplus-developer](https://github.com/aplus-developer)
 - [KotaroNakashima](https://github.com/KotaroNakashima)
@@ -66,9 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
-- [ljb1672](https://github.com/ljb1672)
-- [Laxime](https://github.com/Laxime)
-- [lyushher](https://github.com/lyushher)
 
 #### 🎢 Stats
 

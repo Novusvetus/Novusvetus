@@ -1,4 +1,7 @@
 
+- [SingularisArt](https://github.com/SingularisArt)
+- [agathafr](https://github.com/agathafr)
+- [Karan36k](https://github.com/Karan36k)
 - [aash-gates](https://github.com/aash-gates)
 - [aplus-developer](https://github.com/aplus-developer)
 - [KotaroNakashima](https://github.com/KotaroNakashima)
@@ -96,6 +99,3 @@
 - [vamper424](https://github.com/vamper424)
 - [dewitt4](https://github.com/dewitt4)
 - [anitatabaczka](https://github.com/anitatabaczka)
-- [Murilona](https://github.com/Murilona)
-- [Cyebukayire](https://github.com/Cyebukayire)
-- [shreyasinegi](https://github.com/shreyasinegi)
