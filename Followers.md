@@ -1,4 +1,5 @@
 
+- [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
 - [Suares01](https://github.com/Suares01)
@@ -98,4 +99,3 @@
 - [SanDovar1996](https://github.com/SanDovar1996)
 - [Guiequilen](https://github.com/Guiequilen)
 - [fabiolealsc](https://github.com/fabiolealsc)
-- [Atul-Kumar-Official](https://github.com/Atul-Kumar-Official)
