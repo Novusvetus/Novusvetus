@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [oliveiralecca](https://github.com/oliveiralecca)
 - [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [SingularisArt](https://github.com/SingularisArt)
 - [agathafr](https://github.com/agathafr)
 - [Karan36k](https://github.com/Karan36k)
-- [aash-gates](https://github.com/aash-gates)
 
 #### 🎢 Stats
 

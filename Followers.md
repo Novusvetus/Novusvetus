@@ -1,4 +1,5 @@
 
+- [oliveiralecca](https://github.com/oliveiralecca)
 - [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
@@ -98,4 +99,3 @@
 - [AmirhoseinHesami](https://github.com/AmirhoseinHesami)
 - [SanDovar1996](https://github.com/SanDovar1996)
 - [Guiequilen](https://github.com/Guiequilen)
-- [fabiolealsc](https://github.com/fabiolealsc)
