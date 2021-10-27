@@ -1,4 +1,9 @@
 
+- [karishmashuklaa](https://github.com/karishmashuklaa)
+- [Ryan-Menezes](https://github.com/Ryan-Menezes)
+- [Suares01](https://github.com/Suares01)
+- [hatane-rgb](https://github.com/hatane-rgb)
+- [giordanobraz](https://github.com/giordanobraz)
 - [SingularisArt](https://github.com/SingularisArt)
 - [agathafr](https://github.com/agathafr)
 - [Karan36k](https://github.com/Karan36k)
@@ -94,8 +99,3 @@
 - [Guiequilen](https://github.com/Guiequilen)
 - [fabiolealsc](https://github.com/fabiolealsc)
 - [Atul-Kumar-Official](https://github.com/Atul-Kumar-Official)
-- [jaydip1235](https://github.com/jaydip1235)
-- [viniciuspatzer](https://github.com/viniciuspatzer)
-- [vamper424](https://github.com/vamper424)
-- [dewitt4](https://github.com/dewitt4)
-- [anitatabaczka](https://github.com/anitatabaczka)
