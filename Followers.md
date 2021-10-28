@@ -1,4 +1,6 @@
 
+- [ayrtonbsouza](https://github.com/ayrtonbsouza)
+- [alineai18](https://github.com/alineai18)
 - [gabao55](https://github.com/gabao55)
 - [asimodabas](https://github.com/asimodabas)
 - [riz4d](https://github.com/riz4d)
@@ -97,5 +99,3 @@
 - [Fannytim](https://github.com/Fannytim)
 - [leeevin97](https://github.com/leeevin97)
 - [Catellani55](https://github.com/Catellani55)
-- [Kushal334](https://github.com/Kushal334)
-- [MeIzSaiPranav](https://github.com/MeIzSaiPranav)
