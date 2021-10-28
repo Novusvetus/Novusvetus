@@ -1,4 +1,5 @@
 
+- [riz4d](https://github.com/riz4d)
 - [ChefIronBelly](https://github.com/ChefIronBelly)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [oliveiralecca](https://github.com/oliveiralecca)
@@ -98,4 +99,3 @@
 - [MeIzSaiPranav](https://github.com/MeIzSaiPranav)
 - [Valpiol](https://github.com/Valpiol)
 - [Williaming2](https://github.com/Williaming2)
-- [AmirhoseinHesami](https://github.com/AmirhoseinHesami)
