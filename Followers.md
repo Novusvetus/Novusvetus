@@ -1,4 +1,5 @@
 
+- [gabrielcatalao](https://github.com/gabrielcatalao)
 - [lucas-caribe](https://github.com/lucas-caribe)
 - [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
 - [ErmanEU](https://github.com/ErmanEU)
@@ -98,4 +99,3 @@
 - [mariabarkouzou](https://github.com/mariabarkouzou)
 - [gylidian](https://github.com/gylidian)
 - [peter279k](https://github.com/peter279k)
-- [fbiego](https://github.com/fbiego)

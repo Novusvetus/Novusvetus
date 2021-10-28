@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gabrielcatalao](https://github.com/gabrielcatalao)
 - [lucas-caribe](https://github.com/lucas-caribe)
 - [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
 - [ErmanEU](https://github.com/ErmanEU)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ayrtonbsouza](https://github.com/ayrtonbsouza)
 - [alineai18](https://github.com/alineai18)
 - [gabao55](https://github.com/gabao55)
-- [asimodabas](https://github.com/asimodabas)
 
 #### 🎢 Stats
 
