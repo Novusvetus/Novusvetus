@@ -1,4 +1,6 @@
 
+- [iLeonidze](https://github.com/iLeonidze)
+- [andresmeireles](https://github.com/andresmeireles)
 - [ayrtonbsouza](https://github.com/ayrtonbsouza)
 - [alineai18](https://github.com/alineai18)
 - [gabao55](https://github.com/gabao55)
@@ -55,7 +57,6 @@
 - [LucEast](https://github.com/LucEast)
 - [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
-- [vjanz](https://github.com/vjanz)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
@@ -98,4 +99,3 @@
 - [ridhomr](https://github.com/ridhomr)
 - [Fannytim](https://github.com/Fannytim)
 - [leeevin97](https://github.com/leeevin97)
-- [Catellani55](https://github.com/Catellani55)
