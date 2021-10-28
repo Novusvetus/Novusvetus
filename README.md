@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ErmanEU](https://github.com/ErmanEU)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
 - [andresmeireles](https://github.com/andresmeireles)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [alineai18](https://github.com/alineai18)
 - [gabao55](https://github.com/gabao55)
 - [asimodabas](https://github.com/asimodabas)
-- [riz4d](https://github.com/riz4d)
 - [ChefIronBelly](https://github.com/ChefIronBelly)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 
