@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
 - [andresmeireles](https://github.com/andresmeireles)
 - [ayrtonbsouza](https://github.com/ayrtonbsouza)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [riz4d](https://github.com/riz4d)
 - [ChefIronBelly](https://github.com/ChefIronBelly)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
-- [oliveiralecca](https://github.com/oliveiralecca)
 
 #### 🎢 Stats
 
