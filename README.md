@@ -9,13 +9,13 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
+- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
-- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - (WIP) Tracking your IntelliJ activity and push it to your own Endpoint.
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
 - [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
@@ -42,6 +42,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [New structure files.](https://github.com/Novusvetus/Mendelssohn/pull/1) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Dependencies](https://github.com/Novusvetus/action-php_codesniffer/pull/76) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/71) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies](https://github.com/Novusvetus/action-phpinsights/pull/19) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
@@ -51,7 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Refactor](https://github.com/Novusvetus/AutoGitIgnore/pull/3) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Better styled README.](https://github.com/Novusvetus/ClassHelper/pull/4) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [New structure](https://github.com/Novusvetus/ClassHelper/pull/3) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
-- [Even more dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/53) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lucas-caribe](https://github.com/lucas-caribe)
+- [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
 - [ErmanEU](https://github.com/ErmanEU)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [alineai18](https://github.com/alineai18)
 - [gabao55](https://github.com/gabao55)
 - [asimodabas](https://github.com/asimodabas)
-- [ChefIronBelly](https://github.com/ChefIronBelly)
-- [Henriquecesar139](https://github.com/Henriquecesar139)
 
 #### 🎢 Stats
 

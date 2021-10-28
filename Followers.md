@@ -1,4 +1,6 @@
 
+- [lucas-caribe](https://github.com/lucas-caribe)
+- [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
 - [ErmanEU](https://github.com/ErmanEU)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
@@ -97,5 +99,3 @@
 - [gylidian](https://github.com/gylidian)
 - [peter279k](https://github.com/peter279k)
 - [fbiego](https://github.com/fbiego)
-- [ridhomr](https://github.com/ridhomr)
-- [Fannytim](https://github.com/Fannytim)
