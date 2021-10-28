@@ -1,4 +1,6 @@
 
+- [ChefIronBelly](https://github.com/ChefIronBelly)
+- [Henriquecesar139](https://github.com/Henriquecesar139)
 - [oliveiralecca](https://github.com/oliveiralecca)
 - [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
@@ -97,5 +99,3 @@
 - [Valpiol](https://github.com/Valpiol)
 - [Williaming2](https://github.com/Williaming2)
 - [AmirhoseinHesami](https://github.com/AmirhoseinHesami)
-- [SanDovar1996](https://github.com/SanDovar1996)
-- [Guiequilen](https://github.com/Guiequilen)
