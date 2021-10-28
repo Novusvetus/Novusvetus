@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gabao55](https://github.com/gabao55)
+- [asimodabas](https://github.com/asimodabas)
 - [riz4d](https://github.com/riz4d)
 - [ChefIronBelly](https://github.com/ChefIronBelly)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
 - [Suares01](https://github.com/Suares01)
-- [hatane-rgb](https://github.com/hatane-rgb)
-- [giordanobraz](https://github.com/giordanobraz)
 
 #### 🎢 Stats
 

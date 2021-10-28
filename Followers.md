@@ -1,4 +1,6 @@
 
+- [gabao55](https://github.com/gabao55)
+- [asimodabas](https://github.com/asimodabas)
 - [riz4d](https://github.com/riz4d)
 - [ChefIronBelly](https://github.com/ChefIronBelly)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
@@ -97,5 +99,3 @@
 - [Catellani55](https://github.com/Catellani55)
 - [Kushal334](https://github.com/Kushal334)
 - [MeIzSaiPranav](https://github.com/MeIzSaiPranav)
-- [Valpiol](https://github.com/Valpiol)
-- [Williaming2](https://github.com/Williaming2)
