@@ -1,4 +1,5 @@
 
+- [vjanz](https://github.com/vjanz)
 - [FreitasLucas01](https://github.com/FreitasLucas01)
 - [tysonstar912913](https://github.com/tysonstar912913)
 - [Rajveer2009](https://github.com/Rajveer2009)
@@ -98,4 +99,3 @@
 - [Eugene0920](https://github.com/Eugene0920)
 - [CleuJunior](https://github.com/CleuJunior)
 - [wtfsystems](https://github.com/wtfsystems)
-- [caiodev](https://github.com/caiodev)
