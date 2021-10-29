@@ -1,4 +1,6 @@
 
+- [narayan954](https://github.com/narayan954)
+- [AnneLivia](https://github.com/AnneLivia)
 - [vjanz](https://github.com/vjanz)
 - [FreitasLucas01](https://github.com/FreitasLucas01)
 - [tysonstar912913](https://github.com/tysonstar912913)
@@ -97,5 +99,3 @@
 - [ksenginew](https://github.com/ksenginew)
 - [WhiteSymmetry](https://github.com/WhiteSymmetry)
 - [Eugene0920](https://github.com/Eugene0920)
-- [CleuJunior](https://github.com/CleuJunior)
-- [wtfsystems](https://github.com/wtfsystems)
