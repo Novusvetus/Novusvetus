@@ -1,4 +1,5 @@
 
+- [Zizwar](https://github.com/Zizwar)
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
 - [ael-imra](https://github.com/ael-imra)
 - [gabrielcatalao](https://github.com/gabrielcatalao)
@@ -98,4 +99,3 @@
 - [benjdiasaad](https://github.com/benjdiasaad)
 - [Mohammadbill](https://github.com/Mohammadbill)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
-- [mariabarkouzou](https://github.com/mariabarkouzou)
