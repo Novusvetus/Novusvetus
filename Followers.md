@@ -1,4 +1,5 @@
 
+- [Rajveer2009](https://github.com/Rajveer2009)
 - [Zizwar](https://github.com/Zizwar)
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
 - [ael-imra](https://github.com/ael-imra)
@@ -98,4 +99,3 @@
 - [caiodev](https://github.com/caiodev)
 - [benjdiasaad](https://github.com/benjdiasaad)
 - [Mohammadbill](https://github.com/Mohammadbill)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)

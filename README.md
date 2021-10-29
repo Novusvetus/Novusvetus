@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Rajveer2009](https://github.com/Rajveer2009)
 - [Zizwar](https://github.com/Zizwar)
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
 - [ael-imra](https://github.com/ael-imra)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ErmanEU](https://github.com/ErmanEU)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
-- [andresmeireles](https://github.com/andresmeireles)
 
 #### 🎢 Stats
 
