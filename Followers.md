@@ -1,4 +1,5 @@
 
+- [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
 - [riz4d](https://github.com/riz4d)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
@@ -98,4 +99,3 @@
 - [mahdizojaji](https://github.com/mahdizojaji)
 - [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
 - [PatchDevel](https://github.com/PatchDevel)
-- [seosigoto](https://github.com/seosigoto)
