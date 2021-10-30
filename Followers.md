@@ -1,4 +1,5 @@
 
+- [safaeean](https://github.com/safaeean)
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
 - [riz4d](https://github.com/riz4d)
@@ -98,4 +99,3 @@
 - [Stathis96](https://github.com/Stathis96)
 - [mahdizojaji](https://github.com/mahdizojaji)
 - [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
-- [PatchDevel](https://github.com/PatchDevel)
