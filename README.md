@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [riz4d](https://github.com/riz4d)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
 - [LucasManete](https://github.com/LucasManete)
-- [andersongrochocki](https://github.com/andersongrochocki)
 
 #### 🎢 Stats
 

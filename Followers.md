@@ -1,4 +1,5 @@
 
+- [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
@@ -98,4 +99,3 @@
 - [metekaya](https://github.com/metekaya)
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
-- [mahdizojaji](https://github.com/mahdizojaji)
