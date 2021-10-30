@@ -1,4 +1,6 @@
 
+- [MatheusWanderson](https://github.com/MatheusWanderson)
+- [LucasManete](https://github.com/LucasManete)
 - [andersongrochocki](https://github.com/andersongrochocki)
 - [narayan954](https://github.com/narayan954)
 - [AnneLivia](https://github.com/AnneLivia)
@@ -97,5 +99,3 @@
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
 - [mwt](https://github.com/mwt)
-- [ksenginew](https://github.com/ksenginew)
-- [WhiteSymmetry](https://github.com/WhiteSymmetry)
