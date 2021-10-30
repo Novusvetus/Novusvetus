@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
 - [safaeean](https://github.com/safaeean)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [MatheusWanderson](https://github.com/MatheusWanderson)
 - [LucasManete](https://github.com/LucasManete)
 - [andersongrochocki](https://github.com/andersongrochocki)
-- [narayan954](https://github.com/narayan954)
 
 #### 🎢 Stats
 
