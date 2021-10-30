@@ -90,7 +90,6 @@
 - [DomeSy](https://github.com/DomeSy)
 - [hiccup0216](https://github.com/hiccup0216)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
-- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
 - [BlackScorp](https://github.com/BlackScorp)
@@ -99,3 +98,4 @@
 - [metekaya](https://github.com/metekaya)
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
+- [mahdizojaji](https://github.com/mahdizojaji)
