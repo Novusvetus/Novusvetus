@@ -1,4 +1,5 @@
 
+- [riz4d](https://github.com/riz4d)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
 - [LucasManete](https://github.com/LucasManete)
 - [andersongrochocki](https://github.com/andersongrochocki)
@@ -98,4 +99,3 @@
 - [PatchDevel](https://github.com/PatchDevel)
 - [seosigoto](https://github.com/seosigoto)
 - [shakiliitju](https://github.com/shakiliitju)
-- [mwt](https://github.com/mwt)

@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [riz4d](https://github.com/riz4d)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
 - [LucasManete](https://github.com/LucasManete)
 - [andersongrochocki](https://github.com/andersongrochocki)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [FreitasLucas01](https://github.com/FreitasLucas01)
 - [tysonstar912913](https://github.com/tysonstar912913)
 - [Rajveer2009](https://github.com/Rajveer2009)
-- [Zizwar](https://github.com/Zizwar)
 
 #### 🎢 Stats
 
