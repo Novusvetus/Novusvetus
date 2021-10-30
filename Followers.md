@@ -1,4 +1,5 @@
 
+- [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
@@ -75,7 +76,6 @@
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [LucEast](https://github.com/LucEast)
-- [jmoseka](https://github.com/jmoseka)
 - [Lakeil](https://github.com/Lakeil)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)

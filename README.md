@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [andersongrochocki](https://github.com/andersongrochocki)
 - [narayan954](https://github.com/narayan954)
 - [AnneLivia](https://github.com/AnneLivia)
-- [vjanz](https://github.com/vjanz)
 
 #### 🎢 Stats
 
