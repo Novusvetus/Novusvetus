@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xdvrx1](https://github.com/xdvrx1)
+- [Mert18](https://github.com/Mert18)
 - [vipinkumarpawar](https://github.com/vipinkumarpawar)
 - [katchion13](https://github.com/katchion13)
 - [polcats](https://github.com/polcats)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [NTDEV-byte](https://github.com/NTDEV-byte)
 - [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
-- [jmoseka](https://github.com/jmoseka)
-- [DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
 
 #### 🎢 Stats
 
