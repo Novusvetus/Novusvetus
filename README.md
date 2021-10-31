@@ -59,6 +59,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vipinkumarpawar](https://github.com/vipinkumarpawar)
+- [katchion13](https://github.com/katchion13)
+- [polcats](https://github.com/polcats)
 - [matheesha-pathirana](https://github.com/matheesha-pathirana)
 - [trkaydn](https://github.com/trkaydn)
 - [NTDEV-byte](https://github.com/NTDEV-byte)
@@ -66,9 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
-- [safaeean](https://github.com/safaeean)
-- [lazarm520](https://github.com/lazarm520)
-- [hsiaofongw](https://github.com/hsiaofongw)
 
 #### 🎢 Stats
 

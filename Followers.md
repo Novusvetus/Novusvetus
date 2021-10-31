@@ -1,4 +1,7 @@
 
+- [vipinkumarpawar](https://github.com/vipinkumarpawar)
+- [katchion13](https://github.com/katchion13)
+- [polcats](https://github.com/polcats)
 - [matheesha-pathirana](https://github.com/matheesha-pathirana)
 - [trkaydn](https://github.com/trkaydn)
 - [NTDEV-byte](https://github.com/NTDEV-byte)
@@ -96,6 +99,3 @@
 - [BlackScorp](https://github.com/BlackScorp)
 - [kaiseryao](https://github.com/kaiseryao)
 - [RoniKipnis](https://github.com/RoniKipnis)
-- [metekaya](https://github.com/metekaya)
-- [Eloparto](https://github.com/Eloparto)
-- [Stathis96](https://github.com/Stathis96)
