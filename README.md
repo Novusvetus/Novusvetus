@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [trkaydn](https://github.com/trkaydn)
+- [NTDEV-byte](https://github.com/NTDEV-byte)
 - [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
-- [LucasManete](https://github.com/LucasManete)
-- [andersongrochocki](https://github.com/andersongrochocki)
 
 #### 🎢 Stats
 

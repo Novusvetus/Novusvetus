@@ -1,4 +1,6 @@
 
+- [trkaydn](https://github.com/trkaydn)
+- [NTDEV-byte](https://github.com/NTDEV-byte)
 - [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
@@ -97,5 +99,3 @@
 - [metekaya](https://github.com/metekaya)
 - [Eloparto](https://github.com/Eloparto)
 - [Stathis96](https://github.com/Stathis96)
-- [mahdizojaji](https://github.com/mahdizojaji)
-- [TanmayProgrammer-13](https://github.com/TanmayProgrammer-13)
