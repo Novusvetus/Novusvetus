@@ -1,4 +1,5 @@
 
+- [Jefferson472](https://github.com/Jefferson472)
 - [xdvrx1](https://github.com/xdvrx1)
 - [Mert18](https://github.com/Mert18)
 - [vipinkumarpawar](https://github.com/vipinkumarpawar)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
 - [kkaori146](https://github.com/kkaori146)
-- [BlackScorp](https://github.com/BlackScorp)
