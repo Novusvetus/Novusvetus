@@ -66,9 +66,9 @@ _Nobody sponsors me. I am poor..._
 - [safaeean](https://github.com/safaeean)
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
-- [riz4d](https://github.com/riz4d)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
 - [LucasManete](https://github.com/LucasManete)
+- [andersongrochocki](https://github.com/andersongrochocki)
 
 #### 🎢 Stats
 
