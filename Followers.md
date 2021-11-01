@@ -1,4 +1,5 @@
 
+- [ali1129js](https://github.com/ali1129js)
 - [Jefferson472](https://github.com/Jefferson472)
 - [xdvrx1](https://github.com/xdvrx1)
 - [Mert18](https://github.com/Mert18)
@@ -98,4 +99,3 @@
 - [hiccup0216](https://github.com/hiccup0216)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [MOCO-MAKO](https://github.com/MOCO-MAKO)
-- [kkaori146](https://github.com/kkaori146)
