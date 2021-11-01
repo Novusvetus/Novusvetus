@@ -1,4 +1,6 @@
 
+- [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
+- [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 - [frederikme](https://github.com/frederikme)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [gholi-dev](https://github.com/gholi-dev)
@@ -97,5 +99,3 @@
 - [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
 - [shomnathsomu](https://github.com/shomnathsomu)
-- [WaelDev](https://github.com/WaelDev)
-- [pauleta0126](https://github.com/pauleta0126)
