@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TECHforGEEKS](https://github.com/TECHforGEEKS)
 - [eduardomecchia](https://github.com/eduardomecchia)
 - [vidyesh95](https://github.com/vidyesh95)
 - [ali1129js](https://github.com/ali1129js)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [vipinkumarpawar](https://github.com/vipinkumarpawar)
 - [katchion13](https://github.com/katchion13)
 - [polcats](https://github.com/polcats)
-- [matheesha-pathirana](https://github.com/matheesha-pathirana)
 
 #### 🎢 Stats
 
