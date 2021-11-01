@@ -1,4 +1,5 @@
 
+- [vidyesh95](https://github.com/vidyesh95)
 - [ali1129js](https://github.com/ali1129js)
 - [Jefferson472](https://github.com/Jefferson472)
 - [xdvrx1](https://github.com/xdvrx1)
@@ -98,4 +99,3 @@
 - [DomeSy](https://github.com/DomeSy)
 - [hiccup0216](https://github.com/hiccup0216)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
-- [MOCO-MAKO](https://github.com/MOCO-MAKO)
