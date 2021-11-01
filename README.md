@@ -59,6 +59,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vefghmhassan](https://github.com/vefghmhassan)
+- [Ellinsa](https://github.com/Ellinsa)
+- [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
 - [nattheriddle1](https://github.com/nattheriddle1)
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
@@ -66,9 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [gholi-dev](https://github.com/gholi-dev)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
-- [eduardomecchia](https://github.com/eduardomecchia)
-- [vidyesh95](https://github.com/vidyesh95)
-- [ali1129js](https://github.com/ali1129js)
 
 #### 🎢 Stats
 

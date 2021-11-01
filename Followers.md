@@ -1,4 +1,7 @@
 
+- [vefghmhassan](https://github.com/vefghmhassan)
+- [Ellinsa](https://github.com/Ellinsa)
+- [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
 - [nattheriddle1](https://github.com/nattheriddle1)
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
@@ -96,6 +99,3 @@
 - [Lakeil](https://github.com/Lakeil)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
-- [phanatagama](https://github.com/phanatagama)
-- [shomnathsomu](https://github.com/shomnathsomu)
-- [WaelDev](https://github.com/WaelDev)
