@@ -1,4 +1,5 @@
 
+- [nattheriddle1](https://github.com/nattheriddle1)
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 - [frederikme](https://github.com/frederikme)
@@ -98,4 +99,3 @@
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
 - [yasminmarangao](https://github.com/yasminmarangao)
 - [phanatagama](https://github.com/phanatagama)
-- [shomnathsomu](https://github.com/shomnathsomu)

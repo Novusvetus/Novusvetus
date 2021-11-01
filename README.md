@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nattheriddle1](https://github.com/nattheriddle1)
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 - [frederikme](https://github.com/frederikme)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [eduardomecchia](https://github.com/eduardomecchia)
 - [vidyesh95](https://github.com/vidyesh95)
 - [ali1129js](https://github.com/ali1129js)
-- [Jefferson472](https://github.com/Jefferson472)
 
 #### 🎢 Stats
 
