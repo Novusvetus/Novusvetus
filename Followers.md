@@ -1,4 +1,6 @@
 
+- [Wesley-Breno](https://github.com/Wesley-Breno)
+- [gholi-dev](https://github.com/gholi-dev)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
 - [eduardomecchia](https://github.com/eduardomecchia)
 - [vidyesh95](https://github.com/vidyesh95)
@@ -97,5 +99,3 @@
 - [WaelDev](https://github.com/WaelDev)
 - [pauleta0126](https://github.com/pauleta0126)
 - [Lucas-HMSC](https://github.com/Lucas-HMSC)
-- [ApiLogik](https://github.com/ApiLogik)
-- [DomeSy](https://github.com/DomeSy)
