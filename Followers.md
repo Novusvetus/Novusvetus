@@ -1,4 +1,5 @@
 
+- [frederikme](https://github.com/frederikme)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [gholi-dev](https://github.com/gholi-dev)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
@@ -98,4 +99,3 @@
 - [shomnathsomu](https://github.com/shomnathsomu)
 - [WaelDev](https://github.com/WaelDev)
 - [pauleta0126](https://github.com/pauleta0126)
-- [Lucas-HMSC](https://github.com/Lucas-HMSC)
