@@ -1,4 +1,5 @@
 
+- [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
@@ -98,4 +99,3 @@
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [LucEast](https://github.com/LucEast)
-- [Lakeil](https://github.com/Lakeil)
