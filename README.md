@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [frederikme](https://github.com/frederikme)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [gholi-dev](https://github.com/gholi-dev)
-- [TECHforGEEKS](https://github.com/TECHforGEEKS)
 
 #### 🎢 Stats
 

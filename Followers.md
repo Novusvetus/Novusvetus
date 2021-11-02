@@ -1,4 +1,5 @@
 
+- [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
@@ -98,4 +99,3 @@
 - [LucEast](https://github.com/LucEast)
 - [Lakeil](https://github.com/Lakeil)
 - [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
-- [yasminmarangao](https://github.com/yasminmarangao)
