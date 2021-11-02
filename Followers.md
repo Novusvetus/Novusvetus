@@ -1,4 +1,5 @@
 
+- [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
@@ -98,4 +99,3 @@
 - [natanvalimcardoso](https://github.com/natanvalimcardoso)
 - [LucEast](https://github.com/LucEast)
 - [Lakeil](https://github.com/Lakeil)
-- [DanielArturoAlejoAlvarez](https://github.com/DanielArturoAlejoAlvarez)
