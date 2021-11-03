@@ -1,4 +1,5 @@
 
+- [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
@@ -98,4 +99,3 @@
 - [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
 - [LuanSouzaProg](https://github.com/LuanSouzaProg)
-- [natanvalimcardoso](https://github.com/natanvalimcardoso)

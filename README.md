@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
 - [nattheriddle1](https://github.com/nattheriddle1)
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
-- [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 
 #### 🎢 Stats
 
