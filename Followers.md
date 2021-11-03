@@ -1,4 +1,5 @@
 
+- [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
@@ -98,4 +99,3 @@
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
-- [LuanSouzaProg](https://github.com/LuanSouzaProg)

@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Ellinsa](https://github.com/Ellinsa)
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
 - [nattheriddle1](https://github.com/nattheriddle1)
-- [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 
 #### 🎢 Stats
 
