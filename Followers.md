@@ -1,4 +1,5 @@
 
+- [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
@@ -98,4 +99,3 @@
 - [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
-- [ibuninngu](https://github.com/ibuninngu)

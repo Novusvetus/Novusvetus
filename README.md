@@ -10,8 +10,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 #### 💻 Check out what I'm currently working on
 
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
-- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
-- [nattheriddle1](https://github.com/nattheriddle1)
 
 #### 🎢 Stats
 
