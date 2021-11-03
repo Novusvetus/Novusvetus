@@ -9,8 +9,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+- [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
@@ -42,6 +42,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [All dependencies to newest versions.](https://github.com/Novusvetus/action-phpinsights/pull/26) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [All dependencies to newest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/78) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [New structure files.](https://github.com/Novusvetus/Mendelssohn/pull/1) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Dependencies](https://github.com/Novusvetus/action-php_codesniffer/pull/76) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/71) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -50,8 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [More dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/58) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [README updated.](https://github.com/Novusvetus/AutoGitIgnore/pull/4) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Refactor](https://github.com/Novusvetus/AutoGitIgnore/pull/3) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
-- [Better styled README.](https://github.com/Novusvetus/ClassHelper/pull/4) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
-- [New structure](https://github.com/Novusvetus/ClassHelper/pull/3) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
