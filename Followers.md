@@ -49,7 +49,6 @@
 - [gabrielcatalao](https://github.com/gabrielcatalao)
 - [lucas-caribe](https://github.com/lucas-caribe)
 - [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
-- [ErmanEU](https://github.com/ErmanEU)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
 - [andresmeireles](https://github.com/andresmeireles)
@@ -99,3 +98,4 @@
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
+- [LuanSouzaProg](https://github.com/LuanSouzaProg)
