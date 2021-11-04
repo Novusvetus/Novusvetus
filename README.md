@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
-- [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
 
 #### 🎢 Stats
 

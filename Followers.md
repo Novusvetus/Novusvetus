@@ -1,4 +1,5 @@
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
@@ -98,4 +99,3 @@
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
 - [ibuninngu](https://github.com/ibuninngu)
-- [LuanSouzaProg](https://github.com/LuanSouzaProg)
