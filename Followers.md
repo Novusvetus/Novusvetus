@@ -82,7 +82,6 @@
 - [suchismita004](https://github.com/suchismita004)
 - [Caberrios](https://github.com/Caberrios)
 - [Galva21](https://github.com/Galva21)
-- [rishawsingh](https://github.com/rishawsingh)
 - [Kimberlypad](https://github.com/Kimberlypad)
 - [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
@@ -99,3 +98,4 @@
 - [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
+- [ibuninngu](https://github.com/ibuninngu)
