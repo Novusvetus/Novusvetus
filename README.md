@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [deciduously](https://github.com/deciduously)
 - [CyrineOsorio](https://github.com/CyrineOsorio)
 - [aash-gates](https://github.com/aash-gates)
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
-- [gutoccs](https://github.com/gutoccs)
 
 #### 🎢 Stats
 
