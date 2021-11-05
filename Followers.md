@@ -1,4 +1,6 @@
 
+- [aash-gates](https://github.com/aash-gates)
+- [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
@@ -67,7 +69,6 @@
 - [SingularisArt](https://github.com/SingularisArt)
 - [agathafr](https://github.com/agathafr)
 - [Karan36k](https://github.com/Karan36k)
-- [aash-gates](https://github.com/aash-gates)
 - [KotaroNakashima](https://github.com/KotaroNakashima)
 - [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
@@ -98,4 +99,3 @@
 - [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
 - [Codder-Girl](https://github.com/Codder-Girl)
-- [ibuninngu](https://github.com/ibuninngu)

@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aash-gates](https://github.com/aash-gates)
+- [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
-- [vefghmhassan](https://github.com/vefghmhassan)
-- [Ellinsa](https://github.com/Ellinsa)
 
 #### 🎢 Stats
 
