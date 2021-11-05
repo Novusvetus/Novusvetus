@@ -1,4 +1,5 @@
 
+- [CyrineOsorio](https://github.com/CyrineOsorio)
 - [aash-gates](https://github.com/aash-gates)
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
@@ -98,4 +99,3 @@
 - [Alfonsaroi](https://github.com/Alfonsaroi)
 - [SamroodAli](https://github.com/SamroodAli)
 - [romanofficial](https://github.com/romanofficial)
-- [Codder-Girl](https://github.com/Codder-Girl)
