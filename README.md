@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [saeidjeddi](https://github.com/saeidjeddi)
 - [deciduously](https://github.com/deciduously)
 - [CyrineOsorio](https://github.com/CyrineOsorio)
 - [aash-gates](https://github.com/aash-gates)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
-- [protendai](https://github.com/protendai)
 
 #### 🎢 Stats
 
