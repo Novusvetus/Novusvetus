@@ -22,7 +22,6 @@
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 - [frederikme](https://github.com/frederikme)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [gholi-dev](https://github.com/gholi-dev)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
 - [eduardomecchia](https://github.com/eduardomecchia)
 - [vidyesh95](https://github.com/vidyesh95)
@@ -99,3 +98,4 @@
 - [Mickylo](https://github.com/Mickylo)
 - [Cycling11](https://github.com/Cycling11)
 - [Puma1990](https://github.com/Puma1990)
+- [k-takeuchi220](https://github.com/k-takeuchi220)
