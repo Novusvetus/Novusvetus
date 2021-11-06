@@ -1,4 +1,5 @@
 
+- [SquidRings](https://github.com/SquidRings)
 - [ramazansakin](https://github.com/ramazansakin)
 - [Dulun](https://github.com/Dulun)
 - [saeidjeddi](https://github.com/saeidjeddi)
@@ -98,4 +99,3 @@
 - [Mickylo](https://github.com/Mickylo)
 - [Cycling11](https://github.com/Cycling11)
 - [Puma1990](https://github.com/Puma1990)
-- [k-takeuchi220](https://github.com/k-takeuchi220)

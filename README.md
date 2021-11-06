@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SquidRings](https://github.com/SquidRings)
 - [ramazansakin](https://github.com/ramazansakin)
 - [Dulun](https://github.com/Dulun)
 - [saeidjeddi](https://github.com/saeidjeddi)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
-- [phanatagama](https://github.com/phanatagama)
 
 #### 🎢 Stats
 
