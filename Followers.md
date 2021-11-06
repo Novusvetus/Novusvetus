@@ -41,7 +41,6 @@
 - [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
-- [DeepakKumarKhatri](https://github.com/DeepakKumarKhatri)
 - [safaeean](https://github.com/safaeean)
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
@@ -99,3 +98,4 @@
 - [Joshaby](https://github.com/Joshaby)
 - [SatishWithCode](https://github.com/SatishWithCode)
 - [Mickylo](https://github.com/Mickylo)
+- [Cycling11](https://github.com/Cycling11)
