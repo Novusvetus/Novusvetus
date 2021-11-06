@@ -1,4 +1,5 @@
 
+- [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
 - [ramazansakin](https://github.com/ramazansakin)
 - [Dulun](https://github.com/Dulun)
@@ -98,4 +99,3 @@
 - [SatishWithCode](https://github.com/SatishWithCode)
 - [Mickylo](https://github.com/Mickylo)
 - [Cycling11](https://github.com/Cycling11)
-- [Puma1990](https://github.com/Puma1990)
