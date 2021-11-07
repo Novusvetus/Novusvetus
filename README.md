@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tymsai](https://github.com/tymsai)
+- [httpanand](https://github.com/httpanand)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Dulun](https://github.com/Dulun)
 - [saeidjeddi](https://github.com/saeidjeddi)
 - [deciduously](https://github.com/deciduously)
-- [CyrineOsorio](https://github.com/CyrineOsorio)
-- [aash-gates](https://github.com/aash-gates)
 
 #### 🎢 Stats
 

@@ -1,4 +1,6 @@
 
+- [tymsai](https://github.com/tymsai)
+- [httpanand](https://github.com/httpanand)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
@@ -97,5 +99,3 @@
 - [Damariela](https://github.com/Damariela)
 - [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
 - [Joshaby](https://github.com/Joshaby)
-- [SatishWithCode](https://github.com/SatishWithCode)
-- [Mickylo](https://github.com/Mickylo)
