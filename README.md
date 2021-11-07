@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [deciduously](https://github.com/deciduously)
 - [CyrineOsorio](https://github.com/CyrineOsorio)
 - [aash-gates](https://github.com/aash-gates)
-- [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 
 #### 🎢 Stats
 
