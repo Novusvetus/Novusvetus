@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LucioFex](https://github.com/LucioFex)
+- [eduprogrammer](https://github.com/eduprogrammer)
 - [tymsai](https://github.com/tymsai)
 - [httpanand](https://github.com/httpanand)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [SquidRings](https://github.com/SquidRings)
 - [ramazansakin](https://github.com/ramazansakin)
 - [Dulun](https://github.com/Dulun)
-- [saeidjeddi](https://github.com/saeidjeddi)
-- [deciduously](https://github.com/deciduously)
 
 #### 🎢 Stats
 

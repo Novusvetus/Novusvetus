@@ -1,4 +1,6 @@
 
+- [LucioFex](https://github.com/LucioFex)
+- [eduprogrammer](https://github.com/eduprogrammer)
 - [tymsai](https://github.com/tymsai)
 - [httpanand](https://github.com/httpanand)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
@@ -97,5 +99,3 @@
 - [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
 - [Damariela](https://github.com/Damariela)
-- [ThiagoSottoqts](https://github.com/ThiagoSottoqts)
-- [Joshaby](https://github.com/Joshaby)
