@@ -1,4 +1,5 @@
 
+- [StasMS](https://github.com/StasMS)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
@@ -98,4 +99,3 @@
 - [Kimberlypad](https://github.com/Kimberlypad)
 - [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
-- [Ifycode](https://github.com/Ifycode)
