@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
 - [tymsai](https://github.com/tymsai)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
 - [ramazansakin](https://github.com/ramazansakin)
-- [Dulun](https://github.com/Dulun)
 
 #### 🎢 Stats
 

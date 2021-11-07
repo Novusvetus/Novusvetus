@@ -1,4 +1,5 @@
 
+- [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
 - [tymsai](https://github.com/tymsai)
@@ -98,4 +99,3 @@
 - [cherucole](https://github.com/cherucole)
 - [Salindar9](https://github.com/Salindar9)
 - [Ifycode](https://github.com/Ifycode)
-- [Damariela](https://github.com/Damariela)
