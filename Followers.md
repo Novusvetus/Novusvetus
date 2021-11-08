@@ -1,4 +1,5 @@
 
+- [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
@@ -98,4 +99,3 @@
 - [suchismita004](https://github.com/suchismita004)
 - [Caberrios](https://github.com/Caberrios)
 - [Galva21](https://github.com/Galva21)
-- [Kimberlypad](https://github.com/Kimberlypad)

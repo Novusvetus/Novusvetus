@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [tymsai](https://github.com/tymsai)
 - [httpanand](https://github.com/httpanand)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
-- [Stathis96](https://github.com/Stathis96)
 
 #### 🎢 Stats
 
