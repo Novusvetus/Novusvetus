@@ -1,4 +1,5 @@
 
+- [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
@@ -98,4 +99,3 @@
 - [Galva21](https://github.com/Galva21)
 - [Kimberlypad](https://github.com/Kimberlypad)
 - [cherucole](https://github.com/cherucole)
-- [Salindar9](https://github.com/Salindar9)

@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
-- [SquidRings](https://github.com/SquidRings)
 
 #### 🎢 Stats
 
