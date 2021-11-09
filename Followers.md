@@ -11,7 +11,7 @@
 - [eduprogrammer](https://github.com/eduprogrammer)
 - [tymsai](https://github.com/tymsai)
 - [httpanand](https://github.com/httpanand)
-- [arsh-meharwal](https://github.com/arsh-meharwal)
+- [meharwalarsh](https://github.com/meharwalarsh)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
