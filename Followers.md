@@ -1,4 +1,5 @@
 
+- [Fredrick-KE](https://github.com/Fredrick-KE)
 - [CrispenGari](https://github.com/CrispenGari)
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
@@ -98,4 +99,3 @@
 - [Dilanma](https://github.com/Dilanma)
 - [Galvezka](https://github.com/Galvezka)
 - [suchismita004](https://github.com/suchismita004)
-- [Caberrios](https://github.com/Caberrios)
