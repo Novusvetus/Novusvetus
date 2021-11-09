@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
 - [CrispenGari](https://github.com/CrispenGari)
 - [RejayMorada0](https://github.com/RejayMorada0)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
-- [tymsai](https://github.com/tymsai)
 
 #### 🎢 Stats
 
