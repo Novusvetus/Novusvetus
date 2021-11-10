@@ -59,6 +59,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wwwAlireza](https://github.com/wwwAlireza)
+- [tymsai](https://github.com/tymsai)
+- [emredz](https://github.com/emredz)
 - [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
@@ -66,9 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
-- [StasMS](https://github.com/StasMS)
-- [Joey-Resende](https://github.com/Joey-Resende)
-- [LucioFex](https://github.com/LucioFex)
 
 #### 🎢 Stats
 
