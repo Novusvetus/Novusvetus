@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
 - [CrispenGari](https://github.com/CrispenGari)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [StasMS](https://github.com/StasMS)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
-- [eduprogrammer](https://github.com/eduprogrammer)
 
 #### 🎢 Stats
 
