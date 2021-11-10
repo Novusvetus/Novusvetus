@@ -1,4 +1,5 @@
 
+- [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [tymsai](https://github.com/tymsai)
 - [emredz](https://github.com/emredz)
@@ -98,4 +99,3 @@
 - [Manchaco](https://github.com/Manchaco)
 - [ljb1672](https://github.com/ljb1672)
 - [Laxime](https://github.com/Laxime)
-- [lyushher](https://github.com/lyushher)
