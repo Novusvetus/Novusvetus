@@ -66,9 +66,9 @@ _Nobody sponsors me. I am poor..._
 - [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
-- [CrispenGari](https://github.com/CrispenGari)
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
+- [Sidoria](https://github.com/Sidoria)
 
 #### 🎢 Stats
 
