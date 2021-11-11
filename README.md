@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xetnopnawab](https://github.com/xetnopnawab)
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [tymsai](https://github.com/tymsai)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Fredrick-KE](https://github.com/Fredrick-KE)
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
-- [Sidoria](https://github.com/Sidoria)
 
 #### 🎢 Stats
 
