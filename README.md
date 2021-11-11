@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [RealTourani](https://github.com/RealTourani)
 - [hari-bhandari](https://github.com/hari-bhandari)
 - [xetnopnawab](https://github.com/xetnopnawab)
 - [dsuareznieto](https://github.com/dsuareznieto)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
-- [RejayMorada0](https://github.com/RejayMorada0)
 
 #### 🎢 Stats
 
