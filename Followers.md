@@ -1,4 +1,5 @@
 
+- [hari-bhandari](https://github.com/hari-bhandari)
 - [xetnopnawab](https://github.com/xetnopnawab)
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
@@ -98,4 +99,3 @@
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
 - [ljb1672](https://github.com/ljb1672)
-- [Laxime](https://github.com/Laxime)
