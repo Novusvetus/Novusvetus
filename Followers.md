@@ -22,7 +22,6 @@
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
-- [ramazansakin](https://github.com/ramazansakin)
 - [Dulun](https://github.com/Dulun)
 - [saeidjeddi](https://github.com/saeidjeddi)
 - [deciduously](https://github.com/deciduously)
@@ -99,3 +98,4 @@
 - [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
+- [Manchaco](https://github.com/Manchaco)
