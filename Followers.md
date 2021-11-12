@@ -1,4 +1,5 @@
 
+- [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
 - [hari-bhandari](https://github.com/hari-bhandari)
 - [xetnopnawab](https://github.com/xetnopnawab)
@@ -98,4 +99,3 @@
 - [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
-- [Manchaco](https://github.com/Manchaco)
