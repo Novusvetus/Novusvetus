@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Dickens-odera](https://github.com/Dickens-odera)
 - [gholi-dev](https://github.com/gholi-dev)
 - [ahr9n](https://github.com/ahr9n)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [tymsai](https://github.com/tymsai)
-- [emredz](https://github.com/emredz)
 
 #### 🎢 Stats
 

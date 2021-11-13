@@ -1,4 +1,5 @@
 
+- [Dickens-odera](https://github.com/Dickens-odera)
 - [gholi-dev](https://github.com/gholi-dev)
 - [ahr9n](https://github.com/ahr9n)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
@@ -98,4 +99,3 @@
 - [Karan36k](https://github.com/Karan36k)
 - [KotaroNakashima](https://github.com/KotaroNakashima)
 - [1Crazymoney](https://github.com/1Crazymoney)
-- [HangeZoe](https://github.com/HangeZoe)
