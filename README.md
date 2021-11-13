@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gholi-dev](https://github.com/gholi-dev)
+- [ahr9n](https://github.com/ahr9n)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [tymsai](https://github.com/tymsai)
 - [emredz](https://github.com/emredz)
-- [neuromaster](https://github.com/neuromaster)
-- [kaganmert](https://github.com/kaganmert)
 
 #### 🎢 Stats
 

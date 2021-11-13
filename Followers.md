@@ -1,4 +1,6 @@
 
+- [gholi-dev](https://github.com/gholi-dev)
+- [ahr9n](https://github.com/ahr9n)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
@@ -97,5 +99,3 @@
 - [KotaroNakashima](https://github.com/KotaroNakashima)
 - [1Crazymoney](https://github.com/1Crazymoney)
 - [HangeZoe](https://github.com/HangeZoe)
-- [larrysneed013](https://github.com/larrysneed013)
-- [Manchaco](https://github.com/Manchaco)
