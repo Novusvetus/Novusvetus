@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
 - [xetnopnawab](https://github.com/xetnopnawab)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [emredz](https://github.com/emredz)
 - [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
-- [Fredrick-KE](https://github.com/Fredrick-KE)
 
 #### 🎢 Stats
 

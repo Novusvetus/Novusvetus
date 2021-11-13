@@ -1,4 +1,5 @@
 
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
 - [xetnopnawab](https://github.com/xetnopnawab)
@@ -98,4 +99,3 @@
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
-- [ljb1672](https://github.com/ljb1672)
