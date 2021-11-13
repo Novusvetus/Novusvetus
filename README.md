@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
-- [hari-bhandari](https://github.com/hari-bhandari)
 - [xetnopnawab](https://github.com/xetnopnawab)
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [emredz](https://github.com/emredz)
 - [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
+- [Fredrick-KE](https://github.com/Fredrick-KE)
 
 #### 🎢 Stats
 

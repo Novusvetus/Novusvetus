@@ -1,7 +1,6 @@
 
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
-- [hari-bhandari](https://github.com/hari-bhandari)
 - [xetnopnawab](https://github.com/xetnopnawab)
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
@@ -99,3 +98,4 @@
 - [HangeZoe](https://github.com/HangeZoe)
 - [larrysneed013](https://github.com/larrysneed013)
 - [Manchaco](https://github.com/Manchaco)
+- [ljb1672](https://github.com/ljb1672)
