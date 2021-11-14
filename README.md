@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [katchion13](https://github.com/katchion13)
 - [CAVIND46016](https://github.com/CAVIND46016)
 - [ismaely](https://github.com/ismaely)
 - [Dickens-odera](https://github.com/Dickens-odera)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
 - [xetnopnawab](https://github.com/xetnopnawab)
-- [dsuareznieto](https://github.com/dsuareznieto)
 
 #### 🎢 Stats
 
