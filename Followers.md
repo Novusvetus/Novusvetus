@@ -1,4 +1,5 @@
 
+- [beinjamin](https://github.com/beinjamin)
 - [katchion13](https://github.com/katchion13)
 - [CAVIND46016](https://github.com/CAVIND46016)
 - [ismaely](https://github.com/ismaely)
@@ -98,4 +99,3 @@
 - [giordanobraz](https://github.com/giordanobraz)
 - [SingularisArt](https://github.com/SingularisArt)
 - [agathafr](https://github.com/agathafr)
-- [Karan36k](https://github.com/Karan36k)
