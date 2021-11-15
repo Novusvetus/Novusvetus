@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cengizhankarabel](https://github.com/cengizhankarabel)
 - [csxHiker](https://github.com/csxHiker)
 - [beinjamin](https://github.com/beinjamin)
 - [katchion13](https://github.com/katchion13)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [gholi-dev](https://github.com/gholi-dev)
 - [ahr9n](https://github.com/ahr9n)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
-- [Lipshita2010](https://github.com/Lipshita2010)
 
 #### 🎢 Stats
 
