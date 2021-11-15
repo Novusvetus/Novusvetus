@@ -83,7 +83,6 @@
 - [gabrielcatalao](https://github.com/gabrielcatalao)
 - [lucas-caribe](https://github.com/lucas-caribe)
 - [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
-- [marjanovicbrane](https://github.com/marjanovicbrane)
 - [iLeonidze](https://github.com/iLeonidze)
 - [andresmeireles](https://github.com/andresmeireles)
 - [ayrtonbsouza](https://github.com/ayrtonbsouza)
@@ -99,3 +98,4 @@
 - [giordanobraz](https://github.com/giordanobraz)
 - [SingularisArt](https://github.com/SingularisArt)
 - [agathafr](https://github.com/agathafr)
+- [Karan36k](https://github.com/Karan36k)
