@@ -11,7 +11,6 @@
 - [ismaely](https://github.com/ismaely)
 - [Dickens-odera](https://github.com/Dickens-odera)
 - [gholi-dev](https://github.com/gholi-dev)
-- [ahr9n](https://github.com/ahr9n)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
@@ -99,3 +98,4 @@
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
 - [Suares01](https://github.com/Suares01)
+- [hatane-rgb](https://github.com/hatane-rgb)
