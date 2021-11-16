@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
 - [csxHiker](https://github.com/csxHiker)
 - [beinjamin](https://github.com/beinjamin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Dickens-odera](https://github.com/Dickens-odera)
 - [gholi-dev](https://github.com/gholi-dev)
 - [ahr9n](https://github.com/ahr9n)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 
 #### 🎢 Stats
 

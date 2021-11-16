@@ -1,4 +1,5 @@
 
+- [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
 - [csxHiker](https://github.com/csxHiker)
 - [beinjamin](https://github.com/beinjamin)
@@ -98,4 +99,3 @@
 - [Suares01](https://github.com/Suares01)
 - [hatane-rgb](https://github.com/hatane-rgb)
 - [giordanobraz](https://github.com/giordanobraz)
-- [SingularisArt](https://github.com/SingularisArt)
