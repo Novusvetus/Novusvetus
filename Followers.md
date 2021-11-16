@@ -20,7 +20,6 @@
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [tymsai](https://github.com/tymsai)
 - [emredz](https://github.com/emredz)
-- [neuromaster](https://github.com/neuromaster)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
 - [RejayMorada0](https://github.com/RejayMorada0)
@@ -99,3 +98,4 @@
 - [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
+- [Suares01](https://github.com/Suares01)
