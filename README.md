@@ -59,6 +59,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jtorquetti](https://github.com/jtorquetti)
+- [peterirlam](https://github.com/peterirlam)
+- [alineai18](https://github.com/alineai18)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
 - [csxHiker](https://github.com/csxHiker)
@@ -66,9 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [katchion13](https://github.com/katchion13)
 - [CAVIND46016](https://github.com/CAVIND46016)
 - [ismaely](https://github.com/ismaely)
-- [Dickens-odera](https://github.com/Dickens-odera)
-- [gholi-dev](https://github.com/gholi-dev)
-- [ahr9n](https://github.com/ahr9n)
 
 #### 🎢 Stats
 
