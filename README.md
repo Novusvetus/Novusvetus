@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rakib2944](https://github.com/rakib2944)
 - [Gonzasay](https://github.com/Gonzasay)
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [cengizhankarabel](https://github.com/cengizhankarabel)
 - [csxHiker](https://github.com/csxHiker)
 - [beinjamin](https://github.com/beinjamin)
-- [katchion13](https://github.com/katchion13)
 
 #### 🎢 Stats
 
