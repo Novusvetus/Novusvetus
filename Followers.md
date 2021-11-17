@@ -1,4 +1,5 @@
 
+- [Gonzasay](https://github.com/Gonzasay)
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
@@ -98,4 +99,3 @@
 - [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
 - [Ryan-Menezes](https://github.com/Ryan-Menezes)
-- [Suares01](https://github.com/Suares01)
