@@ -42,6 +42,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [package.json updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/87) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [All dependencies to newest versions.](https://github.com/Novusvetus/action-phpinsights/pull/26) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [All dependencies to newest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/78) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [New structure files.](https://github.com/Novusvetus/Mendelssohn/pull/1) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
@@ -51,7 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [First version.](https://github.com/Novusvetus/action-phpinsights/pull/6) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [More dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/58) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [README updated.](https://github.com/Novusvetus/AutoGitIgnore/pull/4) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
-- [Refactor](https://github.com/Novusvetus/AutoGitIgnore/pull/3) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
