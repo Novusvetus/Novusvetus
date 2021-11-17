@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
 - [alineai18](https://github.com/alineai18)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [beinjamin](https://github.com/beinjamin)
 - [katchion13](https://github.com/katchion13)
 - [CAVIND46016](https://github.com/CAVIND46016)
-- [ismaely](https://github.com/ismaely)
 
 #### 🎢 Stats
 
