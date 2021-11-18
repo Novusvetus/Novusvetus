@@ -1,4 +1,5 @@
 
+- [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [httpanand](https://github.com/httpanand)
 - [rakib2944](https://github.com/rakib2944)
@@ -98,4 +99,3 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [oliveiralecca](https://github.com/oliveiralecca)
 - [haticeozdemir](https://github.com/haticeozdemir)
-- [karishmashuklaa](https://github.com/karishmashuklaa)

@@ -9,8 +9,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
@@ -42,6 +42,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [dessant/lock-threads update](https://github.com/Novusvetus/action-phpinsights/pull/37) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Version 1.1.0](https://github.com/Novusvetus/action-phpinsights/pull/35) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Bugfix for Affiliate Marketing in Registration](https://github.com/shopware/platform/pull/2188) on [shopware/platform](https://github.com/shopware/platform)
 - [package.json updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/87) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [All dependencies to newest versions.](https://github.com/Novusvetus/action-phpinsights/pull/26) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
@@ -50,8 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Dependencies](https://github.com/Novusvetus/action-php_codesniffer/pull/76) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/71) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Dependencies](https://github.com/Novusvetus/action-phpinsights/pull/19) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [First version.](https://github.com/Novusvetus/action-phpinsights/pull/6) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [More dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/58) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [httpanand](https://github.com/httpanand)
 - [rakib2944](https://github.com/rakib2944)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [peterirlam](https://github.com/peterirlam)
 - [alineai18](https://github.com/alineai18)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
-- [cengizhankarabel](https://github.com/cengizhankarabel)
 
 #### 🎢 Stats
 
