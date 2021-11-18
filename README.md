@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [abhaypawar](https://github.com/abhaypawar)
 - [httpanand](https://github.com/httpanand)
 - [rakib2944](https://github.com/rakib2944)
 - [Gonzasay](https://github.com/Gonzasay)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [alineai18](https://github.com/alineai18)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
-- [csxHiker](https://github.com/csxHiker)
 
 #### 🎢 Stats
 
