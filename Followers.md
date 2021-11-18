@@ -1,4 +1,5 @@
 
+- [httpanand](https://github.com/httpanand)
 - [rakib2944](https://github.com/rakib2944)
 - [Gonzasay](https://github.com/Gonzasay)
 - [gamemann](https://github.com/gamemann)
@@ -31,7 +32,6 @@
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
-- [httpanand](https://github.com/httpanand)
 - [meharwalarsh](https://github.com/meharwalarsh)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
@@ -86,7 +86,6 @@
 - [Rajveer2009](https://github.com/Rajveer2009)
 - [Zizwar](https://github.com/Zizwar)
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
-- [ael-imra](https://github.com/ael-imra)
 - [gabrielcatalao](https://github.com/gabrielcatalao)
 - [lucas-caribe](https://github.com/lucas-caribe)
 - [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
@@ -99,3 +98,4 @@
 - [oliveiralecca](https://github.com/oliveiralecca)
 - [haticeozdemir](https://github.com/haticeozdemir)
 - [karishmashuklaa](https://github.com/karishmashuklaa)
+- [Ryan-Menezes](https://github.com/Ryan-Menezes)
