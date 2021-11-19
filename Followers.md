@@ -62,7 +62,6 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
 - [eduardomecchia](https://github.com/eduardomecchia)
-- [vidyesh95](https://github.com/vidyesh95)
 - [ali1129js](https://github.com/ali1129js)
 - [Jefferson472](https://github.com/Jefferson472)
 - [xdvrx1](https://github.com/xdvrx1)
@@ -99,3 +98,4 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [oliveiralecca](https://github.com/oliveiralecca)
 - [haticeozdemir](https://github.com/haticeozdemir)
+- [karishmashuklaa](https://github.com/karishmashuklaa)
