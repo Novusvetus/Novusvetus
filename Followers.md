@@ -1,4 +1,5 @@
 
+- [shreyasinegi](https://github.com/shreyasinegi)
 - [riz4d](https://github.com/riz4d)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
@@ -98,4 +99,3 @@
 - [ChefIronBelly](https://github.com/ChefIronBelly)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [oliveiralecca](https://github.com/oliveiralecca)
-- [haticeozdemir](https://github.com/haticeozdemir)
