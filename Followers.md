@@ -37,7 +37,7 @@
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
-- [meharwalarsh](https://github.com/meharwalarsh)
+- [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
