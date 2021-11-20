@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [yekoroglu27](https://github.com/yekoroglu27)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [riz4d](https://github.com/riz4d)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [rakib2944](https://github.com/rakib2944)
 - [Gonzasay](https://github.com/Gonzasay)
 - [gamemann](https://github.com/gamemann)
-- [jtorquetti](https://github.com/jtorquetti)
 
 #### 🎢 Stats
 
