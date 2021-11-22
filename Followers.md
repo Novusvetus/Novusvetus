@@ -3,7 +3,6 @@
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [riz4d](https://github.com/riz4d)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [httpanand](https://github.com/httpanand)
@@ -99,3 +98,4 @@
 - [andresmeireles](https://github.com/andresmeireles)
 - [ayrtonbsouza](https://github.com/ayrtonbsouza)
 - [gabao55](https://github.com/gabao55)
+- [ChefIronBelly](https://github.com/ChefIronBelly)

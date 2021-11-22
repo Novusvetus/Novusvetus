@@ -63,12 +63,12 @@ _Nobody sponsors me. I am poor..._
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [riz4d](https://github.com/riz4d)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [httpanand](https://github.com/httpanand)
 - [rakib2944](https://github.com/rakib2944)
 - [Gonzasay](https://github.com/Gonzasay)
+- [gamemann](https://github.com/gamemann)
 
 #### 🎢 Stats
 
