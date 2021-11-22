@@ -64,11 +64,11 @@ _Nobody sponsors me. I am poor..._
 - [villegasss](https://github.com/villegasss)
 - [emir1031](https://github.com/emir1031)
 - [yekoroglu27](https://github.com/yekoroglu27)
-- [aclaraamorim](https://github.com/aclaraamorim)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [rakib2944](https://github.com/rakib2944)
+- [Gonzasay](https://github.com/Gonzasay)
 
 #### 🎢 Stats
 

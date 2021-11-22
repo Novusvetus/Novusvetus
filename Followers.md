@@ -4,7 +4,6 @@
 - [villegasss](https://github.com/villegasss)
 - [emir1031](https://github.com/emir1031)
 - [yekoroglu27](https://github.com/yekoroglu27)
-- [aclaraamorim](https://github.com/aclaraamorim)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
@@ -99,3 +98,4 @@
 - [iLeonidze](https://github.com/iLeonidze)
 - [andresmeireles](https://github.com/andresmeireles)
 - [ayrtonbsouza](https://github.com/ayrtonbsouza)
+- [gabao55](https://github.com/gabao55)
