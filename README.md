@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CrispenGari](https://github.com/CrispenGari)
 - [robinsonstewart](https://github.com/robinsonstewart)
 - [rj45man](https://github.com/rj45man)
 - [Bio1001](https://github.com/Bio1001)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [emir1031](https://github.com/emir1031)
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [marjanovicbrane](https://github.com/marjanovicbrane)
 
 #### 🎢 Stats
 
