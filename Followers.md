@@ -1,4 +1,5 @@
 
+- [hectormenendez](https://github.com/hectormenendez)
 - [CrispenGari](https://github.com/CrispenGari)
 - [robinsonstewart](https://github.com/robinsonstewart)
 - [rj45man](https://github.com/rj45man)
@@ -98,4 +99,3 @@
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
 - [gabrielcatalao](https://github.com/gabrielcatalao)
 - [lucas-caribe](https://github.com/lucas-caribe)
-- [Julianocamposdossantos](https://github.com/Julianocamposdossantos)
