@@ -1,4 +1,5 @@
 
+- [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
 - [CrispenGari](https://github.com/CrispenGari)
 - [robinsonstewart](https://github.com/robinsonstewart)
@@ -98,4 +99,3 @@
 - [Zizwar](https://github.com/Zizwar)
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
 - [gabrielcatalao](https://github.com/gabrielcatalao)
-- [lucas-caribe](https://github.com/lucas-caribe)
