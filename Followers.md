@@ -1,4 +1,5 @@
 
+- [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
 - [CrispenGari](https://github.com/CrispenGari)
@@ -98,4 +99,3 @@
 - [Rajveer2009](https://github.com/Rajveer2009)
 - [Zizwar](https://github.com/Zizwar)
 - [PedrohvFernandes](https://github.com/PedrohvFernandes)
-- [gabrielcatalao](https://github.com/gabrielcatalao)
