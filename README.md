@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [RichardStewart214](https://github.com/RichardStewart214)
+- [letteldream](https://github.com/letteldream)
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [rj45man](https://github.com/rj45man)
 - [Bio1001](https://github.com/Bio1001)
 - [Karan36k](https://github.com/Karan36k)
-- [httpanand](https://github.com/httpanand)
-- [villegasss](https://github.com/villegasss)
 
 #### 🎢 Stats
 
