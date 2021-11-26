@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aash-gates](https://github.com/aash-gates)
 - [CallbackCat777](https://github.com/CallbackCat777)
 - [RichardStewart214](https://github.com/RichardStewart214)
 - [letteldream](https://github.com/letteldream)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CrispenGari](https://github.com/CrispenGari)
 - [robinsonstewart](https://github.com/robinsonstewart)
 - [rj45man](https://github.com/rj45man)
-- [Bio1001](https://github.com/Bio1001)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [aash-gates](https://github.com/aash-gates)
 - [CallbackCat777](https://github.com/CallbackCat777)
 - [RichardStewart214](https://github.com/RichardStewart214)
 - [letteldream](https://github.com/letteldream)
@@ -57,7 +58,6 @@
 - [saeidjeddi](https://github.com/saeidjeddi)
 - [deciduously](https://github.com/deciduously)
 - [CyrineOsorio](https://github.com/CyrineOsorio)
-- [aash-gates](https://github.com/aash-gates)
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
