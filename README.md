@@ -67,8 +67,8 @@ _Nobody sponsors me. I am poor..._
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
-- [CrispenGari](https://github.com/CrispenGari)
 - [robinsonstewart](https://github.com/robinsonstewart)
+- [rj45man](https://github.com/rj45man)
 
 #### 🎢 Stats
 

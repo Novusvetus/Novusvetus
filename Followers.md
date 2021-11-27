@@ -7,7 +7,6 @@
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
-- [CrispenGari](https://github.com/CrispenGari)
 - [robinsonstewart](https://github.com/robinsonstewart)
 - [rj45man](https://github.com/rj45man)
 - [Bio1001](https://github.com/Bio1001)
@@ -99,3 +98,4 @@
 - [AnneLivia](https://github.com/AnneLivia)
 - [vjanz](https://github.com/vjanz)
 - [FreitasLucas01](https://github.com/FreitasLucas01)
+- [tysonstar912913](https://github.com/tysonstar912913)
