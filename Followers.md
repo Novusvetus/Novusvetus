@@ -1,4 +1,5 @@
 
+- [vitasha10](https://github.com/vitasha10)
 - [agathafr](https://github.com/agathafr)
 - [aash-gates](https://github.com/aash-gates)
 - [CallbackCat777](https://github.com/CallbackCat777)
@@ -98,4 +99,3 @@
 - [AnneLivia](https://github.com/AnneLivia)
 - [vjanz](https://github.com/vjanz)
 - [FreitasLucas01](https://github.com/FreitasLucas01)
-- [tysonstar912913](https://github.com/tysonstar912913)
