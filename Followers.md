@@ -1,4 +1,5 @@
 
+- [DreamMicro](https://github.com/DreamMicro)
 - [vitasha10](https://github.com/vitasha10)
 - [agathafr](https://github.com/agathafr)
 - [aash-gates](https://github.com/aash-gates)
@@ -98,4 +99,3 @@
 - [andersongrochocki](https://github.com/andersongrochocki)
 - [AnneLivia](https://github.com/AnneLivia)
 - [vjanz](https://github.com/vjanz)
-- [FreitasLucas01](https://github.com/FreitasLucas01)
