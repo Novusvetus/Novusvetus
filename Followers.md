@@ -28,7 +28,6 @@
 - [alineai18](https://github.com/alineai18)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
-- [csxHiker](https://github.com/csxHiker)
 - [beinjamin](https://github.com/beinjamin)
 - [katchion13](https://github.com/katchion13)
 - [CAVIND46016](https://github.com/CAVIND46016)
@@ -99,3 +98,4 @@
 - [andersongrochocki](https://github.com/andersongrochocki)
 - [AnneLivia](https://github.com/AnneLivia)
 - [vjanz](https://github.com/vjanz)
+- [FreitasLucas01](https://github.com/FreitasLucas01)
