@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [httpanand](https://github.com/httpanand)
 - [DreamMicro](https://github.com/DreamMicro)
 - [vitasha10](https://github.com/vitasha10)
 - [agathafr](https://github.com/agathafr)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [letteldream](https://github.com/letteldream)
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
-- [hectormenendez](https://github.com/hectormenendez)
 
 #### 🎢 Stats
 
