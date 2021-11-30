@@ -42,6 +42,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Some Updates](https://github.com/Novusvetus/action-phpinsights/pull/48) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Some Updates](https://github.com/Novusvetus/action-php_codesniffer/pull/104) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Version 1.2.0](https://github.com/Novusvetus/action-php_codesniffer/pull/93) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [dessant/lock-threads update](https://github.com/Novusvetus/action-phpinsights/pull/37) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Version 1.1.0](https://github.com/Novusvetus/action-phpinsights/pull/35) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
@@ -50,8 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [All dependencies to newest versions.](https://github.com/Novusvetus/action-phpinsights/pull/26) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [All dependencies to newest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/78) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [New structure files.](https://github.com/Novusvetus/Mendelssohn/pull/1) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
-- [Dependencies](https://github.com/Novusvetus/action-php_codesniffer/pull/76) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Dependencies updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/71) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
