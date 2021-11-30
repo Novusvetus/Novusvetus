@@ -1,4 +1,5 @@
 
+- [jassmin-herr09](https://github.com/jassmin-herr09)
 - [httpanand](https://github.com/httpanand)
 - [DreamMicro](https://github.com/DreamMicro)
 - [vitasha10](https://github.com/vitasha10)
@@ -98,4 +99,3 @@
 - [andersongrochocki](https://github.com/andersongrochocki)
 - [AnneLivia](https://github.com/AnneLivia)
 - [vjanz](https://github.com/vjanz)
-- [FreitasLucas01](https://github.com/FreitasLucas01)
