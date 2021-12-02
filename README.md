@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ashishkumar30](https://github.com/ashishkumar30)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
 - [httpanand](https://github.com/httpanand)
 - [DreamMicro](https://github.com/DreamMicro)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CallbackCat777](https://github.com/CallbackCat777)
 - [RichardStewart214](https://github.com/RichardStewart214)
 - [letteldream](https://github.com/letteldream)
-- [dominickbrasileiro](https://github.com/dominickbrasileiro)
 
 #### 🎢 Stats
 
