@@ -1,4 +1,5 @@
 
+- [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
 - [httpanand](https://github.com/httpanand)
 - [zujen19](https://github.com/zujen19)
@@ -98,4 +99,3 @@
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
-- [LucasManete](https://github.com/LucasManete)
