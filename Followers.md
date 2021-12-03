@@ -1,4 +1,5 @@
 
+- [izkillaz](https://github.com/izkillaz)
 - [httpanand](https://github.com/httpanand)
 - [zujen19](https://github.com/zujen19)
 - [ashishkumar30](https://github.com/ashishkumar30)
@@ -98,4 +99,3 @@
 - [hsiaofongw](https://github.com/hsiaofongw)
 - [MatheusWanderson](https://github.com/MatheusWanderson)
 - [LucasManete](https://github.com/LucasManete)
-- [andersongrochocki](https://github.com/andersongrochocki)
