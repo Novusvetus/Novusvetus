@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pedromdsn](https://github.com/Pedromdsn)
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [jassmin-herr09](https://github.com/jassmin-herr09)
 - [DreamMicro](https://github.com/DreamMicro)
 - [vitasha10](https://github.com/vitasha10)
-- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [Pedromdsn](https://github.com/Pedromdsn)
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
@@ -98,4 +99,3 @@
 - [safaeean](https://github.com/safaeean)
 - [lazarm520](https://github.com/lazarm520)
 - [hsiaofongw](https://github.com/hsiaofongw)
-- [MatheusWanderson](https://github.com/MatheusWanderson)
