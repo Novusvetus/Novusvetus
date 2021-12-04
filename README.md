@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [alineai18](https://github.com/alineai18)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [zujen19](https://github.com/zujen19)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
-- [DreamMicro](https://github.com/DreamMicro)
 
 #### 🎢 Stats
 

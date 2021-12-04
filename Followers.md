@@ -1,4 +1,5 @@
 
+- [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [alineai18](https://github.com/alineai18)
@@ -98,4 +99,3 @@
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
-- [lazarm520](https://github.com/lazarm520)
