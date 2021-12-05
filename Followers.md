@@ -7,7 +7,6 @@
 - [izkillaz](https://github.com/izkillaz)
 - [httpanand](https://github.com/httpanand)
 - [zujen19](https://github.com/zujen19)
-- [ashishkumar30](https://github.com/ashishkumar30)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
 - [DreamMicro](https://github.com/DreamMicro)
 - [vitasha10](https://github.com/vitasha10)
@@ -99,3 +98,4 @@
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
+- [lazarm520](https://github.com/lazarm520)

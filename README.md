@@ -67,8 +67,8 @@ _Nobody sponsors me. I am poor..._
 - [izkillaz](https://github.com/izkillaz)
 - [httpanand](https://github.com/httpanand)
 - [zujen19](https://github.com/zujen19)
-- [ashishkumar30](https://github.com/ashishkumar30)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
+- [DreamMicro](https://github.com/DreamMicro)
 
 #### 🎢 Stats
 
