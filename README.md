@@ -59,10 +59,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pedromdsn](https://github.com/Pedromdsn)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
-- [Pedromdsn](https://github.com/Pedromdsn)
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
