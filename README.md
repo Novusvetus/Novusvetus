@@ -11,9 +11,9 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
-- [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - (WIP) Tracking your IntelliJ activity and push it to your own Endpoint.
@@ -42,6 +42,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updated structure.](https://github.com/Novusvetus/AutoGitIgnore/pull/5) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updated structure.](https://github.com/Novusvetus/ClassHelper/pull/5) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Packages updated to latest versions.](https://github.com/Novusvetus/action-phpinsights/pull/56) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Packages updated to latest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/112) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -51,7 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [dessant/lock-threads update](https://github.com/Novusvetus/action-phpinsights/pull/37) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Version 1.1.0](https://github.com/Novusvetus/action-phpinsights/pull/35) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Bugfix for Affiliate Marketing in Registration](https://github.com/shopware/platform/pull/2188) on [shopware/platform](https://github.com/shopware/platform)
-- [package.json updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/87) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
