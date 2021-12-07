@@ -1,4 +1,5 @@
 
+- [bricko15](https://github.com/bricko15)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [cherucole](https://github.com/cherucole)
@@ -98,4 +99,3 @@
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
-- [lazarm520](https://github.com/lazarm520)
