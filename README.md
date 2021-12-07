@@ -42,6 +42,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Packages updated to latest versions.](https://github.com/Novusvetus/action-phpinsights/pull/56) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Packages updated to latest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/112) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Some Updates](https://github.com/Novusvetus/action-phpinsights/pull/48) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Some Updates](https://github.com/Novusvetus/action-php_codesniffer/pull/104) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Version 1.2.0](https://github.com/Novusvetus/action-php_codesniffer/pull/93) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -50,8 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Bugfix for Affiliate Marketing in Registration](https://github.com/shopware/platform/pull/2188) on [shopware/platform](https://github.com/shopware/platform)
 - [package.json updated.](https://github.com/Novusvetus/action-php_codesniffer/pull/87) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [All dependencies to newest versions.](https://github.com/Novusvetus/action-phpinsights/pull/26) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [All dependencies to newest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/78) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [New structure files.](https://github.com/Novusvetus/Mendelssohn/pull/1) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
