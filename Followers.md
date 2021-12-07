@@ -10,7 +10,6 @@
 - [zujen19](https://github.com/zujen19)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
 - [DreamMicro](https://github.com/DreamMicro)
-- [vitasha10](https://github.com/vitasha10)
 - [agathafr](https://github.com/agathafr)
 - [aash-gates](https://github.com/aash-gates)
 - [CallbackCat777](https://github.com/CallbackCat777)
@@ -99,3 +98,4 @@
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
+- [lazarm520](https://github.com/lazarm520)
