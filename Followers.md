@@ -48,7 +48,6 @@
 - [xetnopnawab](https://github.com/xetnopnawab)
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
-- [tymsai](https://github.com/tymsai)
 - [emredz](https://github.com/emredz)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
@@ -99,3 +98,4 @@
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
+- [lazarm520](https://github.com/lazarm520)
