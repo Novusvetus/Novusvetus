@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pedromdsn](https://github.com/Pedromdsn)
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
 - [httpanand](https://github.com/httpanand)
-- [zujen19](https://github.com/zujen19)
 
 #### 🎢 Stats
 
