@@ -1,7 +1,6 @@
 
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
-- [Pedromdsn](https://github.com/Pedromdsn)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
@@ -99,3 +98,4 @@
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
 - [jmoseka](https://github.com/jmoseka)
 - [safaeean](https://github.com/safaeean)
+- [lazarm520](https://github.com/lazarm520)

@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
-- [Pedromdsn](https://github.com/Pedromdsn)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
 - [httpanand](https://github.com/httpanand)
+- [zujen19](https://github.com/zujen19)
 
 #### 🎢 Stats
 
