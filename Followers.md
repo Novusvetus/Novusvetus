@@ -1,4 +1,5 @@
 
+- [Joey-Resende](https://github.com/Joey-Resende)
 - [wg-d](https://github.com/wg-d)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [rakib3004](https://github.com/rakib3004)
@@ -57,7 +58,6 @@
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
-- [Joey-Resende](https://github.com/Joey-Resende)
 - [LucioFex](https://github.com/LucioFex)
 - [eduprogrammer](https://github.com/eduprogrammer)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
