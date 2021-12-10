@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wg-d](https://github.com/wg-d)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
-- [httpanand](https://github.com/httpanand)
 
 #### 🎢 Stats
 
