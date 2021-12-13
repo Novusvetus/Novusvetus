@@ -1,4 +1,5 @@
 
+- [Pedromdsn](https://github.com/Pedromdsn)
 - [jonasermert](https://github.com/jonasermert)
 - [acen20](https://github.com/acen20)
 - [Joey-Resende](https://github.com/Joey-Resende)
@@ -98,4 +99,3 @@
 - [NTDEV-byte](https://github.com/NTDEV-byte)
 - [ThainaIsrael](https://github.com/ThainaIsrael)
 - [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
-- [jmoseka](https://github.com/jmoseka)

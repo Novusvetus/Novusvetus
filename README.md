@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pedromdsn](https://github.com/Pedromdsn)
 - [jonasermert](https://github.com/jonasermert)
 - [acen20](https://github.com/acen20)
 - [Joey-Resende](https://github.com/Joey-Resende)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [alineai18](https://github.com/alineai18)
-- [G-Nck](https://github.com/G-Nck)
 
 #### 🎢 Stats
 
