@@ -1,4 +1,6 @@
 
+- [Phuong39](https://github.com/Phuong39)
+- [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [jonasermert](https://github.com/jonasermert)
@@ -97,5 +99,3 @@
 - [polcats](https://github.com/polcats)
 - [matheesha-pathirana](https://github.com/matheesha-pathirana)
 - [trkaydn](https://github.com/trkaydn)
-- [NTDEV-byte](https://github.com/NTDEV-byte)
-- [ThainaIsrael](https://github.com/ThainaIsrael)

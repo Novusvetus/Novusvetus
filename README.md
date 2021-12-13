@@ -58,6 +58,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Phuong39](https://github.com/Phuong39)
+- [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [jonasermert](https://github.com/jonasermert)
@@ -66,8 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
-- [cherucole](https://github.com/cherucole)
-- [OnurEldrinx](https://github.com/OnurEldrinx)
 
 #### 🎢 Stats
 
