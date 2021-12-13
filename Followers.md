@@ -1,4 +1,5 @@
 
+- [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [Pedromdsn](https://github.com/Pedromdsn)
 - [jonasermert](https://github.com/jonasermert)
 - [acen20](https://github.com/acen20)
@@ -98,4 +99,3 @@
 - [trkaydn](https://github.com/trkaydn)
 - [NTDEV-byte](https://github.com/NTDEV-byte)
 - [ThainaIsrael](https://github.com/ThainaIsrael)
-- [TAKANOME-DEV](https://github.com/TAKANOME-DEV)
