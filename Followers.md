@@ -3,7 +3,6 @@
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
-- [Pedromdsn](https://github.com/Pedromdsn)
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [rakib3004](https://github.com/rakib3004)
@@ -99,3 +98,4 @@
 - [polcats](https://github.com/polcats)
 - [matheesha-pathirana](https://github.com/matheesha-pathirana)
 - [trkaydn](https://github.com/trkaydn)
+- [NTDEV-byte](https://github.com/NTDEV-byte)
