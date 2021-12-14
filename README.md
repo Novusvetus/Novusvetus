@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DuLinRain](https://github.com/DuLinRain)
 - [xorozo](https://github.com/xorozo)
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
-- [cherucole](https://github.com/cherucole)
 
 #### 🎢 Stats
 
