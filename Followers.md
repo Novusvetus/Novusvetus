@@ -1,4 +1,6 @@
 
+- [aplus-developer](https://github.com/aplus-developer)
+- [tonivucodigital](https://github.com/tonivucodigital)
 - [DuLinRain](https://github.com/DuLinRain)
 - [xorozo](https://github.com/xorozo)
 - [Phuong39](https://github.com/Phuong39)
@@ -97,5 +99,3 @@
 - [vipinkumarpawar](https://github.com/vipinkumarpawar)
 - [polcats](https://github.com/polcats)
 - [matheesha-pathirana](https://github.com/matheesha-pathirana)
-- [trkaydn](https://github.com/trkaydn)
-- [NTDEV-byte](https://github.com/NTDEV-byte)

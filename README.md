@@ -58,6 +58,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aplus-developer](https://github.com/aplus-developer)
+- [tonivucodigital](https://github.com/tonivucodigital)
 - [DuLinRain](https://github.com/DuLinRain)
 - [xorozo](https://github.com/xorozo)
 - [Phuong39](https://github.com/Phuong39)
@@ -66,8 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [rakib3004](https://github.com/rakib3004)
-- [bricko15](https://github.com/bricko15)
-- [aclaraamorim](https://github.com/aclaraamorim)
 
 #### 🎢 Stats
 
