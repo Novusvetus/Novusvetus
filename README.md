@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [daneza1010](https://github.com/daneza1010)
 - [somekindofwallflower](https://github.com/somekindofwallflower)
 - [aplus-developer](https://github.com/aplus-developer)
 - [tonivucodigital](https://github.com/tonivucodigital)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
-- [Joey-Resende](https://github.com/Joey-Resende)
 
 #### 🎢 Stats
 
