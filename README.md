@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
 - [somekindofwallflower](https://github.com/somekindofwallflower)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [xorozo](https://github.com/xorozo)
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
-- [Cryptoaliens25](https://github.com/Cryptoaliens25)
 
 #### 🎢 Stats
 
