@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ace-Krypton](https://github.com/Ace-Krypton)
 - [httpanand](https://github.com/httpanand)
 - [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [tonivucodigital](https://github.com/tonivucodigital)
 - [DuLinRain](https://github.com/DuLinRain)
 - [xorozo](https://github.com/xorozo)
-- [Phuong39](https://github.com/Phuong39)
 
 #### 🎢 Stats
 

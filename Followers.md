@@ -1,4 +1,5 @@
 
+- [Ace-Krypton](https://github.com/Ace-Krypton)
 - [httpanand](https://github.com/httpanand)
 - [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
@@ -98,4 +99,3 @@
 - [eduardomecchia](https://github.com/eduardomecchia)
 - [ali1129js](https://github.com/ali1129js)
 - [Jefferson472](https://github.com/Jefferson472)
-- [xdvrx1](https://github.com/xdvrx1)
