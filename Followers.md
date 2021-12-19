@@ -1,4 +1,5 @@
 
+- [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
 - [somekindofwallflower](https://github.com/somekindofwallflower)
 - [aplus-developer](https://github.com/aplus-developer)
@@ -98,4 +99,3 @@
 - [Jefferson472](https://github.com/Jefferson472)
 - [xdvrx1](https://github.com/xdvrx1)
 - [Mert18](https://github.com/Mert18)
-- [vipinkumarpawar](https://github.com/vipinkumarpawar)
