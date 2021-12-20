@@ -1,4 +1,5 @@
 
+- [jgrajewsky](https://github.com/jgrajewsky)
 - [wg-d](https://github.com/wg-d)
 - [Olaf0257](https://github.com/Olaf0257)
 - [Ace-Krypton](https://github.com/Ace-Krypton)
@@ -98,4 +99,3 @@
 - [frederikme](https://github.com/frederikme)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
-- [eduardomecchia](https://github.com/eduardomecchia)
