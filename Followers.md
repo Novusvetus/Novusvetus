@@ -1,4 +1,5 @@
 
+- [wg-d](https://github.com/wg-d)
 - [Olaf0257](https://github.com/Olaf0257)
 - [Ace-Krypton](https://github.com/Ace-Krypton)
 - [httpanand](https://github.com/httpanand)
@@ -98,4 +99,3 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [TECHforGEEKS](https://github.com/TECHforGEEKS)
 - [eduardomecchia](https://github.com/eduardomecchia)
-- [ali1129js](https://github.com/ali1129js)
