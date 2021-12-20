@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Olaf0257](https://github.com/Olaf0257)
 - [Ace-Krypton](https://github.com/Ace-Krypton)
 - [httpanand](https://github.com/httpanand)
 - [formidablae](https://github.com/formidablae)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [aplus-developer](https://github.com/aplus-developer)
 - [tonivucodigital](https://github.com/tonivucodigital)
 - [DuLinRain](https://github.com/DuLinRain)
-- [xorozo](https://github.com/xorozo)
 
 #### 🎢 Stats
 
