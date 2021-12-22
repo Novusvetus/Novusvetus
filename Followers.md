@@ -1,4 +1,5 @@
 
+- [dinosoid](https://github.com/dinosoid)
 - [CodePromoter](https://github.com/CodePromoter)
 - [jgrajewsky](https://github.com/jgrajewsky)
 - [wg-d](https://github.com/wg-d)
@@ -98,4 +99,3 @@
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 - [frederikme](https://github.com/frederikme)
-- [Wesley-Breno](https://github.com/Wesley-Breno)
