@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CodePromoter](https://github.com/CodePromoter)
 - [jgrajewsky](https://github.com/jgrajewsky)
 - [wg-d](https://github.com/wg-d)
 - [Olaf0257](https://github.com/Olaf0257)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
 - [somekindofwallflower](https://github.com/somekindofwallflower)
-- [aplus-developer](https://github.com/aplus-developer)
 
 #### 🎢 Stats
 
