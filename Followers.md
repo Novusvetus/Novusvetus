@@ -1,11 +1,12 @@
 
+- [ashishkumar30](https://github.com/ashishkumar30)
+- [Ace-Krypton](https://github.com/Ace-Krypton)
 - [httpanand](https://github.com/httpanand)
 - [dinosoid](https://github.com/dinosoid)
 - [CodePromoter](https://github.com/CodePromoter)
 - [jgrajewsky](https://github.com/jgrajewsky)
 - [wg-d](https://github.com/wg-d)
 - [Olaf0257](https://github.com/Olaf0257)
-- [Ace-Krypton](https://github.com/Ace-Krypton)
 - [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
@@ -98,4 +99,3 @@
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
 - [frederikme](https://github.com/frederikme)
-- [Wesley-Breno](https://github.com/Wesley-Breno)
