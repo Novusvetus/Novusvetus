@@ -1,4 +1,5 @@
 
+- [tymsai](https://github.com/tymsai)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Ace-Krypton](https://github.com/Ace-Krypton)
 - [httpanand](https://github.com/httpanand)
@@ -98,4 +99,3 @@
 - [nattheriddle1](https://github.com/nattheriddle1)
 - [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
 - [Mustafa-Deveci](https://github.com/Mustafa-Deveci)
-- [frederikme](https://github.com/frederikme)
