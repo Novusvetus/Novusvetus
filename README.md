@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
 - [httpanand](https://github.com/httpanand)
 - [tymsai](https://github.com/tymsai)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [CodePromoter](https://github.com/CodePromoter)
 - [jgrajewsky](https://github.com/jgrajewsky)
 - [wg-d](https://github.com/wg-d)
-- [Olaf0257](https://github.com/Olaf0257)
 
 #### 🎢 Stats
 

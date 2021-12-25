@@ -1,4 +1,5 @@
 
+- [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
 - [httpanand](https://github.com/httpanand)
 - [tymsai](https://github.com/tymsai)
@@ -98,4 +99,3 @@
 - [Ellinsa](https://github.com/Ellinsa)
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
 - [nattheriddle1](https://github.com/nattheriddle1)
-- [EmmanuelOkuchukwu](https://github.com/EmmanuelOkuchukwu)
