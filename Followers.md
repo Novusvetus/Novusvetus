@@ -1,4 +1,5 @@
 
+- [attwice](https://github.com/attwice)
 - [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
 - [httpanand](https://github.com/httpanand)
@@ -98,4 +99,3 @@
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
 - [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
-- [nattheriddle1](https://github.com/nattheriddle1)
