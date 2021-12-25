@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SNOmad1](https://github.com/SNOmad1)
 - [attwice](https://github.com/attwice)
 - [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [Ace-Krypton](https://github.com/Ace-Krypton)
 - [dinosoid](https://github.com/dinosoid)
 - [CodePromoter](https://github.com/CodePromoter)
-- [jgrajewsky](https://github.com/jgrajewsky)
 
 #### 🎢 Stats
 

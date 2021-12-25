@@ -1,4 +1,5 @@
 
+- [SNOmad1](https://github.com/SNOmad1)
 - [attwice](https://github.com/attwice)
 - [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
@@ -98,4 +99,3 @@
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
 - [Ellinsa](https://github.com/Ellinsa)
-- [VieiraMeloRoberta](https://github.com/VieiraMeloRoberta)
