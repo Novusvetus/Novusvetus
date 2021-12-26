@@ -1,4 +1,5 @@
 
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [17920368](https://github.com/17920368)
 - [adajuly](https://github.com/adajuly)
 - [dreamlancer](https://github.com/dreamlancer)
@@ -69,7 +70,6 @@
 - [ismaely](https://github.com/ismaely)
 - [Dickens-odera](https://github.com/Dickens-odera)
 - [gholi-dev](https://github.com/gholi-dev)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
 - [xetnopnawab](https://github.com/xetnopnawab)
