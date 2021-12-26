@@ -11,7 +11,6 @@
 - [tymsai](https://github.com/tymsai)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Ace-Krypton](https://github.com/Ace-Krypton)
-- [dinosoid](https://github.com/dinosoid)
 - [CodePromoter](https://github.com/CodePromoter)
 - [jgrajewsky](https://github.com/jgrajewsky)
 - [wg-d](https://github.com/wg-d)
@@ -99,3 +98,4 @@
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
+- [jvictorfranca](https://github.com/jvictorfranca)
