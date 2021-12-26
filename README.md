@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [adajuly](https://github.com/adajuly)
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
 - [attwice](https://github.com/attwice)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [tymsai](https://github.com/tymsai)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Ace-Krypton](https://github.com/Ace-Krypton)
-- [dinosoid](https://github.com/dinosoid)
 
 #### 🎢 Stats
 

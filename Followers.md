@@ -1,4 +1,5 @@
 
+- [adajuly](https://github.com/adajuly)
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
 - [attwice](https://github.com/attwice)
@@ -98,4 +99,3 @@
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
-- [vefghmhassan](https://github.com/vefghmhassan)
