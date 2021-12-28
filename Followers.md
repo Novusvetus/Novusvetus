@@ -42,7 +42,6 @@
 - [aash-gates](https://github.com/aash-gates)
 - [CallbackCat777](https://github.com/CallbackCat777)
 - [RichardStewart214](https://github.com/RichardStewart214)
-- [letteldream](https://github.com/letteldream)
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
@@ -99,3 +98,4 @@
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
+- [Ellinsa](https://github.com/Ellinsa)
