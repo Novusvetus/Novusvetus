@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [UltronTheAI](https://github.com/UltronTheAI)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [17920368](https://github.com/17920368)
 - [adajuly](https://github.com/adajuly)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
 - [httpanand](https://github.com/httpanand)
-- [tymsai](https://github.com/tymsai)
 
 #### 🎢 Stats
 
