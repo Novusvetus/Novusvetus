@@ -1,4 +1,5 @@
 
+- [lucasjolibois54](https://github.com/lucasjolibois54)
 - [httpanand](https://github.com/httpanand)
 - [UltronTheAI](https://github.com/UltronTheAI)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
@@ -98,4 +99,3 @@
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
-- [vefghmhassan](https://github.com/vefghmhassan)
