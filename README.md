@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 - [lucasjolibois54](https://github.com/lucasjolibois54)
 - [httpanand](https://github.com/httpanand)
 - [UltronTheAI](https://github.com/UltronTheAI)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
 - [attwice](https://github.com/attwice)
-- [AlleSeck](https://github.com/AlleSeck)
 
 #### 🎢 Stats
 
