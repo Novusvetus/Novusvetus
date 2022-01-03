@@ -44,7 +44,7 @@
 - [agathafr](https://github.com/agathafr)
 - [aash-gates](https://github.com/aash-gates)
 - [CallbackCat777](https://github.com/CallbackCat777)
-- [RichardStewart214](https://github.com/RichardStewart214)
+- [LouisLee214](https://github.com/LouisLee214)
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
