@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [alitnk](https://github.com/alitnk)
 - [attwice](https://github.com/attwice)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 - [lucasjolibois54](https://github.com/lucasjolibois54)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [17920368](https://github.com/17920368)
 - [adajuly](https://github.com/adajuly)
 - [dreamlancer](https://github.com/dreamlancer)
-- [SNOmad1](https://github.com/SNOmad1)
 
 #### 🎢 Stats
 
