@@ -14,7 +14,6 @@
 - [carollis2](https://github.com/carollis2)
 - [tymsai](https://github.com/tymsai)
 - [ashishkumar30](https://github.com/ashishkumar30)
-- [Ace-Krypton](https://github.com/Ace-Krypton)
 - [CodePromoter](https://github.com/CodePromoter)
 - [wg-d](https://github.com/wg-d)
 - [Olaf0257](https://github.com/Olaf0257)
@@ -99,3 +98,4 @@
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
+- [Ellinsa](https://github.com/Ellinsa)
