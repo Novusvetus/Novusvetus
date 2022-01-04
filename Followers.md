@@ -1,4 +1,5 @@
 
+- [tonichi24](https://github.com/tonichi24)
 - [katchion13](https://github.com/katchion13)
 - [attwice](https://github.com/attwice)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
@@ -98,4 +99,3 @@
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
 - [vefghmhassan](https://github.com/vefghmhassan)
-- [Ellinsa](https://github.com/Ellinsa)
