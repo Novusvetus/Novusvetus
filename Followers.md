@@ -1,6 +1,5 @@
 
 - [katchion13](https://github.com/katchion13)
-- [alitnk](https://github.com/alitnk)
 - [attwice](https://github.com/attwice)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 - [lucasjolibois54](https://github.com/lucasjolibois54)
@@ -99,3 +98,4 @@
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
 - [jvictorfranca](https://github.com/jvictorfranca)
+- [vefghmhassan](https://github.com/vefghmhassan)
