@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [trollmao](https://github.com/trollmao)
 - [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
 - [litsph](https://github.com/litsph)
 - [httpanand](https://github.com/httpanand)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 - [lucasjolibois54](https://github.com/lucasjolibois54)
 - [UltronTheAI](https://github.com/UltronTheAI)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 
 #### 🎢 Stats
 

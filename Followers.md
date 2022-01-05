@@ -1,4 +1,5 @@
 
+- [trollmao](https://github.com/trollmao)
 - [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
 - [litsph](https://github.com/litsph)
 - [httpanand](https://github.com/httpanand)
@@ -98,4 +99,3 @@
 - [williansamer](https://github.com/williansamer)
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
-- [gutoccs](https://github.com/gutoccs)
