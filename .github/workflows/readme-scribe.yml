@@ -25,12 +25,12 @@ jobs:
           template: "templates/Followers.md.tpl"
           writeTo: "Followers.md"
 
-      - uses: actions/upload-artifact@v2.3.0
+      - uses: actions/upload-artifact@v2.3.1
         with:
           name: README.md
           path: README.md
 
-      - uses: actions/upload-artifact@v2.3.0
+      - uses: actions/upload-artifact@v2.3.1
         with:
           name: Followers.md
           path: Followers.md
