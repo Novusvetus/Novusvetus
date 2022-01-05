@@ -41,7 +41,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
-- [Update 2022 01 05](https://github.com/Novusvetus/action-phpinsights/pull/88) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2022-01-05](https://github.com/Novusvetus/action-phpinsights/pull/88) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2021-12-14](https://github.com/Novusvetus/action-phpinsights/pull/64) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2021-12-14](https://github.com/Novusvetus/action-php_codesniffer/pull/120) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2021-12-12](https://github.com/Novusvetus/action-phpinsights/pull/60) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
