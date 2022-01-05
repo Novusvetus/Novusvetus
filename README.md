@@ -41,6 +41,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Update 2022 01 05](https://github.com/Novusvetus/action-phpinsights/pull/88) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2021-12-14](https://github.com/Novusvetus/action-phpinsights/pull/64) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2021-12-14](https://github.com/Novusvetus/action-php_codesniffer/pull/120) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2021-12-12](https://github.com/Novusvetus/action-phpinsights/pull/60) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
@@ -50,7 +51,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Packages updated to latest versions.](https://github.com/Novusvetus/action-phpinsights/pull/56) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Packages updated to latest versions.](https://github.com/Novusvetus/action-php_codesniffer/pull/112) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Some Updates](https://github.com/Novusvetus/action-phpinsights/pull/48) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Some Updates](https://github.com/Novusvetus/action-php_codesniffer/pull/104) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
 - [litsph](https://github.com/litsph)
 - [httpanand](https://github.com/httpanand)
 - [tonichi24](https://github.com/tonichi24)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [lucasjolibois54](https://github.com/lucasjolibois54)
 - [UltronTheAI](https://github.com/UltronTheAI)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
-- [17920368](https://github.com/17920368)
 
 #### 🎢 Stats
 

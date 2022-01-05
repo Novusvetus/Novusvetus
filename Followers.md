@@ -1,4 +1,5 @@
 
+- [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
 - [litsph](https://github.com/litsph)
 - [httpanand](https://github.com/httpanand)
 - [tonichi24](https://github.com/tonichi24)
@@ -98,4 +99,3 @@
 - [fernandorpm](https://github.com/fernandorpm)
 - [protendai](https://github.com/protendai)
 - [gutoccs](https://github.com/gutoccs)
-- [jvictorfranca](https://github.com/jvictorfranca)
