@@ -22,7 +22,6 @@
 - [tymsai](https://github.com/tymsai)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [CodePromoter](https://github.com/CodePromoter)
-- [wg-d](https://github.com/wg-d)
 - [Olaf0257](https://github.com/Olaf0257)
 - [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
@@ -99,3 +98,4 @@
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
+- [williansamer](https://github.com/williansamer)
