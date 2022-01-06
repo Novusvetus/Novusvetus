@@ -1,6 +1,5 @@
 
 - [ledemkam](https://github.com/ledemkam)
-- [trollmao](https://github.com/trollmao)
 - [judyy006](https://github.com/judyy006)
 - [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
@@ -99,3 +98,4 @@
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
+- [phanatagama](https://github.com/phanatagama)

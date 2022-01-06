@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [ledemkam](https://github.com/ledemkam)
-- [trollmao](https://github.com/trollmao)
 - [judyy006](https://github.com/judyy006)
 - [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
@@ -68,6 +67,7 @@ _Nobody sponsors me. I am poor..._
 - [litsph](https://github.com/litsph)
 - [httpanand](https://github.com/httpanand)
 - [tonichi24](https://github.com/tonichi24)
+- [katchion13](https://github.com/katchion13)
 
 #### 🎢 Stats
 
