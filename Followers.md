@@ -1,4 +1,5 @@
 
+- [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
 - [graceanderick](https://github.com/graceanderick)
 - [trollmao](https://github.com/trollmao)
@@ -98,4 +99,3 @@
 - [CleuJunior](https://github.com/CleuJunior)
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
-- [williansamer](https://github.com/williansamer)

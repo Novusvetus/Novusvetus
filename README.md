@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
 - [graceanderick](https://github.com/graceanderick)
 - [trollmao](https://github.com/trollmao)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [tonichi24](https://github.com/tonichi24)
 - [katchion13](https://github.com/katchion13)
 - [attwice](https://github.com/attwice)
-- [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 
 #### 🎢 Stats
 
