@@ -1,4 +1,5 @@
 
+- [dinosoid](https://github.com/dinosoid)
 - [graceanderick](https://github.com/graceanderick)
 - [trollmao](https://github.com/trollmao)
 - [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
@@ -98,4 +99,3 @@
 - [Novusvetus-bot](https://github.com/Novusvetus-bot)
 - [phanatagama](https://github.com/phanatagama)
 - [williansamer](https://github.com/williansamer)
-- [fernandorpm](https://github.com/fernandorpm)
