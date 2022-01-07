@@ -11,7 +11,6 @@
 - [litsph](https://github.com/litsph)
 - [tonichi24](https://github.com/tonichi24)
 - [katchion13](https://github.com/katchion13)
-- [attwice](https://github.com/attwice)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 - [lucasjolibois54](https://github.com/lucasjolibois54)
 - [UltronTheAI](https://github.com/UltronTheAI)
@@ -99,3 +98,4 @@
 - [CyrineOsorio](https://github.com/CyrineOsorio)
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
+- [Novusvetus-bot](https://github.com/Novusvetus-bot)
