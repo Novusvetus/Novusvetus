@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [httpanand](https://github.com/httpanand)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [graceanderick](https://github.com/graceanderick)
 - [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
 - [litsph](https://github.com/litsph)
-- [httpanand](https://github.com/httpanand)
 
 #### 🎢 Stats
 
