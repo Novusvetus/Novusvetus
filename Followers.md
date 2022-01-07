@@ -1,4 +1,5 @@
 
+- [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
 - [judyy006](https://github.com/judyy006)
@@ -98,4 +99,3 @@
 - [CyrineOsorio](https://github.com/CyrineOsorio)
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
-- [Novusvetus-bot](https://github.com/Novusvetus-bot)
