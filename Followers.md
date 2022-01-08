@@ -1,4 +1,5 @@
 
+- [SamirPaul1](https://github.com/SamirPaul1)
 - [httpanand](https://github.com/httpanand)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
@@ -98,4 +99,3 @@
 - [CyrineOsorio](https://github.com/CyrineOsorio)
 - [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
 - [CleuJunior](https://github.com/CleuJunior)
-- [Novusvetus-bot](https://github.com/Novusvetus-bot)
