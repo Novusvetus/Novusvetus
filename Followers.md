@@ -19,7 +19,6 @@
 - [UltronTheAI](https://github.com/UltronTheAI)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [17920368](https://github.com/17920368)
-- [adajuly](https://github.com/adajuly)
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
 - [AlleSeck](https://github.com/AlleSeck)
@@ -99,3 +98,4 @@
 - [Dulun](https://github.com/Dulun)
 - [deciduously](https://github.com/deciduously)
 - [CyrineOsorio](https://github.com/CyrineOsorio)
+- [Leonardo-Madeira](https://github.com/Leonardo-Madeira)
