@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [trollmao](https://github.com/trollmao)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
 - [judyy006](https://github.com/judyy006)
-- [Jrfranco](https://github.com/Jrfranco)
 
 #### 🎢 Stats
 

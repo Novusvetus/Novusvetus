@@ -1,4 +1,5 @@
 
+- [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [trollmao](https://github.com/trollmao)
@@ -98,4 +99,3 @@
 - [SquidRings](https://github.com/SquidRings)
 - [Dulun](https://github.com/Dulun)
 - [deciduously](https://github.com/deciduously)
-- [CyrineOsorio](https://github.com/CyrineOsorio)
