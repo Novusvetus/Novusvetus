@@ -58,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [JinSSJ3](https://github.com/JinSSJ3)
 - [trollmao](https://github.com/trollmao)
 - [SamirPaul1](https://github.com/SamirPaul1)
 - [httpanand](https://github.com/httpanand)
@@ -67,7 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [judyy006](https://github.com/judyy006)
 - [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
-- [graceanderick](https://github.com/graceanderick)
 
 #### 🎢 Stats
 
