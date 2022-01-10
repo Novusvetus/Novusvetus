@@ -1,4 +1,5 @@
 
+- [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
@@ -98,4 +99,3 @@
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
 - [Dulun](https://github.com/Dulun)
-- [deciduously](https://github.com/deciduously)
