@@ -18,7 +18,6 @@
 - [tonichi24](https://github.com/tonichi24)
 - [katchion13](https://github.com/katchion13)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
-- [lucasjolibois54](https://github.com/lucasjolibois54)
 - [UltronTheAI](https://github.com/UltronTheAI)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [17920368](https://github.com/17920368)
@@ -99,3 +98,4 @@
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
 - [Dulun](https://github.com/Dulun)
+- [deciduously](https://github.com/deciduously)
