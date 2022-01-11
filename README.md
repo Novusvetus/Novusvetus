@@ -64,10 +64,10 @@ _Nobody sponsors me. I am poor..._
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [trollmao](https://github.com/trollmao)
 - [SamirPaul1](https://github.com/SamirPaul1)
-- [httpanand](https://github.com/httpanand)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
+- [judyy006](https://github.com/judyy006)
 
 #### 🎢 Stats
 

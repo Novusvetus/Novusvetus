@@ -5,7 +5,6 @@
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [trollmao](https://github.com/trollmao)
 - [SamirPaul1](https://github.com/SamirPaul1)
-- [httpanand](https://github.com/httpanand)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
@@ -99,3 +98,4 @@
 - [SquidRings](https://github.com/SquidRings)
 - [Dulun](https://github.com/Dulun)
 - [deciduously](https://github.com/deciduously)
+- [CyrineOsorio](https://github.com/CyrineOsorio)
