@@ -28,7 +28,6 @@
 - [AlleSeck](https://github.com/AlleSeck)
 - [carollis2](https://github.com/carollis2)
 - [tymsai](https://github.com/tymsai)
-- [ashishkumar30](https://github.com/ashishkumar30)
 - [CodePromoter](https://github.com/CodePromoter)
 - [Olaf0257](https://github.com/Olaf0257)
 - [formidablae](https://github.com/formidablae)
@@ -99,3 +98,4 @@
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
+- [Dulun](https://github.com/Dulun)
