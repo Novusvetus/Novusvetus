@@ -1,4 +1,6 @@
 
+- [spiri-leo](https://github.com/spiri-leo)
+- [httpanand](https://github.com/httpanand)
 - [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
@@ -97,5 +99,3 @@
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
 - [Dulun](https://github.com/Dulun)
-- [deciduously](https://github.com/deciduously)
-- [CyrineOsorio](https://github.com/CyrineOsorio)

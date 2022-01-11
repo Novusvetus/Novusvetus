@@ -58,6 +58,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [spiri-leo](https://github.com/spiri-leo)
+- [httpanand](https://github.com/httpanand)
 - [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
@@ -66,8 +68,6 @@ _Nobody sponsors me. I am poor..._
 - [SamirPaul1](https://github.com/SamirPaul1)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
-- [ledemkam](https://github.com/ledemkam)
-- [judyy006](https://github.com/judyy006)
 
 #### 🎢 Stats
 
