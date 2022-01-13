@@ -7,7 +7,6 @@
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
-- [trollmao](https://github.com/trollmao)
 - [SamirPaul1](https://github.com/SamirPaul1)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
@@ -99,3 +98,4 @@
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
+- [Dulun](https://github.com/Dulun)
