@@ -1,4 +1,5 @@
 
+- [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [spiri-leo](https://github.com/spiri-leo)
@@ -98,4 +99,3 @@
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
-- [Dulun](https://github.com/Dulun)
