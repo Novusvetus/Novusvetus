@@ -1,4 +1,5 @@
 
+- [taffarel55](https://github.com/taffarel55)
 - [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
@@ -98,4 +99,3 @@
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
-- [Dulun](https://github.com/Dulun)
