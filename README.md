@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aash-gates](https://github.com/aash-gates)
 - [igpcl](https://github.com/igpcl)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
-- [lornabkoo](https://github.com/lornabkoo)
 
 #### 🎢 Stats
 
