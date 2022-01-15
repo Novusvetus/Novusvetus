@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [igpcl](https://github.com/igpcl)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
 - [taffarel55](https://github.com/taffarel55)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
-- [JinSSJ3](https://github.com/JinSSJ3)
 
 #### 🎢 Stats
 

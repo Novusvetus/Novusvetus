@@ -1,4 +1,5 @@
 
+- [igpcl](https://github.com/igpcl)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
 - [taffarel55](https://github.com/taffarel55)
@@ -98,4 +99,3 @@
 - [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
-- [SquidRings](https://github.com/SquidRings)
