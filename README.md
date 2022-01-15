@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [myaghobi](https://github.com/myaghobi)
 - [taffarel55](https://github.com/taffarel55)
 - [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [SamirPaul1](https://github.com/SamirPaul1)
-- [Tylerzkie](https://github.com/Tylerzkie)
 
 #### 🎢 Stats
 
