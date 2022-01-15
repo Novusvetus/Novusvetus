@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
 - [taffarel55](https://github.com/taffarel55)
 - [vikichand](https://github.com/vikichand)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
-- [SamirPaul1](https://github.com/SamirPaul1)
 
 #### 🎢 Stats
 
