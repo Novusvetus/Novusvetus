@@ -63,12 +63,12 @@ _Nobody sponsors me. I am poor..._
 - [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [spiri-leo](https://github.com/spiri-leo)
 - [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [SamirPaul1](https://github.com/SamirPaul1)
+- [Tylerzkie](https://github.com/Tylerzkie)
 
 #### 🎢 Stats
 

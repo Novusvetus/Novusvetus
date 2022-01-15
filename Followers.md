@@ -3,7 +3,6 @@
 - [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [spiri-leo](https://github.com/spiri-leo)
 - [Correia-jpv](https://github.com/Correia-jpv)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
@@ -99,3 +98,4 @@
 - [Stathis96](https://github.com/Stathis96)
 - [avinIndrasoma](https://github.com/avinIndrasoma)
 - [SquidRings](https://github.com/SquidRings)
+- [Dulun](https://github.com/Dulun)
