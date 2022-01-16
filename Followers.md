@@ -1,4 +1,5 @@
 
+- [cherucole](https://github.com/cherucole)
 - [aash-gates](https://github.com/aash-gates)
 - [igpcl](https://github.com/igpcl)
 - [agathafr](https://github.com/agathafr)
@@ -49,7 +50,6 @@
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
-- [cherucole](https://github.com/cherucole)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
