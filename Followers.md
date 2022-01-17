@@ -2,7 +2,6 @@
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
 - [aash-gates](https://github.com/aash-gates)
-- [igpcl](https://github.com/igpcl)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
 - [taffarel55](https://github.com/taffarel55)
@@ -99,3 +98,4 @@
 - [eduprogrammer](https://github.com/eduprogrammer)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
 - [Stathis96](https://github.com/Stathis96)
+- [avinIndrasoma](https://github.com/avinIndrasoma)
