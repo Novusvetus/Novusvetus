@@ -16,7 +16,6 @@
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
-- [SamirPaul1](https://github.com/SamirPaul1)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
@@ -99,3 +98,4 @@
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
+- [eduprogrammer](https://github.com/eduprogrammer)
