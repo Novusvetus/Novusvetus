@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [F3lip32010](https://github.com/F3lip32010)
+- [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
 - [aash-gates](https://github.com/aash-gates)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [taffarel55](https://github.com/taffarel55)
 - [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
-- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [Correia-jpv](https://github.com/Correia-jpv)
 
 #### 🎢 Stats
 

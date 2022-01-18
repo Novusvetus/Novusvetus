@@ -1,4 +1,6 @@
 
+- [F3lip32010](https://github.com/F3lip32010)
+- [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
 - [aash-gates](https://github.com/aash-gates)
@@ -97,5 +99,3 @@
 - [StasMS](https://github.com/StasMS)
 - [eduprogrammer](https://github.com/eduprogrammer)
 - [arsh-meharwal](https://github.com/arsh-meharwal)
-- [Stathis96](https://github.com/Stathis96)
-- [avinIndrasoma](https://github.com/avinIndrasoma)
