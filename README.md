@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ugleiton](https://github.com/ugleiton)
 - [ablaamim](https://github.com/ablaamim)
 - [F3lip32010](https://github.com/F3lip32010)
 - [Louisathenios](https://github.com/Louisathenios)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
 - [taffarel55](https://github.com/taffarel55)
-- [vikichand](https://github.com/vikichand)
 
 #### 🎢 Stats
 
