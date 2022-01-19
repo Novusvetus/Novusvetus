@@ -68,7 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [aash-gates](https://github.com/aash-gates)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
-- [taffarel55](https://github.com/taffarel55)
+- [vikichand](https://github.com/vikichand)
 
 #### 🎢 Stats
 

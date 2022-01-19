@@ -8,7 +8,6 @@
 - [aash-gates](https://github.com/aash-gates)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
-- [taffarel55](https://github.com/taffarel55)
 - [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
@@ -99,3 +98,4 @@
 - [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
 - [eduprogrammer](https://github.com/eduprogrammer)
+- [arsh-meharwal](https://github.com/arsh-meharwal)
