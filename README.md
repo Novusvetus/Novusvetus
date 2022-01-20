@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [0l1v3rr](https://github.com/0l1v3rr)
 - [maikoevangelista](https://github.com/maikoevangelista)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
-- [aash-gates](https://github.com/aash-gates)
 
 #### 🎢 Stats
 

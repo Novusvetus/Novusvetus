@@ -1,4 +1,5 @@
 
+- [0l1v3rr](https://github.com/0l1v3rr)
 - [maikoevangelista](https://github.com/maikoevangelista)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
@@ -98,4 +99,3 @@
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
-- [StasMS](https://github.com/StasMS)
