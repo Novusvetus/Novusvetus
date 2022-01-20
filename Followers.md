@@ -1,4 +1,5 @@
 
+- [maikoevangelista](https://github.com/maikoevangelista)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
@@ -98,4 +99,3 @@
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
 - [Sidoria](https://github.com/Sidoria)
 - [StasMS](https://github.com/StasMS)
-- [eduprogrammer](https://github.com/eduprogrammer)
