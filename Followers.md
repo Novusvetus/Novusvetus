@@ -14,7 +14,6 @@
 - [aash-gates](https://github.com/aash-gates)
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
-- [vikichand](https://github.com/vikichand)
 - [httpanand](https://github.com/httpanand)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [k3n9p-fsf](https://github.com/k3n9p-fsf)
@@ -99,3 +98,4 @@
 - [Fredrick-KE](https://github.com/Fredrick-KE)
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
+- [Sidoria](https://github.com/Sidoria)
