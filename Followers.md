@@ -1,4 +1,5 @@
 
+- [temirovazat](https://github.com/temirovazat)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [taffarel55](https://github.com/taffarel55)
 - [0l1v3rr](https://github.com/0l1v3rr)
@@ -98,4 +99,3 @@
 - [Fredrick-KE](https://github.com/Fredrick-KE)
 - [RejayMorada0](https://github.com/RejayMorada0)
 - [matiasinsaurralde](https://github.com/matiasinsaurralde)
-- [Sidoria](https://github.com/Sidoria)
