@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [shreyasinegi](https://github.com/shreyasinegi)
 - [taffarel55](https://github.com/taffarel55)
 - [0l1v3rr](https://github.com/0l1v3rr)
 - [maikoevangelista](https://github.com/maikoevangelista)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ablaamim](https://github.com/ablaamim)
 - [F3lip32010](https://github.com/F3lip32010)
 - [Louisathenios](https://github.com/Louisathenios)
-- [groundf](https://github.com/groundf)
 
 #### 🎢 Stats
 
