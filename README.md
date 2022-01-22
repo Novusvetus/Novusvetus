@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TopCodeBeast](https://github.com/TopCodeBeast)
 - [temirovazat](https://github.com/temirovazat)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [taffarel55](https://github.com/taffarel55)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
 - [ablaamim](https://github.com/ablaamim)
-- [F3lip32010](https://github.com/F3lip32010)
 
 #### 🎢 Stats
 
