@@ -64,11 +64,11 @@ _Nobody sponsors me. I am poor..._
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [taffarel55](https://github.com/taffarel55)
 - [0l1v3rr](https://github.com/0l1v3rr)
-- [maikoevangelista](https://github.com/maikoevangelista)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
 - [ablaamim](https://github.com/ablaamim)
+- [F3lip32010](https://github.com/F3lip32010)
 
 #### 🎢 Stats
 
