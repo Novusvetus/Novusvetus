@@ -1,4 +1,5 @@
 
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
 - [temirovazat](https://github.com/temirovazat)
 - [shreyasinegi](https://github.com/shreyasinegi)
@@ -33,7 +34,6 @@
 - [katchion13](https://github.com/katchion13)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
 - [UltronTheAI](https://github.com/UltronTheAI)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [17920368](https://github.com/17920368)
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
