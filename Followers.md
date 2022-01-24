@@ -1,4 +1,5 @@
 
+- [Gizachew29](https://github.com/Gizachew29)
 - [tustoz](https://github.com/tustoz)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
@@ -98,4 +99,3 @@
 - [emredz](https://github.com/emredz)
 - [kaganmert](https://github.com/kaganmert)
 - [Fredrick-KE](https://github.com/Fredrick-KE)
-- [RejayMorada0](https://github.com/RejayMorada0)
