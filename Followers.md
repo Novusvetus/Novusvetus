@@ -1,4 +1,5 @@
 
+- [Hmida71](https://github.com/Hmida71)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tustoz](https://github.com/tustoz)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
@@ -98,4 +99,3 @@
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [emredz](https://github.com/emredz)
 - [kaganmert](https://github.com/kaganmert)
-- [Fredrick-KE](https://github.com/Fredrick-KE)
