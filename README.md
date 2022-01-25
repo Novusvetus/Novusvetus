@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tustoz](https://github.com/tustoz)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [taffarel55](https://github.com/taffarel55)
 - [0l1v3rr](https://github.com/0l1v3rr)
 - [ashishkumar30](https://github.com/ashishkumar30)
-- [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 
 #### 🎢 Stats
 
