@@ -1,4 +1,5 @@
 
+- [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tustoz](https://github.com/tustoz)
@@ -98,4 +99,3 @@
 - [dsuareznieto](https://github.com/dsuareznieto)
 - [wwwAlireza](https://github.com/wwwAlireza)
 - [emredz](https://github.com/emredz)
-- [kaganmert](https://github.com/kaganmert)
