@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [armancodv](https://github.com/armancodv)
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [temirovazat](https://github.com/temirovazat)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [taffarel55](https://github.com/taffarel55)
-- [0l1v3rr](https://github.com/0l1v3rr)
 
 #### 🎢 Stats
 
