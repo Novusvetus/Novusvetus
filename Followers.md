@@ -1,4 +1,5 @@
 
+- [joemoceri](https://github.com/joemoceri)
 - [httpanand](https://github.com/httpanand)
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
@@ -98,4 +99,3 @@
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
 - [beinjamin](https://github.com/beinjamin)
-- [CAVIND46016](https://github.com/CAVIND46016)
