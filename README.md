@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jasineri](https://github.com/jasineri)
 - [AsTunO](https://github.com/AsTunO)
 - [gxfr](https://github.com/gxfr)
 - [armancodv](https://github.com/armancodv)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [tustoz](https://github.com/tustoz)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
-- [temirovazat](https://github.com/temirovazat)
 
 #### 🎢 Stats
 

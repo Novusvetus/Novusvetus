@@ -1,4 +1,5 @@
 
+- [jasineri](https://github.com/jasineri)
 - [AsTunO](https://github.com/AsTunO)
 - [gxfr](https://github.com/gxfr)
 - [armancodv](https://github.com/armancodv)
@@ -98,4 +99,3 @@
 - [gholi-dev](https://github.com/gholi-dev)
 - [Lipshita2010](https://github.com/Lipshita2010)
 - [RealTourani](https://github.com/RealTourani)
-- [xetnopnawab](https://github.com/xetnopnawab)
