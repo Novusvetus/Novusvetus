@@ -1,4 +1,6 @@
 
+- [rudrac19](https://github.com/rudrac19)
+- [SallesCosta](https://github.com/SallesCosta)
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
 - [jasineri](https://github.com/jasineri)
@@ -97,5 +99,3 @@
 - [beinjamin](https://github.com/beinjamin)
 - [CAVIND46016](https://github.com/CAVIND46016)
 - [ismaely](https://github.com/ismaely)
-- [Dickens-odera](https://github.com/Dickens-odera)
-- [gholi-dev](https://github.com/gholi-dev)
