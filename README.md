@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [FabioDefilippo](https://github.com/FabioDefilippo)
+- [AliDenno](https://github.com/AliDenno)
 - [jasineri](https://github.com/jasineri)
 - [AsTunO](https://github.com/AsTunO)
 - [gxfr](https://github.com/gxfr)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tustoz](https://github.com/tustoz)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
-- [TopCodeBeast](https://github.com/TopCodeBeast)
 
 #### 🎢 Stats
 

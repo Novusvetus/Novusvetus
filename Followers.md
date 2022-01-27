@@ -1,4 +1,6 @@
 
+- [FabioDefilippo](https://github.com/FabioDefilippo)
+- [AliDenno](https://github.com/AliDenno)
 - [jasineri](https://github.com/jasineri)
 - [AsTunO](https://github.com/AsTunO)
 - [gxfr](https://github.com/gxfr)
@@ -97,5 +99,3 @@
 - [ismaely](https://github.com/ismaely)
 - [Dickens-odera](https://github.com/Dickens-odera)
 - [gholi-dev](https://github.com/gholi-dev)
-- [Lipshita2010](https://github.com/Lipshita2010)
-- [RealTourani](https://github.com/RealTourani)
