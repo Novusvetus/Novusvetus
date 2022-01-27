@@ -1,4 +1,6 @@
 
+- [jotiaine](https://github.com/jotiaine)
+- [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
 - [SallesCosta](https://github.com/SallesCosta)
 - [FabioDefilippo](https://github.com/FabioDefilippo)
@@ -15,7 +17,6 @@
 - [TopCodeBeast](https://github.com/TopCodeBeast)
 - [temirovazat](https://github.com/temirovazat)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [taffarel55](https://github.com/taffarel55)
 - [0l1v3rr](https://github.com/0l1v3rr)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
@@ -98,4 +99,3 @@
 - [cengizhankarabel](https://github.com/cengizhankarabel)
 - [beinjamin](https://github.com/beinjamin)
 - [CAVIND46016](https://github.com/CAVIND46016)
-- [ismaely](https://github.com/ismaely)
