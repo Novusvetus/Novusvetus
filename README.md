@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [httpanand](https://github.com/httpanand)
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [jasineri](https://github.com/jasineri)
 - [AsTunO](https://github.com/AsTunO)
 - [gxfr](https://github.com/gxfr)
-- [armancodv](https://github.com/armancodv)
 
 #### 🎢 Stats
 
