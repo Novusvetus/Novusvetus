@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [zaraco](https://github.com/zaraco)
 - [AsTunO](https://github.com/AsTunO)
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
 - [SallesCosta](https://github.com/SallesCosta)
-- [FabioDefilippo](https://github.com/FabioDefilippo)
 
 #### 🎢 Stats
 

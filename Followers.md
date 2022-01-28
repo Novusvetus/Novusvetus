@@ -1,4 +1,5 @@
 
+- [zaraco](https://github.com/zaraco)
 - [AsTunO](https://github.com/AsTunO)
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
@@ -98,4 +99,3 @@
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
-- [rafaeelaudibert](https://github.com/rafaeelaudibert)
