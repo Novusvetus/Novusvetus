@@ -1,4 +1,5 @@
 
+- [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
 - [httpanand](https://github.com/httpanand)
 - [jotiaine](https://github.com/jotiaine)
@@ -98,4 +99,3 @@
 - [peterirlam](https://github.com/peterirlam)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
 - [cengizhankarabel](https://github.com/cengizhankarabel)
-- [beinjamin](https://github.com/beinjamin)
