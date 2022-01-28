@@ -1,4 +1,6 @@
 
+- [AsTunO](https://github.com/AsTunO)
+- [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
 - [httpanand](https://github.com/httpanand)
@@ -9,7 +11,6 @@
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
 - [jasineri](https://github.com/jasineri)
-- [AsTunO](https://github.com/AsTunO)
 - [gxfr](https://github.com/gxfr)
 - [armancodv](https://github.com/armancodv)
 - [honeydatax](https://github.com/honeydatax)
@@ -98,4 +99,3 @@
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
-- [cengizhankarabel](https://github.com/cengizhankarabel)
