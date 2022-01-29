@@ -1,4 +1,5 @@
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [AsTunO](https://github.com/AsTunO)
 - [zaraco](https://github.com/zaraco)
 - [vissih](https://github.com/vissih)
@@ -98,4 +99,3 @@
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
-- [rafaeelaudibert](https://github.com/rafaeelaudibert)
