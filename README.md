@@ -59,8 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [zaraco](https://github.com/zaraco)
 - [AsTunO](https://github.com/AsTunO)
+- [zaraco](https://github.com/zaraco)
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
