@@ -17,7 +17,6 @@
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
-- [tustoz](https://github.com/tustoz)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
 - [temirovazat](https://github.com/temirovazat)
@@ -99,3 +98,4 @@
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
+- [rafaeelaudibert](https://github.com/rafaeelaudibert)
