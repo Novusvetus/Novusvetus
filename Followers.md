@@ -55,7 +55,6 @@
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
 - [AlleSeck](https://github.com/AlleSeck)
-- [carollis2](https://github.com/carollis2)
 - [tymsai](https://github.com/tymsai)
 - [CodePromoter](https://github.com/CodePromoter)
 - [Olaf0257](https://github.com/Olaf0257)
@@ -99,3 +98,4 @@
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
+- [rafaeelaudibert](https://github.com/rafaeelaudibert)
