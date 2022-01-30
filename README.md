@@ -59,11 +59,11 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AsTunO](https://github.com/AsTunO)
 - [arditmezini](https://github.com/arditmezini)
 - [beinjamin](https://github.com/beinjamin)
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
-- [AsTunO](https://github.com/AsTunO)
 - [zaraco](https://github.com/zaraco)
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
