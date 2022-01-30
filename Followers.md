@@ -1,4 +1,5 @@
 
+- [arditmezini](https://github.com/arditmezini)
 - [beinjamin](https://github.com/beinjamin)
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
@@ -98,4 +99,3 @@
 - [Gonzasay](https://github.com/Gonzasay)
 - [gamemann](https://github.com/gamemann)
 - [jtorquetti](https://github.com/jtorquetti)
-- [peterirlam](https://github.com/peterirlam)
