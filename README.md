@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [beinjamin](https://github.com/beinjamin)
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
 - [AsTunO](https://github.com/AsTunO)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [joemoceri](https://github.com/joemoceri)
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
-- [rudrac19](https://github.com/rudrac19)
 
 #### 🎢 Stats
 
