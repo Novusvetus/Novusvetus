@@ -65,10 +65,10 @@ _Nobody sponsors me. I am poor..._
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
-- [httpanand](https://github.com/httpanand)
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
+- [SallesCosta](https://github.com/SallesCosta)
 
 #### 🎢 Stats
 

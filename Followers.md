@@ -5,7 +5,6 @@
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
-- [httpanand](https://github.com/httpanand)
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
@@ -99,3 +98,4 @@
 - [jtorquetti](https://github.com/jtorquetti)
 - [peterirlam](https://github.com/peterirlam)
 - [rafaeelaudibert](https://github.com/rafaeelaudibert)
+- [cengizhankarabel](https://github.com/cengizhankarabel)
