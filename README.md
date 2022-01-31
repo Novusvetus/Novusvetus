@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ifycode](https://github.com/Ifycode)
 - [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
 - [taffarel55](https://github.com/taffarel55)
 - [AsTunO](https://github.com/AsTunO)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CleuJunior](https://github.com/CleuJunior)
 - [zaraco](https://github.com/zaraco)
 - [vissih](https://github.com/vissih)
-- [lwardzala](https://github.com/lwardzala)
 
 #### 🎢 Stats
 
