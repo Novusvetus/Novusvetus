@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [taffarel55](https://github.com/taffarel55)
 - [AsTunO](https://github.com/AsTunO)
 - [arditmezini](https://github.com/arditmezini)
 - [beinjamin](https://github.com/beinjamin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
-- [jotiaine](https://github.com/jotiaine)
 
 #### 🎢 Stats
 

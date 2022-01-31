@@ -1,4 +1,5 @@
 
+- [taffarel55](https://github.com/taffarel55)
 - [AsTunO](https://github.com/AsTunO)
 - [arditmezini](https://github.com/arditmezini)
 - [beinjamin](https://github.com/beinjamin)
@@ -98,4 +99,3 @@
 - [rakib5561](https://github.com/rakib5561)
 - [Gonzasay](https://github.com/Gonzasay)
 - [gamemann](https://github.com/gamemann)
-- [jtorquetti](https://github.com/jtorquetti)
