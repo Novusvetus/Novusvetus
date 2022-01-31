@@ -1,4 +1,5 @@
 
+- [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
 - [taffarel55](https://github.com/taffarel55)
 - [AsTunO](https://github.com/AsTunO)
 - [arditmezini](https://github.com/arditmezini)
@@ -98,4 +99,3 @@
 - [abhaypawar](https://github.com/abhaypawar)
 - [rakib5561](https://github.com/rakib5561)
 - [Gonzasay](https://github.com/Gonzasay)
-- [gamemann](https://github.com/gamemann)
