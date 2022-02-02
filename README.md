@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [AsTunO](https://github.com/AsTunO)
 - [aash-gates](https://github.com/aash-gates)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [arditmezini](https://github.com/arditmezini)
 - [beinjamin](https://github.com/beinjamin)
 - [weftuon1](https://github.com/weftuon1)
-- [CleuJunior](https://github.com/CleuJunior)
 
 #### 🎢 Stats
 
