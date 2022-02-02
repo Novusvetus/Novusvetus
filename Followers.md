@@ -1,4 +1,5 @@
 
+- [VucoDigInc](https://github.com/VucoDigInc)
 - [AsTunO](https://github.com/AsTunO)
 - [aash-gates](https://github.com/aash-gates)
 - [dthabata](https://github.com/dthabata)
@@ -98,4 +99,3 @@
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [rakib5561](https://github.com/rakib5561)
-- [Gonzasay](https://github.com/Gonzasay)
