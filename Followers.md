@@ -4,7 +4,6 @@
 - [dthabata](https://github.com/dthabata)
 - [Ifycode](https://github.com/Ifycode)
 - [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
-- [taffarel55](https://github.com/taffarel55)
 - [arditmezini](https://github.com/arditmezini)
 - [beinjamin](https://github.com/beinjamin)
 - [weftuon1](https://github.com/weftuon1)
@@ -99,3 +98,4 @@
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
 - [rakib5561](https://github.com/rakib5561)
+- [Gonzasay](https://github.com/Gonzasay)
