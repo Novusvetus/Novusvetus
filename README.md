@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [YodaCh96](https://github.com/YodaCh96)
+- [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [AsTunO](https://github.com/AsTunO)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Ifycode](https://github.com/Ifycode)
 - [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
 - [arditmezini](https://github.com/arditmezini)
-- [beinjamin](https://github.com/beinjamin)
-- [weftuon1](https://github.com/weftuon1)
 
 #### 🎢 Stats
 

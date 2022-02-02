@@ -1,4 +1,6 @@
 
+- [YodaCh96](https://github.com/YodaCh96)
+- [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [AsTunO](https://github.com/AsTunO)
@@ -97,5 +99,3 @@
 - [villegasss](https://github.com/villegasss)
 - [emir1031](https://github.com/emir1031)
 - [yekoroglu27](https://github.com/yekoroglu27)
-- [marjanovicbrane](https://github.com/marjanovicbrane)
-- [abhaypawar](https://github.com/abhaypawar)
