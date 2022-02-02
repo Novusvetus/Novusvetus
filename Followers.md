@@ -41,7 +41,6 @@
 - [agathafr](https://github.com/agathafr)
 - [myaghobi](https://github.com/myaghobi)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [k3n9p-fsf](https://github.com/k3n9p-fsf)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
@@ -99,3 +98,4 @@
 - [yekoroglu27](https://github.com/yekoroglu27)
 - [marjanovicbrane](https://github.com/marjanovicbrane)
 - [abhaypawar](https://github.com/abhaypawar)
+- [rakib5561](https://github.com/rakib5561)
