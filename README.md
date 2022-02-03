@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codewithmalik](https://github.com/codewithmalik)
 - [3oyp](https://github.com/3oyp)
 - [mustafadonat](https://github.com/mustafadonat)
 - [YodaCh96](https://github.com/YodaCh96)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [AsTunO](https://github.com/AsTunO)
 - [aash-gates](https://github.com/aash-gates)
 - [dthabata](https://github.com/dthabata)
-- [Ifycode](https://github.com/Ifycode)
 
 #### 🎢 Stats
 
