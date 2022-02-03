@@ -1,4 +1,6 @@
 
+- [KBismark](https://github.com/KBismark)
+- [AsTunO](https://github.com/AsTunO)
 - [codewithmalik](https://github.com/codewithmalik)
 - [3oyp](https://github.com/3oyp)
 - [mustafadonat](https://github.com/mustafadonat)
@@ -6,7 +8,6 @@
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
-- [AsTunO](https://github.com/AsTunO)
 - [aash-gates](https://github.com/aash-gates)
 - [dthabata](https://github.com/dthabata)
 - [Ifycode](https://github.com/Ifycode)
@@ -45,7 +46,6 @@
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
 - [agathafr](https://github.com/agathafr)
-- [myaghobi](https://github.com/myaghobi)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
