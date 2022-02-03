@@ -1,4 +1,5 @@
 
+- [3oyp](https://github.com/3oyp)
 - [mustafadonat](https://github.com/mustafadonat)
 - [YodaCh96](https://github.com/YodaCh96)
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
@@ -98,4 +99,3 @@
 - [Bio1001](https://github.com/Bio1001)
 - [Karan36k](https://github.com/Karan36k)
 - [villegasss](https://github.com/villegasss)
-- [emir1031](https://github.com/emir1031)
