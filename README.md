@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mustafadonat](https://github.com/mustafadonat)
 - [YodaCh96](https://github.com/YodaCh96)
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [dthabata](https://github.com/dthabata)
 - [Ifycode](https://github.com/Ifycode)
 - [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
-- [arditmezini](https://github.com/arditmezini)
 
 #### 🎢 Stats
 
