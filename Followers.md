@@ -1,4 +1,5 @@
 
+- [pgsohail](https://github.com/pgsohail)
 - [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
 - [AsTunO](https://github.com/AsTunO)
@@ -98,4 +99,3 @@
 - [starbinna](https://github.com/starbinna)
 - [hectormenendez](https://github.com/hectormenendez)
 - [rj45man](https://github.com/rj45man)
-- [Bio1001](https://github.com/Bio1001)
