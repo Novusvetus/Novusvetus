@@ -1,4 +1,5 @@
 
+- [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
 - [AsTunO](https://github.com/AsTunO)
 - [codewithmalik](https://github.com/codewithmalik)
@@ -98,4 +99,3 @@
 - [hectormenendez](https://github.com/hectormenendez)
 - [rj45man](https://github.com/rj45man)
 - [Bio1001](https://github.com/Bio1001)
-- [Karan36k](https://github.com/Karan36k)

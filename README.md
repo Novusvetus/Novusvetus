@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
 - [AsTunO](https://github.com/AsTunO)
 - [codewithmalik](https://github.com/codewithmalik)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
-- [aash-gates](https://github.com/aash-gates)
 
 #### 🎢 Stats
 
