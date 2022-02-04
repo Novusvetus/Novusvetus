@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
 - [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [mustafadonat](https://github.com/mustafadonat)
 - [YodaCh96](https://github.com/YodaCh96)
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
-- [Henriquecesar139](https://github.com/Henriquecesar139)
 
 #### 🎢 Stats
 
