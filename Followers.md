@@ -1,4 +1,5 @@
 
+- [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
 - [uchiha-suraj](https://github.com/uchiha-suraj)
@@ -98,4 +99,3 @@
 - [LouisLee214](https://github.com/LouisLee214)
 - [dominickbrasileiro](https://github.com/dominickbrasileiro)
 - [starbinna](https://github.com/starbinna)
-- [hectormenendez](https://github.com/hectormenendez)
