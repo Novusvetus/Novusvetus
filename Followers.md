@@ -1,4 +1,5 @@
 
+- [temirovazat](https://github.com/temirovazat)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
@@ -38,7 +39,6 @@
 - [Gizachew29](https://github.com/Gizachew29)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
-- [temirovazat](https://github.com/temirovazat)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [0l1v3rr](https://github.com/0l1v3rr)
 - [ashishkumar30](https://github.com/ashishkumar30)
