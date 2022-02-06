@@ -62,13 +62,13 @@ _Nobody sponsors me. I am poor..._
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
-- [ronnydillan](https://github.com/ronnydillan)
 - [temirovazat](https://github.com/temirovazat)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
 - [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
+- [AsTunO](https://github.com/AsTunO)
 
 #### 🎢 Stats
 

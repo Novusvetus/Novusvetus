@@ -2,7 +2,6 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
-- [ronnydillan](https://github.com/ronnydillan)
 - [temirovazat](https://github.com/temirovazat)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
@@ -99,3 +98,4 @@
 - [zujen19](https://github.com/zujen19)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
 - [DreamMicro](https://github.com/DreamMicro)
+- [CallbackCat777](https://github.com/CallbackCat777)
