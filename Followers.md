@@ -1,4 +1,6 @@
 
+- [Sonickantana](https://github.com/Sonickantana)
+- [ronnydillan](https://github.com/ronnydillan)
 - [temirovazat](https://github.com/temirovazat)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
@@ -97,5 +99,3 @@
 - [DreamMicro](https://github.com/DreamMicro)
 - [CallbackCat777](https://github.com/CallbackCat777)
 - [LouisLee214](https://github.com/LouisLee214)
-- [dominickbrasileiro](https://github.com/dominickbrasileiro)
-- [starbinna](https://github.com/starbinna)
