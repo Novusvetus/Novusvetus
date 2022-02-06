@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
 - [ronnydillan](https://github.com/ronnydillan)
 - [temirovazat](https://github.com/temirovazat)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
 - [AsTunO](https://github.com/AsTunO)
-- [codewithmalik](https://github.com/codewithmalik)
 
 #### 🎢 Stats
 

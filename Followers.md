@@ -1,4 +1,5 @@
 
+- [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
 - [ronnydillan](https://github.com/ronnydillan)
 - [temirovazat](https://github.com/temirovazat)
@@ -98,4 +99,3 @@
 - [jassmin-herr09](https://github.com/jassmin-herr09)
 - [DreamMicro](https://github.com/DreamMicro)
 - [CallbackCat777](https://github.com/CallbackCat777)
-- [LouisLee214](https://github.com/LouisLee214)
