@@ -1,4 +1,5 @@
 
+- [syedashar1](https://github.com/syedashar1)
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [nirikshan](https://github.com/nirikshan)
@@ -98,4 +99,3 @@
 - [izkillaz](https://github.com/izkillaz)
 - [zujen19](https://github.com/zujen19)
 - [jassmin-herr09](https://github.com/jassmin-herr09)
-- [DreamMicro](https://github.com/DreamMicro)
