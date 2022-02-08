@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vkoop](https://github.com/vkoop)
 - [syedashar1](https://github.com/syedashar1)
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
-- [uchiha-suraj](https://github.com/uchiha-suraj)
 
 #### 🎢 Stats
 
