@@ -1,4 +1,5 @@
 
+- [sergiss](https://github.com/sergiss)
 - [AsTunO](https://github.com/AsTunO)
 - [vkoop](https://github.com/vkoop)
 - [syedashar1](https://github.com/syedashar1)
@@ -98,4 +99,3 @@
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
 - [izkillaz](https://github.com/izkillaz)
-- [zujen19](https://github.com/zujen19)
