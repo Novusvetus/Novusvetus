@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [taffarel55](https://github.com/taffarel55)
 - [sergiss](https://github.com/sergiss)
 - [AsTunO](https://github.com/AsTunO)
 - [vkoop](https://github.com/vkoop)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
 - [temirovazat](https://github.com/temirovazat)
-- [alanaaragoni](https://github.com/alanaaragoni)
 
 #### 🎢 Stats
 
