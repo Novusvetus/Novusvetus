@@ -6,7 +6,6 @@
 - [syedashar1](https://github.com/syedashar1)
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
 - [temirovazat](https://github.com/temirovazat)
 - [alanaaragoni](https://github.com/alanaaragoni)
@@ -99,3 +98,4 @@
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [alineai18](https://github.com/alineai18)
 - [G-Nck](https://github.com/G-Nck)
+- [izkillaz](https://github.com/izkillaz)

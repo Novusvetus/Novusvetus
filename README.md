@@ -66,9 +66,9 @@ _Nobody sponsors me. I am poor..._
 - [syedashar1](https://github.com/syedashar1)
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [nirikshan](https://github.com/nirikshan)
 - [Sonickantana](https://github.com/Sonickantana)
 - [temirovazat](https://github.com/temirovazat)
+- [alanaaragoni](https://github.com/alanaaragoni)
 
 #### 🎢 Stats
 
