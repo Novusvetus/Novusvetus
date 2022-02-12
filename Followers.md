@@ -1,4 +1,5 @@
 
+- [AYIDouble](https://github.com/AYIDouble)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [taffarel55](https://github.com/taffarel55)
 - [sergiss](https://github.com/sergiss)
@@ -98,4 +99,3 @@
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [alineai18](https://github.com/alineai18)
-- [G-Nck](https://github.com/G-Nck)

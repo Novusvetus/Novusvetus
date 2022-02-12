@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AYIDouble](https://github.com/AYIDouble)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [taffarel55](https://github.com/taffarel55)
 - [sergiss](https://github.com/sergiss)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
-- [temirovazat](https://github.com/temirovazat)
 
 #### 🎢 Stats
 
