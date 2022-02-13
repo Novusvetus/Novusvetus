@@ -1,4 +1,5 @@
 
+- [adamea2000](https://github.com/adamea2000)
 - [AYIDouble](https://github.com/AYIDouble)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [taffarel55](https://github.com/taffarel55)
@@ -98,4 +99,3 @@
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
-- [alineai18](https://github.com/alineai18)
