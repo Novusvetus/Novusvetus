@@ -83,7 +83,6 @@
 - [AlleSeck](https://github.com/AlleSeck)
 - [tymsai](https://github.com/tymsai)
 - [CodePromoter](https://github.com/CodePromoter)
-- [Olaf0257](https://github.com/Olaf0257)
 - [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
@@ -99,3 +98,4 @@
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
+- [OnurEldrinx](https://github.com/OnurEldrinx)
