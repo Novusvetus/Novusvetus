@@ -15,7 +15,6 @@
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
-- [uchiha-suraj](https://github.com/uchiha-suraj)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
 - [3oyp](https://github.com/3oyp)
@@ -99,3 +98,4 @@
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
+- [alineai18](https://github.com/alineai18)
