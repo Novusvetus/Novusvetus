@@ -85,7 +85,6 @@
 - [formidablae](https://github.com/formidablae)
 - [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
-- [somekindofwallflower](https://github.com/somekindofwallflower)
 - [aplus-developer](https://github.com/aplus-developer)
 - [tonivucodigital](https://github.com/tonivucodigital)
 - [DuLinRain](https://github.com/DuLinRain)
@@ -99,3 +98,4 @@
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [alineai18](https://github.com/alineai18)
+- [G-Nck](https://github.com/G-Nck)
