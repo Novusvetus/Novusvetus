@@ -55,7 +55,6 @@
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
-- [ablaamim](https://github.com/ablaamim)
 - [F3lip32010](https://github.com/F3lip32010)
 - [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
@@ -99,3 +98,4 @@
 - [aclaraamorim](https://github.com/aclaraamorim)
 - [OnurEldrinx](https://github.com/OnurEldrinx)
 - [alineai18](https://github.com/alineai18)
+- [G-Nck](https://github.com/G-Nck)
