@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [GameDreamMicro](https://github.com/GameDreamMicro)
 - [jrgriffiniii](https://github.com/jrgriffiniii)
 - [somekindofwallflower](https://github.com/somekindofwallflower)
 - [FranciscoKevin](https://github.com/FranciscoKevin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [taffarel55](https://github.com/taffarel55)
 - [sergiss](https://github.com/sergiss)
 - [AsTunO](https://github.com/AsTunO)
-- [vkoop](https://github.com/vkoop)
 
 #### 🎢 Stats
 
