@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [abdheshnayak](https://github.com/abdheshnayak)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
 - [CryptoGameDev0417](https://github.com/CryptoGameDev0417)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [adamea2000](https://github.com/adamea2000)
 - [AYIDouble](https://github.com/AYIDouble)
 - [taffarel55](https://github.com/taffarel55)
-- [sergiss](https://github.com/sergiss)
 
 #### 🎢 Stats
 
