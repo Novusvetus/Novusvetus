@@ -13,7 +13,6 @@
 - [sergiss](https://github.com/sergiss)
 - [AsTunO](https://github.com/AsTunO)
 - [vkoop](https://github.com/vkoop)
-- [syedashar1](https://github.com/syedashar1)
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
@@ -99,3 +98,4 @@
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [rakib3004](https://github.com/rakib3004)
+- [bricko15](https://github.com/bricko15)
