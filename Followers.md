@@ -1,4 +1,5 @@
 
+- [jmscxnulleins](https://github.com/jmscxnulleins)
 - [abdheshnayak](https://github.com/abdheshnayak)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
@@ -98,4 +99,3 @@
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [rakib3004](https://github.com/rakib3004)
-- [bricko15](https://github.com/bricko15)
