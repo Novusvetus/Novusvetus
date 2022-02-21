@@ -10,7 +10,6 @@
 - [adamea2000](https://github.com/adamea2000)
 - [AYIDouble](https://github.com/AYIDouble)
 - [sergiss](https://github.com/sergiss)
-- [AsTunO](https://github.com/AsTunO)
 - [vkoop](https://github.com/vkoop)
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
@@ -99,3 +98,4 @@
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
+- [OnurEldrinx](https://github.com/OnurEldrinx)
