@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AsTunO](https://github.com/AsTunO)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [abdheshnayak](https://github.com/abdheshnayak)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [somekindofwallflower](https://github.com/somekindofwallflower)
 - [FranciscoKevin](https://github.com/FranciscoKevin)
 - [adamea2000](https://github.com/adamea2000)
-- [AYIDouble](https://github.com/AYIDouble)
 
 #### 🎢 Stats
 

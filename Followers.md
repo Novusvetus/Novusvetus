@@ -1,4 +1,5 @@
 
+- [AsTunO](https://github.com/AsTunO)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [abdheshnayak](https://github.com/abdheshnayak)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
@@ -98,4 +99,3 @@
 - [rakib3004](https://github.com/rakib3004)
 - [bricko15](https://github.com/bricko15)
 - [aclaraamorim](https://github.com/aclaraamorim)
-- [OnurEldrinx](https://github.com/OnurEldrinx)
