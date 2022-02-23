@@ -22,7 +22,7 @@
 - [pgsohail](https://github.com/pgsohail)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
-- [3oyp](https://github.com/3oyp)
+- [eohwhypi](https://github.com/eohwhypi)
 - [mustafadonat](https://github.com/mustafadonat)
 - [YodaCh96](https://github.com/YodaCh96)
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
