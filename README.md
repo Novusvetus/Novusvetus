@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [AsTunO](https://github.com/AsTunO)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CryptoGameDev0417](https://github.com/CryptoGameDev0417)
 - [jrgriffiniii](https://github.com/jrgriffiniii)
 - [somekindofwallflower](https://github.com/somekindofwallflower)
-- [FranciscoKevin](https://github.com/FranciscoKevin)
 
 #### 🎢 Stats
 

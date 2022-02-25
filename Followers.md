@@ -1,4 +1,5 @@
 
+- [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [AsTunO](https://github.com/AsTunO)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
@@ -98,4 +99,3 @@
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [rakib3004](https://github.com/rakib3004)
-- [bricko15](https://github.com/bricko15)
