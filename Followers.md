@@ -50,7 +50,6 @@
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
 - [jasineri](https://github.com/jasineri)
-- [gxfr](https://github.com/gxfr)
 - [armancodv](https://github.com/armancodv)
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
@@ -99,3 +98,4 @@
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
+- [Joey-Resende](https://github.com/Joey-Resende)
