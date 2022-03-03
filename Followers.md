@@ -1,4 +1,5 @@
 
+- [FlavioAro](https://github.com/FlavioAro)
 - [garotogordo](https://github.com/garotogordo)
 - [AsTunO](https://github.com/AsTunO)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
@@ -98,4 +99,3 @@
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
-- [Joey-Resende](https://github.com/Joey-Resende)

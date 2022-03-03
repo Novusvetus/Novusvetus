@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [FlavioAro](https://github.com/FlavioAro)
 - [garotogordo](https://github.com/garotogordo)
 - [AsTunO](https://github.com/AsTunO)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [abdheshnayak](https://github.com/abdheshnayak)
-- [ZakariaRahimi](https://github.com/ZakariaRahimi)
 
 #### 🎢 Stats
 
