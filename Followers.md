@@ -59,7 +59,6 @@
 - [TopCodeBeast](https://github.com/TopCodeBeast)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [0l1v3rr](https://github.com/0l1v3rr)
-- [ashishkumar30](https://github.com/ashishkumar30)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
 - [F3lip32010](https://github.com/F3lip32010)
@@ -99,3 +98,4 @@
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
+- [Joey-Resende](https://github.com/Joey-Resende)
