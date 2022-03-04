@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
-- [garotogordo](https://github.com/garotogordo)
 - [AsTunO](https://github.com/AsTunO)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
+- [abdheshnayak](https://github.com/abdheshnayak)
 
 #### 🎢 Stats
 

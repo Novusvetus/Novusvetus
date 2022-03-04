@@ -1,7 +1,6 @@
 
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
-- [garotogordo](https://github.com/garotogordo)
 - [AsTunO](https://github.com/AsTunO)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
@@ -99,3 +98,4 @@
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
+- [jonasermert](https://github.com/jonasermert)
