@@ -1,7 +1,8 @@
 
+- [bariscodefxy](https://github.com/bariscodefxy)
+- [AsTunO](https://github.com/AsTunO)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
-- [AsTunO](https://github.com/AsTunO)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
 - [preethamb97](https://github.com/preethamb97)
@@ -98,4 +99,3 @@
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
-- [jonasermert](https://github.com/jonasermert)
