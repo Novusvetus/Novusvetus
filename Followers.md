@@ -75,7 +75,6 @@
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
-- [judyy006](https://github.com/judyy006)
 - [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
 - [graceanderick](https://github.com/graceanderick)
@@ -99,3 +98,4 @@
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
+- [jonasermert](https://github.com/jonasermert)
