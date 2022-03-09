@@ -1,6 +1,5 @@
 
 - [katchion13](https://github.com/katchion13)
-- [bariscodefxy](https://github.com/bariscodefxy)
 - [AsTunO](https://github.com/AsTunO)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
@@ -99,3 +98,4 @@
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
+- [Joey-Resende](https://github.com/Joey-Resende)

@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [katchion13](https://github.com/katchion13)
-- [bariscodefxy](https://github.com/bariscodefxy)
 - [AsTunO](https://github.com/AsTunO)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [preethamb97](https://github.com/preethamb97)
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
+- [jmscxnulleins](https://github.com/jmscxnulleins)
 
 #### 🎢 Stats
 
