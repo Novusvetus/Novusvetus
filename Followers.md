@@ -22,7 +22,6 @@
 - [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
-- [temirovazat](https://github.com/temirovazat)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [pgsohail](https://github.com/pgsohail)
@@ -99,3 +98,4 @@
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
+- [rakib3004](https://github.com/rakib3004)
