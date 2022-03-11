@@ -1,4 +1,5 @@
 
+- [davidchen95](https://github.com/davidchen95)
 - [AsTunO](https://github.com/AsTunO)
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
@@ -98,4 +99,3 @@
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
-- [rakib3004](https://github.com/rakib3004)
