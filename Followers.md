@@ -10,7 +10,6 @@
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
-- [abdheshnayak](https://github.com/abdheshnayak)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
 - [CryptoGameDev0417](https://github.com/CryptoGameDev0417)
 - [jrgriffiniii](https://github.com/jrgriffiniii)
@@ -99,3 +98,4 @@
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
+- [rakib3004](https://github.com/rakib3004)
