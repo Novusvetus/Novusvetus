@@ -1,4 +1,5 @@
 
+- [LorenKociko](https://github.com/LorenKociko)
 - [davidchen95](https://github.com/davidchen95)
 - [AsTunO](https://github.com/AsTunO)
 - [katchion13](https://github.com/katchion13)
@@ -88,7 +89,6 @@
 - [tymsai](https://github.com/tymsai)
 - [CodePromoter](https://github.com/CodePromoter)
 - [formidablae](https://github.com/formidablae)
-- [LorenKociko](https://github.com/LorenKociko)
 - [daneza1010](https://github.com/daneza1010)
 - [aplus-developer](https://github.com/aplus-developer)
 - [tonivucodigital](https://github.com/tonivucodigital)
