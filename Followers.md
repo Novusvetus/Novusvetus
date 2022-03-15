@@ -20,7 +20,6 @@
 - [AYIDouble](https://github.com/AYIDouble)
 - [sergiss](https://github.com/sergiss)
 - [vkoop](https://github.com/vkoop)
-- [FulvioFPimentel](https://github.com/FulvioFPimentel)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
@@ -99,3 +98,4 @@
 - [jonasermert](https://github.com/jonasermert)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [rakib3004](https://github.com/rakib3004)
+- [bricko15](https://github.com/bricko15)
