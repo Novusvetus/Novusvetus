@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
 - [davidchen95](https://github.com/davidchen95)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [FlavioAro](https://github.com/FlavioAro)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
-- [preethamb97](https://github.com/preethamb97)
 
 #### 🎢 Stats
 
