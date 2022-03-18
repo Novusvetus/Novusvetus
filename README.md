@@ -62,7 +62,7 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
-- [davidchen95](https://github.com/davidchen95)
+- [DavidTM95](https://github.com/DavidTM95)
 - [AsTunO](https://github.com/AsTunO)
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
