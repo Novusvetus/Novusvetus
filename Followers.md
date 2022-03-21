@@ -1,4 +1,5 @@
 
+- [b12snorter](https://github.com/b12snorter)
 - [BEPb](https://github.com/BEPb)
 - [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
@@ -98,4 +99,3 @@
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
-- [jonasermert](https://github.com/jonasermert)

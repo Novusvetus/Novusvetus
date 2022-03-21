@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [b12snorter](https://github.com/b12snorter)
 - [BEPb](https://github.com/BEPb)
 - [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
-- [CarlosDevBr](https://github.com/CarlosDevBr)
 
 #### 🎢 Stats
 
