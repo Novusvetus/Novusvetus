@@ -32,7 +32,6 @@
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
 - [mustafadonat](https://github.com/mustafadonat)
-- [YodaCh96](https://github.com/YodaCh96)
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
@@ -99,3 +98,4 @@
 - [horsicq](https://github.com/horsicq)
 - [Cryptoaliens25](https://github.com/Cryptoaliens25)
 - [jonasermert](https://github.com/jonasermert)
+- [Joey-Resende](https://github.com/Joey-Resende)
