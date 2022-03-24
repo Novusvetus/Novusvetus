@@ -1,8 +1,8 @@
 
+- [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
 - [jestemAria](https://github.com/jestemAria)
 - [b12snorter](https://github.com/b12snorter)
-- [BEPb](https://github.com/BEPb)
 - [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
