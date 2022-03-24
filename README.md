@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gamemann](https://github.com/gamemann)
 - [jestemAria](https://github.com/jestemAria)
 - [b12snorter](https://github.com/b12snorter)
 - [BEPb](https://github.com/BEPb)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [DavidTM95](https://github.com/DavidTM95)
 - [AsTunO](https://github.com/AsTunO)
 - [katchion13](https://github.com/katchion13)
-- [linesky](https://github.com/linesky)
 
 #### 🎢 Stats
 
