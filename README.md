@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [seosigoto](https://github.com/seosigoto)
 - [AsTunO](https://github.com/AsTunO)
 - [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
 - [DavidTM95](https://github.com/DavidTM95)
-- [katchion13](https://github.com/katchion13)
 
 #### 🎢 Stats
 

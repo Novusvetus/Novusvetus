@@ -1,4 +1,5 @@
 
+- [seosigoto](https://github.com/seosigoto)
 - [AsTunO](https://github.com/AsTunO)
 - [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
@@ -98,4 +99,3 @@
 - [DuLinRain](https://github.com/DuLinRain)
 - [Phuong39](https://github.com/Phuong39)
 - [horsicq](https://github.com/horsicq)
-- [Cryptoaliens25](https://github.com/Cryptoaliens25)
