@@ -1,4 +1,5 @@
 
+- [pomatechlead](https://github.com/pomatechlead)
 - [seosigoto](https://github.com/seosigoto)
 - [AsTunO](https://github.com/AsTunO)
 - [SouzaVI](https://github.com/SouzaVI)
@@ -98,4 +99,3 @@
 - [tonivucodigital](https://github.com/tonivucodigital)
 - [DuLinRain](https://github.com/DuLinRain)
 - [Phuong39](https://github.com/Phuong39)
-- [horsicq](https://github.com/horsicq)
