@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [sefakozan](https://github.com/sefakozan)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [pomatechlead](https://github.com/pomatechlead)
 - [seosigoto](https://github.com/seosigoto)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [jestemAria](https://github.com/jestemAria)
 - [b12snorter](https://github.com/b12snorter)
 - [isyuricunha](https://github.com/isyuricunha)
-- [nidabaci](https://github.com/nidabaci)
 
 #### 🎢 Stats
 
