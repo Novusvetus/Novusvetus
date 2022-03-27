@@ -1,4 +1,5 @@
 
+- [Joey-Resende](https://github.com/Joey-Resende)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
 - [sefakozan](https://github.com/sefakozan)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -98,4 +99,3 @@
 - [formidablae](https://github.com/formidablae)
 - [daneza1010](https://github.com/daneza1010)
 - [aplus-developer](https://github.com/aplus-developer)
-- [tonivucodigital](https://github.com/tonivucodigital)
