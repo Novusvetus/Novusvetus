@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LEOFX208](https://github.com/LEOFX208)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
 - [sefakozan](https://github.com/sefakozan)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [AsTunO](https://github.com/AsTunO)
 - [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
-- [jestemAria](https://github.com/jestemAria)
 
 #### 🎢 Stats
 
