@@ -1,4 +1,5 @@
 
+- [FreePhoenix888](https://github.com/FreePhoenix888)
 - [sefakozan](https://github.com/sefakozan)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [pomatechlead](https://github.com/pomatechlead)
@@ -46,7 +47,6 @@
 - [Ifycode](https://github.com/Ifycode)
 - [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
 - [arditmezini](https://github.com/arditmezini)
-- [beinjamin](https://github.com/beinjamin)
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
 - [zaraco](https://github.com/zaraco)
