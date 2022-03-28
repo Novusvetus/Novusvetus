@@ -1,5 +1,4 @@
 
-- [BEPb](https://github.com/BEPb)
 - [Mrkouhadi](https://github.com/Mrkouhadi)
 - [LEOFX208](https://github.com/LEOFX208)
 - [Joey-Resende](https://github.com/Joey-Resende)
@@ -99,3 +98,4 @@
 - [AlleSeck](https://github.com/AlleSeck)
 - [tymsai](https://github.com/tymsai)
 - [CodePromoter](https://github.com/CodePromoter)
+- [formidablae](https://github.com/formidablae)
