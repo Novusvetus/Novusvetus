@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [Mrkouhadi](https://github.com/Mrkouhadi)
 - [LEOFX208](https://github.com/LEOFX208)
 - [Joey-Resende](https://github.com/Joey-Resende)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [pomatechlead](https://github.com/pomatechlead)
 - [seosigoto](https://github.com/seosigoto)
 - [AsTunO](https://github.com/AsTunO)
-- [SouzaVI](https://github.com/SouzaVI)
 
 #### 🎢 Stats
 
