@@ -42,6 +42,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-03-29](https://github.com/Novusvetus/action-php_codesniffer/pull/198) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
+- [Updates 2022-03-29](https://github.com/Novusvetus/action-phpinsights/pull/143) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-03-26](https://github.com/Novusvetus/action-php_codesniffer/pull/196) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-03-26](https://github.com/Novusvetus/action-phpinsights/pull/141) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-03-23](https://github.com/Novusvetus/action-php_codesniffer/pull/191) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -50,8 +52,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Dependency updates 2022-02-22](https://github.com/Novusvetus/action-phpinsights/pull/120) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Dependency updates 2022-02-22](https://github.com/Novusvetus/action-php_codesniffer/pull/176) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-01-28](https://github.com/Novusvetus/action-php_codesniffer/pull/158) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2022-01-28](https://github.com/Novusvetus/action-phpinsights/pull/102) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Update 2022-01-06](https://github.com/Novusvetus/action-php_codesniffer/pull/144) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
