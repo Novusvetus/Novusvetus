@@ -1,4 +1,5 @@
 
+- [blakegalbavy](https://github.com/blakegalbavy)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [Mrkouhadi](https://github.com/Mrkouhadi)
@@ -98,4 +99,3 @@
 - [AlleSeck](https://github.com/AlleSeck)
 - [tymsai](https://github.com/tymsai)
 - [CodePromoter](https://github.com/CodePromoter)
-- [formidablae](https://github.com/formidablae)
