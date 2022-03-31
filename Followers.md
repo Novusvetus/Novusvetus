@@ -1,4 +1,6 @@
 
+- [jsgosol](https://github.com/jsgosol)
+- [woogiekim](https://github.com/woogiekim)
 - [22388o](https://github.com/22388o)
 - [blakegalbavy](https://github.com/blakegalbavy)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -97,5 +99,3 @@
 - [17920368](https://github.com/17920368)
 - [dreamlancer](https://github.com/dreamlancer)
 - [SNOmad1](https://github.com/SNOmad1)
-- [AlleSeck](https://github.com/AlleSeck)
-- [tymsai](https://github.com/tymsai)

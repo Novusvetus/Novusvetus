@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jsgosol](https://github.com/jsgosol)
+- [woogiekim](https://github.com/woogiekim)
 - [22388o](https://github.com/22388o)
 - [blakegalbavy](https://github.com/blakegalbavy)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [LEOFX208](https://github.com/LEOFX208)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
-- [sefakozan](https://github.com/sefakozan)
-- [pomatechlead](https://github.com/pomatechlead)
 
 #### 🎢 Stats
 
