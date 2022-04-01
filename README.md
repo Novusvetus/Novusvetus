@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [oxica](https://github.com/oxica)
 - [BEPb](https://github.com/BEPb)
 - [jsgosol](https://github.com/jsgosol)
 - [woogiekim](https://github.com/woogiekim)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [Mrkouhadi](https://github.com/Mrkouhadi)
 - [LEOFX208](https://github.com/LEOFX208)
-- [Joey-Resende](https://github.com/Joey-Resende)
 
 #### 🎢 Stats
 
