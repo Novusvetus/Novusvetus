@@ -70,7 +70,6 @@
 - [SallesCosta](https://github.com/SallesCosta)
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
-- [jasineri](https://github.com/jasineri)
 - [armancodv](https://github.com/armancodv)
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
@@ -99,3 +98,4 @@
 - [litsph](https://github.com/litsph)
 - [tonichi24](https://github.com/tonichi24)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
+- [UltronTheAI](https://github.com/UltronTheAI)
