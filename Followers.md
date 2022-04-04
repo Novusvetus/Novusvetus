@@ -1,4 +1,6 @@
 
+- [navaneethrkrishna](https://github.com/navaneethrkrishna)
+- [abdulhadi112215](https://github.com/abdulhadi112215)
 - [oxica](https://github.com/oxica)
 - [BEPb](https://github.com/BEPb)
 - [jsgosol](https://github.com/jsgosol)
@@ -97,5 +99,3 @@
 - [litsph](https://github.com/litsph)
 - [tonichi24](https://github.com/tonichi24)
 - [Samuel-de-Oliveira](https://github.com/Samuel-de-Oliveira)
-- [UltronTheAI](https://github.com/UltronTheAI)
-- [17920368](https://github.com/17920368)
