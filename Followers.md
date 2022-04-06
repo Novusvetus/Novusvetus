@@ -1,4 +1,5 @@
 
+- [Periyot](https://github.com/Periyot)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
@@ -98,4 +99,3 @@
 - [dinosoid](https://github.com/dinosoid)
 - [graceanderick](https://github.com/graceanderick)
 - [Pushapkamalpradhan](https://github.com/Pushapkamalpradhan)
-- [litsph](https://github.com/litsph)
