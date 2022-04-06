@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
 - [keigo-dev](https://github.com/keigo-dev)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [BEPb](https://github.com/BEPb)
 - [jsgosol](https://github.com/jsgosol)
 - [woogiekim](https://github.com/woogiekim)
-- [22388o](https://github.com/22388o)
 
 #### 🎢 Stats
 
