@@ -1,4 +1,5 @@
 
+- [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Periyot](https://github.com/Periyot)
@@ -98,4 +99,3 @@
 - [corasphinx](https://github.com/corasphinx)
 - [ledemkam](https://github.com/ledemkam)
 - [Jrfranco](https://github.com/Jrfranco)
-- [dinosoid](https://github.com/dinosoid)
