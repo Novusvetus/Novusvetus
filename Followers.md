@@ -1,4 +1,5 @@
 
+- [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Periyot](https://github.com/Periyot)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -98,4 +99,3 @@
 - [ledemkam](https://github.com/ledemkam)
 - [Jrfranco](https://github.com/Jrfranco)
 - [dinosoid](https://github.com/dinosoid)
-- [graceanderick](https://github.com/graceanderick)
