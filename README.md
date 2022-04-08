@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wallyholloway](https://github.com/wallyholloway)
+- [jillforbes9](https://github.com/jillforbes9)
 - [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
 - [keigo-dev](https://github.com/keigo-dev)
-- [navaneethrkrishna](https://github.com/navaneethrkrishna)
-- [abdulhadi112215](https://github.com/abdulhadi112215)
 
 #### 🎢 Stats
 

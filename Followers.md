@@ -1,4 +1,6 @@
 
+- [wallyholloway](https://github.com/wallyholloway)
+- [jillforbes9](https://github.com/jillforbes9)
 - [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
@@ -97,5 +99,3 @@
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
 - [corasphinx](https://github.com/corasphinx)
-- [ledemkam](https://github.com/ledemkam)
-- [Jrfranco](https://github.com/Jrfranco)
