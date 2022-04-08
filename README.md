@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
-- [Periyot](https://github.com/Periyot)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
+- [keigo-dev](https://github.com/keigo-dev)
 
 #### 🎢 Stats
 

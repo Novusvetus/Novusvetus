@@ -5,7 +5,6 @@
 - [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
-- [Periyot](https://github.com/Periyot)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
@@ -99,3 +98,4 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
+- [corasphinx](https://github.com/corasphinx)
