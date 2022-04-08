@@ -1,4 +1,5 @@
 
+- [leshayes4](https://github.com/leshayes4)
 - [wallyholloway](https://github.com/wallyholloway)
 - [jillforbes9](https://github.com/jillforbes9)
 - [zonnguyen](https://github.com/zonnguyen)
@@ -98,4 +99,3 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
-- [corasphinx](https://github.com/corasphinx)

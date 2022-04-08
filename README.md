@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [leshayes4](https://github.com/leshayes4)
 - [wallyholloway](https://github.com/wallyholloway)
 - [jillforbes9](https://github.com/jillforbes9)
 - [zonnguyen](https://github.com/zonnguyen)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
-- [keigo-dev](https://github.com/keigo-dev)
 
 #### 🎢 Stats
 
