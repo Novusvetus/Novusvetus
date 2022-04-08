@@ -33,7 +33,7 @@
 - [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
-- [DavidTM95](https://github.com/DavidTM95)
+- [SecretCryptoExpert](https://github.com/SecretCryptoExpert)
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
