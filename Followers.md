@@ -19,7 +19,6 @@
 - [22388o](https://github.com/22388o)
 - [blakegalbavy](https://github.com/blakegalbavy)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
-- [Mrkouhadi](https://github.com/Mrkouhadi)
 - [LEOFX208](https://github.com/LEOFX208)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
@@ -99,3 +98,4 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
+- [corasphinx](https://github.com/corasphinx)
