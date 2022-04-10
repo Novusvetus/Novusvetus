@@ -1,4 +1,5 @@
 
+- [mahafuz](https://github.com/mahafuz)
 - [Ahmed-Aoulad-Amar](https://github.com/Ahmed-Aoulad-Amar)
 - [leshayes4](https://github.com/leshayes4)
 - [wallyholloway](https://github.com/wallyholloway)
@@ -98,4 +99,3 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
-- [corasphinx](https://github.com/corasphinx)
