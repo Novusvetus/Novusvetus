@@ -7,7 +7,6 @@
 - [jillforbes9](https://github.com/jillforbes9)
 - [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [DripMicro](https://github.com/DripMicro)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
@@ -99,3 +98,4 @@
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
+- [Tylerzkie](https://github.com/Tylerzkie)
