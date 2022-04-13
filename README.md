@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
 - [leshayes4](https://github.com/leshayes4)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [newtonruiz](https://github.com/newtonruiz)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
-- [DripMicro](https://github.com/DripMicro)
 
 #### 🎢 Stats
 
