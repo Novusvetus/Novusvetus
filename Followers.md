@@ -15,7 +15,6 @@
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
 - [abdulhadi112215](https://github.com/abdulhadi112215)
 - [oxica](https://github.com/oxica)
-- [BEPb](https://github.com/BEPb)
 - [jsgosol](https://github.com/jsgosol)
 - [woogiekim](https://github.com/woogiekim)
 - [22388o](https://github.com/22388o)
@@ -99,3 +98,4 @@
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
+- [Tylerzkie](https://github.com/Tylerzkie)
