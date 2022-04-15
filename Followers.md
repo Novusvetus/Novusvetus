@@ -1,6 +1,5 @@
 
 - [rramantiwari](https://github.com/rramantiwari)
-- [GHOSTTPROG](https://github.com/GHOSTTPROG)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
@@ -99,3 +98,4 @@
 - [agathafr](https://github.com/agathafr)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [lornabkoo](https://github.com/lornabkoo)
+- [JinSSJ3](https://github.com/JinSSJ3)
