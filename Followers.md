@@ -31,7 +31,6 @@
 - [gamemann](https://github.com/gamemann)
 - [jestemAria](https://github.com/jestemAria)
 - [b12snorter](https://github.com/b12snorter)
-- [isyuricunha](https://github.com/isyuricunha)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
 - [SecretCryptoExpert](https://github.com/SecretCryptoExpert)
@@ -99,3 +98,4 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
+- [corasphinx](https://github.com/corasphinx)
