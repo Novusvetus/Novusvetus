@@ -27,7 +27,6 @@
 - [sefakozan](https://github.com/sefakozan)
 - [pomatechlead](https://github.com/pomatechlead)
 - [seosigoto](https://github.com/seosigoto)
-- [AsTunO](https://github.com/AsTunO)
 - [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
 - [jestemAria](https://github.com/jestemAria)
@@ -99,3 +98,4 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
+- [corasphinx](https://github.com/corasphinx)
