@@ -1,4 +1,5 @@
 
+- [AsTunO](https://github.com/AsTunO)
 - [jacobdmn](https://github.com/jacobdmn)
 - [rramantiwari](https://github.com/rramantiwari)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
@@ -98,4 +99,3 @@
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
 - [Tylerzkie](https://github.com/Tylerzkie)
-- [corasphinx](https://github.com/corasphinx)
