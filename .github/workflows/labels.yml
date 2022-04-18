@@ -6,6 +6,9 @@ on:
       - main
     paths:
       - .github/labels.yml
+      - .github/workflows/labels.yml
+  schedule:
+    - cron: "0 3 * * *"
 
 jobs:
   labels:
@@ -13,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: ⤵️ Check out code from GitHub
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: 🚀 Run Label Syncer
         uses: micnncim/action-label-syncer@v1.3.0
         env:
