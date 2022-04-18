@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [diagodryson](https://github.com/diagodryson)
 - [AsTunO](https://github.com/AsTunO)
 - [jacobdmn](https://github.com/jacobdmn)
 - [rramantiwari](https://github.com/rramantiwari)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [leshayes4](https://github.com/leshayes4)
 - [wallyholloway](https://github.com/wallyholloway)
 - [jillforbes9](https://github.com/jillforbes9)
-- [zonnguyen](https://github.com/zonnguyen)
 
 #### 🎢 Stats
 

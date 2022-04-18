@@ -1,4 +1,5 @@
 
+- [diagodryson](https://github.com/diagodryson)
 - [AsTunO](https://github.com/AsTunO)
 - [jacobdmn](https://github.com/jacobdmn)
 - [rramantiwari](https://github.com/rramantiwari)
@@ -98,4 +99,3 @@
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
 - [lornabkoo](https://github.com/lornabkoo)
 - [JinSSJ3](https://github.com/JinSSJ3)
-- [Tylerzkie](https://github.com/Tylerzkie)
