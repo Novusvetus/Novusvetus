@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [GearHiram1397](https://github.com/GearHiram1397)
 - [DripMicro](https://github.com/DripMicro)
 - [diagodryson](https://github.com/diagodryson)
 - [AsTunO](https://github.com/AsTunO)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
 - [leshayes4](https://github.com/leshayes4)
-- [wallyholloway](https://github.com/wallyholloway)
 
 #### 🎢 Stats
 
