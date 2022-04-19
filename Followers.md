@@ -1,4 +1,6 @@
 
+- [Altinger-Robert](https://github.com/Altinger-Robert)
+- [mark-ruddy](https://github.com/mark-ruddy)
 - [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [DripMicro](https://github.com/DripMicro)
@@ -97,5 +99,3 @@
 - [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
-- [agathafr](https://github.com/agathafr)
-- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)

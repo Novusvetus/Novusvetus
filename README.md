@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Altinger-Robert](https://github.com/Altinger-Robert)
+- [mark-ruddy](https://github.com/mark-ruddy)
 - [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [DripMicro](https://github.com/DripMicro)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [jacobdmn](https://github.com/jacobdmn)
 - [rramantiwari](https://github.com/rramantiwari)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
-- [guerbejhamdi](https://github.com/guerbejhamdi)
-- [mahafuz](https://github.com/mahafuz)
 
 #### 🎢 Stats
 
