@@ -1,4 +1,5 @@
 
+- [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [DripMicro](https://github.com/DripMicro)
 - [diagodryson](https://github.com/diagodryson)
@@ -98,4 +99,3 @@
 - [cherucole](https://github.com/cherucole)
 - [agathafr](https://github.com/agathafr)
 - [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
-- [lornabkoo](https://github.com/lornabkoo)
