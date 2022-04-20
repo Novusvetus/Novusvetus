@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [Altinger-Robert](https://github.com/Altinger-Robert)
 - [mark-ruddy](https://github.com/mark-ruddy)
 - [asliddinxanov](https://github.com/asliddinxanov)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [AsTunO](https://github.com/AsTunO)
 - [jacobdmn](https://github.com/jacobdmn)
 - [rramantiwari](https://github.com/rramantiwari)
-- [regismeyssonnier](https://github.com/regismeyssonnier)
 
 #### 🎢 Stats
 
