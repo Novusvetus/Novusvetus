@@ -15,7 +15,6 @@
 - [leshayes4](https://github.com/leshayes4)
 - [wallyholloway](https://github.com/wallyholloway)
 - [jillforbes9](https://github.com/jillforbes9)
-- [zonnguyen](https://github.com/zonnguyen)
 - [newtonruiz](https://github.com/newtonruiz)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
@@ -99,3 +98,4 @@
 - [F3lip32010](https://github.com/F3lip32010)
 - [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
+- [cherucole](https://github.com/cherucole)
