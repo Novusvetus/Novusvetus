@@ -1,4 +1,5 @@
 
+- [jeannesexton](https://github.com/jeannesexton)
 - [sunn1day](https://github.com/sunn1day)
 - [mozafarimanesh](https://github.com/mozafarimanesh)
 - [mark-ruddy](https://github.com/mark-ruddy)
@@ -98,4 +99,3 @@
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
 - [F3lip32010](https://github.com/F3lip32010)
-- [Louisathenios](https://github.com/Louisathenios)
