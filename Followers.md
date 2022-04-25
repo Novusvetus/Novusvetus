@@ -15,7 +15,6 @@
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
-- [leshayes4](https://github.com/leshayes4)
 - [wallyholloway](https://github.com/wallyholloway)
 - [jillforbes9](https://github.com/jillforbes9)
 - [newtonruiz](https://github.com/newtonruiz)
@@ -99,3 +98,4 @@
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
 - [F3lip32010](https://github.com/F3lip32010)
+- [Louisathenios](https://github.com/Louisathenios)
