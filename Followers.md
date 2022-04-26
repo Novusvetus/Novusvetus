@@ -1,4 +1,5 @@
 
+- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
 - [jeannesexton](https://github.com/jeannesexton)
 - [sunn1day](https://github.com/sunn1day)
@@ -98,4 +99,3 @@
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
 - [agathafr](https://github.com/agathafr)
-- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)
