@@ -5,7 +5,6 @@
 - [mozafarimanesh](https://github.com/mozafarimanesh)
 - [mark-ruddy](https://github.com/mark-ruddy)
 - [BEPb](https://github.com/BEPb)
-- [Altinger-Robert](https://github.com/Altinger-Robert)
 - [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
@@ -99,3 +98,4 @@
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
 - [agathafr](https://github.com/agathafr)
+- [CrazyIndianDeveloper](https://github.com/CrazyIndianDeveloper)

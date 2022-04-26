@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [mozafarimanesh](https://github.com/mozafarimanesh)
 - [mark-ruddy](https://github.com/mark-ruddy)
 - [BEPb](https://github.com/BEPb)
-- [Altinger-Robert](https://github.com/Altinger-Robert)
 - [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
+- [AsTunO](https://github.com/AsTunO)
 
 #### 🎢 Stats
 
