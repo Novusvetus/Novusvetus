@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DripMicro](https://github.com/DripMicro)
 - [jeannesexton](https://github.com/jeannesexton)
 - [sunn1day](https://github.com/sunn1day)
 - [mozafarimanesh](https://github.com/mozafarimanesh)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Altinger-Robert](https://github.com/Altinger-Robert)
 - [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
-- [DripMicro](https://github.com/DripMicro)
 - [diagodryson](https://github.com/diagodryson)
 
 #### 🎢 Stats
