@@ -1,4 +1,6 @@
 
+- [shreyasinegi](https://github.com/shreyasinegi)
+- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
@@ -90,7 +92,6 @@
 - [Gizachew29](https://github.com/Gizachew29)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
-- [shreyasinegi](https://github.com/shreyasinegi)
 - [0l1v3rr](https://github.com/0l1v3rr)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
@@ -98,4 +99,3 @@
 - [Louisathenios](https://github.com/Louisathenios)
 - [groundf](https://github.com/groundf)
 - [cherucole](https://github.com/cherucole)
-- [agathafr](https://github.com/agathafr)

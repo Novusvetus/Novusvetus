@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [shreyasinegi](https://github.com/shreyasinegi)
+- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [sunn1day](https://github.com/sunn1day)
 - [mozafarimanesh](https://github.com/mozafarimanesh)
 - [mark-ruddy](https://github.com/mark-ruddy)
-- [BEPb](https://github.com/BEPb)
-- [asliddinxanov](https://github.com/asliddinxanov)
 
 #### 🎢 Stats
 
