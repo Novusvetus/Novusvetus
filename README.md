@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mark-ruddy](https://github.com/mark-ruddy)
 - [BEPb](https://github.com/BEPb)
 - [asliddinxanov](https://github.com/asliddinxanov)
-- [GearHiram1397](https://github.com/GearHiram1397)
 
 #### 🎢 Stats
 
