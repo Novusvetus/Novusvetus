@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
-- [jeannesexton](https://github.com/jeannesexton)
 
 #### 🎢 Stats
 
