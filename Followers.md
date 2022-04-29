@@ -24,7 +24,7 @@
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
 - [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
-- [keigo-dev](https://github.com/keigo-dev)
+- [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
 - [abdulhadi112215](https://github.com/abdulhadi112215)
 - [oxica](https://github.com/oxica)
