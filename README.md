@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [JCSIVO](https://github.com/JCSIVO)
 - [jishanshaikh4](https://github.com/jishanshaikh4)
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
-- [AsTunO](https://github.com/AsTunO)
 
 #### 🎢 Stats
 
