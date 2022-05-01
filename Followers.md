@@ -19,7 +19,6 @@
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
 - [jacobdmn](https://github.com/jacobdmn)
-- [rramantiwari](https://github.com/rramantiwari)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
@@ -99,3 +98,4 @@
 - [0l1v3rr](https://github.com/0l1v3rr)
 - [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
 - [ugleiton](https://github.com/ugleiton)
+- [F3lip32010](https://github.com/F3lip32010)
