@@ -1,4 +1,5 @@
 
+- [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
 - [jishanshaikh4](https://github.com/jishanshaikh4)
 - [aash-gates](https://github.com/aash-gates)
@@ -7,7 +8,6 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
