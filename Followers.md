@@ -1,4 +1,5 @@
 
+- [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
 - [jishanshaikh4](https://github.com/jishanshaikh4)
@@ -98,4 +99,3 @@
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
 - [0l1v3rr](https://github.com/0l1v3rr)
-- [Olegqqqmarkelov](https://github.com/Olegqqqmarkelov)
