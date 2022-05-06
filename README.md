@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [carlosportella16](https://github.com/carlosportella16)
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
-- [shreyasinegi](https://github.com/shreyasinegi)
 
 #### 🎢 Stats
 
