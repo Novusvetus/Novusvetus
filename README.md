@@ -14,9 +14,9 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
-- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
@@ -45,6 +45,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-05-10](https://github.com/Novusvetus/action-phpinsights/pull/176) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2022-05-10](https://github.com/Novusvetus/action-php_codesniffer/pull/231) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-05-08](https://github.com/Novusvetus/action-phpinsights/pull/174) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-05-08](https://github.com/Novusvetus/action-php_codesniffer/pull/229) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-05-07](https://github.com/Novusvetus/action-php_codesniffer/pull/228) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -53,8 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-05-06](https://github.com/Novusvetus/action-php_codesniffer/pull/227) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-05-04](https://github.com/Novusvetus/action-phpinsights/pull/170) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-05-04](https://github.com/Novusvetus/action-php_codesniffer/pull/225) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2022-05-03](https://github.com/Novusvetus/action-phpinsights/pull/168) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2022-05-03](https://github.com/Novusvetus/action-php_codesniffer/pull/223) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
