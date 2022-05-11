@@ -1,4 +1,5 @@
 
+- [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
 - [carlosportella16](https://github.com/carlosportella16)
 - [FilipiMachado](https://github.com/FilipiMachado)
@@ -98,4 +99,3 @@
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)

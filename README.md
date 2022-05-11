@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
 - [carlosportella16](https://github.com/carlosportella16)
 - [FilipiMachado](https://github.com/FilipiMachado)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
-- [IzaacBaptista](https://github.com/IzaacBaptista)
 
 #### 🎢 Stats
 
