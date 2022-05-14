@@ -1,5 +1,4 @@
 
-- [a0-0](https://github.com/a0-0)
 - [Defmc](https://github.com/Defmc)
 - [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [codedrian](https://github.com/codedrian)
@@ -99,3 +98,4 @@
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
 - [armancodv](https://github.com/armancodv)
+- [honeydatax](https://github.com/honeydatax)
