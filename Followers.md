@@ -1,5 +1,4 @@
 
-- [Defmc](https://github.com/Defmc)
 - [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
@@ -99,3 +98,4 @@
 - [AliDenno](https://github.com/AliDenno)
 - [armancodv](https://github.com/armancodv)
 - [honeydatax](https://github.com/honeydatax)
+- [lilaroky](https://github.com/lilaroky)
