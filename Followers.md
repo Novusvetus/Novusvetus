@@ -79,7 +79,6 @@
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
-- [dthabata](https://github.com/dthabata)
 - [Ifycode](https://github.com/Ifycode)
 - [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
 - [arditmezini](https://github.com/arditmezini)
@@ -99,3 +98,4 @@
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
+- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
