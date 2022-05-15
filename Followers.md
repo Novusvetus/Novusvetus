@@ -1,5 +1,4 @@
 
-- [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
 - [carlosportella16](https://github.com/carlosportella16)
@@ -99,3 +98,4 @@
 - [armancodv](https://github.com/armancodv)
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
+- [Gizachew29](https://github.com/Gizachew29)
