@@ -24,7 +24,6 @@
 - [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
-- [jacobdmn](https://github.com/jacobdmn)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
@@ -99,3 +98,4 @@
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
+- [TopCodeBeast](https://github.com/TopCodeBeast)
