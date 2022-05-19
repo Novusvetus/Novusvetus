@@ -32,7 +32,6 @@
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
 - [abdulhadi112215](https://github.com/abdulhadi112215)
 - [oxica](https://github.com/oxica)
-- [jsgosol](https://github.com/jsgosol)
 - [woogiekim](https://github.com/woogiekim)
 - [22388o](https://github.com/22388o)
 - [blakegalbavy](https://github.com/blakegalbavy)
@@ -99,3 +98,4 @@
 - [Gizachew29](https://github.com/Gizachew29)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
+- [0l1v3rr](https://github.com/0l1v3rr)
