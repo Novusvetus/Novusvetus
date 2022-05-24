@@ -79,7 +79,6 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
-- [Emmanuel-Odero](https://github.com/Emmanuel-Odero)
 - [arditmezini](https://github.com/arditmezini)
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
@@ -99,3 +98,4 @@
 - [Gizachew29](https://github.com/Gizachew29)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
+- [0l1v3rr](https://github.com/0l1v3rr)
