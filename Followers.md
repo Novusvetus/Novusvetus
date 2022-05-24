@@ -1,4 +1,5 @@
 
+- [lkotlarenko](https://github.com/lkotlarenko)
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
@@ -98,4 +99,3 @@
 - [Gizachew29](https://github.com/Gizachew29)
 - [tatsuyafujisaki](https://github.com/tatsuyafujisaki)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
-- [0l1v3rr](https://github.com/0l1v3rr)
