@@ -1,4 +1,5 @@
 
+- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
 - [lkotlarenko](https://github.com/lkotlarenko)
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
@@ -98,4 +99,3 @@
 - [honeydatax](https://github.com/honeydatax)
 - [lilaroky](https://github.com/lilaroky)
 - [Gizachew29](https://github.com/Gizachew29)
-- [tatsuyafujisaki](https://github.com/tatsuyafujisaki)

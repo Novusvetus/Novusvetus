@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
 - [lkotlarenko](https://github.com/lkotlarenko)
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
-- [jishanshaikh4](https://github.com/jishanshaikh4)
 
 #### 🎢 Stats
 
