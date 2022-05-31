@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [eduardohornke](https://github.com/eduardohornke)
 - [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
 - [carlosportella16](https://github.com/carlosportella16)
-- [FilipiMachado](https://github.com/FilipiMachado)
 
 #### 🎢 Stats
 

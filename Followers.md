@@ -1,4 +1,5 @@
 
+- [eduardohornke](https://github.com/eduardohornke)
 - [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
@@ -98,4 +99,3 @@
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
 - [armancodv](https://github.com/armancodv)
-- [honeydatax](https://github.com/honeydatax)
