@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
 - [BlockchainSecretDev](https://github.com/BlockchainSecretDev)
-- [eduardohornke](https://github.com/eduardohornke)
 - [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
 - [lkotlarenko](https://github.com/lkotlarenko)
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
+- [codedrian](https://github.com/codedrian)
 
 #### 🎢 Stats
 

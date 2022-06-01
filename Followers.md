@@ -2,7 +2,6 @@
 - [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
 - [BlockchainSecretDev](https://github.com/BlockchainSecretDev)
-- [eduardohornke](https://github.com/eduardohornke)
 - [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
@@ -99,3 +98,4 @@
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
 - [SallesCosta](https://github.com/SallesCosta)
+- [FabioDefilippo](https://github.com/FabioDefilippo)
