@@ -1,4 +1,5 @@
 
+- [BlockchainSecretDev](https://github.com/BlockchainSecretDev)
 - [eduardohornke](https://github.com/eduardohornke)
 - [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
@@ -98,4 +99,3 @@
 - [SallesCosta](https://github.com/SallesCosta)
 - [FabioDefilippo](https://github.com/FabioDefilippo)
 - [AliDenno](https://github.com/AliDenno)
-- [armancodv](https://github.com/armancodv)
