@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aifeelit](https://github.com/aifeelit)
+- [BlockchainSecretDev](https://github.com/BlockchainSecretDev)
 - [eduardohornke](https://github.com/eduardohornke)
 - [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [lkotlarenko](https://github.com/lkotlarenko)
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
 - [codedrian](https://github.com/codedrian)
-- [xjkun1](https://github.com/xjkun1)
-- [carlosportella16](https://github.com/carlosportella16)
 
 #### 🎢 Stats
 
