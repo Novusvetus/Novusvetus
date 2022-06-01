@@ -1,4 +1,5 @@
 
+- [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
 - [BlockchainSecretDev](https://github.com/BlockchainSecretDev)
 - [eduardohornke](https://github.com/eduardohornke)
@@ -98,4 +99,3 @@
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
 - [SallesCosta](https://github.com/SallesCosta)
-- [FabioDefilippo](https://github.com/FabioDefilippo)
