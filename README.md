@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jmoseka](https://github.com/jmoseka)
 - [elellacode](https://github.com/elellacode)
 - [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
 - [lkotlarenko](https://github.com/lkotlarenko)
-- [Uxxxxxxx](https://github.com/Uxxxxxxx)
 
 #### 🎢 Stats
 

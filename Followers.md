@@ -1,4 +1,5 @@
 
+- [jmoseka](https://github.com/jmoseka)
 - [elellacode](https://github.com/elellacode)
 - [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
@@ -98,4 +99,3 @@
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
-- [SallesCosta](https://github.com/SallesCosta)
