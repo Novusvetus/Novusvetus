@@ -1,4 +1,5 @@
 
+- [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
 - [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
@@ -98,4 +99,3 @@
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
-- [jotiaine](https://github.com/jotiaine)

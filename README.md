@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
 - [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [aifeelit](https://github.com/aifeelit)
 - [BC-Master](https://github.com/BC-Master)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
-- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 
 #### 🎢 Stats
 
