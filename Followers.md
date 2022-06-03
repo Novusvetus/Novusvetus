@@ -1,4 +1,5 @@
 
+- [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)
 - [superninja0119](https://github.com/superninja0119)
@@ -98,4 +99,3 @@
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
-- [SallesCosta](https://github.com/SallesCosta)
