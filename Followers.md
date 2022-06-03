@@ -1,4 +1,6 @@
 
+- [homshern](https://github.com/homshern)
+- [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)
@@ -97,5 +99,3 @@
 - [lwardzala](https://github.com/lwardzala)
 - [joemoceri](https://github.com/joemoceri)
 - [jotiaine](https://github.com/jotiaine)
-- [miguelcarmona23](https://github.com/miguelcarmona23)
-- [rudrac19](https://github.com/rudrac19)

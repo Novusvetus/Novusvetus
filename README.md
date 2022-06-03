@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [homshern](https://github.com/homshern)
+- [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [BC-Master](https://github.com/BC-Master)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
-- [ozboware](https://github.com/ozboware)
-- [lkotlarenko](https://github.com/lkotlarenko)
 
 #### 🎢 Stats
 
