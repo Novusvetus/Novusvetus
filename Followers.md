@@ -4,7 +4,6 @@
 - [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
 - [BC-Master](https://github.com/BC-Master)
-- [muskaantiwari](https://github.com/muskaantiwari)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
@@ -99,3 +98,4 @@
 - [jotiaine](https://github.com/jotiaine)
 - [miguelcarmona23](https://github.com/miguelcarmona23)
 - [rudrac19](https://github.com/rudrac19)
+- [SallesCosta](https://github.com/SallesCosta)
