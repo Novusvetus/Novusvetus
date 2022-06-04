@@ -1,4 +1,5 @@
 
+- [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
 - [0xgpapad](https://github.com/0xgpapad)
@@ -98,4 +99,3 @@
 - [zaraco](https://github.com/zaraco)
 - [vissih](https://github.com/vissih)
 - [lwardzala](https://github.com/lwardzala)
-- [joemoceri](https://github.com/joemoceri)
