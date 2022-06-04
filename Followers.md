@@ -63,7 +63,7 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
-- [SecretCryptoExpert](https://github.com/SecretCryptoExpert)
+- [BC-Expert](https://github.com/BC-Expert)
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
