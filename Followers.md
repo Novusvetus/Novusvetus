@@ -1,4 +1,5 @@
 
+- [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
@@ -98,4 +99,3 @@
 - [CleuJunior](https://github.com/CleuJunior)
 - [zaraco](https://github.com/zaraco)
 - [vissih](https://github.com/vissih)
-- [lwardzala](https://github.com/lwardzala)

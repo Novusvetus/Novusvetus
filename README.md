@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [jmoseka](https://github.com/jmoseka)
 - [superninja0119](https://github.com/superninja0119)
 - [aifeelit](https://github.com/aifeelit)
-- [BC-Master](https://github.com/BC-Master)
 
 #### 🎢 Stats
 
