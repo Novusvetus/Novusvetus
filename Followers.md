@@ -1,4 +1,5 @@
 
+- [rvsul](https://github.com/rvsul)
 - [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
@@ -98,4 +99,3 @@
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
 - [zaraco](https://github.com/zaraco)
-- [vissih](https://github.com/vissih)
