@@ -9,7 +9,6 @@
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)
 - [superninja0119](https://github.com/superninja0119)
-- [aifeelit](https://github.com/aifeelit)
 - [BC-Master](https://github.com/BC-Master)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
@@ -99,3 +98,4 @@
 - [weftuon1](https://github.com/weftuon1)
 - [CleuJunior](https://github.com/CleuJunior)
 - [zaraco](https://github.com/zaraco)
+- [vissih](https://github.com/vissih)
