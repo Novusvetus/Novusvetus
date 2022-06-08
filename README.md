@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blackhorse0330](https://github.com/blackhorse0330)
 - [scxipted](https://github.com/scxipted)
 - [rvsul](https://github.com/rvsul)
 - [Sings168](https://github.com/Sings168)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
-- [jmoseka](https://github.com/jmoseka)
 
 #### 🎢 Stats
 
