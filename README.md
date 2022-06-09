@@ -70,8 +70,8 @@ _Nobody sponsors me. I am poor..._
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
-- [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
+- [urmybestfriend](https://github.com/urmybestfriend)
 
 #### 🎢 Stats
 

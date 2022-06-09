@@ -7,7 +7,6 @@
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
 - [homshern](https://github.com/homshern)
-- [0xgpapad](https://github.com/0xgpapad)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)
@@ -99,3 +98,4 @@
 - [Ifycode](https://github.com/Ifycode)
 - [arditmezini](https://github.com/arditmezini)
 - [weftuon1](https://github.com/weftuon1)
+- [CleuJunior](https://github.com/CleuJunior)
