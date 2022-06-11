@@ -1,4 +1,5 @@
 
+- [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
@@ -8,7 +9,6 @@
 - [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
-- [homshern](https://github.com/homshern)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)

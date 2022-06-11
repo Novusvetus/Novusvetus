@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
 - [elellacode](https://github.com/elellacode)
-- [homshern](https://github.com/homshern)
 
 #### 🎢 Stats
 
