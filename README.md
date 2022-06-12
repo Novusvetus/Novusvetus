@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [rvsul](https://github.com/rvsul)
 - [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
-- [elellacode](https://github.com/elellacode)
+- [PrintedoX](https://github.com/PrintedoX)
 
 #### 🎢 Stats
 

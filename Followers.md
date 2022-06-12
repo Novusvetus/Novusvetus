@@ -8,7 +8,6 @@
 - [rvsul](https://github.com/rvsul)
 - [Sings168](https://github.com/Sings168)
 - [carameltora](https://github.com/carameltora)
-- [elellacode](https://github.com/elellacode)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [jmoseka](https://github.com/jmoseka)
@@ -99,3 +98,4 @@
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
 - [arditmezini](https://github.com/arditmezini)
+- [weftuon1](https://github.com/weftuon1)
