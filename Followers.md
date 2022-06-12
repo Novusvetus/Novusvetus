@@ -1,4 +1,5 @@
 
+- [akshaynarisetti](https://github.com/akshaynarisetti)
 - [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
@@ -98,4 +99,3 @@
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
 - [arditmezini](https://github.com/arditmezini)
-- [weftuon1](https://github.com/weftuon1)
