@@ -5,7 +5,6 @@
 - [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
-- [blackhorse0330](https://github.com/blackhorse0330)
 - [scxipted](https://github.com/scxipted)
 - [rvsul](https://github.com/rvsul)
 - [Sings168](https://github.com/Sings168)
@@ -99,3 +98,4 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
+- [arditmezini](https://github.com/arditmezini)
