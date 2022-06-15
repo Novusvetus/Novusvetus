@@ -26,7 +26,6 @@
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
-- [jishanshaikh4](https://github.com/jishanshaikh4)
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
@@ -99,3 +98,4 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
+- [arditmezini](https://github.com/arditmezini)
