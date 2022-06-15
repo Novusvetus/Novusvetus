@@ -1,4 +1,5 @@
 
+- [mrpaziresh](https://github.com/mrpaziresh)
 - [elellacode](https://github.com/elellacode)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
 - [EleoXDA](https://github.com/EleoXDA)
@@ -98,4 +99,3 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
-- [arditmezini](https://github.com/arditmezini)
