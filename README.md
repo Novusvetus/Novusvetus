@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [elellacode](https://github.com/elellacode)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [sriram-km](https://github.com/sriram-km)
 - [scxipted](https://github.com/scxipted)
 - [rvsul](https://github.com/rvsul)
-- [Sings168](https://github.com/Sings168)
 
 #### 🎢 Stats
 
