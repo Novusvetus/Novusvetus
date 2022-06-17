@@ -65,7 +65,6 @@
 - [seosigoto](https://github.com/seosigoto)
 - [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
-- [jestemAria](https://github.com/jestemAria)
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
@@ -99,3 +98,4 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
+- [arditmezini](https://github.com/arditmezini)
