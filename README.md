@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Saidiislam](https://github.com/Saidiislam)
 - [isyuricunha](https://github.com/isyuricunha)
 - [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
 - [scxipted](https://github.com/scxipted)
-- [rvsul](https://github.com/rvsul)
 
 #### 🎢 Stats
 
