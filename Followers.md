@@ -1,6 +1,5 @@
 
 - [Saidiislam](https://github.com/Saidiislam)
-- [isyuricunha](https://github.com/isyuricunha)
 - [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [elellacode](https://github.com/elellacode)
@@ -99,3 +98,4 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
+- [arditmezini](https://github.com/arditmezini)
