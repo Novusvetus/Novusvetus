@@ -66,12 +66,12 @@ _Nobody sponsors me. I am poor..._
 - [Saidiislam](https://github.com/Saidiislam)
 - [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
-- [elellacode](https://github.com/elellacode)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
 - [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
 - [scxipted](https://github.com/scxipted)
+- [rvsul](https://github.com/rvsul)
 
 #### 🎢 Stats
 
