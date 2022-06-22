@@ -1,4 +1,5 @@
 
+- [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
 - [bio1oo1](https://github.com/bio1oo1)
@@ -98,4 +99,3 @@
 - [Henriquecesar139](https://github.com/Henriquecesar139)
 - [VucoDigInc](https://github.com/VucoDigInc)
 - [Ifycode](https://github.com/Ifycode)
-- [arditmezini](https://github.com/arditmezini)
