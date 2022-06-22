@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [elellacode](https://github.com/elellacode)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
-- [scxipted](https://github.com/scxipted)
 
 #### 🎢 Stats
 
