@@ -1,4 +1,5 @@
 
+- [lidarbtc](https://github.com/lidarbtc)
 - [elellacode](https://github.com/elellacode)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
@@ -98,4 +99,3 @@
 - [mustafadonat](https://github.com/mustafadonat)
 - [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
 - [Henriquecesar139](https://github.com/Henriquecesar139)
-- [VucoDigInc](https://github.com/VucoDigInc)
