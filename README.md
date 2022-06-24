@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ares90125](https://github.com/Ares90125)
 - [lidarbtc](https://github.com/lidarbtc)
 - [elellacode](https://github.com/elellacode)
 - [HectorSpartan](https://github.com/HectorSpartan)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
 - [EleoXDA](https://github.com/EleoXDA)
-- [Retr0981](https://github.com/Retr0981)
 
 #### 🎢 Stats
 
