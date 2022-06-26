@@ -1,4 +1,5 @@
 
+- [KisanThapa](https://github.com/KisanThapa)
 - [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
 - [Ares90125](https://github.com/Ares90125)
 - [elellacode](https://github.com/elellacode)
@@ -98,4 +99,3 @@
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
 - [mustafadonat](https://github.com/mustafadonat)
-- [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
