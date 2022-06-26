@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
 - [Ares90125](https://github.com/Ares90125)
-- [lidarbtc](https://github.com/lidarbtc)
 - [elellacode](https://github.com/elellacode)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
+- [EleoXDA](https://github.com/EleoXDA)
 
 #### 🎢 Stats
 

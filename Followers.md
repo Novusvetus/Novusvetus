@@ -1,7 +1,6 @@
 
 - [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
 - [Ares90125](https://github.com/Ares90125)
-- [lidarbtc](https://github.com/lidarbtc)
 - [elellacode](https://github.com/elellacode)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
@@ -99,3 +98,4 @@
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
 - [mustafadonat](https://github.com/mustafadonat)
+- [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
