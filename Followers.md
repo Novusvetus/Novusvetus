@@ -53,7 +53,6 @@
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [mahafuz](https://github.com/mahafuz)
-- [Hassan-Shoayb](https://github.com/Hassan-Shoayb)
 - [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
 - [abdulhadi112215](https://github.com/abdulhadi112215)
@@ -99,3 +98,4 @@
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
 - [mustafadonat](https://github.com/mustafadonat)
+- [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
