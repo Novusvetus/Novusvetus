@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [KisanThapa](https://github.com/KisanThapa)
 - [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
 - [bio1oo1](https://github.com/bio1oo1)
-- [mrpaziresh](https://github.com/mrpaziresh)
 
 #### 🎢 Stats
 
