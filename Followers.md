@@ -1,4 +1,5 @@
 
+- [Anzz-bot](https://github.com/Anzz-bot)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [KisanThapa](https://github.com/KisanThapa)
@@ -98,4 +99,3 @@
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
-- [mustafadonat](https://github.com/mustafadonat)
