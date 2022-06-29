@@ -1,4 +1,5 @@
 
+- [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
 - [Anzz-bot](https://github.com/Anzz-bot)
@@ -98,4 +99,3 @@
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
-- [eohwhypi](https://github.com/eohwhypi)
