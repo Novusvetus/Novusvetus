@@ -1,4 +1,5 @@
 
+- [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
 - [Anzz-bot](https://github.com/Anzz-bot)
 - [Sings168](https://github.com/Sings168)
@@ -20,7 +21,6 @@
 - [carameltora](https://github.com/carameltora)
 - [PrintedoX](https://github.com/PrintedoX)
 - [urmybestfriend](https://github.com/urmybestfriend)
-- [jmoseka](https://github.com/jmoseka)
 - [superninja0119](https://github.com/superninja0119)
 - [BC-Master](https://github.com/BC-Master)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
