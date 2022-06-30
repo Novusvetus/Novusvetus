@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [KisanThapa](https://github.com/KisanThapa)
 - [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
 - [elellacode](https://github.com/elellacode)
-- [HectorSpartan](https://github.com/HectorSpartan)
 
 #### 🎢 Stats
 
