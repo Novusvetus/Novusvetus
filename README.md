@@ -66,12 +66,12 @@ _Nobody sponsors me. I am poor..._
 - [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
-- [Anzz-bot](https://github.com/Anzz-bot)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [KisanThapa](https://github.com/KisanThapa)
 - [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
 - [elellacode](https://github.com/elellacode)
+- [HectorSpartan](https://github.com/HectorSpartan)
 
 #### 🎢 Stats
 

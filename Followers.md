@@ -3,7 +3,6 @@
 - [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
-- [Anzz-bot](https://github.com/Anzz-bot)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [KisanThapa](https://github.com/KisanThapa)
@@ -99,3 +98,4 @@
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
+- [eohwhypi](https://github.com/eohwhypi)
