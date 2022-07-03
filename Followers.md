@@ -16,7 +16,6 @@
 - [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
-- [EleoXDA](https://github.com/EleoXDA)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
 - [scxipted](https://github.com/scxipted)
@@ -99,3 +98,4 @@
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [KBismark](https://github.com/KBismark)
+- [codewithmalik](https://github.com/codewithmalik)
