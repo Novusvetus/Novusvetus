@@ -1,4 +1,5 @@
 
+- [david-kariuki](https://github.com/david-kariuki)
 - [LegendLancer](https://github.com/LegendLancer)
 - [MosFazli](https://github.com/MosFazli)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -98,4 +99,3 @@
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
 - [KBismark](https://github.com/KBismark)
-- [codewithmalik](https://github.com/codewithmalik)

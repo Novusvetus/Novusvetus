@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [david-kariuki](https://github.com/david-kariuki)
 - [LegendLancer](https://github.com/LegendLancer)
 - [MosFazli](https://github.com/MosFazli)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [KisanThapa](https://github.com/KisanThapa)
-- [eduardo-amaro-maciel](https://github.com/eduardo-amaro-maciel)
 
 #### 🎢 Stats
 
