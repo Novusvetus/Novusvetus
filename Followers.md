@@ -1,4 +1,5 @@
 
+- [xForceDiamond](https://github.com/xForceDiamond)
 - [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
 - [LegendLancer](https://github.com/LegendLancer)
@@ -98,4 +99,3 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
-- [KBismark](https://github.com/KBismark)

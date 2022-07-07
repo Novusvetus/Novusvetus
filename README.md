@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xForceDiamond](https://github.com/xForceDiamond)
 - [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
 - [LegendLancer](https://github.com/LegendLancer)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
-- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 
 #### 🎢 Stats
 
