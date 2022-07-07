@@ -1,5 +1,5 @@
 
-- [xForceDiamond](https://github.com/xForceDiamond)
+- [xfika](https://github.com/xfika)
 - [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
 - [LegendLancer](https://github.com/LegendLancer)
