@@ -1,4 +1,5 @@
 
+- [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
 - [LegendLancer](https://github.com/LegendLancer)
 - [MosFazli](https://github.com/MosFazli)
@@ -98,4 +99,3 @@
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [oliversalzburg](https://github.com/oliversalzburg)
-- [KBismark](https://github.com/KBismark)
