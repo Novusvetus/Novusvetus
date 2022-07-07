@@ -98,4 +98,4 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
-- [oliversalzburg](https://github.com/oliversalzburg)
+- [KBismark](https://github.com/KBismark)
