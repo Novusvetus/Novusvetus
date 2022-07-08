@@ -19,7 +19,7 @@
 - [akshaynarisetti](https://github.com/akshaynarisetti)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
-- [scxipted](https://github.com/scxipted)
+- [antonio-bastos](https://github.com/antonio-bastos)
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
 - [PrintedoX](https://github.com/PrintedoX)
