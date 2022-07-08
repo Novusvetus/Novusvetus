@@ -2,7 +2,6 @@
 - [xfika](https://github.com/xfika)
 - [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
-- [LegendLancer](https://github.com/LegendLancer)
 - [MosFazli](https://github.com/MosFazli)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
@@ -99,3 +98,4 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
+- [KBismark](https://github.com/KBismark)

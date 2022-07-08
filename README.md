@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [xfika](https://github.com/xfika)
 - [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
-- [LegendLancer](https://github.com/LegendLancer)
 - [MosFazli](https://github.com/MosFazli)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
+- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 
 #### 🎢 Stats
 
