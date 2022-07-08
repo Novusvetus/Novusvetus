@@ -1,6 +1,5 @@
 
 - [xfika](https://github.com/xfika)
-- [medzino2000](https://github.com/medzino2000)
 - [david-kariuki](https://github.com/david-kariuki)
 - [MosFazli](https://github.com/MosFazli)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -99,3 +98,4 @@
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [KBismark](https://github.com/KBismark)
+- [codewithmalik](https://github.com/codewithmalik)
