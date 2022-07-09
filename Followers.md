@@ -1,4 +1,5 @@
 
+- [Arkoo1337](https://github.com/Arkoo1337)
 - [Allohcode](https://github.com/Allohcode)
 - [elellacode](https://github.com/elellacode)
 - [xfika](https://github.com/xfika)
@@ -98,4 +99,3 @@
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
-- [eohwhypi](https://github.com/eohwhypi)
