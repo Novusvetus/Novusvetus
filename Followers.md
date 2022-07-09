@@ -9,7 +9,6 @@
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [KisanThapa](https://github.com/KisanThapa)
-- [elellacode](https://github.com/elellacode)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
@@ -99,3 +98,4 @@
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
 - [mustafadonat](https://github.com/mustafadonat)
+- [SeyfullahMerdan](https://github.com/SeyfullahMerdan)
