@@ -1,4 +1,5 @@
 
+- [Allohcode](https://github.com/Allohcode)
 - [elellacode](https://github.com/elellacode)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
@@ -98,4 +99,3 @@
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
 - [eohwhypi](https://github.com/eohwhypi)
-- [mustafadonat](https://github.com/mustafadonat)
