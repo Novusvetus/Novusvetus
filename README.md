@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [elellacode](https://github.com/elellacode)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
 - [MosFazli](https://github.com/MosFazli)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
-- [KisanThapa](https://github.com/KisanThapa)
 
 #### 🎢 Stats
 
