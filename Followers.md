@@ -72,7 +72,6 @@
 - [sefakozan](https://github.com/sefakozan)
 - [pomatechlead](https://github.com/pomatechlead)
 - [seosigoto](https://github.com/seosigoto)
-- [SouzaVI](https://github.com/SouzaVI)
 - [gamemann](https://github.com/gamemann)
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
@@ -99,3 +98,4 @@
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
+- [eohwhypi](https://github.com/eohwhypi)
