@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [lssleo](https://github.com/lssleo)
-- [elellacode](https://github.com/elellacode)
 - [Arkoo1337](https://github.com/Arkoo1337)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
+- [Sings168](https://github.com/Sings168)
 
 #### 🎢 Stats
 

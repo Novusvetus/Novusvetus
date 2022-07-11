@@ -1,6 +1,5 @@
 
 - [lssleo](https://github.com/lssleo)
-- [elellacode](https://github.com/elellacode)
 - [Arkoo1337](https://github.com/Arkoo1337)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
@@ -99,3 +98,4 @@
 - [alanaaragoni](https://github.com/alanaaragoni)
 - [KBismark](https://github.com/KBismark)
 - [codewithmalik](https://github.com/codewithmalik)
+- [eohwhypi](https://github.com/eohwhypi)
