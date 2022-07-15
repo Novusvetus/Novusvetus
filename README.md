@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Gangster0312](https://github.com/Gangster0312)
 - [MosFazli](https://github.com/MosFazli)
 - [medzino2000](https://github.com/medzino2000)
 - [elellacode](https://github.com/elellacode)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [david-kariuki](https://github.com/david-kariuki)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
-- [jmoseka](https://github.com/jmoseka)
 
 #### 🎢 Stats
 
