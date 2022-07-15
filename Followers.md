@@ -1,4 +1,5 @@
 
+- [elellacode](https://github.com/elellacode)
 - [christiancalara](https://github.com/christiancalara)
 - [Gangster0312](https://github.com/Gangster0312)
 - [MosFazli](https://github.com/MosFazli)
@@ -98,4 +99,3 @@
 - [vkoop](https://github.com/vkoop)
 - [Sonickantana](https://github.com/Sonickantana)
 - [alanaaragoni](https://github.com/alanaaragoni)
-- [KBismark](https://github.com/KBismark)
