@@ -62,10 +62,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [christiancalara](https://github.com/christiancalara)
 - [Gangster0312](https://github.com/Gangster0312)
 - [MosFazli](https://github.com/MosFazli)
 - [medzino2000](https://github.com/medzino2000)
-- [elellacode](https://github.com/elellacode)
 - [lssleo](https://github.com/lssleo)
 - [Arkoo1337](https://github.com/Arkoo1337)
 - [xfika](https://github.com/xfika)
