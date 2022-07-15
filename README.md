@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [Arkoo1337](https://github.com/Arkoo1337)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
-- [MosFazli](https://github.com/MosFazli)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
 - [jmoseka](https://github.com/jmoseka)
+- [xhamino](https://github.com/xhamino)
 
 #### 🎢 Stats
 
