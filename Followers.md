@@ -1,4 +1,6 @@
 
+- [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
+- [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [elellacode](https://github.com/elellacode)
 - [christiancalara](https://github.com/christiancalara)
@@ -97,5 +99,3 @@
 - [adamea2000](https://github.com/adamea2000)
 - [AYIDouble](https://github.com/AYIDouble)
 - [sergiss](https://github.com/sergiss)
-- [vkoop](https://github.com/vkoop)
-- [Sonickantana](https://github.com/Sonickantana)

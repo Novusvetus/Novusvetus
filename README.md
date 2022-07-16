@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
+- [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [elellacode](https://github.com/elellacode)
 - [christiancalara](https://github.com/christiancalara)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [medzino2000](https://github.com/medzino2000)
 - [lssleo](https://github.com/lssleo)
 - [Arkoo1337](https://github.com/Arkoo1337)
-- [xfika](https://github.com/xfika)
-- [david-kariuki](https://github.com/david-kariuki)
 
 #### 🎢 Stats
 
