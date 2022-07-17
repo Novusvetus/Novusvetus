@@ -1,4 +1,5 @@
 
+- [jmoseka](https://github.com/jmoseka)
 - [elellacode](https://github.com/elellacode)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 - [agathafr](https://github.com/agathafr)
@@ -98,4 +99,3 @@
 - [adamea2000](https://github.com/adamea2000)
 - [AYIDouble](https://github.com/AYIDouble)
 - [sergiss](https://github.com/sergiss)
-- [vkoop](https://github.com/vkoop)
