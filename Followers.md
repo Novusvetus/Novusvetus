@@ -13,7 +13,6 @@
 - [david-kariuki](https://github.com/david-kariuki)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
-- [jmoseka](https://github.com/jmoseka)
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
@@ -99,3 +98,4 @@
 - [adamea2000](https://github.com/adamea2000)
 - [AYIDouble](https://github.com/AYIDouble)
 - [sergiss](https://github.com/sergiss)
+- [vkoop](https://github.com/vkoop)
