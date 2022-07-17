@@ -5,7 +5,7 @@
 - [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
-- [Gangster0312](https://github.com/Gangster0312)
+- [kogutstt2](https://github.com/kogutstt2)
 - [MosFazli](https://github.com/MosFazli)
 - [medzino2000](https://github.com/medzino2000)
 - [lssleo](https://github.com/lssleo)
