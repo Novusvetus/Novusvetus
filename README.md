@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
 - [elellacode](https://github.com/elellacode)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [kogutstt2](https://github.com/kogutstt2)
 - [MosFazli](https://github.com/MosFazli)
 - [medzino2000](https://github.com/medzino2000)
-- [lssleo](https://github.com/lssleo)
 
 #### 🎢 Stats
 
