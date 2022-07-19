@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
 - [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
 - [kogutstt2](https://github.com/kogutstt2)
-- [MosFazli](https://github.com/MosFazli)
 
 #### 🎢 Stats
 
