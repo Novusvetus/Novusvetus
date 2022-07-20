@@ -1,4 +1,5 @@
 
+- [jacobdmn](https://github.com/jacobdmn)
 - [mikyoch](https://github.com/mikyoch)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
@@ -98,4 +99,3 @@
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
 - [CryptoGameDev0417](https://github.com/CryptoGameDev0417)
-- [jrgriffiniii](https://github.com/jrgriffiniii)
