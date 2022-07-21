@@ -61,7 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Zedrox888](https://github.com/Zedrox888)
+- [Zertox-dev](https://github.com/Zertox-dev)
 - [jacobdmn](https://github.com/jacobdmn)
 - [mikyoch](https://github.com/mikyoch)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
