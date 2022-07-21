@@ -1,4 +1,5 @@
 
+- [Zedrox888](https://github.com/Zedrox888)
 - [jacobdmn](https://github.com/jacobdmn)
 - [mikyoch](https://github.com/mikyoch)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
@@ -98,4 +99,3 @@
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
-- [CryptoGameDev0417](https://github.com/CryptoGameDev0417)

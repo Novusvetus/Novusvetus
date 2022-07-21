@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Zedrox888](https://github.com/Zedrox888)
 - [jacobdmn](https://github.com/jacobdmn)
 - [mikyoch](https://github.com/mikyoch)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [jmoseka](https://github.com/jmoseka)
 - [elellacode](https://github.com/elellacode)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
-- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
