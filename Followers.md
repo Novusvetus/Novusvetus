@@ -1,4 +1,5 @@
 
+- [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
 - [jacobdmn](https://github.com/jacobdmn)
 - [mikyoch](https://github.com/mikyoch)
@@ -98,4 +99,3 @@
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
-- [ZakariaRahimi](https://github.com/ZakariaRahimi)
