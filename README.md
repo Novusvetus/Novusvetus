@@ -20,7 +20,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
-- [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
 
 #### 🐣 My latest projects
 
