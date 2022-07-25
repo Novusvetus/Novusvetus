@@ -7,7 +7,6 @@
 - [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
-- [elellacode](https://github.com/elellacode)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 - [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
@@ -99,3 +98,4 @@
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
+- [CryptoGameDev0417](https://github.com/CryptoGameDev0417)

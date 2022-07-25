@@ -68,8 +68,8 @@ _Nobody sponsors me. I am poor..._
 - [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
-- [elellacode](https://github.com/elellacode)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
+- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
