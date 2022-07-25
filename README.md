@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [elellacode](https://github.com/elellacode)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
 - [mikyoch](https://github.com/mikyoch)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
-- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 

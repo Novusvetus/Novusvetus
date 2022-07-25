@@ -1,4 +1,5 @@
 
+- [elellacode](https://github.com/elellacode)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
 - [mikyoch](https://github.com/mikyoch)
@@ -98,4 +99,3 @@
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
 - [ZakariaRahimi](https://github.com/ZakariaRahimi)
-- [CryptoGameDev0417](https://github.com/CryptoGameDev0417)
