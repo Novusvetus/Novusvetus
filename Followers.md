@@ -14,7 +14,6 @@
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
 - [kogutstt2](https://github.com/kogutstt2)
-- [MosFazli](https://github.com/MosFazli)
 - [medzino2000](https://github.com/medzino2000)
 - [lssleo](https://github.com/lssleo)
 - [Arkoo1337](https://github.com/Arkoo1337)
@@ -99,3 +98,4 @@
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
+- [ZakariaRahimi](https://github.com/ZakariaRahimi)
