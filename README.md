@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xmas7](https://github.com/xmas7)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [thushanvithana](https://github.com/thushanvithana)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [mikyoch](https://github.com/mikyoch)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
-- [SuperStar323](https://github.com/SuperStar323)
 
 #### 🎢 Stats
 
