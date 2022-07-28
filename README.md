@@ -67,9 +67,9 @@ _Nobody sponsors me. I am poor..._
 - [elellacode](https://github.com/elellacode)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
-- [mikyoch](https://github.com/mikyoch)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
+- [SuperStar323](https://github.com/SuperStar323)
 
 #### 🎢 Stats
 
