@@ -3,7 +3,6 @@
 - [xmas7](https://github.com/xmas7)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [thushanvithana](https://github.com/thushanvithana)
 - [elellacode](https://github.com/elellacode)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
@@ -99,3 +98,4 @@
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
 - [preethamb97](https://github.com/preethamb97)
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
+- [Cleidianaa](https://github.com/Cleidianaa)
