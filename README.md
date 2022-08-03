@@ -65,11 +65,11 @@ _Nobody sponsors me. I am poor..._
 - [xmas7](https://github.com/xmas7)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [elellacode](https://github.com/elellacode)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
+- [SuperStar323](https://github.com/SuperStar323)
 
 #### 🎢 Stats
 
