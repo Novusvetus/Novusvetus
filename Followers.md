@@ -2,7 +2,6 @@
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
 - [nullfeel](https://github.com/nullfeel)
-- [xmas7](https://github.com/xmas7)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
@@ -99,3 +98,4 @@
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
 - [preethamb97](https://github.com/preethamb97)
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
+- [Cleidianaa](https://github.com/Cleidianaa)
