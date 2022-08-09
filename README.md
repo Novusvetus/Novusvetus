@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
 - [nullfeel](https://github.com/nullfeel)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Zertox-dev](https://github.com/Zertox-dev)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
-- [SuperStar323](https://github.com/SuperStar323)
 
 #### 🎢 Stats
 
