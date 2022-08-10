@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
-- [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
 
 #### 🎢 Stats
 
