@@ -1,4 +1,5 @@
 
+- [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [EleoXDA](https://github.com/EleoXDA)
@@ -98,4 +99,3 @@
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
-- [NazarovAsadbek](https://github.com/NazarovAsadbek)
