@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [toptal126](https://github.com/toptal126)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [nullfeel](https://github.com/nullfeel)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [cucerdariancatalin](https://github.com/cucerdariancatalin)
 
 #### 🎢 Stats
 

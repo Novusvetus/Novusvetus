@@ -1,4 +1,5 @@
 
+- [toptal126](https://github.com/toptal126)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
@@ -98,4 +99,3 @@
 - [BC-Expert](https://github.com/BC-Expert)
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
-- [FlavioAro](https://github.com/FlavioAro)
