@@ -6,7 +6,6 @@
 - [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
-- [nullfeel](https://github.com/nullfeel)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
@@ -99,3 +98,4 @@
 - [BC-Expert](https://github.com/BC-Expert)
 - [katchion13](https://github.com/katchion13)
 - [linesky](https://github.com/linesky)
+- [FlavioAro](https://github.com/FlavioAro)
