@@ -22,7 +22,6 @@
 - [christiancalara](https://github.com/christiancalara)
 - [kogutstt2](https://github.com/kogutstt2)
 - [medzino2000](https://github.com/medzino2000)
-- [lssleo](https://github.com/lssleo)
 - [Arkoo1337](https://github.com/Arkoo1337)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
@@ -99,3 +98,4 @@
 - [BC-Expert](https://github.com/BC-Expert)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
+- [NazarovAsadbek](https://github.com/NazarovAsadbek)
