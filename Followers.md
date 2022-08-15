@@ -7,7 +7,6 @@
 - [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
-- [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [Zertox-dev](https://github.com/Zertox-dev)
@@ -99,3 +98,4 @@
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
+- [preethamb97](https://github.com/preethamb97)

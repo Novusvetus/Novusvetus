@@ -67,8 +67,8 @@ _Nobody sponsors me. I am poor..._
 - [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
-- [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
+- [cucerdariancatalin](https://github.com/cucerdariancatalin)
 
 #### 🎢 Stats
 
