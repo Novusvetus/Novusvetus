@@ -33,7 +33,6 @@
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
-- [bio1oo1](https://github.com/bio1oo1)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
 - [Retr0981](https://github.com/Retr0981)
@@ -99,3 +98,4 @@
 - [FlavioAro](https://github.com/FlavioAro)
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
 - [preethamb97](https://github.com/preethamb97)
+- [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
