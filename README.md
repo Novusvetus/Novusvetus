@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Arinze-Kevin](https://github.com/Arinze-Kevin)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
-- [Zertox-dev](https://github.com/Zertox-dev)
 
 #### 🎢 Stats
 
