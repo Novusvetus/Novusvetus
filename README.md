@@ -66,9 +66,9 @@ _Nobody sponsors me. I am poor..._
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
-- [Arinze-Kevin](https://github.com/Arinze-Kevin)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
+- [Zertox-dev](https://github.com/Zertox-dev)
 
 #### 🎢 Stats
 
