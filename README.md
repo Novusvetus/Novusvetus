@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [liroyleshed](https://github.com/liroyleshed)
 - [parthoshaon](https://github.com/parthoshaon)
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [EleoXDA](https://github.com/EleoXDA)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [MosFazli](https://github.com/MosFazli)
-- [Wesley-Breno](https://github.com/Wesley-Breno)
 
 #### 🎢 Stats
 
