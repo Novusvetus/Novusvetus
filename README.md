@@ -66,9 +66,9 @@ _Nobody sponsors me. I am poor..._
 - [nowjin](https://github.com/nowjin)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [EleoXDA](https://github.com/EleoXDA)
-- [HRSadeghi](https://github.com/HRSadeghi)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
+- [cucerdariancatalin](https://github.com/cucerdariancatalin)
 
 #### 🎢 Stats
 
