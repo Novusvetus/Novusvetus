@@ -19,7 +19,7 @@
 - [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
-- [kogutstt2](https://github.com/kogutstt2)
+- [ctiptopper](https://github.com/ctiptopper)
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [david-kariuki](https://github.com/david-kariuki)
