@@ -42,7 +42,6 @@
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [superninja0119](https://github.com/superninja0119)
 - [BC-Master](https://github.com/BC-Master)
-- [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
 - [lkotlarenko](https://github.com/lkotlarenko)
@@ -99,3 +98,4 @@
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
 - [jmscxnulleins](https://github.com/jmscxnulleins)
+- [ZakariaRahimi](https://github.com/ZakariaRahimi)
