@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [liroyleshed](https://github.com/liroyleshed)
 - [ali123321123](https://github.com/ali123321123)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [EleoXDA](https://github.com/EleoXDA)
 - [MosFazli](https://github.com/MosFazli)
-- [Wesley-Breno](https://github.com/Wesley-Breno)
 
 #### 🎢 Stats
 
