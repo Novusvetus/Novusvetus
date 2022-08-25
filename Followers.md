@@ -15,6 +15,7 @@
 - [zorax-dev](https://github.com/zorax-dev)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
+- [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
@@ -98,4 +99,3 @@
 - [NazarovAsadbek](https://github.com/NazarovAsadbek)
 - [preethamb97](https://github.com/preethamb97)
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
-- [Cleidianaa](https://github.com/Cleidianaa)
