@@ -1,4 +1,5 @@
 
+- [WAOSuper](https://github.com/WAOSuper)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [liroyleshed](https://github.com/liroyleshed)
@@ -98,4 +99,3 @@
 - [preethamb97](https://github.com/preethamb97)
 - [TonicBoomerKewl](https://github.com/TonicBoomerKewl)
 - [Cleidianaa](https://github.com/Cleidianaa)
-- [jmscxnulleins](https://github.com/jmscxnulleins)
