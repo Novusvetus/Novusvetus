@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [WhiteDragon001227](https://github.com/WhiteDragon001227)
 - [WAOSuper](https://github.com/WAOSuper)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
-- [EleoXDA](https://github.com/EleoXDA)
 
 #### 🎢 Stats
 
