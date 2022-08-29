@@ -1,4 +1,5 @@
 
+- [toptal126](https://github.com/toptal126)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [WhiteDragon001227](https://github.com/WhiteDragon001227)
@@ -98,4 +99,3 @@
 - [LorenKociko](https://github.com/LorenKociko)
 - [BC-Expert](https://github.com/BC-Expert)
 - [linesky](https://github.com/linesky)
-- [FlavioAro](https://github.com/FlavioAro)
