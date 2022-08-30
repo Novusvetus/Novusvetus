@@ -65,10 +65,10 @@ _Nobody sponsors me. I am poor..._
 - [WAOSuper](https://github.com/WAOSuper)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
-- [liroyleshed](https://github.com/liroyleshed)
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
+- [nowjin](https://github.com/nowjin)
 
 #### 🎢 Stats
 

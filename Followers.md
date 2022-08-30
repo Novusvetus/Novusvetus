@@ -5,7 +5,6 @@
 - [WAOSuper](https://github.com/WAOSuper)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
-- [liroyleshed](https://github.com/liroyleshed)
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
@@ -99,3 +98,4 @@
 - [BC-Expert](https://github.com/BC-Expert)
 - [linesky](https://github.com/linesky)
 - [FlavioAro](https://github.com/FlavioAro)
+- [NazarovAsadbek](https://github.com/NazarovAsadbek)
