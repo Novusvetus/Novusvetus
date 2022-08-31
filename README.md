@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [WhiteDragon001227](https://github.com/WhiteDragon001227)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
-- [nowjin](https://github.com/nowjin)
 
 #### 🎢 Stats
 
