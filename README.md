@@ -64,11 +64,11 @@ _Nobody sponsors me. I am poor..._
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [WhiteDragon001227](https://github.com/WhiteDragon001227)
-- [WAOSuper](https://github.com/WAOSuper)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
+- [currenjin](https://github.com/currenjin)
 
 #### 🎢 Stats
 
