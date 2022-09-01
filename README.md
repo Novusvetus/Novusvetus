@@ -66,9 +66,9 @@ _Nobody sponsors me. I am poor..._
 - [WhiteDragon001227](https://github.com/WhiteDragon001227)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
+- [liroyleshed](https://github.com/liroyleshed)
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
-- [currenjin](https://github.com/currenjin)
 
 #### 🎢 Stats
 
