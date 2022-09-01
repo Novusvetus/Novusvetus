@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
-- [currenjin](https://github.com/currenjin)
 
 #### 🎢 Stats
 
