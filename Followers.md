@@ -1,4 +1,5 @@
 
+- [KirillMcQ](https://github.com/KirillMcQ)
 - [ValentineIFernandes](https://github.com/ValentineIFernandes)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
@@ -98,4 +99,3 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
-- [BC-Expert](https://github.com/BC-Expert)
