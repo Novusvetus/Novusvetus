@@ -31,7 +31,6 @@
 - [ctiptopper](https://github.com/ctiptopper)
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
-- [david-kariuki](https://github.com/david-kariuki)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
 - [xhamino](https://github.com/xhamino)
@@ -99,3 +98,4 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
+- [BC-Expert](https://github.com/BC-Expert)
