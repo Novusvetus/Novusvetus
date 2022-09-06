@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rtkktr](https://github.com/rtkktr)
 - [KirillMcQ](https://github.com/KirillMcQ)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [liroyleshed](https://github.com/liroyleshed)
-- [ali123321123](https://github.com/ali123321123)
 
 #### 🎢 Stats
 
