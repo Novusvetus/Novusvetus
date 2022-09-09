@@ -13,7 +13,6 @@
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
-- [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [EleoXDA](https://github.com/EleoXDA)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
@@ -99,3 +98,4 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
+- [BC-Expert](https://github.com/BC-Expert)
