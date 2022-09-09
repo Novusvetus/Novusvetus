@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hamidjk](https://github.com/hamidjk)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [rtkktr](https://github.com/rtkktr)
 - [KirillMcQ](https://github.com/KirillMcQ)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [WhiteDragon001227](https://github.com/WhiteDragon001227)
 - [ariaesm](https://github.com/ariaesm)
-- [HRSadeghi](https://github.com/HRSadeghi)
 
 #### 🎢 Stats
 

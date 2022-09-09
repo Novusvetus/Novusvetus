@@ -1,4 +1,5 @@
 
+- [hamidjk](https://github.com/hamidjk)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [rtkktr](https://github.com/rtkktr)
 - [KirillMcQ](https://github.com/KirillMcQ)
@@ -98,4 +99,3 @@
 - [gamemann](https://github.com/gamemann)
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
-- [LorenKociko](https://github.com/LorenKociko)
