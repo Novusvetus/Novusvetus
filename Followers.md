@@ -7,7 +7,6 @@
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
-- [WhiteDragon001227](https://github.com/WhiteDragon001227)
 - [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [liroyleshed](https://github.com/liroyleshed)
@@ -99,3 +98,4 @@
 - [gamemann](https://github.com/gamemann)
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
+- [LorenKociko](https://github.com/LorenKociko)

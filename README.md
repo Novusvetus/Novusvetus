@@ -67,8 +67,8 @@ _Nobody sponsors me. I am poor..._
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
-- [WhiteDragon001227](https://github.com/WhiteDragon001227)
 - [ariaesm](https://github.com/ariaesm)
+- [HRSadeghi](https://github.com/HRSadeghi)
 
 #### 🎢 Stats
 
