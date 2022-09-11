@@ -1,4 +1,5 @@
 
+- [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [rtkktr](https://github.com/rtkktr)
@@ -90,7 +91,6 @@
 - [blakegalbavy](https://github.com/blakegalbavy)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [LEOFX208](https://github.com/LEOFX208)
-- [Joey-Resende](https://github.com/Joey-Resende)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
 - [sefakozan](https://github.com/sefakozan)
 - [pomatechlead](https://github.com/pomatechlead)
