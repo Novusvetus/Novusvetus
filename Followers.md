@@ -81,7 +81,6 @@
 - [diagodryson](https://github.com/diagodryson)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
-- [mahafuz](https://github.com/mahafuz)
 - [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
 - [abdulhadi112215](https://github.com/abdulhadi112215)
@@ -99,3 +98,4 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
+- [BC-Expert](https://github.com/BC-Expert)
