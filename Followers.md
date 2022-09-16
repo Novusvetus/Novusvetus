@@ -31,7 +31,6 @@
 - [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
-- [ctiptopper](https://github.com/ctiptopper)
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
@@ -99,3 +98,4 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
+- [BC-Expert](https://github.com/BC-Expert)
