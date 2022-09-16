@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [jupiter-softdev](https://github.com/jupiter-softdev)
 - [WAOSuper](https://github.com/WAOSuper)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
+- [lazherbtra07](https://github.com/lazherbtra07)
 
 #### 🎢 Stats
 

@@ -1,5 +1,4 @@
 
-- [jupiter-softdev](https://github.com/jupiter-softdev)
 - [WAOSuper](https://github.com/WAOSuper)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
@@ -99,3 +98,4 @@
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
 - [BC-Expert](https://github.com/BC-Expert)
+- [linesky](https://github.com/linesky)
