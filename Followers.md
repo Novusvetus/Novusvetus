@@ -16,7 +16,6 @@
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
-- [EleoXDA](https://github.com/EleoXDA)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
@@ -99,3 +98,4 @@
 - [LorenKociko](https://github.com/LorenKociko)
 - [BC-Expert](https://github.com/BC-Expert)
 - [linesky](https://github.com/linesky)
+- [FlavioAro](https://github.com/FlavioAro)
