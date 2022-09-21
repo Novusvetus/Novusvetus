@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Topstar88](https://github.com/Topstar88)
 - [tenoclock](https://github.com/tenoclock)
 - [WAOSuper](https://github.com/WAOSuper)
 - [Joey-Resende](https://github.com/Joey-Resende)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [KirillMcQ](https://github.com/KirillMcQ)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
-- [vcwild](https://github.com/vcwild)
 
 #### 🎢 Stats
 
