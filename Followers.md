@@ -1,4 +1,5 @@
 
+- [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
 - [tenoclock](https://github.com/tenoclock)
 - [WAOSuper](https://github.com/WAOSuper)
@@ -98,4 +99,3 @@
 - [b12snorter](https://github.com/b12snorter)
 - [nidabaci](https://github.com/nidabaci)
 - [LorenKociko](https://github.com/LorenKociko)
-- [BC-Expert](https://github.com/BC-Expert)

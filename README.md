@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
 - [tenoclock](https://github.com/tenoclock)
 - [WAOSuper](https://github.com/WAOSuper)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [rtkktr](https://github.com/rtkktr)
 - [KirillMcQ](https://github.com/KirillMcQ)
 - [codebuil](https://github.com/codebuil)
-- [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 
 #### 🎢 Stats
 
