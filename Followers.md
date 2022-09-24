@@ -79,7 +79,6 @@
 - [mozafarimanesh](https://github.com/mozafarimanesh)
 - [mark-ruddy](https://github.com/mark-ruddy)
 - [BEPb](https://github.com/BEPb)
-- [asliddinxanov](https://github.com/asliddinxanov)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
@@ -99,3 +98,4 @@
 - [seosigoto](https://github.com/seosigoto)
 - [gamemann](https://github.com/gamemann)
 - [b12snorter](https://github.com/b12snorter)
+- [nidabaci](https://github.com/nidabaci)
