@@ -1,4 +1,5 @@
 
+- [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [passionatedeveloper223](https://github.com/passionatedeveloper223)
 - [code2lives](https://github.com/code2lives)
@@ -98,4 +99,3 @@
 - [seosigoto](https://github.com/seosigoto)
 - [gamemann](https://github.com/gamemann)
 - [b12snorter](https://github.com/b12snorter)
-- [nidabaci](https://github.com/nidabaci)
