@@ -1,4 +1,5 @@
 
+- [BrunoGonSouza](https://github.com/BrunoGonSouza)
 - [mumulemouton](https://github.com/mumulemouton)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
@@ -98,4 +99,3 @@
 - [sefakozan](https://github.com/sefakozan)
 - [pomatechlead](https://github.com/pomatechlead)
 - [seosigoto](https://github.com/seosigoto)
-- [gamemann](https://github.com/gamemann)
