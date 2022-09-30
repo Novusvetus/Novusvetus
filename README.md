@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-10-01](https://github.com/Novusvetus/IntelliJStatsPlugin/pull/2) on [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin)
 - [Updates 2022-09-19](https://github.com/Novusvetus/AutoGitIgnore/pull/24) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updates 2022-09-19](https://github.com/Novusvetus/ClassHelper/pull/23) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Updates 2022-09-19](https://github.com/Novusvetus/Mendelssohn/pull/2) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-09-19](https://github.com/Novusvetus/GedcomParser/pull/19) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-09-19](https://github.com/Novusvetus/GedcomParser/pull/18) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-09-19](https://github.com/Novusvetus/GedcomParser/pull/17) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
-- [Updates 2022-09-19](https://github.com/Novusvetus/action-php_codesniffer/pull/351) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
 - [BrunoGonSouza](https://github.com/BrunoGonSouza)
 - [mumulemouton](https://github.com/mumulemouton)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
 - [tenoclock](https://github.com/tenoclock)
-- [WAOSuper](https://github.com/WAOSuper)
 
 #### 🎢 Stats
 

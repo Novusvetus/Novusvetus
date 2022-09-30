@@ -1,4 +1,5 @@
 
+- [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
 - [BrunoGonSouza](https://github.com/BrunoGonSouza)
 - [mumulemouton](https://github.com/mumulemouton)
@@ -98,4 +99,3 @@
 - [FreePhoenix888](https://github.com/FreePhoenix888)
 - [sefakozan](https://github.com/sefakozan)
 - [pomatechlead](https://github.com/pomatechlead)
-- [seosigoto](https://github.com/seosigoto)
