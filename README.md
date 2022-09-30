@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rtkktr](https://github.com/rtkktr)
 - [BrunoGonSouza](https://github.com/BrunoGonSouza)
 - [mumulemouton](https://github.com/mumulemouton)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Topstar88](https://github.com/Topstar88)
 - [tenoclock](https://github.com/tenoclock)
 - [WAOSuper](https://github.com/WAOSuper)
-- [Joey-Resende](https://github.com/Joey-Resende)
 
 #### 🎢 Stats
 
