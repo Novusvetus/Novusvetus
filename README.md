@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [passionatedeveloper223](https://github.com/passionatedeveloper223)
 - [code2lives](https://github.com/code2lives)
-- [Topstar88](https://github.com/Topstar88)
 
 #### 🎢 Stats
 
