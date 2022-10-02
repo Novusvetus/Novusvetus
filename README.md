@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
 - [BrunoGonSouza](https://github.com/BrunoGonSouza)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [passionatedeveloper223](https://github.com/passionatedeveloper223)
 - [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
-- [tenoclock](https://github.com/tenoclock)
 
 #### 🎢 Stats
 
