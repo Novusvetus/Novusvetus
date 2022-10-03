@@ -20,7 +20,6 @@
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
-- [ariaesm](https://github.com/ariaesm)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [liroyleshed](https://github.com/liroyleshed)
 - [ali123321123](https://github.com/ali123321123)
@@ -99,3 +98,4 @@
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [LEOFX208](https://github.com/LEOFX208)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
+- [sefakozan](https://github.com/sefakozan)
