@@ -1,4 +1,5 @@
 
+- [zakarialaoui10](https://github.com/zakarialaoui10)
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
@@ -98,4 +99,3 @@
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [LEOFX208](https://github.com/LEOFX208)
 - [FreePhoenix888](https://github.com/FreePhoenix888)
-- [sefakozan](https://github.com/sefakozan)

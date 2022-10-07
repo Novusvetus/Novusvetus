@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [zakarialaoui10](https://github.com/zakarialaoui10)
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [passionatedeveloper223](https://github.com/passionatedeveloper223)
-- [code2lives](https://github.com/code2lives)
 
 #### 🎢 Stats
 
