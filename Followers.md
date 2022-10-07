@@ -30,7 +30,7 @@
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
-- [zetrox-dev](https://github.com/zetrox-dev)
+- [mrthenatdev](https://github.com/mrthenatdev)
 - [InfiniteAengus](https://github.com/InfiniteAengus)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
 - [SuperStar323](https://github.com/SuperStar323)
