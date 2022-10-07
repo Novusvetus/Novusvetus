@@ -1,4 +1,5 @@
 
+- [CandyDEV1014](https://github.com/CandyDEV1014)
 - [zakarialaoui10](https://github.com/zakarialaoui10)
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
@@ -98,4 +99,3 @@
 - [blakegalbavy](https://github.com/blakegalbavy)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [LEOFX208](https://github.com/LEOFX208)
-- [FreePhoenix888](https://github.com/FreePhoenix888)
