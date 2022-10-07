@@ -69,9 +69,9 @@ _Nobody sponsors me. I am poor..._
 - [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
-- [BrunoGonSouza](https://github.com/BrunoGonSouza)
 - [mumulemouton](https://github.com/mumulemouton)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
+- [MatheusLima7](https://github.com/MatheusLima7)
 
 #### 🎢 Stats
 
