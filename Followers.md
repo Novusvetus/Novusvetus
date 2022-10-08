@@ -1,4 +1,5 @@
 
+- [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
 - [cryptotyler](https://github.com/cryptotyler)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [zakarialaoui10](https://github.com/zakarialaoui10)
@@ -98,4 +99,3 @@
 - [22388o](https://github.com/22388o)
 - [blakegalbavy](https://github.com/blakegalbavy)
 - [CarlosDevBr](https://github.com/CarlosDevBr)
-- [LEOFX208](https://github.com/LEOFX208)
