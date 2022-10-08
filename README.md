@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [4nalog](https://github.com/4nalog)
+- [Backendeng](https://github.com/Backendeng)
 - [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
 - [cryptotyler](https://github.com/cryptotyler)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
-- [mumulemouton](https://github.com/mumulemouton)
-- [passionateitdeveloper](https://github.com/passionateitdeveloper)
 
 #### 🎢 Stats
 
