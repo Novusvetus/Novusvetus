@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [HOT-DEV](https://github.com/HOT-DEV)
 - [4nalog](https://github.com/4nalog)
 - [Backendeng](https://github.com/Backendeng)
 - [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
 - [DevStar0202](https://github.com/DevStar0202)
-- [rtkktr](https://github.com/rtkktr)
 
 #### 🎢 Stats
 
