@@ -70,8 +70,8 @@ _Nobody sponsors me. I am poor..._
 - [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
 - [cryptotyler](https://github.com/cryptotyler)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
-- [zakarialaoui10](https://github.com/zakarialaoui10)
 - [superbackend-dev](https://github.com/superbackend-dev)
+- [mdhachem](https://github.com/mdhachem)
 
 #### 🎢 Stats
 
