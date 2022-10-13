@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Supernova1024](https://github.com/Supernova1024)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
 - [cryptotyler](https://github.com/cryptotyler)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
-- [superbackend-dev](https://github.com/superbackend-dev)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [Supernova1024](https://github.com/Supernova1024)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
@@ -98,4 +99,3 @@
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
-- [abdulhadi112215](https://github.com/abdulhadi112215)
