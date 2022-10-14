@@ -12,7 +12,6 @@
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
-- [DevStar0202](https://github.com/DevStar0202)
 - [rtkktr](https://github.com/rtkktr)
 - [mumulemouton](https://github.com/mumulemouton)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
@@ -99,3 +98,4 @@
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
+- [abdulhadi112215](https://github.com/abdulhadi112215)
