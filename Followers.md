@@ -10,7 +10,6 @@
 - [4nalog](https://github.com/4nalog)
 - [Backendeng](https://github.com/Backendeng)
 - [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
-- [cryptotyler](https://github.com/cryptotyler)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
@@ -99,3 +98,4 @@
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
+- [abdulhadi112215](https://github.com/abdulhadi112215)
