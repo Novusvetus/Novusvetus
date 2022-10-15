@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [osamakhan9](https://github.com/osamakhan9)
 - [netprince1210](https://github.com/netprince1210)
 - [mubahomaid](https://github.com/mubahomaid)
 - [Supernova1024](https://github.com/Supernova1024)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [HOT-DEV](https://github.com/HOT-DEV)
 - [4nalog](https://github.com/4nalog)
 - [Backendeng](https://github.com/Backendeng)
-- [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
 
 #### 🎢 Stats
 

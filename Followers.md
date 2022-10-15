@@ -1,4 +1,5 @@
 
+- [osamakhan9](https://github.com/osamakhan9)
 - [netprince1210](https://github.com/netprince1210)
 - [mubahomaid](https://github.com/mubahomaid)
 - [Supernova1024](https://github.com/Supernova1024)
@@ -98,4 +99,3 @@
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
 - [navaneethrkrishna](https://github.com/navaneethrkrishna)
-- [abdulhadi112215](https://github.com/abdulhadi112215)
