@@ -1,4 +1,5 @@
 
+- [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
 - [osamakhan9](https://github.com/osamakhan9)
 - [netprince1210](https://github.com/netprince1210)
@@ -98,4 +99,3 @@
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
-- [navaneethrkrishna](https://github.com/navaneethrkrishna)
