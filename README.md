@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [sayed71](https://github.com/sayed71)
 - [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
 - [osamakhan9](https://github.com/osamakhan9)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
 - [HOT-DEV](https://github.com/HOT-DEV)
-- [4nalog](https://github.com/4nalog)
 
 #### 🎢 Stats
 
