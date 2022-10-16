@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [netprince1210](https://github.com/netprince1210)
 - [mubahomaid](https://github.com/mubahomaid)
 - [Supernova1024](https://github.com/Supernova1024)
-- [isyuricunha](https://github.com/isyuricunha)
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
 - [HOT-DEV](https://github.com/HOT-DEV)
+- [4nalog](https://github.com/4nalog)
 
 #### 🎢 Stats
 

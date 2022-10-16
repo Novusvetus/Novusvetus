@@ -5,7 +5,6 @@
 - [netprince1210](https://github.com/netprince1210)
 - [mubahomaid](https://github.com/mubahomaid)
 - [Supernova1024](https://github.com/Supernova1024)
-- [isyuricunha](https://github.com/isyuricunha)
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
 - [HOT-DEV](https://github.com/HOT-DEV)
@@ -99,3 +98,4 @@
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
+- [navaneethrkrishna](https://github.com/navaneethrkrishna)
