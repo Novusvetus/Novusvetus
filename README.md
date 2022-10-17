@@ -66,12 +66,12 @@ _Nobody sponsors me. I am poor..._
 - [sayed71](https://github.com/sayed71)
 - [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
-- [osamakhan9](https://github.com/osamakhan9)
 - [netprince1210](https://github.com/netprince1210)
 - [mubahomaid](https://github.com/mubahomaid)
 - [Supernova1024](https://github.com/Supernova1024)
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
+- [HOT-DEV](https://github.com/HOT-DEV)
 
 #### 🎢 Stats
 
