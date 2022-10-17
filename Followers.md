@@ -1,4 +1,5 @@
 
+- [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
 - [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
@@ -98,4 +99,3 @@
 - [diagodryson](https://github.com/diagodryson)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
-- [super-high](https://github.com/super-high)
