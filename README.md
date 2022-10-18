@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [naruhitokaide](https://github.com/naruhitokaide)
 - [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
 - [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Supernova1024](https://github.com/Supernova1024)
 - [dragonstar41](https://github.com/dragonstar41)
 - [jackalstar88](https://github.com/jackalstar88)
-- [HOT-DEV](https://github.com/HOT-DEV)
 
 #### 🎢 Stats
 
