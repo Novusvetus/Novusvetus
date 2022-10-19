@@ -1,4 +1,6 @@
 
+- [Supernova1024](https://github.com/Supernova1024)
+- [dragonstar41](https://github.com/dragonstar41)
 - [Backendeng](https://github.com/Backendeng)
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [johnreed0116](https://github.com/johnreed0116)
@@ -20,7 +22,6 @@
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
-- [tenoclock](https://github.com/tenoclock)
 - [WAOSuper](https://github.com/WAOSuper)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
@@ -98,4 +99,3 @@
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
 - [super-high](https://github.com/super-high)
-- [navaneethrkrishna](https://github.com/navaneethrkrishna)
