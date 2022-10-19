@@ -45,6 +45,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-10-19](https://github.com/Novusvetus/action-phpinsights/pull/330) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2022-10-19](https://github.com/Novusvetus/action-php_codesniffer/pull/386) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-10-14](https://github.com/Novusvetus/devdocker/pull/1) on [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker)
 - [Updates 2022-10-14](https://github.com/Novusvetus/AutoGitIgnore/pull/30) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updates 2022-10-14](https://github.com/Novusvetus/ClassHelper/pull/27) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
@@ -53,8 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-10-14](https://github.com/Novusvetus/GedcomParser/pull/25) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-10-14](https://github.com/Novusvetus/IntelliJStatsPlugin/pull/3) on [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin)
 - [Updates 2022-10-14](https://github.com/Novusvetus/Die-PARTEI-Links/pull/4) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
-- [Updates 2022-10-14](https://github.com/Novusvetus/action-phpinsights/pull/323) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2022-10-14](https://github.com/Novusvetus/Mendelssohn/pull/11) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -70,8 +70,8 @@ _Nobody sponsors me. I am poor..._
 - [thomas0114](https://github.com/thomas0114)
 - [netprince1210](https://github.com/netprince1210)
 - [mubahomaid](https://github.com/mubahomaid)
-- [Supernova1024](https://github.com/Supernova1024)
 - [jackalstar88](https://github.com/jackalstar88)
+- [HOT-DEV](https://github.com/HOT-DEV)
 
 #### 🎢 Stats
 
