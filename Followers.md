@@ -1,4 +1,5 @@
 
+- [tenoclock](https://github.com/tenoclock)
 - [Supernova1024](https://github.com/Supernova1024)
 - [dragonstar41](https://github.com/dragonstar41)
 - [Backendeng](https://github.com/Backendeng)
@@ -98,4 +99,3 @@
 - [diagodryson](https://github.com/diagodryson)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
 - [guerbejhamdi](https://github.com/guerbejhamdi)
-- [super-high](https://github.com/super-high)
