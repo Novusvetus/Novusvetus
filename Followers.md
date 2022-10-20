@@ -11,7 +11,6 @@
 - [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
 - [netprince1210](https://github.com/netprince1210)
-- [mubahomaid](https://github.com/mubahomaid)
 - [jackalstar88](https://github.com/jackalstar88)
 - [HOT-DEV](https://github.com/HOT-DEV)
 - [4nalog](https://github.com/4nalog)
@@ -99,3 +98,4 @@
 - [BEPb](https://github.com/BEPb)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
+- [regismeyssonnier](https://github.com/regismeyssonnier)
