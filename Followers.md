@@ -1,4 +1,5 @@
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
@@ -98,4 +99,3 @@
 - [BEPb](https://github.com/BEPb)
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
-- [regismeyssonnier](https://github.com/regismeyssonnier)
