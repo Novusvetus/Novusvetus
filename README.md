@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
 - [Supernova1024](https://github.com/Supernova1024)
 - [dragonstar41](https://github.com/dragonstar41)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [sayed71](https://github.com/sayed71)
 - [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
-- [netprince1210](https://github.com/netprince1210)
 
 #### 🎢 Stats
 

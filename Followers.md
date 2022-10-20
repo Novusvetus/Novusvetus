@@ -1,4 +1,5 @@
 
+- [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
 - [Supernova1024](https://github.com/Supernova1024)
 - [dragonstar41](https://github.com/dragonstar41)
@@ -98,4 +99,3 @@
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
-- [guerbejhamdi](https://github.com/guerbejhamdi)
