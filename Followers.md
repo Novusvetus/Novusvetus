@@ -8,7 +8,6 @@
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
-- [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
 - [thomas0114](https://github.com/thomas0114)
 - [netprince1210](https://github.com/netprince1210)
 - [jackalstar88](https://github.com/jackalstar88)
@@ -99,3 +98,4 @@
 - [GearHiram1397](https://github.com/GearHiram1397)
 - [diagodryson](https://github.com/diagodryson)
 - [regismeyssonnier](https://github.com/regismeyssonnier)
+- [guerbejhamdi](https://github.com/guerbejhamdi)

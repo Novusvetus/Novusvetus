@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
-- [ShokhjakhonRazokov](https://github.com/ShokhjakhonRazokov)
+- [thomas0114](https://github.com/thomas0114)
 
 #### 🎢 Stats
 
