@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [cryptoguy55](https://github.com/cryptoguy55)
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Backendeng](https://github.com/Backendeng)
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [johnreed0116](https://github.com/johnreed0116)
-- [sayed71](https://github.com/sayed71)
 
 #### 🎢 Stats
 
