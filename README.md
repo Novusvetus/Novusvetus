@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
 - [Kwynto](https://github.com/Kwynto)
 - [cryptotyler](https://github.com/cryptotyler)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
-- [Supernova1024](https://github.com/Supernova1024)
 
 #### 🎢 Stats
 
