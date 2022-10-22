@@ -1,4 +1,5 @@
 
+- [sohail-chughtai](https://github.com/sohail-chughtai)
 - [isyuricunha](https://github.com/isyuricunha)
 - [cryptoguy55](https://github.com/cryptoguy55)
 - [webtopcoder](https://github.com/webtopcoder)
@@ -98,4 +99,3 @@
 - [mark-ruddy](https://github.com/mark-ruddy)
 - [BEPb](https://github.com/BEPb)
 - [GearHiram1397](https://github.com/GearHiram1397)
-- [diagodryson](https://github.com/diagodryson)
