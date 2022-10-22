@@ -62,6 +62,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kartset](https://github.com/kartset)
+- [Kwynto](https://github.com/Kwynto)
+- [cryptotyler](https://github.com/cryptotyler)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [isyuricunha](https://github.com/isyuricunha)
 - [cryptoguy55](https://github.com/cryptoguy55)
@@ -69,9 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
 - [Supernova1024](https://github.com/Supernova1024)
-- [dragonstar41](https://github.com/dragonstar41)
-- [Backendeng](https://github.com/Backendeng)
-- [naruhitokaide](https://github.com/naruhitokaide)
 
 #### 🎢 Stats
 

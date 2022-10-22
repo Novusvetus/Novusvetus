@@ -1,4 +1,7 @@
 
+- [kartset](https://github.com/kartset)
+- [Kwynto](https://github.com/Kwynto)
+- [cryptotyler](https://github.com/cryptotyler)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [isyuricunha](https://github.com/isyuricunha)
 - [cryptoguy55](https://github.com/cryptoguy55)
@@ -96,6 +99,3 @@
 - [jeannesexton](https://github.com/jeannesexton)
 - [sunn1day](https://github.com/sunn1day)
 - [mozafarimanesh](https://github.com/mozafarimanesh)
-- [mark-ruddy](https://github.com/mark-ruddy)
-- [BEPb](https://github.com/BEPb)
-- [GearHiram1397](https://github.com/GearHiram1397)
