@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [mhcrocky](https://github.com/mhcrocky)
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [cryptoguy55](https://github.com/cryptoguy55)
 - [webtopcoder](https://github.com/webtopcoder)
-- [bear49193](https://github.com/bear49193)
 
 #### 🎢 Stats
 
