@@ -45,6 +45,9 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-10-26](https://github.com/Novusvetus/GedcomParser/pull/28) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
+- [Updates 2022-10-26](https://github.com/Novusvetus/action-php_codesniffer/pull/395) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
+- [Updates 2022-10-26](https://github.com/Novusvetus/GedcomParser/pull/27) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-10-23](https://github.com/Novusvetus/GedcomParser/pull/26) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-10-23](https://github.com/Novusvetus/action-phpinsights/pull/333) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-10-23](https://github.com/Novusvetus/action-php_codesniffer/pull/389) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -52,9 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-10-23](https://github.com/Novusvetus/action-php_codesniffer/pull/388) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-10-19](https://github.com/Novusvetus/action-phpinsights/pull/330) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-10-19](https://github.com/Novusvetus/action-php_codesniffer/pull/386) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2022-10-14](https://github.com/Novusvetus/devdocker/pull/1) on [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker)
-- [Updates 2022-10-14](https://github.com/Novusvetus/AutoGitIgnore/pull/30) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
-- [Updates 2022-10-14](https://github.com/Novusvetus/ClassHelper/pull/27) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
