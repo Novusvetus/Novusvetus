@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [Kwynto](https://github.com/Kwynto)
 - [cryptotyler](https://github.com/cryptotyler)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
-- [isyuricunha](https://github.com/isyuricunha)
+- [cryptoguy55](https://github.com/cryptoguy55)
 
 #### 🎢 Stats
 

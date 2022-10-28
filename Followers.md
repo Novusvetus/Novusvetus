@@ -8,7 +8,6 @@
 - [Kwynto](https://github.com/Kwynto)
 - [cryptotyler](https://github.com/cryptotyler)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
-- [isyuricunha](https://github.com/isyuricunha)
 - [cryptoguy55](https://github.com/cryptoguy55)
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
@@ -99,3 +98,4 @@
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
+- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
