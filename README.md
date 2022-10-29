@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [5c0](https://github.com/5c0)
 - [isyuricunha](https://github.com/isyuricunha)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
 - [Kwynto](https://github.com/Kwynto)
-- [cryptotyler](https://github.com/cryptotyler)
 
 #### 🎢 Stats
 
