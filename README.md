@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
 - [MatinGhanbari](https://github.com/MatinGhanbari)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [kartset](https://github.com/kartset)
 - [Kwynto](https://github.com/Kwynto)
 - [cryptotyler](https://github.com/cryptotyler)
-- [sohail-chughtai](https://github.com/sohail-chughtai)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
 - [MatinGhanbari](https://github.com/MatinGhanbari)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [AsTunO](https://github.com/AsTunO)
