@@ -1,4 +1,5 @@
 
+- [nfterrax](https://github.com/nfterrax)
 - [5c0](https://github.com/5c0)
 - [isyuricunha](https://github.com/isyuricunha)
 - [EyuCoder](https://github.com/EyuCoder)
@@ -98,4 +99,3 @@
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
-- [vivekweb2013](https://github.com/vivekweb2013)
