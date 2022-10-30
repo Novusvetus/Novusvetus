@@ -26,7 +26,7 @@
 - [jackalstar88](https://github.com/jackalstar88)
 - [HOT-DEV](https://github.com/HOT-DEV)
 - [4nalog](https://github.com/4nalog)
-- [BELLAL-Khaled](https://github.com/BELLAL-Khaled)
+- [khaled-bellal](https://github.com/khaled-bellal)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
