@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [nfterrax](https://github.com/nfterrax)
 - [5c0](https://github.com/5c0)
-- [isyuricunha](https://github.com/isyuricunha)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
 - [MatinGhanbari](https://github.com/MatinGhanbari)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [mhcrocky](https://github.com/mhcrocky)
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
+- [Kwynto](https://github.com/Kwynto)
 
 #### 🎢 Stats
 
