@@ -22,7 +22,6 @@
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
-- [thomas0114](https://github.com/thomas0114)
 - [netprince1210](https://github.com/netprince1210)
 - [jackalstar88](https://github.com/jackalstar88)
 - [HOT-DEV](https://github.com/HOT-DEV)
@@ -99,3 +98,4 @@
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
+- [vivekweb2013](https://github.com/vivekweb2013)
