@@ -45,7 +45,6 @@
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [liroyleshed](https://github.com/liroyleshed)
-- [ali123321123](https://github.com/ali123321123)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
@@ -99,3 +98,4 @@
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
+- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
