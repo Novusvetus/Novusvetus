@@ -6,7 +6,6 @@
 - [5c0](https://github.com/5c0)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
-- [MatinGhanbari](https://github.com/MatinGhanbari)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
@@ -99,3 +98,4 @@
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
+- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)

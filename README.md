@@ -69,9 +69,9 @@ _Nobody sponsors me. I am poor..._
 - [5c0](https://github.com/5c0)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
-- [MatinGhanbari](https://github.com/MatinGhanbari)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
+- [kartset](https://github.com/kartset)
 
 #### 🎢 Stats
 
