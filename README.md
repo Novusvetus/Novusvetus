@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Kwynto](https://github.com/Kwynto)
 - [kingjula](https://github.com/kingjula)
 - [whroyal](https://github.com/whroyal)
 - [nfterrax](https://github.com/nfterrax)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [MatinGhanbari](https://github.com/MatinGhanbari)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
-- [kartset](https://github.com/kartset)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [Kwynto](https://github.com/Kwynto)
 - [kingjula](https://github.com/kingjula)
 - [whroyal](https://github.com/whroyal)
 - [nfterrax](https://github.com/nfterrax)
@@ -9,7 +10,6 @@
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
-- [Kwynto](https://github.com/Kwynto)
 - [cryptotyler](https://github.com/cryptotyler)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [cryptoguy55](https://github.com/cryptoguy55)
