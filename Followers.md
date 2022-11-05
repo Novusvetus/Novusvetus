@@ -1,4 +1,5 @@
 
+- [kingjula](https://github.com/kingjula)
 - [whroyal](https://github.com/whroyal)
 - [isyuricunha](https://github.com/isyuricunha)
 - [nfterrax](https://github.com/nfterrax)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [AsTunO](https://github.com/AsTunO)
