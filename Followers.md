@@ -23,7 +23,7 @@
 - [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
 - [netprince1210](https://github.com/netprince1210)
-- [jackalstar88](https://github.com/jackalstar88)
+- [davidbrowns](https://github.com/davidbrowns)
 - [HOT-DEV](https://github.com/HOT-DEV)
 - [4nalog](https://github.com/4nalog)
 - [khaled-bellal](https://github.com/khaled-bellal)
