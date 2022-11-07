@@ -79,7 +79,7 @@
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [Surprise080504](https://github.com/Surprise080504)
-- [BC-Master](https://github.com/BC-Master)
+- [wenjie970](https://github.com/wenjie970)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
