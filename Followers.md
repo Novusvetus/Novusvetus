@@ -1,4 +1,5 @@
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [dev1ninja](https://github.com/dev1ninja)
 - [hoangks5](https://github.com/hoangks5)
 - [Kwynto](https://github.com/Kwynto)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [AsTunO](https://github.com/AsTunO)
