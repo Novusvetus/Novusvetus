@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mhcrocky](https://github.com/mhcrocky)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dev1ninja](https://github.com/dev1ninja)
 - [hoangks5](https://github.com/hoangks5)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [5c0](https://github.com/5c0)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 
 #### 🎢 Stats
 
