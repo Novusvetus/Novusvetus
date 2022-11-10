@@ -1,5 +1,4 @@
 
-- [mhcrocky](https://github.com/mhcrocky)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
@@ -99,3 +98,4 @@
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
+- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
