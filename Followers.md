@@ -1,4 +1,5 @@
 
+- [Ezema](https://github.com/Ezema)
 - [0xN0x](https://github.com/0xN0x)
 - [hoangks5](https://github.com/hoangks5)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [AsTunO](https://github.com/AsTunO)
