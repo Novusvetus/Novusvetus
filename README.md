@@ -69,9 +69,9 @@ _Nobody sponsors me. I am poor..._
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
 - [nfterrax](https://github.com/nfterrax)
-- [5c0](https://github.com/5c0)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
+- [peter-kimanzi](https://github.com/peter-kimanzi)
 
 #### 🎢 Stats
 
