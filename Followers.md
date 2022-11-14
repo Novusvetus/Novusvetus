@@ -6,7 +6,6 @@
 - [isyuricunha](https://github.com/isyuricunha)
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
-- [nfterrax](https://github.com/nfterrax)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
@@ -99,3 +98,4 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
+- [AsTunO](https://github.com/AsTunO)
