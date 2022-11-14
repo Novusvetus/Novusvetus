@@ -1,7 +1,7 @@
 
+- [AtosDev](https://github.com/AtosDev)
 - [maksym0102](https://github.com/maksym0102)
 - [Ezema](https://github.com/Ezema)
-- [0xN0x](https://github.com/0xN0x)
 - [hoangks5](https://github.com/hoangks5)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dev1ninja](https://github.com/dev1ninja)
