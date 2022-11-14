@@ -66,12 +66,12 @@ _Nobody sponsors me. I am poor..._
 - [maksym0102](https://github.com/maksym0102)
 - [Ezema](https://github.com/Ezema)
 - [hoangks5](https://github.com/hoangks5)
-- [isyuricunha](https://github.com/isyuricunha)
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
+- [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 
 #### 🎢 Stats
 
