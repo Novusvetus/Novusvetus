@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
 - [AtosDev](https://github.com/AtosDev)
 - [maksym0102](https://github.com/maksym0102)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Kwynto](https://github.com/Kwynto)
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 
 #### 🎢 Stats
 
