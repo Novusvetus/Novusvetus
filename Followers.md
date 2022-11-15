@@ -10,7 +10,6 @@
 - [EyuCoder](https://github.com/EyuCoder)
 - [mbahomaid](https://github.com/mbahomaid)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
-- [realhardworkingdeveloper](https://github.com/realhardworkingdeveloper)
 - [kartset](https://github.com/kartset)
 - [cryptotyler](https://github.com/cryptotyler)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
@@ -99,3 +98,4 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
+- [AsTunO](https://github.com/AsTunO)
