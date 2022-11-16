@@ -1,4 +1,5 @@
 
+- [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
 - [AtosDev](https://github.com/AtosDev)
@@ -98,4 +99,3 @@
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
-- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
