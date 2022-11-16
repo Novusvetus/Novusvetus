@@ -5,6 +5,7 @@
 - [AtosDev](https://github.com/AtosDev)
 - [maksym0102](https://github.com/maksym0102)
 - [Ezema](https://github.com/Ezema)
+- [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
 - [EyuCoder](https://github.com/EyuCoder)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [AsTunO](https://github.com/AsTunO)
