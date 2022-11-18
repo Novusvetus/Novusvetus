@@ -1,10 +1,10 @@
 
+- [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
 - [AtosDev](https://github.com/AtosDev)
 - [maksym0102](https://github.com/maksym0102)
-- [Ezema](https://github.com/Ezema)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
