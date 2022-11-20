@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kulikov-dev](https://github.com/kulikov-dev)
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
-- [EyuCoder](https://github.com/EyuCoder)
 
 #### 🎢 Stats
 
