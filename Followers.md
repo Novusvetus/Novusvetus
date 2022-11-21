@@ -26,7 +26,6 @@
 - [sayed71](https://github.com/sayed71)
 - [netprince1210](https://github.com/netprince1210)
 - [davidbrowns](https://github.com/davidbrowns)
-- [HOT-DEV](https://github.com/HOT-DEV)
 - [4nalog](https://github.com/4nalog)
 - [khaled-bellal](https://github.com/khaled-bellal)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
@@ -99,3 +98,4 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
+- [AsTunO](https://github.com/AsTunO)
