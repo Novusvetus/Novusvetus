@@ -1,4 +1,5 @@
 
+- [agathafr](https://github.com/agathafr)
 - [kulikov-dev](https://github.com/kulikov-dev)
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
@@ -58,7 +59,6 @@
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
-- [agathafr](https://github.com/agathafr)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
 - [medzino2000](https://github.com/medzino2000)
