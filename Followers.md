@@ -22,7 +22,6 @@
 - [dragonstar41](https://github.com/dragonstar41)
 - [Backendeng](https://github.com/Backendeng)
 - [naruhitokaide](https://github.com/naruhitokaide)
-- [johnreed0116](https://github.com/johnreed0116)
 - [sayed71](https://github.com/sayed71)
 - [netprince1210](https://github.com/netprince1210)
 - [davidbrowns](https://github.com/davidbrowns)
@@ -99,3 +98,4 @@
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
+- [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
