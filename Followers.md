@@ -10,7 +10,7 @@
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
 - [EyuCoder](https://github.com/EyuCoder)
-- [Kise-Ryouta](https://github.com/Kise-Ryouta)
+- [KRyouta](https://github.com/KRyouta)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
