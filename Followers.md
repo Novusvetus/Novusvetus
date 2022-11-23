@@ -28,7 +28,6 @@
 - [4nalog](https://github.com/4nalog)
 - [khaled-bellal](https://github.com/khaled-bellal)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
-- [superbackend-dev](https://github.com/superbackend-dev)
 - [mdhachem](https://github.com/mdhachem)
 - [rtkktr](https://github.com/rtkktr)
 - [mumulemouton](https://github.com/mumulemouton)
@@ -99,3 +98,4 @@
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
+- [jeannesexton](https://github.com/jeannesexton)
