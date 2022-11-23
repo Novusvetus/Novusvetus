@@ -10,7 +10,6 @@
 - [dev1ninja](https://github.com/dev1ninja)
 - [Kwynto](https://github.com/Kwynto)
 - [EyuCoder](https://github.com/EyuCoder)
-- [KRyouta](https://github.com/KRyouta)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
@@ -99,3 +98,4 @@
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
 - [jeannesexton](https://github.com/jeannesexton)
+- [sunn1day](https://github.com/sunn1day)
