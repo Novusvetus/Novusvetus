@@ -5,7 +5,6 @@
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
-- [AtosDev](https://github.com/AtosDev)
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
@@ -99,3 +98,4 @@
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
+- [DripMicro](https://github.com/DripMicro)

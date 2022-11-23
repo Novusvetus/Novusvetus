@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
-- [AtosDev](https://github.com/AtosDev)
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
+- [Kwynto](https://github.com/Kwynto)
 
 #### 🎢 Stats
 
