@@ -25,7 +25,6 @@
 - [netprince1210](https://github.com/netprince1210)
 - [davidbrowns](https://github.com/davidbrowns)
 - [4nalog](https://github.com/4nalog)
-- [khaled-bellal](https://github.com/khaled-bellal)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [mdhachem](https://github.com/mdhachem)
 - [rtkktr](https://github.com/rtkktr)
@@ -99,3 +98,4 @@
 - [DripMicro](https://github.com/DripMicro)
 - [jeannesexton](https://github.com/jeannesexton)
 - [sunn1day](https://github.com/sunn1day)
+- [mozafarimanesh](https://github.com/mozafarimanesh)
