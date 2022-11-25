@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
 - [kulikov-dev](https://github.com/kulikov-dev)
 - [crazydevlegend](https://github.com/crazydevlegend)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
-- [Kwynto](https://github.com/Kwynto)
 
 #### 🎢 Stats
 
