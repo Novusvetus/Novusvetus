@@ -1,4 +1,5 @@
 
+- [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
 - [kulikov-dev](https://github.com/kulikov-dev)
@@ -98,4 +99,3 @@
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
 - [jeannesexton](https://github.com/jeannesexton)
-- [sunn1day](https://github.com/sunn1day)
