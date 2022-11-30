@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [bellaabdelouahab](https://github.com/bellaabdelouahab)
 - [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
 - [maksym0102](https://github.com/maksym0102)
+- [hoangks5](https://github.com/hoangks5)
 
 #### 🎢 Stats
 

@@ -1,5 +1,4 @@
 
-- [bellaabdelouahab](https://github.com/bellaabdelouahab)
 - [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
@@ -99,3 +98,4 @@
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
+- [jeannesexton](https://github.com/jeannesexton)
