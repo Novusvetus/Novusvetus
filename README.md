@@ -12,15 +12,15 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+- [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
+- [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker) - (WIP) My personal Docker LAMP stack I use for PHP development.
-- [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
 
 #### 🐣 My latest projects
@@ -38,13 +38,16 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🗜 Latest releases I've contributed to
 
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.2.11](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.2.11) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.)
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) ([1.1.9](https://github.com/Novusvetus/action-phpinsights/releases/tag/1.1.9) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.)
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.2.10](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.2.10) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.)
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) ([2.0.0](https://github.com/Novusvetus/AutoGitIgnore/releases/tag/2.0.0) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.)
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) ([2.0.0](https://github.com/Novusvetus/ClassHelper/releases/tag/2.0.0) - Some class helper.)
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-12-03](https://github.com/Novusvetus/novusvetus.github.io/pull/4) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
+- [Version raise 1.2.11](https://github.com/Novusvetus/action-php_codesniffer/pull/416) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
+- [Updates 2022-12-03](https://github.com/Novusvetus/action-php_codesniffer/pull/415) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-12-03](https://github.com/Novusvetus/GedcomParser/pull/34) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-12-03](https://github.com/Novusvetus/GedcomParser/pull/33) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-12-03](https://github.com/Novusvetus/GedcomParser/pull/32) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
@@ -52,9 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-12-03](https://github.com/Novusvetus/GedcomParser/pull/30) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-12-03](https://github.com/Novusvetus/GedcomParser/pull/29) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2022-10-26](https://github.com/Novusvetus/GedcomParser/pull/28) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
-- [Updates 2022-10-26](https://github.com/Novusvetus/action-php_codesniffer/pull/395) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2022-10-26](https://github.com/Novusvetus/GedcomParser/pull/27) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
-- [Updates 2022-10-23](https://github.com/Novusvetus/GedcomParser/pull/26) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
