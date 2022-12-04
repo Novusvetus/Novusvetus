@@ -36,7 +36,6 @@
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
-- [WAOSuper](https://github.com/WAOSuper)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
 - [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
@@ -99,3 +98,4 @@
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - [DripMicro](https://github.com/DripMicro)
+- [jeannesexton](https://github.com/jeannesexton)
