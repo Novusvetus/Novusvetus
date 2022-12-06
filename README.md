@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [HadesHappy](https://github.com/HadesHappy)
 - [BetrickYare](https://github.com/BetrickYare)
 - [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
 - [nfterrax](https://github.com/nfterrax)
-- [maksym0102](https://github.com/maksym0102)
 
 #### 🎢 Stats
 
