@@ -1,4 +1,5 @@
 
+- [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [HadesHappy](https://github.com/HadesHappy)
 - [BetrickYare](https://github.com/BetrickYare)
 - [cryptotyler](https://github.com/cryptotyler)
@@ -98,4 +99,3 @@
 - [shreyasinegi](https://github.com/shreyasinegi)
 - [AsTunO](https://github.com/AsTunO)
 - [Tadesse-Alemayehu](https://github.com/Tadesse-Alemayehu)
-- [DripMicro](https://github.com/DripMicro)
