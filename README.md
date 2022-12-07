@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [sglkc](https://github.com/sglkc)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [HadesHappy](https://github.com/HadesHappy)
 - [BetrickYare](https://github.com/BetrickYare)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [kulikov-dev](https://github.com/kulikov-dev)
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
-- [itsApurba](https://github.com/itsApurba)
 
 #### 🎢 Stats
 
