@@ -1,4 +1,5 @@
 
+- [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [HadesHappy](https://github.com/HadesHappy)
@@ -98,4 +99,3 @@
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
-- [AsTunO](https://github.com/AsTunO)
