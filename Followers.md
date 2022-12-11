@@ -36,7 +36,6 @@
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [mdhachem](https://github.com/mdhachem)
 - [rtkktr](https://github.com/rtkktr)
-- [mumulemouton](https://github.com/mumulemouton)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [code2lives](https://github.com/code2lives)
@@ -99,3 +98,4 @@
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [IzaacBaptista](https://github.com/IzaacBaptista)
 - [vivekweb2013](https://github.com/vivekweb2013)
+- [shreyasinegi](https://github.com/shreyasinegi)
