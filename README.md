@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [FranMahon](https://github.com/FranMahon)
 - [SirMuhannad](https://github.com/SirMuhannad)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
-- [kulikov-dev](https://github.com/kulikov-dev)
 
 #### 🎢 Stats
 
