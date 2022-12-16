@@ -67,11 +67,11 @@ _Nobody sponsors me. I am poor..._
 - [SirMuhannad](https://github.com/SirMuhannad)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
-- [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [HadesHappy](https://github.com/HadesHappy)
 - [BetrickYare](https://github.com/BetrickYare)
 - [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
+- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
