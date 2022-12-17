@@ -1,4 +1,5 @@
 
+- [AXG-coder](https://github.com/AXG-coder)
 - [dolmios](https://github.com/dolmios)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [slick-codes](https://github.com/slick-codes)
@@ -98,4 +99,3 @@
 - [JCSIVO](https://github.com/JCSIVO)
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
-- [farzadForoozanfar](https://github.com/farzadForoozanfar)
