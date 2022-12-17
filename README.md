@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [dolmios](https://github.com/dolmios)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
-- [BetrickYare](https://github.com/BetrickYare)
 
 #### 🎢 Stats
 
