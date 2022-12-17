@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dolmios](https://github.com/dolmios)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [HadesHappy](https://github.com/HadesHappy)
 - [BetrickYare](https://github.com/BetrickYare)
 - [cryptotyler](https://github.com/cryptotyler)
-- [bylickilabs](https://github.com/bylickilabs)
 
 #### 🎢 Stats
 
