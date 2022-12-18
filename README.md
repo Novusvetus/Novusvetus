@@ -15,13 +15,13 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
-- [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
+- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
+- [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
+- [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
-- [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
-- [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
-- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
+- [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
 
 #### 🐣 My latest projects
 
@@ -45,16 +45,16 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-12-18](https://github.com/Novusvetus/devdocker/pull/3) on [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker)
+- [Updates 2022-12-18](https://github.com/Novusvetus/AutoGitIgnore/pull/34) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
+- [Updates 2022-12-18](https://github.com/Novusvetus/ClassHelper/pull/31) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
+- [Updates 2022-12-18](https://github.com/Novusvetus/Die-PARTEI-Links/pull/7) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
 - [Updates 2022-12-18](https://github.com/Novusvetus/action-phpinsights/pull/374) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-12-18](https://github.com/Novusvetus/Mendelssohn/pull/17) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Updates 2022-12-18](https://github.com/Novusvetus/StreamersMQTT/pull/7) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 - [Updates 2022-12-18](https://github.com/Novusvetus/Spotifriendslist/pull/6) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Updates 2022-12-18](https://github.com/Novusvetus/novusvetus.github.io/pull/6) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
 - [Updates 2022-12-18](https://github.com/Novusvetus/action-php_codesniffer/pull/431) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2022-12-18](https://github.com/Novusvetus/GedcomParser/pull/38) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
-- [Updates 2022-12-03](https://github.com/Novusvetus/action-phpinsights/pull/358) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2022-12-03](https://github.com/Novusvetus/Mendelssohn/pull/13) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
-- [Updates 2022-12-03](https://github.com/Novusvetus/StreamersMQTT/pull/5) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [dolmios](https://github.com/dolmios)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [SirMuhannad](https://github.com/SirMuhannad)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
-- [HadesHappy](https://github.com/HadesHappy)
 
 #### 🎢 Stats
 

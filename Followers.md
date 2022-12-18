@@ -1,4 +1,5 @@
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [dolmios](https://github.com/dolmios)
@@ -98,4 +99,3 @@
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
-- [aash-gates](https://github.com/aash-gates)
