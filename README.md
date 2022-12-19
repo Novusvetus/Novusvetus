@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2022-12-19](https://github.com/Novusvetus/action-phpinsights/pull/375) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-12-19](https://github.com/Novusvetus/action-php_codesniffer/pull/432) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-12-18](https://github.com/Novusvetus/devdocker/pull/3) on [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker)
 - [Updates 2022-12-18](https://github.com/Novusvetus/AutoGitIgnore/pull/34) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-12-18](https://github.com/Novusvetus/Mendelssohn/pull/17) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Updates 2022-12-18](https://github.com/Novusvetus/StreamersMQTT/pull/7) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 - [Updates 2022-12-18](https://github.com/Novusvetus/Spotifriendslist/pull/6) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
-- [Updates 2022-12-18](https://github.com/Novusvetus/novusvetus.github.io/pull/6) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
