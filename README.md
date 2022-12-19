@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [borealia](https://github.com/borealia)
 - [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [FranMahon](https://github.com/FranMahon)
 - [SirMuhannad](https://github.com/SirMuhannad)
 - [zeus-dev919](https://github.com/zeus-dev919)
-- [sglkc](https://github.com/sglkc)
 
 #### 🎢 Stats
 
