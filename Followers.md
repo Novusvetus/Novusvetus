@@ -13,7 +13,6 @@
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
 - [BetrickYare](https://github.com/BetrickYare)
-- [cryptotyler](https://github.com/cryptotyler)
 - [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
 - [kulikov-dev](https://github.com/kulikov-dev)
@@ -99,3 +98,4 @@
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
 - [FilipiMachado](https://github.com/FilipiMachado)
+- [TG922](https://github.com/TG922)
