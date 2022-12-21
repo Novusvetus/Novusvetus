@@ -4,7 +4,6 @@
 - [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
-- [dolmios](https://github.com/dolmios)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
@@ -99,3 +98,4 @@
 - [xjkun1](https://github.com/xjkun1)
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
+- [JCSIVO](https://github.com/JCSIVO)

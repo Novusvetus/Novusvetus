@@ -67,11 +67,11 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
-- [dolmios](https://github.com/dolmios)
 - [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
 - [SirMuhannad](https://github.com/SirMuhannad)
+- [zeus-dev919](https://github.com/zeus-dev919)
 
 #### 🎢 Stats
 
