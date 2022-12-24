@@ -22,7 +22,6 @@
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
-- [EyuCoder](https://github.com/EyuCoder)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
@@ -99,3 +98,4 @@
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
 - [aash-gates](https://github.com/aash-gates)
+- [dilshankarunarathne](https://github.com/dilshankarunarathne)
