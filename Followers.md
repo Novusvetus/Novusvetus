@@ -4,7 +4,7 @@
 - [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
-- [Takatsuki-Sen](https://github.com/Takatsuki-Sen)
+- [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
 - [SirMuhannad](https://github.com/SirMuhannad)
