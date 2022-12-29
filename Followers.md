@@ -71,7 +71,6 @@
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
-- [cumsoft](https://github.com/cumsoft)
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
@@ -99,3 +98,4 @@
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
 - [aash-gates](https://github.com/aash-gates)
+- [dilshankarunarathne](https://github.com/dilshankarunarathne)
