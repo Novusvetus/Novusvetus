@@ -47,7 +47,6 @@
 - [Topstar88](https://github.com/Topstar88)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
-- [jasonjpulikkottil](https://github.com/jasonjpulikkottil)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
@@ -99,3 +98,4 @@
 - [JCSIVO](https://github.com/JCSIVO)
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
+- [farzadForoozanfar](https://github.com/farzadForoozanfar)
