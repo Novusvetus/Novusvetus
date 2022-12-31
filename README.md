@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
-- [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [FranMahon](https://github.com/FranMahon)
 - [SirMuhannad](https://github.com/SirMuhannad)
 - [zeus-dev919](https://github.com/zeus-dev919)
+- [sglkc](https://github.com/sglkc)
 
 #### 🎢 Stats
 

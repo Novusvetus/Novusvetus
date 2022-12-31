@@ -1,7 +1,6 @@
 
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
-- [isyuricunha](https://github.com/isyuricunha)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
@@ -99,3 +98,4 @@
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [vivekweb2013](https://github.com/vivekweb2013)
+- [shreyasinegi](https://github.com/shreyasinegi)
