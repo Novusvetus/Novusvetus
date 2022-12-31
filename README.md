@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
 - [SirMuhannad](https://github.com/SirMuhannad)
+- [zeus-dev919](https://github.com/zeus-dev919)
 
 #### 🎢 Stats
 
