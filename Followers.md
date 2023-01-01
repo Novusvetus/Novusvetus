@@ -1,4 +1,6 @@
 
+- [yasserbdj96](https://github.com/yasserbdj96)
+- [isyuricunha](https://github.com/isyuricunha)
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
@@ -97,5 +99,3 @@
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
-- [vivekweb2013](https://github.com/vivekweb2013)
-- [shreyasinegi](https://github.com/shreyasinegi)
