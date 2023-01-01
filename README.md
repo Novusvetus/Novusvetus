@@ -45,6 +45,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-01-01](https://github.com/Novusvetus/action-phpinsights/pull/382) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2023-01-01](https://github.com/Novusvetus/action-php_codesniffer/pull/439) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-12-22](https://github.com/Novusvetus/action-phpinsights/pull/379) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-12-22](https://github.com/Novusvetus/action-php_codesniffer/pull/436) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-12-21](https://github.com/Novusvetus/devdocker/pull/5) on [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker)
@@ -53,8 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-12-21](https://github.com/Novusvetus/Die-PARTEI-Links/pull/9) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
 - [Updates 2022-12-21](https://github.com/Novusvetus/action-phpinsights/pull/378) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-12-21](https://github.com/Novusvetus/Mendelssohn/pull/19) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
-- [Updates 2022-12-21](https://github.com/Novusvetus/StreamersMQTT/pull/9) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
-- [Updates 2022-12-21](https://github.com/Novusvetus/Spotifriendslist/pull/8) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
