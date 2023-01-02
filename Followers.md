@@ -19,7 +19,6 @@
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
-- [nfterrax](https://github.com/nfterrax)
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
@@ -99,3 +98,4 @@
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
+- [vivekweb2013](https://github.com/vivekweb2013)
