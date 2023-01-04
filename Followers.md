@@ -75,7 +75,6 @@
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
-- [mrpaziresh](https://github.com/mrpaziresh)
 - [akshaynarisetti](https://github.com/akshaynarisetti)
 - [Retr0981](https://github.com/Retr0981)
 - [sriram-km](https://github.com/sriram-km)
@@ -99,3 +98,4 @@
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [vivekweb2013](https://github.com/vivekweb2013)
+- [shreyasinegi](https://github.com/shreyasinegi)
