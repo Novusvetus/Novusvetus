@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
 - [isyuricunha](https://github.com/isyuricunha)
 - [Kwynto](https://github.com/Kwynto)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
-- [SirMuhannad](https://github.com/SirMuhannad)
 
 #### 🎢 Stats
 
