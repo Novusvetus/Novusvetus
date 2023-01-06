@@ -70,6 +70,7 @@
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
+- [cumsoft](https://github.com/cumsoft)
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
@@ -98,4 +99,3 @@
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
-- [vivekweb2013](https://github.com/vivekweb2013)
