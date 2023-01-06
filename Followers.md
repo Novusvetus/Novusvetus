@@ -1,4 +1,5 @@
 
+- [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -98,4 +99,3 @@
 - [JCSIVO](https://github.com/JCSIVO)
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
-- [farzadForoozanfar](https://github.com/farzadForoozanfar)
