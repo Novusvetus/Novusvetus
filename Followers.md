@@ -71,7 +71,6 @@
 - [cumsoft](https://github.com/cumsoft)
 - [xhamino](https://github.com/xhamino)
 - [Sings168](https://github.com/Sings168)
-- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
@@ -99,3 +98,4 @@
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [vivekweb2013](https://github.com/vivekweb2013)
 - [shreyasinegi](https://github.com/shreyasinegi)
+- [AsTunO](https://github.com/AsTunO)
