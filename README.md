@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
-- [slick-codes](https://github.com/slick-codes)
 
 #### 🎢 Stats
 
