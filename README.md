@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-01-09](https://github.com/Novusvetus/action-phpinsights/pull/387) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-01-09](https://github.com/Novusvetus/action-php_codesniffer/pull/444) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-01-01](https://github.com/Novusvetus/action-phpinsights/pull/382) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-01-01](https://github.com/Novusvetus/action-php_codesniffer/pull/439) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-12-21](https://github.com/Novusvetus/AutoGitIgnore/pull/36) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updates 2022-12-21](https://github.com/Novusvetus/ClassHelper/pull/33) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Updates 2022-12-21](https://github.com/Novusvetus/Die-PARTEI-Links/pull/9) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
-- [Updates 2022-12-21](https://github.com/Novusvetus/action-phpinsights/pull/378) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
