@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Delta357](https://github.com/Delta357)
 - [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
-- [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 
 #### 🎢 Stats
 
