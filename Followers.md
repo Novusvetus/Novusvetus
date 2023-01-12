@@ -27,7 +27,6 @@
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
 - [dev1ninja](https://github.com/dev1ninja)
-- [peter-kimanzi](https://github.com/peter-kimanzi)
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [cryptoguy55](https://github.com/cryptoguy55)
@@ -99,3 +98,4 @@
 - [aash-gates](https://github.com/aash-gates)
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
+- [vivekweb2013](https://github.com/vivekweb2013)
