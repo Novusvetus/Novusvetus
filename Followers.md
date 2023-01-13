@@ -1,5 +1,4 @@
 
-- [faisal-mahamud](https://github.com/faisal-mahamud)
 - [Delta357](https://github.com/Delta357)
 - [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
@@ -99,3 +98,4 @@
 - [dilshankarunarathne](https://github.com/dilshankarunarathne)
 - [farzadForoozanfar](https://github.com/farzadForoozanfar)
 - [vivekweb2013](https://github.com/vivekweb2013)
+- [shreyasinegi](https://github.com/shreyasinegi)

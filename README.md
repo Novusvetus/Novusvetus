@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [faisal-mahamud](https://github.com/faisal-mahamud)
 - [Delta357](https://github.com/Delta357)
 - [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
+- [AXG-coder](https://github.com/AXG-coder)
 
 #### 🎢 Stats
 
