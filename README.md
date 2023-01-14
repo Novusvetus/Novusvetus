@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-01-14](https://github.com/Novusvetus/action-php_codesniffer/pull/448) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-01-12](https://github.com/Novusvetus/action-phpinsights/pull/390) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-01-12](https://github.com/Novusvetus/action-php_codesniffer/pull/447) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-01-09](https://github.com/Novusvetus/action-phpinsights/pull/387) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2022-12-22](https://github.com/Novusvetus/action-phpinsights/pull/379) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2022-12-22](https://github.com/Novusvetus/action-php_codesniffer/pull/436) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2022-12-21](https://github.com/Novusvetus/devdocker/pull/5) on [Novusvetus/devdocker](https://github.com/Novusvetus/devdocker)
-- [Updates 2022-12-21](https://github.com/Novusvetus/AutoGitIgnore/pull/36) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -62,8 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [HyunCafe](https://github.com/HyunCafe)
+- [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
 - [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
