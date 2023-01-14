@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [notunderctrl](https://github.com/notunderctrl)
 - [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [yasserbdj96](https://github.com/yasserbdj96)
 - [isyuricunha](https://github.com/isyuricunha)
 - [Kwynto](https://github.com/Kwynto)
-- [iamdeepak199](https://github.com/iamdeepak199)
 
 #### 🎢 Stats
 
