@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [JoJoDevAdventure](https://github.com/JoJoDevAdventure)
 - [notunderctrl](https://github.com/notunderctrl)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
-- [yasserbdj96](https://github.com/yasserbdj96)
 
 #### 🎢 Stats
 
