@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [JubayerRiyad](https://github.com/JubayerRiyad)
+- [JoJoDevAdventure](https://github.com/JoJoDevAdventure)
 - [notunderctrl](https://github.com/notunderctrl)
 - [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
-- [isyuricunha](https://github.com/isyuricunha)
-- [Kwynto](https://github.com/Kwynto)
 
 #### 🎢 Stats
 

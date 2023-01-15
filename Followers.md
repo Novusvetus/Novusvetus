@@ -1,4 +1,6 @@
 
+- [JubayerRiyad](https://github.com/JubayerRiyad)
+- [JoJoDevAdventure](https://github.com/JoJoDevAdventure)
 - [notunderctrl](https://github.com/notunderctrl)
 - [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
@@ -97,5 +99,3 @@
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
 - [aash-gates](https://github.com/aash-gates)
-- [dilshankarunarathne](https://github.com/dilshankarunarathne)
-- [farzadForoozanfar](https://github.com/farzadForoozanfar)
