@@ -75,6 +75,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 🎢 Stats
 
+
+
+
 ![Novusvetus' stats](https://github-readme-stats.vercel.app/api?username=novusvetus&show_icons=true&count_private=true)
 
 ![Novusvetus' used languages](https://github-readme-stats.vercel.app/api/top-langs?username=novusvetus&layout=compact)
