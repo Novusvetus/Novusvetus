@@ -11,7 +11,6 @@
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
-- [isyuricunha](https://github.com/isyuricunha)
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [CryptoTopStar](https://github.com/CryptoTopStar)
@@ -99,3 +98,4 @@
 - [xjkun1](https://github.com/xjkun1)
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
+- [JCSIVO](https://github.com/JCSIVO)
