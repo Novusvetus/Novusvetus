@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
-- [JoJoDevAdventure](https://github.com/JoJoDevAdventure)
 - [notunderctrl](https://github.com/notunderctrl)
 - [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
 - [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
+- [hocinebouarara](https://github.com/hocinebouarara)
 
 #### 🎢 Stats
 
