@@ -1,4 +1,5 @@
 
+- [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
@@ -98,4 +99,3 @@
 - [FilipiMachado](https://github.com/FilipiMachado)
 - [TG922](https://github.com/TG922)
 - [JCSIVO](https://github.com/JCSIVO)
-- [aash-gates](https://github.com/aash-gates)
