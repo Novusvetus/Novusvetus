@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wiz64](https://github.com/wiz64)
+- [iturbides](https://github.com/iturbides)
 - [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
-- [byeblo](https://github.com/byeblo)
-- [harshit0209](https://github.com/harshit0209)
 
 #### 🎢 Stats
 
