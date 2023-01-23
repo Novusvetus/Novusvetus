@@ -1,5 +1,4 @@
 
-- [wiz64](https://github.com/wiz64)
 - [iturbides](https://github.com/iturbides)
 - [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
@@ -99,3 +98,4 @@
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
 - [FilipiMachado](https://github.com/FilipiMachado)
+- [TG922](https://github.com/TG922)
