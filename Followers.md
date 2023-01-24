@@ -1,4 +1,6 @@
 
+- [kazunetakeda25](https://github.com/kazunetakeda25)
+- [411112](https://github.com/411112)
 - [iturbides](https://github.com/iturbides)
 - [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
@@ -97,5 +99,3 @@
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
-- [FilipiMachado](https://github.com/FilipiMachado)
-- [TG922](https://github.com/TG922)

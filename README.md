@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kazunetakeda25](https://github.com/kazunetakeda25)
+- [411112](https://github.com/411112)
 - [iturbides](https://github.com/iturbides)
 - [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [notunderctrl](https://github.com/notunderctrl)
 - [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
-- [Delta357](https://github.com/Delta357)
-- [byeblo](https://github.com/byeblo)
 
 #### 🎢 Stats
 
