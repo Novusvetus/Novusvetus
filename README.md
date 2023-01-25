@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rockstarcoder333](https://github.com/rockstarcoder333)
 - [kazunetakeda25](https://github.com/kazunetakeda25)
 - [411112](https://github.com/411112)
 - [iturbides](https://github.com/iturbides)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [notunderctrl](https://github.com/notunderctrl)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
-- [Delta357](https://github.com/Delta357)
 
 #### 🎢 Stats
 
