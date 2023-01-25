@@ -7,7 +7,6 @@
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [notunderctrl](https://github.com/notunderctrl)
-- [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
 - [byeblo](https://github.com/byeblo)
@@ -99,3 +98,4 @@
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
 - [codedrian](https://github.com/codedrian)
 - [xjkun1](https://github.com/xjkun1)
+- [FilipiMachado](https://github.com/FilipiMachado)

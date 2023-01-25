@@ -70,8 +70,8 @@ _Nobody sponsors me. I am poor..._
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [notunderctrl](https://github.com/notunderctrl)
-- [HyunCafe](https://github.com/HyunCafe)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
+- [Delta357](https://github.com/Delta357)
 
 #### 🎢 Stats
 
