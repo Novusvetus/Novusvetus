@@ -1,5 +1,4 @@
 
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [411112](https://github.com/411112)
@@ -99,3 +98,4 @@
 - [lkotlarenko](https://github.com/lkotlarenko)
 - [Uxxxxxxx](https://github.com/Uxxxxxxx)
 - [codedrian](https://github.com/codedrian)
+- [xjkun1](https://github.com/xjkun1)
