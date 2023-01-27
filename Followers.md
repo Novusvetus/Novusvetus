@@ -1,4 +1,6 @@
 
+- [mlojek](https://github.com/mlojek)
+- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [robert1811](https://github.com/robert1811)
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
@@ -97,5 +99,3 @@
 - [ValentineFernandes](https://github.com/ValentineFernandes)
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
-- [lkotlarenko](https://github.com/lkotlarenko)
-- [Uxxxxxxx](https://github.com/Uxxxxxxx)
