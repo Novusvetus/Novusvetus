@@ -1,6 +1,5 @@
 
 - [robert1811](https://github.com/robert1811)
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
@@ -99,3 +98,4 @@
 - [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 - [ozboware](https://github.com/ozboware)
 - [lkotlarenko](https://github.com/lkotlarenko)
+- [Uxxxxxxx](https://github.com/Uxxxxxxx)

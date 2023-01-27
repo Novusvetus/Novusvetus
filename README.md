@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [robert1811](https://github.com/robert1811)
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
+- [JubayerRiyad](https://github.com/JubayerRiyad)
 
 #### 🎢 Stats
 
