@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
 - [kazunetakeda25](https://github.com/kazunetakeda25)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [411112](https://github.com/411112)
 - [iturbides](https://github.com/iturbides)
-- [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
 
 #### 🎢 Stats
 

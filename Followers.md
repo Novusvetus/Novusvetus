@@ -1,4 +1,5 @@
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
 - [kazunetakeda25](https://github.com/kazunetakeda25)
@@ -98,4 +99,3 @@
 - [Surprise080504](https://github.com/Surprise080504)
 - [BC-Master](https://github.com/BC-Master)
 - [ValentineFernandes](https://github.com/ValentineFernandes)
-- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
