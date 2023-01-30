@@ -1,4 +1,5 @@
 
+- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -17,7 +18,6 @@
 - [notunderctrl](https://github.com/notunderctrl)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
-- [byeblo](https://github.com/byeblo)
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)

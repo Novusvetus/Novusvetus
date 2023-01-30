@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-01-30](https://github.com/Novusvetus/action-php_codesniffer/pull/467) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-01-29](https://github.com/Novusvetus/AutoGitIgnore/pull/39) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updates 2023-01-28](https://github.com/Novusvetus/action-phpinsights/pull/403) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-01-27](https://github.com/Novusvetus/action-php_codesniffer/pull/465) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-01-23](https://github.com/Novusvetus/action-php_codesniffer/pull/458) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-01-22](https://github.com/Novusvetus/action-phpinsights/pull/398) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-01-21](https://github.com/Novusvetus/action-php_codesniffer/pull/457) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-01-20](https://github.com/Novusvetus/action-php_codesniffer/pull/456) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
-- [411112](https://github.com/411112)
 
 #### 🎢 Stats
 
