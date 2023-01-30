@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [411112](https://github.com/411112)
-- [iturbides](https://github.com/iturbides)
 
 #### 🎢 Stats
 
