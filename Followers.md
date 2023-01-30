@@ -4,7 +4,6 @@
 - [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [robert1811](https://github.com/robert1811)
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
@@ -99,3 +98,4 @@
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [Surprise080504](https://github.com/Surprise080504)
+- [BC-Master](https://github.com/BC-Master)

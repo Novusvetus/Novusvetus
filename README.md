@@ -67,11 +67,11 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [robert1811](https://github.com/robert1811)
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
+- [411112](https://github.com/411112)
 
 #### 🎢 Stats
 
