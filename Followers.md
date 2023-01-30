@@ -1,4 +1,5 @@
 
+- [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
@@ -98,4 +99,3 @@
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [Surprise080504](https://github.com/Surprise080504)
-- [BC-Master](https://github.com/BC-Master)
