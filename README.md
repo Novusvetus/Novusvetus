@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [mkcreator](https://github.com/mkcreator)
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [robert1811](https://github.com/robert1811)
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
+- [rockstarcoder333](https://github.com/rockstarcoder333)
 
 #### 🎢 Stats
 

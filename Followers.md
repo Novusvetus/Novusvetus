@@ -1,6 +1,5 @@
 
 - [mkcreator](https://github.com/mkcreator)
-- [kazunetakeda25](https://github.com/kazunetakeda25)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -99,3 +98,4 @@
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [Surprise080504](https://github.com/Surprise080504)
+- [BC-Master](https://github.com/BC-Master)
