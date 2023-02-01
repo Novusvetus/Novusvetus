@@ -25,7 +25,6 @@
 - [yasserbdj96](https://github.com/yasserbdj96)
 - [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
-- [CryptoTopStar](https://github.com/CryptoTopStar)
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
@@ -99,3 +98,4 @@
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
+- [Surprise080504](https://github.com/Surprise080504)
