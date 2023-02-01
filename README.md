@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DGS1337](https://github.com/DGS1337)
 - [avs-abhishek123](https://github.com/avs-abhishek123)
 - [mkcreator](https://github.com/mkcreator)
 - [mrpaziresh](https://github.com/mrpaziresh)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mlojek](https://github.com/mlojek)
 - [robert1811](https://github.com/robert1811)
 - [JoyceFatima](https://github.com/JoyceFatima)
-- [scoobytux](https://github.com/scoobytux)
 
 #### 🎢 Stats
 
