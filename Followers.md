@@ -1,5 +1,4 @@
 
-- [DGS1337](https://github.com/DGS1337)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
@@ -99,3 +98,4 @@
 - [antonio-bastos](https://github.com/antonio-bastos)
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
+- [urmybestfriend](https://github.com/urmybestfriend)
