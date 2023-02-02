@@ -16,7 +16,7 @@
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [411112](https://github.com/411112)
 - [iturbides](https://github.com/iturbides)
-- [thehacker-wiz-zz](https://github.com/thehacker-wiz-zz)
+- [annie-n3](https://github.com/annie-n3)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
