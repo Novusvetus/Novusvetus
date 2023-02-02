@@ -1,4 +1,5 @@
 
+- [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
 - [DGS1337](https://github.com/DGS1337)
 - [avs-abhishek123](https://github.com/avs-abhishek123)
@@ -98,4 +99,3 @@
 - [antonio-bastos](https://github.com/antonio-bastos)
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
-- [urmybestfriend](https://github.com/urmybestfriend)

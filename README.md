@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
 - [DGS1337](https://github.com/DGS1337)
 - [avs-abhishek123](https://github.com/avs-abhishek123)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
-- [robert1811](https://github.com/robert1811)
 
 #### 🎢 Stats
 
