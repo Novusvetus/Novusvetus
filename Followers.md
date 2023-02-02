@@ -1,4 +1,5 @@
 
+- [Joey-Resende](https://github.com/Joey-Resende)
 - [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
 - [DGS1337](https://github.com/DGS1337)
@@ -62,7 +63,6 @@
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
-- [Joey-Resende](https://github.com/Joey-Resende)
 - [hamidjk](https://github.com/hamidjk)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
