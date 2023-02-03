@@ -1,6 +1,6 @@
 
-- [wise-saint](https://github.com/wise-saint)
 - [DGS1337](https://github.com/DGS1337)
+- [wise-saint](https://github.com/wise-saint)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
