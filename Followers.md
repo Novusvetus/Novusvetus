@@ -1,4 +1,5 @@
 
+- [DGS1337](https://github.com/DGS1337)
 - [TRagnarox](https://github.com/TRagnarox)
 - [wise-saint](https://github.com/wise-saint)
 - [Joey-Resende](https://github.com/Joey-Resende)
@@ -98,4 +99,3 @@
 - [antonio-bastos](https://github.com/antonio-bastos)
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
-- [urmybestfriend](https://github.com/urmybestfriend)
