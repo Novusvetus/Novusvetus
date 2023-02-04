@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [TRagnarox](https://github.com/TRagnarox)
-- [DGS1337](https://github.com/DGS1337)
 - [wise-saint](https://github.com/wise-saint)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [araujoluciano](https://github.com/araujoluciano)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [isyuricunha](https://github.com/isyuricunha)
+- [MohamedMesto](https://github.com/MohamedMesto)
 
 #### 🎢 Stats
 
