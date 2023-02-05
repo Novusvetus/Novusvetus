@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [avs-abhishek123](https://github.com/avs-abhishek123)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
-- [isyuricunha](https://github.com/isyuricunha)
+- [MohamedMesto](https://github.com/MohamedMesto)
 
 #### 🎢 Stats
 

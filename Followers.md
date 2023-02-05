@@ -8,7 +8,6 @@
 - [avs-abhishek123](https://github.com/avs-abhishek123)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
-- [isyuricunha](https://github.com/isyuricunha)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
 - [robert1811](https://github.com/robert1811)
@@ -99,3 +98,4 @@
 - [antonio-bastos](https://github.com/antonio-bastos)
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
+- [urmybestfriend](https://github.com/urmybestfriend)
