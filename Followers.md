@@ -54,7 +54,6 @@
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [sayed71](https://github.com/sayed71)
 - [davidbrowns](https://github.com/davidbrowns)
-- [4nalog](https://github.com/4nalog)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [mdhachem](https://github.com/mdhachem)
 - [rtkktr](https://github.com/rtkktr)
@@ -99,3 +98,4 @@
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [Surprise080504](https://github.com/Surprise080504)
+- [BC-Master](https://github.com/BC-Master)
