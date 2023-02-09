@@ -1,4 +1,5 @@
 
+- [MichaelWayneKM](https://github.com/MichaelWayneKM)
 - [isyuricunha](https://github.com/isyuricunha)
 - [DGS1337](https://github.com/DGS1337)
 - [TRagnarox](https://github.com/TRagnarox)
@@ -98,4 +99,3 @@
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
 - [Surprise080504](https://github.com/Surprise080504)
-- [BC-Master](https://github.com/BC-Master)
