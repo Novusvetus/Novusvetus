@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ashwinikumar01](https://github.com/ashwinikumar01)
 - [Gizachew29](https://github.com/Gizachew29)
 - [omololevy](https://github.com/omololevy)
 - [Ananiyaadefres](https://github.com/Ananiyaadefres)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
-- [avs-abhishek123](https://github.com/avs-abhishek123)
 
 #### 🎢 Stats
 
