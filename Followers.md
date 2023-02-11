@@ -1,4 +1,5 @@
 
+- [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
 - [Gizachew29](https://github.com/Gizachew29)
 - [omololevy](https://github.com/omololevy)
@@ -98,4 +99,3 @@
 - [Retr0981](https://github.com/Retr0981)
 - [antonio-bastos](https://github.com/antonio-bastos)
 - [rvsul](https://github.com/rvsul)
-- [carameltora](https://github.com/carameltora)
