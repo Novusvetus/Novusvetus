@@ -1,4 +1,5 @@
 
+- [Gizachew29](https://github.com/Gizachew29)
 - [omololevy](https://github.com/omololevy)
 - [Ananiyaadefres](https://github.com/Ananiyaadefres)
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
@@ -98,4 +99,3 @@
 - [rvsul](https://github.com/rvsul)
 - [carameltora](https://github.com/carameltora)
 - [urmybestfriend](https://github.com/urmybestfriend)
-- [Surprise080504](https://github.com/Surprise080504)
