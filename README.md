@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bendik0329](https://github.com/bendik0329)
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
@@ -69,12 +70,11 @@ _Nobody sponsors me. I am poor..._
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
 - [DGS1337](https://github.com/DGS1337)
 - [TRagnarox](https://github.com/TRagnarox)
-- [Joey-Resende](https://github.com/Joey-Resende)
 
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.01% followers!
+Worldwide 🌍: Top 0.02% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
