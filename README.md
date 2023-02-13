@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
 - [Gizachew29](https://github.com/Gizachew29)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [DGS1337](https://github.com/DGS1337)
 - [TRagnarox](https://github.com/TRagnarox)
 - [Joey-Resende](https://github.com/Joey-Resende)
-- [araujoluciano](https://github.com/araujoluciano)
 
 #### 🎢 Stats
 
