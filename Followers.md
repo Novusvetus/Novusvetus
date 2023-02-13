@@ -1,4 +1,5 @@
 
+- [louis10271995](https://github.com/louis10271995)
 - [bendik0329](https://github.com/bendik0329)
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
@@ -98,4 +99,3 @@
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
 - [Saidiislam](https://github.com/Saidiislam)
-- [Retr0981](https://github.com/Retr0981)
