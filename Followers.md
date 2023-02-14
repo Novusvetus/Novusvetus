@@ -9,7 +9,6 @@
 - [omololevy](https://github.com/omololevy)
 - [Ananiyaadefres](https://github.com/Ananiyaadefres)
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
-- [DGS1337](https://github.com/DGS1337)
 - [TRagnarox](https://github.com/TRagnarox)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [araujoluciano](https://github.com/araujoluciano)
@@ -99,3 +98,4 @@
 - [Sings168](https://github.com/Sings168)
 - [HectorSpartan](https://github.com/HectorSpartan)
 - [abotarek2019](https://github.com/abotarek2019)
+- [Saidiislam](https://github.com/Saidiislam)
