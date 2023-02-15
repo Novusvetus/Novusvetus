@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [DGS1337](https://github.com/DGS1337)
 - [Blackwave1337](https://github.com/Blackwave1337)
 - [vjanz](https://github.com/vjanz)
 - [louis10271995](https://github.com/louis10271995)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [ashwinikumar01](https://github.com/ashwinikumar01)
 - [Gizachew29](https://github.com/Gizachew29)
 - [omololevy](https://github.com/omololevy)
+- [Ananiyaadefres](https://github.com/Ananiyaadefres)
 
 #### 🎢 Stats
 
