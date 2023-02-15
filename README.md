@@ -60,7 +60,7 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [DGS1337](https://github.com/DGS1337)
-- [zheni4ka](https://github.com/zheni4ka)
+- [dxp10](https://github.com/dxp10)
 - [raj03kumar](https://github.com/raj03kumar)
 - [Blackwave1337](https://github.com/Blackwave1337)
 - [vjanz](https://github.com/vjanz)
