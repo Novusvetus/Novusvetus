@@ -2,7 +2,6 @@
 - [zheni4ka](https://github.com/zheni4ka)
 - [raj03kumar](https://github.com/raj03kumar)
 - [Blackwave1337](https://github.com/Blackwave1337)
-- [DGS1337](https://github.com/DGS1337)
 - [vjanz](https://github.com/vjanz)
 - [louis10271995](https://github.com/louis10271995)
 - [bendik0329](https://github.com/bendik0329)
@@ -99,3 +98,4 @@
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
 - [xhamino](https://github.com/xhamino)
+- [Sings168](https://github.com/Sings168)
