@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [raj03kumar](https://github.com/raj03kumar)
 - [Blackwave1337](https://github.com/Blackwave1337)
 - [DGS1337](https://github.com/DGS1337)
 - [vjanz](https://github.com/vjanz)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
 - [Gizachew29](https://github.com/Gizachew29)
-- [omololevy](https://github.com/omololevy)
 
 #### 🎢 Stats
 
