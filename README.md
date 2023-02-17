@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
 - [dxp10](https://github.com/dxp10)
 - [Blackwave1337](https://github.com/Blackwave1337)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
-- [Gizachew29](https://github.com/Gizachew29)
 
 #### 🎢 Stats
 
