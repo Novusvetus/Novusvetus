@@ -18,7 +18,6 @@
 - [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
 - [avs-abhishek123](https://github.com/avs-abhishek123)
-- [mrpaziresh](https://github.com/mrpaziresh)
 - [DredDine](https://github.com/DredDine)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
@@ -99,3 +98,4 @@
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
 - [xhamino](https://github.com/xhamino)
+- [Sings168](https://github.com/Sings168)
