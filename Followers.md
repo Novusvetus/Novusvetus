@@ -38,7 +38,6 @@
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
-- [Kwynto](https://github.com/Kwynto)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
@@ -99,3 +98,4 @@
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
+- [xhamino](https://github.com/xhamino)
