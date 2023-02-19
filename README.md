@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kaizen-carbon](https://github.com/kaizen-carbon)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [louis10271995](https://github.com/louis10271995)
 - [bendik0329](https://github.com/bendik0329)
 - [GraniteMask](https://github.com/GraniteMask)
-- [Valentino-Junior](https://github.com/Valentino-Junior)
 
 #### 🎢 Stats
 
