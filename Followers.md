@@ -1,4 +1,5 @@
 
+- [knopmickael](https://github.com/knopmickael)
 - [kaizen-carbon](https://github.com/kaizen-carbon)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
@@ -98,4 +99,3 @@
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
-- [xhamino](https://github.com/xhamino)
