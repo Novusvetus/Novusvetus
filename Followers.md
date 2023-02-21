@@ -19,7 +19,6 @@
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
 - [TRagnarox](https://github.com/TRagnarox)
 - [Joey-Resende](https://github.com/Joey-Resende)
-- [araujoluciano](https://github.com/araujoluciano)
 - [bbypink](https://github.com/bbypink)
 - [avs-abhishek123](https://github.com/avs-abhishek123)
 - [DredDine](https://github.com/DredDine)
@@ -99,3 +98,4 @@
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
+- [cumsoft](https://github.com/cumsoft)
