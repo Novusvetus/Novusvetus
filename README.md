@@ -72,7 +72,7 @@ _Nobody sponsors me. I am poor..._
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.009% followers!
+Worldwide 🌍: Top 0.01% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
