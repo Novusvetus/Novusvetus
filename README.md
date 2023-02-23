@@ -65,10 +65,10 @@ _Nobody sponsors me. I am poor..._
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
-- [dxp10](https://github.com/dxp10)
 - [Blackwave1337](https://github.com/Blackwave1337)
 - [vjanz](https://github.com/vjanz)
 - [louis10271995](https://github.com/louis10271995)
+- [bendik0329](https://github.com/bendik0329)
 
 #### 🎢 Stats
 

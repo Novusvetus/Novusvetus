@@ -5,7 +5,6 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
-- [dxp10](https://github.com/dxp10)
 - [Blackwave1337](https://github.com/Blackwave1337)
 - [vjanz](https://github.com/vjanz)
 - [louis10271995](https://github.com/louis10271995)
@@ -99,3 +98,4 @@
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
+- [xhamino](https://github.com/xhamino)
