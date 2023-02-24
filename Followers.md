@@ -1,4 +1,5 @@
 
+- [richardrobertov](https://github.com/richardrobertov)
 - [hmddrz](https://github.com/hmddrz)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
@@ -81,7 +82,6 @@
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [HRSadeghi](https://github.com/HRSadeghi)
-- [liroyleshed](https://github.com/liroyleshed)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
