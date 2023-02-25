@@ -49,7 +49,7 @@
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
-- [BetrickYare](https://github.com/BetrickYare)
+- [Betricks](https://github.com/Betricks)
 - [bylickilabs](https://github.com/bylickilabs)
 - [agathafr](https://github.com/agathafr)
 - [kulikov-dev](https://github.com/kulikov-dev)
