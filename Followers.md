@@ -4,7 +4,6 @@
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
-- [kaizen-carbon](https://github.com/kaizen-carbon)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
@@ -99,3 +98,4 @@
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
+- [cumsoft](https://github.com/cumsoft)

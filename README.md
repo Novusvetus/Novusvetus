@@ -64,11 +64,11 @@ _Nobody sponsors me. I am poor..._
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
-- [kaizen-carbon](https://github.com/kaizen-carbon)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
 - [Blackwave1337](https://github.com/Blackwave1337)
+- [vjanz](https://github.com/vjanz)
 
 #### 🎢 Stats
 
