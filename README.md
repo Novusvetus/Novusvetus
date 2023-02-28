@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Shubh2-0](https://github.com/Shubh2-0)
 - [Rose-Client](https://github.com/Rose-Client)
 - [richardrobertov](https://github.com/richardrobertov)
 - [hmddrz](https://github.com/hmddrz)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
-- [vjanz](https://github.com/vjanz)
 
 #### 🎢 Stats
 
