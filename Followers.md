@@ -1,5 +1,4 @@
 
-- [Shubh2-0](https://github.com/Shubh2-0)
 - [Rose-Client](https://github.com/Rose-Client)
 - [richardrobertov](https://github.com/richardrobertov)
 - [hmddrz](https://github.com/hmddrz)
@@ -99,3 +98,4 @@
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
+- [cumsoft](https://github.com/cumsoft)
