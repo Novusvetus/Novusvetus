@@ -1,5 +1,5 @@
 
-- [Rose-Client](https://github.com/Rose-Client)
+- [Mach-Levi](https://github.com/Mach-Levi)
 - [richardrobertov](https://github.com/richardrobertov)
 - [hmddrz](https://github.com/hmddrz)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
@@ -34,7 +34,6 @@
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
-- [notunderctrl](https://github.com/notunderctrl)
 - [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
 - [harshit0209](https://github.com/harshit0209)
@@ -99,3 +98,4 @@
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
 - [cumsoft](https://github.com/cumsoft)
+- [xhamino](https://github.com/xhamino)
