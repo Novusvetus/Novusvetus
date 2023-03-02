@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TFathercool](https://github.com/TFathercool)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [richardrobertov](https://github.com/richardrobertov)
 - [hmddrz](https://github.com/hmddrz)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [DGS1337](https://github.com/DGS1337)
-- [vjanz](https://github.com/vjanz)
 
 #### 🎢 Stats
 
