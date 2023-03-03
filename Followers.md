@@ -1,4 +1,5 @@
 
+- [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
 - [TFathercool](https://github.com/TFathercool)
@@ -98,4 +99,3 @@
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
 - [medzino2000](https://github.com/medzino2000)
-- [xfika](https://github.com/xfika)
