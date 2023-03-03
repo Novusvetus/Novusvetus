@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
 - [TFathercool](https://github.com/TFathercool)
 - [Mach-Levi](https://github.com/Mach-Levi)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
 - [AvinandanBose](https://github.com/AvinandanBose)
-- [mahdisml](https://github.com/mahdisml)
 
 #### 🎢 Stats
 
