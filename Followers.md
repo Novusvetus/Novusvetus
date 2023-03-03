@@ -1,4 +1,5 @@
 
+- [Super-Smile](https://github.com/Super-Smile)
 - [TFathercool](https://github.com/TFathercool)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [richardrobertov](https://github.com/richardrobertov)
@@ -98,4 +99,3 @@
 - [medzino2000](https://github.com/medzino2000)
 - [xfika](https://github.com/xfika)
 - [Poojith-Obeysekara](https://github.com/Poojith-Obeysekara)
-- [cumsoft](https://github.com/cumsoft)
