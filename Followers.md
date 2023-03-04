@@ -1,4 +1,5 @@
 
+- [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
@@ -98,4 +99,3 @@
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
-- [medzino2000](https://github.com/medzino2000)

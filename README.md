@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [hmddrz](https://github.com/hmddrz)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
-- [knopmickael](https://github.com/knopmickael)
 
 #### 🎢 Stats
 
