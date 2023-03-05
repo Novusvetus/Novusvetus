@@ -12,7 +12,6 @@
 - [knopmickael](https://github.com/knopmickael)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
-- [DGS1337](https://github.com/DGS1337)
 - [vjanz](https://github.com/vjanz)
 - [louis10271995](https://github.com/louis10271995)
 - [bendik0329](https://github.com/bendik0329)
@@ -99,3 +98,4 @@
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
+- [medzino2000](https://github.com/medzino2000)
