@@ -7,7 +7,6 @@
 - [TFathercool](https://github.com/TFathercool)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [richardrobertov](https://github.com/richardrobertov)
-- [hmddrz](https://github.com/hmddrz)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
@@ -99,3 +98,4 @@
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
 - [christiancalara](https://github.com/christiancalara)
+- [medzino2000](https://github.com/medzino2000)

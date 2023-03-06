@@ -69,8 +69,8 @@ _Nobody sponsors me. I am poor..._
 - [TFathercool](https://github.com/TFathercool)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [richardrobertov](https://github.com/richardrobertov)
-- [hmddrz](https://github.com/hmddrz)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
+- [anathlab](https://github.com/anathlab)
 
 #### 🎢 Stats
 
