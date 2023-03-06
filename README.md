@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [DGS1337](https://github.com/DGS1337)
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
@@ -71,6 +70,7 @@ _Nobody sponsors me. I am poor..._
 - [richardrobertov](https://github.com/richardrobertov)
 - [hmddrz](https://github.com/hmddrz)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
+- [anathlab](https://github.com/anathlab)
 
 #### 🎢 Stats
 
