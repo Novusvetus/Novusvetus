@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [antero9471](https://github.com/antero9471)
 - [PmsHere](https://github.com/PmsHere)
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [richardrobertov](https://github.com/richardrobertov)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
-- [anathlab](https://github.com/anathlab)
 
 #### 🎢 Stats
 
