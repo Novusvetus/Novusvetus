@@ -1,4 +1,5 @@
 
+- [DGS1337](https://github.com/DGS1337)
 - [antero9471](https://github.com/antero9471)
 - [PmsHere](https://github.com/PmsHere)
 - [weliveinferdi](https://github.com/weliveinferdi)
@@ -98,4 +99,3 @@
 - [jmoseka](https://github.com/jmoseka)
 - [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 - [MarieUS5FT](https://github.com/MarieUS5FT)
-- [christiancalara](https://github.com/christiancalara)
