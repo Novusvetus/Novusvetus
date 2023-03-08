@@ -61,6 +61,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [topdeveloper-dev](https://github.com/topdeveloper-dev)
+- [Parameow3](https://github.com/Parameow3)
 - [DGS1337](https://github.com/DGS1337)
 - [antero9471](https://github.com/antero9471)
 - [PmsHere](https://github.com/PmsHere)
@@ -69,8 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
 - [TFathercool](https://github.com/TFathercool)
-- [Mach-Levi](https://github.com/Mach-Levi)
-- [richardrobertov](https://github.com/richardrobertov)
 
 #### 🎢 Stats
 
