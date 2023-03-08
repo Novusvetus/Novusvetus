@@ -52,7 +52,6 @@
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
 - [FranMahon](https://github.com/FranMahon)
-- [SirMuhannad](https://github.com/SirMuhannad)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
@@ -99,3 +98,4 @@
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
 - [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
+- [jmoseka](https://github.com/jmoseka)
