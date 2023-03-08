@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [Parameow3](https://github.com/Parameow3)
 - [DGS1337](https://github.com/DGS1337)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
-- [TFathercool](https://github.com/TFathercool)
 
 #### 🎢 Stats
 
