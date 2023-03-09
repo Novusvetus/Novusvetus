@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [Parameow3](https://github.com/Parameow3)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
-- [Super-Smile](https://github.com/Super-Smile)
 
 #### 🎢 Stats
 
