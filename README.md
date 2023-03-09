@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Shubh2-0](https://github.com/Shubh2-0)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [PmsHere](https://github.com/PmsHere)
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
-- [code-rain002](https://github.com/code-rain002)
 
 #### 🎢 Stats
 
