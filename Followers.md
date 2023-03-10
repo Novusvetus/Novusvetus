@@ -67,7 +67,6 @@
 - [dev1ninja](https://github.com/dev1ninja)
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
-- [cryptoguy55](https://github.com/cryptoguy55)
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
@@ -99,3 +98,4 @@
 - [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
+- [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
