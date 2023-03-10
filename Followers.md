@@ -1,6 +1,5 @@
 
 - [WebDev717](https://github.com/WebDev717)
-- [Shubh2-0](https://github.com/Shubh2-0)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
@@ -99,3 +98,4 @@
 - [SuperStar323](https://github.com/SuperStar323)
 - [hosseinhezami](https://github.com/hosseinhezami)
 - [jmoseka](https://github.com/jmoseka)
+- [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
