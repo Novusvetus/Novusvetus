@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [WebDev717](https://github.com/WebDev717)
 - [Shubh2-0](https://github.com/Shubh2-0)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Rider-io](https://github.com/Rider-io)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [antero9471](https://github.com/antero9471)
 - [PmsHere](https://github.com/PmsHere)
 - [weliveinferdi](https://github.com/weliveinferdi)
-- [louistalent](https://github.com/louistalent)
 
 #### 🎢 Stats
 
