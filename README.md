@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dev-captain](https://github.com/dev-captain)
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [WebDev717](https://github.com/WebDev717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [DGS1337](https://github.com/DGS1337)
 - [antero9471](https://github.com/antero9471)
 - [PmsHere](https://github.com/PmsHere)
-- [weliveinferdi](https://github.com/weliveinferdi)
 
 #### 🎢 Stats
 
