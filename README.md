@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
 - [saifulemon](https://github.com/saifulemon)
 - [dev-captain](https://github.com/dev-captain)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [Parameow3](https://github.com/Parameow3)
-- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 
