@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codinghemp](https://github.com/codinghemp)
+- [saifulemon](https://github.com/saifulemon)
 - [dev-captain](https://github.com/dev-captain)
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [WebDev717](https://github.com/WebDev717)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [Parameow3](https://github.com/Parameow3)
 - [DGS1337](https://github.com/DGS1337)
-- [antero9471](https://github.com/antero9471)
-- [PmsHere](https://github.com/PmsHere)
 
 #### 🎢 Stats
 
