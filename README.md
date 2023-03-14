@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
-- [saifulemon](https://github.com/saifulemon)
 - [dev-captain](https://github.com/dev-captain)
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [WebDev717](https://github.com/WebDev717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
+- [Parameow3](https://github.com/Parameow3)
 
 #### 🎢 Stats
 

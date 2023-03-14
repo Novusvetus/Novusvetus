@@ -2,7 +2,6 @@
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
-- [saifulemon](https://github.com/saifulemon)
 - [dev-captain](https://github.com/dev-captain)
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [WebDev717](https://github.com/WebDev717)
@@ -99,3 +98,4 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [whyneedd](https://github.com/whyneedd)
+- [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
