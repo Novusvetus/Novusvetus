@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [FullStackStar](https://github.com/FullStackStar)
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Rider-io](https://github.com/Rider-io)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
-- [Parameow3](https://github.com/Parameow3)
 
 #### 🎢 Stats
 
