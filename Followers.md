@@ -52,6 +52,7 @@
 - [Delta357](https://github.com/Delta357)
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
+- [yasserbdj96](https://github.com/yasserbdj96)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
@@ -98,4 +99,3 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [whyneedd](https://github.com/whyneedd)
-- [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
