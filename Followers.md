@@ -12,7 +12,6 @@
 - [Parameow3](https://github.com/Parameow3)
 - [DGS1337](https://github.com/DGS1337)
 - [antero9471](https://github.com/antero9471)
-- [PmsHere](https://github.com/PmsHere)
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
 - [code-rain002](https://github.com/code-rain002)
@@ -99,3 +98,4 @@
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [whyneedd](https://github.com/whyneedd)
+- [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
