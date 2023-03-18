@@ -96,6 +96,6 @@
 - [nowjin](https://github.com/nowjin)
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
-- [cucerdariancatalin](https://github.com/cucerdariancatalin)
 - [whyneedd](https://github.com/whyneedd)
 - [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)
+- [SuperStar323](https://github.com/SuperStar323)
