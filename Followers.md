@@ -1,4 +1,5 @@
 
+- [ethanabraham-xi](https://github.com/ethanabraham-xi)
 - [melekncci](https://github.com/melekncci)
 - [FullStackStar](https://github.com/FullStackStar)
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
@@ -98,4 +99,3 @@
 - [MosFazli](https://github.com/MosFazli)
 - [Wesley-Breno](https://github.com/Wesley-Breno)
 - [whyneedd](https://github.com/whyneedd)
-- [Brilliantwebdev1125](https://github.com/Brilliantwebdev1125)

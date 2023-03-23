@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ethanabraham-xi](https://github.com/ethanabraham-xi)
 - [melekncci](https://github.com/melekncci)
 - [FullStackStar](https://github.com/FullStackStar)
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
-- [Rider-io](https://github.com/Rider-io)
 
 #### 🎢 Stats
 
