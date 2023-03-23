@@ -1,4 +1,5 @@
 
+- [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
 - [melekncci](https://github.com/melekncci)
@@ -98,4 +99,3 @@
 - [currenjin](https://github.com/currenjin)
 - [nowjin](https://github.com/nowjin)
 - [MosFazli](https://github.com/MosFazli)
-- [Wesley-Breno](https://github.com/Wesley-Breno)
