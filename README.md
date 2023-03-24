@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
 - [dev-captain](https://github.com/dev-captain)
-- [nuth-vireak](https://github.com/nuth-vireak)
 
 #### 🎢 Stats
 
