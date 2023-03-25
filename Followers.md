@@ -16,7 +16,6 @@
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [topdeveloper-dev](https://github.com/topdeveloper-dev)
 - [Parameow3](https://github.com/Parameow3)
-- [DGS1337](https://github.com/DGS1337)
 - [antero9471](https://github.com/antero9471)
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
@@ -99,3 +98,4 @@
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [katchion13](https://github.com/katchion13)
 - [currenjin](https://github.com/currenjin)
+- [nowjin](https://github.com/nowjin)
