@@ -1,5 +1,4 @@
 
-- [Matthewoff](https://github.com/Matthewoff)
 - [DGS1337](https://github.com/DGS1337)
 - [vishalkrishna8](https://github.com/vishalkrishna8)
 - [ethanflower1903](https://github.com/ethanflower1903)
@@ -99,3 +98,4 @@
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [HRSadeghi](https://github.com/HRSadeghi)
 - [katchion13](https://github.com/katchion13)
+- [currenjin](https://github.com/currenjin)

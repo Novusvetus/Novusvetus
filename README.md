@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Matthewoff](https://github.com/Matthewoff)
 - [DGS1337](https://github.com/DGS1337)
 - [vishalkrishna8](https://github.com/vishalkrishna8)
 - [ethanflower1903](https://github.com/ethanflower1903)
@@ -71,6 +70,7 @@ _Nobody sponsors me. I am poor..._
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
 - [melekncci](https://github.com/melekncci)
 - [FullStackStar](https://github.com/FullStackStar)
+- [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 
 #### 🎢 Stats
 
