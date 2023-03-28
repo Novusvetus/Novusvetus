@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rapiddever](https://github.com/rapiddever)
 - [omarnaser1997](https://github.com/omarnaser1997)
 - [JeffersonRPM](https://github.com/JeffersonRPM)
 - [DGS1337](https://github.com/DGS1337)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
-- [melekncci](https://github.com/melekncci)
 
 #### 🎢 Stats
 
