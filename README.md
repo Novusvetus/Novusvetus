@@ -65,12 +65,12 @@ _Nobody sponsors me. I am poor..._
 - [omarnaser1997](https://github.com/omarnaser1997)
 - [JeffersonRPM](https://github.com/JeffersonRPM)
 - [DGS1337](https://github.com/DGS1337)
-- [vishalkrishna8](https://github.com/vishalkrishna8)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
+- [melekncci](https://github.com/melekncci)
 
 #### 🎢 Stats
 
