@@ -1,7 +1,7 @@
 
 - [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
-- [rapiddever](https://github.com/rapiddever)
+- [rascalchow](https://github.com/rascalchow)
 - [omarnaser1997](https://github.com/omarnaser1997)
 - [JeffersonRPM](https://github.com/JeffersonRPM)
 - [ethanflower1903](https://github.com/ethanflower1903)
