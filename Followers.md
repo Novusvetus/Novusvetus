@@ -8,7 +8,6 @@
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
-- [melekncci](https://github.com/melekncci)
 - [FullStackStar](https://github.com/FullStackStar)
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
@@ -99,3 +98,4 @@
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
 - [HRSadeghi](https://github.com/HRSadeghi)
+- [katchion13](https://github.com/katchion13)

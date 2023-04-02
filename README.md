@@ -70,7 +70,7 @@ _Nobody sponsors me. I am poor..._
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
-- [melekncci](https://github.com/melekncci)
+- [FullStackStar](https://github.com/FullStackStar)
 
 #### 🎢 Stats
 
