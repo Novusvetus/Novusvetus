@@ -1,7 +1,6 @@
 
 - [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
-- [rascalchow](https://github.com/rascalchow)
 - [omarnaser1997](https://github.com/omarnaser1997)
 - [JeffersonRPM](https://github.com/JeffersonRPM)
 - [ethanflower1903](https://github.com/ethanflower1903)
@@ -99,3 +98,4 @@
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
 - [vcwild](https://github.com/vcwild)
 - [lazherbtra07](https://github.com/lazherbtra07)
+- [HRSadeghi](https://github.com/HRSadeghi)
