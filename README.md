@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ArthurHendrich](https://github.com/ArthurHendrich)
 - [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
 - [omarnaser1997](https://github.com/omarnaser1997)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [ethanabraham-xi](https://github.com/ethanabraham-xi)
-- [FullStackStar](https://github.com/FullStackStar)
 
 #### 🎢 Stats
 
