@@ -1,4 +1,5 @@
 
+- [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [AnnePatchkoria](https://github.com/AnnePatchkoria)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
@@ -71,7 +72,6 @@
 - [HadesHappy](https://github.com/HadesHappy)
 - [Betricks](https://github.com/Betricks)
 - [bylickilabs](https://github.com/bylickilabs)
-- [agathafr](https://github.com/agathafr)
 - [kulikov-dev](https://github.com/kulikov-dev)
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)

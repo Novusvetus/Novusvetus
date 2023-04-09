@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [AnnePatchkoria](https://github.com/AnnePatchkoria)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [JeffersonRPM](https://github.com/JeffersonRPM)
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [kingstar1115](https://github.com/kingstar1115)
-- [marijan10marijan](https://github.com/marijan10marijan)
 
 #### 🎢 Stats
 
