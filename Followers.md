@@ -12,7 +12,6 @@
 - [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
-- [ethanabraham-xi](https://github.com/ethanabraham-xi)
 - [FullStackStar](https://github.com/FullStackStar)
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
@@ -99,3 +98,4 @@
 - [hamidjk](https://github.com/hamidjk)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
+- [vcwild](https://github.com/vcwild)
