@@ -1,4 +1,5 @@
 
+- [bastndev](https://github.com/bastndev)
 - [bitsoftd](https://github.com/bitsoftd)
 - [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
@@ -98,4 +99,3 @@
 - [hamidjk](https://github.com/hamidjk)
 - [codebuil](https://github.com/codebuil)
 - [MatiasRaulIbarra](https://github.com/MatiasRaulIbarra)
-- [vcwild](https://github.com/vcwild)
