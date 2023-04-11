@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mrpaziresh](https://github.com/mrpaziresh)
 - [bastndev](https://github.com/bastndev)
 - [bitsoftd](https://github.com/bitsoftd)
 - [agathafr](https://github.com/agathafr)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
 - [omarnaser1997](https://github.com/omarnaser1997)
-- [JeffersonRPM](https://github.com/JeffersonRPM)
 
 #### 🎢 Stats
 
