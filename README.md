@@ -59,9 +59,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cosmohacker](https://github.com/cosmohacker)
 - [Actually-Bad-Guy](https://github.com/Actually-Bad-Guy)
 - [mrpaziresh](https://github.com/mrpaziresh)
-- [bastndev](https://github.com/bastndev)
 - [bitsoftd](https://github.com/bitsoftd)
 - [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
