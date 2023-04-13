@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-04-13](https://github.com/Novusvetus/Spotifriendslist/pull/10) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Updates 2023-04-12](https://github.com/Novusvetus/action-php_codesniffer/pull/538) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-04-11](https://github.com/Novusvetus/action-php_codesniffer/pull/537) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-04-09](https://github.com/Novusvetus/novusvetus.github.io/pull/10) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
