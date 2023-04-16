@@ -1,4 +1,5 @@
 
+- [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [Actually-Bad-Guy](https://github.com/Actually-Bad-Guy)
 - [mrpaziresh](https://github.com/mrpaziresh)
@@ -98,4 +99,3 @@
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [code2lives](https://github.com/code2lives)
 - [Topstar88](https://github.com/Topstar88)
-- [hamidjk](https://github.com/hamidjk)
