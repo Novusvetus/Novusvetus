@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mujtaba11-sep](https://github.com/mujtaba11-sep)
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [Actually-Bad-Guy](https://github.com/Actually-Bad-Guy)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [AnnePatchkoria](https://github.com/AnnePatchkoria)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
-- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 
