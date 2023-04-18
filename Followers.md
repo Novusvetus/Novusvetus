@@ -3,7 +3,7 @@
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
-- [bitsoftd](https://github.com/bitsoftd)
+- [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [AnnePatchkoria](https://github.com/AnnePatchkoria)
