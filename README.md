@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
-- [AnnePatchkoria](https://github.com/AnnePatchkoria)
+- [ArthurHendrich](https://github.com/ArthurHendrich)
 
 #### 🎢 Stats
 

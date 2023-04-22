@@ -8,7 +8,6 @@
 - [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
 - [Solomonkassa](https://github.com/Solomonkassa)
-- [AnnePatchkoria](https://github.com/AnnePatchkoria)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
 - [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
@@ -99,3 +98,4 @@
 - [rtkktr](https://github.com/rtkktr)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
+- [code2lives](https://github.com/code2lives)
