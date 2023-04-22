@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-04-22](https://github.com/Novusvetus/AutoGitIgnore/pull/45) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updates 2023-04-22](https://github.com/Novusvetus/ClassHelper/pull/42) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Updates 2023-04-22](https://github.com/Novusvetus/action-phpinsights/pull/475) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-04-22](https://github.com/Novusvetus/action-php_codesniffer/pull/547) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-04-15](https://github.com/Novusvetus/Mendelssohn/pull/30) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Updates 2023-04-15](https://github.com/Novusvetus/action-php_codesniffer/pull/542) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-04-14](https://github.com/Novusvetus/StreamersMQTT/pull/11) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
-- [Updates 2023-04-14](https://github.com/Novusvetus/action-php_codesniffer/pull/540) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
