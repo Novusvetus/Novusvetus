@@ -7,7 +7,6 @@
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
-- [Solomonkassa](https://github.com/Solomonkassa)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
 - [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
@@ -99,3 +98,4 @@
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
 - [code2lives](https://github.com/code2lives)
+- [Topstar88](https://github.com/Topstar88)

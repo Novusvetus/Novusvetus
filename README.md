@@ -70,8 +70,8 @@ _Nobody sponsors me. I am poor..._
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
-- [Solomonkassa](https://github.com/Solomonkassa)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
+- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 
