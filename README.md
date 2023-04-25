@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [dragon7210](https://github.com/dragon7210)
 - [nature613](https://github.com/nature613)
 - [mujtaba11-sep](https://github.com/mujtaba11-sep)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
-- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 
