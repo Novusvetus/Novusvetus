@@ -1,4 +1,5 @@
 
+- [Solomonkassa](https://github.com/Solomonkassa)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dragon7210](https://github.com/dragon7210)
 - [nature613](https://github.com/nature613)
@@ -98,4 +99,3 @@
 - [rtkktr](https://github.com/rtkktr)
 - [passionateitdeveloper](https://github.com/passionateitdeveloper)
 - [MatheusLima7](https://github.com/MatheusLima7)
-- [code2lives](https://github.com/code2lives)
