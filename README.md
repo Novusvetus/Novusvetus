@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [isyuricunha](https://github.com/isyuricunha)
 - [dragon7210](https://github.com/dragon7210)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [bitechd](https://github.com/bitechd)
-- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
