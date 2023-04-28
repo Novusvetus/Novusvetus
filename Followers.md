@@ -97,5 +97,5 @@
 - [Backendeng](https://github.com/Backendeng)
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [sayed71](https://github.com/sayed71)
-- [davidbrowns](https://github.com/davidbrowns)
+- [cryptosguru](https://github.com/cryptosguru)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
