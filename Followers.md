@@ -1,4 +1,5 @@
 
+- [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
@@ -98,4 +99,3 @@
 - [davidbrowns](https://github.com/davidbrowns)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
 - [mdhachem](https://github.com/mdhachem)
-- [rtkktr](https://github.com/rtkktr)

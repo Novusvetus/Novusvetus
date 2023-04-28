@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mujtaba11-sep](https://github.com/mujtaba11-sep)
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
-- [mrpaziresh](https://github.com/mrpaziresh)
 
 #### 🎢 Stats
 
