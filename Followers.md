@@ -56,7 +56,6 @@
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [bbypink](https://github.com/bbypink)
-- [avs-abhishek123](https://github.com/avs-abhishek123)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
 - [JoyceFatima](https://github.com/JoyceFatima)
@@ -99,3 +98,4 @@
 - [sayed71](https://github.com/sayed71)
 - [cryptosguru](https://github.com/cryptosguru)
 - [CandyDEV1014](https://github.com/CandyDEV1014)
+- [mdhachem](https://github.com/mdhachem)
