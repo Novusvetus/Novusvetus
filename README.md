@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kamelorac](https://github.com/kamelorac)
 - [Kubenew](https://github.com/Kubenew)
 - [ADItya0367](https://github.com/ADItya0367)
 - [abduadem](https://github.com/abduadem)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [dragon7210](https://github.com/dragon7210)
 - [nature613](https://github.com/nature613)
-- [mujtaba11-sep](https://github.com/mujtaba11-sep)
 
 #### 🎢 Stats
 
