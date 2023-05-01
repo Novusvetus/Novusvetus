@@ -63,7 +63,6 @@
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
-- [411112](https://github.com/411112)
 - [iturbides](https://github.com/iturbides)
 - [bl4ckh47G1rl](https://github.com/bl4ckh47G1rl)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
@@ -99,3 +98,4 @@
 - [Backendeng](https://github.com/Backendeng)
 - [naruhitokaide](https://github.com/naruhitokaide)
 - [sayed71](https://github.com/sayed71)
+- [cryptosguru](https://github.com/cryptosguru)
