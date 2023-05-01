@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [romanofficial](https://github.com/romanofficial)
 - [Spartanlasergun](https://github.com/Spartanlasergun)
 - [kamelorac](https://github.com/kamelorac)
 - [Kubenew](https://github.com/Kubenew)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [isyuricunha](https://github.com/isyuricunha)
-- [dragon7210](https://github.com/dragon7210)
 
 #### 🎢 Stats
 
