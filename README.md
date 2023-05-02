@@ -45,6 +45,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-05-02](https://github.com/Novusvetus/action-phpinsights/pull/488) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2023-05-02](https://github.com/Novusvetus/action-php_codesniffer/pull/559) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-04-30](https://github.com/Novusvetus/action-php_codesniffer/pull/557) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-04-29](https://github.com/Novusvetus/action-phpinsights/pull/486) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-04-29](https://github.com/Novusvetus/action-php_codesniffer/pull/556) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -52,8 +54,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-04-28](https://github.com/Novusvetus/action-php_codesniffer/pull/554) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-04-26](https://github.com/Novusvetus/action-phpinsights/pull/482) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-04-26](https://github.com/Novusvetus/action-php_codesniffer/pull/552) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-04-25](https://github.com/Novusvetus/action-phpinsights/pull/480) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2023-04-25](https://github.com/Novusvetus/action-php_codesniffer/pull/550) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
