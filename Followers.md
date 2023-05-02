@@ -1,4 +1,5 @@
 
+- [connectit2anand](https://github.com/connectit2anand)
 - [romanofficial](https://github.com/romanofficial)
 - [Spartanlasergun](https://github.com/Spartanlasergun)
 - [kamelorac](https://github.com/kamelorac)
@@ -98,4 +99,3 @@
 - [tenoclock](https://github.com/tenoclock)
 - [Supernova1024](https://github.com/Supernova1024)
 - [Backendeng](https://github.com/Backendeng)
-- [naruhitokaide](https://github.com/naruhitokaide)
