@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Nathanage3](https://github.com/Nathanage3)
 - [wangyanyan2023](https://github.com/wangyanyan2023)
 - [AISoltani](https://github.com/AISoltani)
 - [connectit2anand](https://github.com/connectit2anand)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Kubenew](https://github.com/Kubenew)
 - [ADItya0367](https://github.com/ADItya0367)
 - [abduadem](https://github.com/abduadem)
-- [Zid95](https://github.com/Zid95)
 
 #### 🎢 Stats
 
