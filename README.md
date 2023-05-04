@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wangyanyan2023](https://github.com/wangyanyan2023)
 - [AISoltani](https://github.com/AISoltani)
 - [connectit2anand](https://github.com/connectit2anand)
 - [romanofficial](https://github.com/romanofficial)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [ADItya0367](https://github.com/ADItya0367)
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
-- [CodeDroid999](https://github.com/CodeDroid999)
 
 #### 🎢 Stats
 
