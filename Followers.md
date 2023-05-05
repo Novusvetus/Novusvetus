@@ -19,7 +19,6 @@
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
-- [bitechd](https://github.com/bitechd)
 - [agathafr](https://github.com/agathafr)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
 - [DGS1337](https://github.com/DGS1337)
@@ -99,3 +98,4 @@
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
+- [tenoclock](https://github.com/tenoclock)
