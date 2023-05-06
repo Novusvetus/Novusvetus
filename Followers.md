@@ -81,7 +81,6 @@
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
-- [FranMahon](https://github.com/FranMahon)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
@@ -99,3 +98,4 @@
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
+- [Supernova1024](https://github.com/Supernova1024)
