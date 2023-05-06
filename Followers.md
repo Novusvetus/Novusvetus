@@ -1,4 +1,5 @@
 
+- [revived-midas](https://github.com/revived-midas)
 - [Nathanage3](https://github.com/Nathanage3)
 - [wangyanyan2023](https://github.com/wangyanyan2023)
 - [AISoltani](https://github.com/AISoltani)
@@ -98,4 +99,3 @@
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
 - [tenoclock](https://github.com/tenoclock)
-- [Supernova1024](https://github.com/Supernova1024)
