@@ -1,4 +1,5 @@
 
+- [joker-owner](https://github.com/joker-owner)
 - [kamelorac](https://github.com/kamelorac)
 - [revived-midas](https://github.com/revived-midas)
 - [Nathanage3](https://github.com/Nathanage3)
@@ -98,4 +99,3 @@
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [webtopcoder](https://github.com/webtopcoder)
 - [bear49193](https://github.com/bear49193)
-- [tenoclock](https://github.com/tenoclock)
