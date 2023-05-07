@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tonic-6101](https://github.com/tonic-6101)
 - [joker-owner](https://github.com/joker-owner)
 - [kamelorac](https://github.com/kamelorac)
 - [revived-midas](https://github.com/revived-midas)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [connectit2anand](https://github.com/connectit2anand)
 - [romanofficial](https://github.com/romanofficial)
 - [Spartanlasergun](https://github.com/Spartanlasergun)
-- [Kubenew](https://github.com/Kubenew)
 
 #### 🎢 Stats
 

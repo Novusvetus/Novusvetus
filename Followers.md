@@ -1,4 +1,5 @@
 
+- [tonic-6101](https://github.com/tonic-6101)
 - [joker-owner](https://github.com/joker-owner)
 - [kamelorac](https://github.com/kamelorac)
 - [revived-midas](https://github.com/revived-midas)
@@ -98,4 +99,3 @@
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
 - [webtopcoder](https://github.com/webtopcoder)
-- [bear49193](https://github.com/bear49193)
