@@ -1,4 +1,5 @@
 
+- [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
 - [joker-owner](https://github.com/joker-owner)
 - [kamelorac](https://github.com/kamelorac)
@@ -98,4 +99,3 @@
 - [dev1ninja](https://github.com/dev1ninja)
 - [kartset](https://github.com/kartset)
 - [sohail-chughtai](https://github.com/sohail-chughtai)
-- [webtopcoder](https://github.com/webtopcoder)
