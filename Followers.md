@@ -57,7 +57,7 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [vjanz](https://github.com/vjanz)
-- [akira10231996](https://github.com/akira10231996)
+- [dybbuk-dev](https://github.com/dybbuk-dev)
 - [bendik0329](https://github.com/bendik0329)
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
