@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CharlesDerek](https://github.com/CharlesDerek)
 - [multikitty](https://github.com/multikitty)
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Nathanage3](https://github.com/Nathanage3)
 - [wangyanyan2023](https://github.com/wangyanyan2023)
 - [AISoltani](https://github.com/AISoltani)
-- [connectit2anand](https://github.com/connectit2anand)
 
 #### 🎢 Stats
 
