@@ -1,4 +1,5 @@
 
+- [bichngon2023](https://github.com/bichngon2023)
 - [CharlesDerek](https://github.com/CharlesDerek)
 - [multikitty](https://github.com/multikitty)
 - [wisamosman](https://github.com/wisamosman)
@@ -98,4 +99,3 @@
 - [itsApurba](https://github.com/itsApurba)
 - [maksym0102](https://github.com/maksym0102)
 - [hoangks5](https://github.com/hoangks5)
-- [dev1ninja](https://github.com/dev1ninja)
