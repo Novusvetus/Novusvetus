@@ -1,4 +1,5 @@
 
+- [trendy0413](https://github.com/trendy0413)
 - [kamelorac](https://github.com/kamelorac)
 - [top-comengineer](https://github.com/top-comengineer)
 - [bichngon2023](https://github.com/bichngon2023)
@@ -98,4 +99,3 @@
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
-- [maksym0102](https://github.com/maksym0102)
