@@ -4,7 +4,6 @@
 - [top-comengineer](https://github.com/top-comengineer)
 - [bichngon2023](https://github.com/bichngon2023)
 - [CharlesDerek](https://github.com/CharlesDerek)
-- [multikitty](https://github.com/multikitty)
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
 - [joker-owner](https://github.com/joker-owner)
@@ -99,3 +98,4 @@
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
+- [maksym0102](https://github.com/maksym0102)
