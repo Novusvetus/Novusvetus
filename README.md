@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [poseidon731](https://github.com/poseidon731)
 - [trendy0413](https://github.com/trendy0413)
 - [kamelorac](https://github.com/kamelorac)
 - [top-comengineer](https://github.com/top-comengineer)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [tonic-6101](https://github.com/tonic-6101)
 - [joker-owner](https://github.com/joker-owner)
 - [revived-midas](https://github.com/revived-midas)
-- [Nathanage3](https://github.com/Nathanage3)
 
 #### 🎢 Stats
 
