@@ -1,4 +1,5 @@
 
+- [Julius-Hamilton](https://github.com/Julius-Hamilton)
 - [poseidon731](https://github.com/poseidon731)
 - [trendy0413](https://github.com/trendy0413)
 - [kamelorac](https://github.com/kamelorac)
@@ -8,7 +9,6 @@
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
 - [joker-owner](https://github.com/joker-owner)
-- [revived-midas](https://github.com/revived-midas)
 - [Nathanage3](https://github.com/Nathanage3)
 - [wangyanyan2023](https://github.com/wangyanyan2023)
 - [AISoltani](https://github.com/AISoltani)
