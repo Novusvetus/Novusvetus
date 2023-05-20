@@ -8,7 +8,6 @@
 - [CharlesDerek](https://github.com/CharlesDerek)
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
-- [joker-owner](https://github.com/joker-owner)
 - [Nathanage3](https://github.com/Nathanage3)
 - [wangyanyan2023](https://github.com/wangyanyan2023)
 - [AISoltani](https://github.com/AISoltani)
@@ -99,3 +98,4 @@
 - [crazydevlegend](https://github.com/crazydevlegend)
 - [motanelson](https://github.com/motanelson)
 - [itsApurba](https://github.com/itsApurba)
+- [maksym0102](https://github.com/maksym0102)

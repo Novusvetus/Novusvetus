@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [CharlesDerek](https://github.com/CharlesDerek)
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
-- [joker-owner](https://github.com/joker-owner)
+- [Nathanage3](https://github.com/Nathanage3)
 
 #### 🎢 Stats
 
