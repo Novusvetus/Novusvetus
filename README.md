@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
 - [poseidon731](https://github.com/poseidon731)
 - [trendy0413](https://github.com/trendy0413)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [CharlesDerek](https://github.com/CharlesDerek)
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
-- [Nathanage3](https://github.com/Nathanage3)
 
 #### 🎢 Stats
 
