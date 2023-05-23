@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [itswadesh](https://github.com/itswadesh)
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [top-comengineer](https://github.com/top-comengineer)
 - [bichngon2023](https://github.com/bichngon2023)
 - [CharlesDerek](https://github.com/CharlesDerek)
-- [wisamosman](https://github.com/wisamosman)
 
 #### 🎢 Stats
 
