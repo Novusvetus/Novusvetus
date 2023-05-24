@@ -62,16 +62,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [HotCappuchino](https://github.com/HotCappuchino)
+- [Gizachew29](https://github.com/Gizachew29)
+- [tresa5923](https://github.com/tresa5923)
 - [itswadesh](https://github.com/itswadesh)
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
-- [poseidon731](https://github.com/poseidon731)
 - [trendy0413](https://github.com/trendy0413)
 - [kamelorac](https://github.com/kamelorac)
 - [top-comengineer](https://github.com/top-comengineer)
-- [bichngon2023](https://github.com/bichngon2023)
-- [CharlesDerek](https://github.com/CharlesDerek)
 
 #### 🎢 Stats
 
