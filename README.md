@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
 - [trendy0413](https://github.com/trendy0413)
 - [kamelorac](https://github.com/kamelorac)
-- [top-comengineer](https://github.com/top-comengineer)
 
 #### 🎢 Stats
 

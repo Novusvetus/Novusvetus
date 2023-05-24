@@ -1,4 +1,5 @@
 
+- [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
@@ -81,7 +82,7 @@
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [iturbides](https://github.com/iturbides)
-- [bl4ckh47G1rl](https://github.com/bl4ckh47G1rl)
+- [V1nni00](https://github.com/V1nni00)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
@@ -98,4 +99,3 @@
 - [HadesHappy](https://github.com/HadesHappy)
 - [Betricks](https://github.com/Betricks)
 - [bylickilabs](https://github.com/bylickilabs)
-- [kulikov-dev](https://github.com/kulikov-dev)
