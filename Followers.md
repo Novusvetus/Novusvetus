@@ -58,7 +58,7 @@
 - [code-rain002](https://github.com/code-rain002)
 - [Super-Smile](https://github.com/Super-Smile)
 - [Mach-Levi](https://github.com/Mach-Levi)
-- [richardrobertov](https://github.com/richardrobertov)
+- [stalk0](https://github.com/stalk0)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
