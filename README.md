@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Yell0wflash](https://github.com/Yell0wflash)
 - [InvisibleDagger](https://github.com/InvisibleDagger)
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
-- [trendy0413](https://github.com/trendy0413)
 
 #### 🎢 Stats
 

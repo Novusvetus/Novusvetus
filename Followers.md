@@ -1,4 +1,5 @@
 
+- [Yell0wflash](https://github.com/Yell0wflash)
 - [InvisibleDagger](https://github.com/InvisibleDagger)
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
@@ -98,4 +99,3 @@
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
-- [Betricks](https://github.com/Betricks)
