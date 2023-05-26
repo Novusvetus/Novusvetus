@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [Yell0wflash](https://github.com/Yell0wflash)
 - [InvisibleDagger](https://github.com/InvisibleDagger)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [tresa5923](https://github.com/tresa5923)
 - [itswadesh](https://github.com/itswadesh)
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
-- [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 
 #### 🎢 Stats
 
