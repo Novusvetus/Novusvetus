@@ -29,7 +29,6 @@
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
-- [isyuricunha](https://github.com/isyuricunha)
 - [dragon7210](https://github.com/dragon7210)
 - [nature613](https://github.com/nature613)
 - [mujtaba11-sep](https://github.com/mujtaba11-sep)
@@ -99,3 +98,4 @@
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
+- [HadesHappy](https://github.com/HadesHappy)
