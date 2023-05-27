@@ -1,4 +1,5 @@
 
+- [happy7525](https://github.com/happy7525)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [Yell0wflash](https://github.com/Yell0wflash)
@@ -98,4 +99,3 @@
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
-- [sglkc](https://github.com/sglkc)
