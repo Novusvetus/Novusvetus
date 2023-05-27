@@ -61,16 +61,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [happy7525](https://github.com/happy7525)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [Yell0wflash](https://github.com/Yell0wflash)
-- [InvisibleDagger](https://github.com/InvisibleDagger)
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
 - [itswadesh](https://github.com/itswadesh)
+- [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
+- [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 
 #### 🎢 Stats
 
