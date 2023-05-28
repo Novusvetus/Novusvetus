@@ -1,7 +1,6 @@
 
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
-- [Yell0wflash](https://github.com/Yell0wflash)
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
@@ -99,3 +98,4 @@
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
+- [Betricks](https://github.com/Betricks)

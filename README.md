@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
-- [Yell0wflash](https://github.com/Yell0wflash)
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
@@ -71,6 +70,7 @@ _Nobody sponsors me. I am poor..._
 - [itswadesh](https://github.com/itswadesh)
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
+- [Julius-Hamilton](https://github.com/Julius-Hamilton)
 
 #### 🎢 Stats
 
