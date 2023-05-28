@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [super1002](https://github.com/super1002)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [redwood0riginal](https://github.com/redwood0riginal)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [itswadesh](https://github.com/itswadesh)
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
-- [Julius-Hamilton](https://github.com/Julius-Hamilton)
 
 #### 🎢 Stats
 
