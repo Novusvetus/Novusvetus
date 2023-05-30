@@ -1,7 +1,6 @@
 
 - [13382477035](https://github.com/13382477035)
 - [rolandkodra6077](https://github.com/rolandkodra6077)
-- [adaptive-beaver](https://github.com/adaptive-beaver)
 - [super1002](https://github.com/super1002)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
@@ -99,3 +98,4 @@
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
+- [zeus-dev919](https://github.com/zeus-dev919)

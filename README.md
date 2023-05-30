@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [13382477035](https://github.com/13382477035)
 - [rolandkodra6077](https://github.com/rolandkodra6077)
-- [adaptive-beaver](https://github.com/adaptive-beaver)
 - [super1002](https://github.com/super1002)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
+- [itswadesh](https://github.com/itswadesh)
 
 #### 🎢 Stats
 
