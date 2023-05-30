@@ -1,4 +1,5 @@
 
+- [adaptive-beaver](https://github.com/adaptive-beaver)
 - [super1002](https://github.com/super1002)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
@@ -98,4 +99,3 @@
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
-- [HadesHappy](https://github.com/HadesHappy)

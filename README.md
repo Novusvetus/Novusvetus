@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [adaptive-beaver](https://github.com/adaptive-beaver)
 - [super1002](https://github.com/super1002)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [tresa5923](https://github.com/tresa5923)
 - [itswadesh](https://github.com/itswadesh)
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
-- [PrinceGoblinTech](https://github.com/PrinceGoblinTech)
 
 #### 🎢 Stats
 
