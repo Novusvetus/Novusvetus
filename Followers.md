@@ -89,7 +89,6 @@
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
-- [Sen-Takatsuki](https://github.com/Sen-Takatsuki)
 - [Delta357](https://github.com/Delta357)
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
@@ -99,3 +98,4 @@
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
+- [HadesHappy](https://github.com/HadesHappy)
