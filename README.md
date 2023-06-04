@@ -12,8 +12,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
 - [13382477035](https://github.com/13382477035)
 - [super1002](https://github.com/super1002)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [HotCappuchino](https://github.com/HotCappuchino)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
-- [itswadesh](https://github.com/itswadesh)
 
 #### 🎢 Stats
 
