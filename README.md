@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [adaptive-beaver](https://github.com/adaptive-beaver)
 - [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
 - [13382477035](https://github.com/13382477035)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
-- [itswadesh](https://github.com/itswadesh)
 
 #### 🎢 Stats
 

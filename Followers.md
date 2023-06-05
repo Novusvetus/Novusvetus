@@ -1,4 +1,5 @@
 
+- [adaptive-beaver](https://github.com/adaptive-beaver)
 - [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
 - [13382477035](https://github.com/13382477035)
@@ -98,4 +99,3 @@
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
-- [HadesHappy](https://github.com/HadesHappy)
