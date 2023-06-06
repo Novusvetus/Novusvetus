@@ -1,4 +1,6 @@
 
+- [roosevelta944](https://github.com/roosevelta944)
+- [hophelen55](https://github.com/hophelen55)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
 - [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
@@ -97,5 +99,3 @@
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
-- [sglkc](https://github.com/sglkc)
-- [HadesHappy](https://github.com/HadesHappy)
