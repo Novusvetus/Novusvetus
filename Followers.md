@@ -4,7 +4,6 @@
 - [adaptive-beaver](https://github.com/adaptive-beaver)
 - [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
-- [13382477035](https://github.com/13382477035)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [redwood0riginal](https://github.com/redwood0riginal)
@@ -99,3 +98,4 @@
 - [AXG-coder](https://github.com/AXG-coder)
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
+- [sglkc](https://github.com/sglkc)
