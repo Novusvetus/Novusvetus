@@ -15,7 +15,6 @@
 - [trendy0413](https://github.com/trendy0413)
 - [kamelorac](https://github.com/kamelorac)
 - [top-comengineer](https://github.com/top-comengineer)
-- [bichngon2023](https://github.com/bichngon2023)
 - [CharlesDerek](https://github.com/CharlesDerek)
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
@@ -99,3 +98,4 @@
 - [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
+- [HadesHappy](https://github.com/HadesHappy)
