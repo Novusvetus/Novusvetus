@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [brunokirby-dev](https://github.com/brunokirby-dev)
 - [ui-1](https://github.com/ui-1)
 - [roosevelta944](https://github.com/roosevelta944)
 - [hophelen55](https://github.com/hophelen55)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [redwood0riginal](https://github.com/redwood0riginal)
-- [Gizachew29](https://github.com/Gizachew29)
 
 #### 🎢 Stats
 
