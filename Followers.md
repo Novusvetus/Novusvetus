@@ -97,5 +97,5 @@
 - [yasserbdj96](https://github.com/yasserbdj96)
 - [iamdeepak199](https://github.com/iamdeepak199)
 - [AXG-coder](https://github.com/AXG-coder)
-- [slick-codes](https://github.com/slick-codes)
 - [zeus-dev919](https://github.com/zeus-dev919)
+- [sglkc](https://github.com/sglkc)
