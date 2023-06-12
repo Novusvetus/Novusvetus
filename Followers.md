@@ -15,7 +15,6 @@
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
 - [trendy0413](https://github.com/trendy0413)
-- [kamelorac](https://github.com/kamelorac)
 - [top-comengineer](https://github.com/top-comengineer)
 - [CharlesDerek](https://github.com/CharlesDerek)
 - [wisamosman](https://github.com/wisamosman)
@@ -99,3 +98,4 @@
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
+- [Betricks](https://github.com/Betricks)
