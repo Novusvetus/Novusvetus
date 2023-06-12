@@ -1,4 +1,5 @@
 
+- [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [brunokirby-dev](https://github.com/brunokirby-dev)
 - [roosevelta944](https://github.com/roosevelta944)
@@ -98,4 +99,3 @@
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
 - [HadesHappy](https://github.com/HadesHappy)
-- [Betricks](https://github.com/Betricks)
