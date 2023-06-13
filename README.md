@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
-- [brunokirby-dev](https://github.com/brunokirby-dev)
 - [roosevelta944](https://github.com/roosevelta944)
 - [hophelen55](https://github.com/hophelen55)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [nga193](https://github.com/nga193)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
+- [redwood0riginal](https://github.com/redwood0riginal)
 
 #### 🎢 Stats
 
