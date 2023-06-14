@@ -1,4 +1,5 @@
 
+- [Dojikooo](https://github.com/Dojikooo)
 - [TheSecondChance](https://github.com/TheSecondChance)
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
@@ -98,4 +99,3 @@
 - [AXG-coder](https://github.com/AXG-coder)
 - [zeus-dev919](https://github.com/zeus-dev919)
 - [sglkc](https://github.com/sglkc)
-- [HadesHappy](https://github.com/HadesHappy)

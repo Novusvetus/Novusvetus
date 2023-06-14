@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Dojikooo](https://github.com/Dojikooo)
 - [TheSecondChance](https://github.com/TheSecondChance)
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
 - [laoman5](https://github.com/laoman5)
-- [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 
 #### 🎢 Stats
 
