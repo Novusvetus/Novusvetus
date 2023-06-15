@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [zbejas](https://github.com/zbejas)
 - [DannyMay9082](https://github.com/DannyMay9082)
 - [marketplacing](https://github.com/marketplacing)
 - [Dojikooo](https://github.com/Dojikooo)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [roosevelta944](https://github.com/roosevelta944)
 - [hophelen55](https://github.com/hophelen55)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
-- [singharaj-usai](https://github.com/singharaj-usai)
 
 #### 🎢 Stats
 
