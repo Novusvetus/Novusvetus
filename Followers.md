@@ -1,4 +1,5 @@
 
+- [Shahupdates](https://github.com/Shahupdates)
 - [zbejas](https://github.com/zbejas)
 - [DannyMay9082](https://github.com/DannyMay9082)
 - [marketplacing](https://github.com/marketplacing)
@@ -98,4 +99,3 @@
 - [harshit0209](https://github.com/harshit0209)
 - [hocinebouarara](https://github.com/hocinebouarara)
 - [yasserbdj96](https://github.com/yasserbdj96)
-- [iamdeepak199](https://github.com/iamdeepak199)

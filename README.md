@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Shahupdates](https://github.com/Shahupdates)
 - [zbejas](https://github.com/zbejas)
 - [DannyMay9082](https://github.com/DannyMay9082)
 - [marketplacing](https://github.com/marketplacing)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [luckminer](https://github.com/luckminer)
 - [roosevelta944](https://github.com/roosevelta944)
 - [hophelen55](https://github.com/hophelen55)
-- [adaptive-beaver](https://github.com/adaptive-beaver)
 
 #### 🎢 Stats
 
