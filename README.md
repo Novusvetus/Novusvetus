@@ -45,6 +45,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-06-18](https://github.com/Novusvetus/action-phpinsights/pull/525) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2023-06-18](https://github.com/Novusvetus/action-php_codesniffer/pull/598) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-06-17](https://github.com/Novusvetus/action-phpinsights/pull/524) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-06-17](https://github.com/Novusvetus/action-php_codesniffer/pull/597) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-06-16](https://github.com/Novusvetus/action-php_codesniffer/pull/596) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -53,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-06-10](https://github.com/Novusvetus/action-phpinsights/pull/522) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-06-10](https://github.com/Novusvetus/action-php_codesniffer/pull/594) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-06-08](https://github.com/Novusvetus/action-phpinsights/pull/521) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2023-06-07](https://github.com/Novusvetus/action-php_codesniffer/pull/592) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -61,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [robinsoncrusio](https://github.com/robinsoncrusio)
 - [Shahupdates](https://github.com/Shahupdates)
 - [zbejas](https://github.com/zbejas)
 - [DannyMay9082](https://github.com/DannyMay9082)
@@ -70,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [roosevelta944](https://github.com/roosevelta944)
-- [hophelen55](https://github.com/hophelen55)
 
 #### 🎢 Stats
 
