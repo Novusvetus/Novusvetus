@@ -62,16 +62,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [robinsoncrusio](https://github.com/robinsoncrusio)
-- [Shahupdates](https://github.com/Shahupdates)
-- [zbejas](https://github.com/zbejas)
-- [DannyMay9082](https://github.com/DannyMay9082)
-- [marketplacing](https://github.com/marketplacing)
-- [Dojikooo](https://github.com/Dojikooo)
-- [TheSecondChance](https://github.com/TheSecondChance)
-- [kamelorac](https://github.com/kamelorac)
-- [luckminer](https://github.com/luckminer)
-- [roosevelta944](https://github.com/roosevelta944)
+- [arrahshanaeonera](https://github.com/arrahshanaeonera)
+- [kabulat](https://github.com/kabulat)
+- [erethashivesshany](https://github.com/erethashivesshany)
+- [zlenkaasycuhid](https://github.com/zlenkaasycuhid)
+- [anielklimov](https://github.com/anielklimov)
+- [donetteroot](https://github.com/donetteroot)
+- [yhyalbwsettybogdano](https://github.com/yhyalbwsettybogdano)
+- [janisharrah4](https://github.com/janisharrah4)
+- [ylarisatiho](https://github.com/ylarisatiho)
+- [mradrersooonikus](https://github.com/mradrersooonikus)
 
 #### 🎢 Stats
 
