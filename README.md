@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ruikishimoto](https://github.com/ruikishimoto)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
 - [kabulat](https://github.com/kabulat)
 - [erethashivesshany](https://github.com/erethashivesshany)
@@ -70,12 +71,11 @@ _Nobody sponsors me. I am poor..._
 - [yhyalbwsettybogdano](https://github.com/yhyalbwsettybogdano)
 - [janisharrah4](https://github.com/janisharrah4)
 - [ylarisatiho](https://github.com/ylarisatiho)
-- [mradrersooonikus](https://github.com/mradrersooonikus)
 
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.01% followers!
+Worldwide 🌍: Top 0.02% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 

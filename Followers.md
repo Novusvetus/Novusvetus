@@ -1,4 +1,5 @@
 
+- [ruikishimoto](https://github.com/ruikishimoto)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
 - [kabulat](https://github.com/kabulat)
 - [erethashivesshany](https://github.com/erethashivesshany)
@@ -98,4 +99,3 @@
 - [bbypink](https://github.com/bbypink)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
-- [JoyceFatima](https://github.com/JoyceFatima)
