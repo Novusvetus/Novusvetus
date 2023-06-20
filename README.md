@@ -61,6 +61,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [confidentmeerkat](https://github.com/confidentmeerkat)
+- [lincon-ac](https://github.com/lincon-ac)
 - [ruikishimoto](https://github.com/ruikishimoto)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
 - [kabulat](https://github.com/kabulat)
@@ -69,8 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [anielklimov](https://github.com/anielklimov)
 - [donetteroot](https://github.com/donetteroot)
 - [yhyalbwsettybogdano](https://github.com/yhyalbwsettybogdano)
-- [janisharrah4](https://github.com/janisharrah4)
-- [ylarisatiho](https://github.com/ylarisatiho)
 
 #### 🎢 Stats
 
