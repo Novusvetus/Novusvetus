@@ -67,10 +67,10 @@ _Nobody sponsors me. I am poor..._
 - [lincon-ac](https://github.com/lincon-ac)
 - [ruikishimoto](https://github.com/ruikishimoto)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
-- [zlenkaasycuhid](https://github.com/zlenkaasycuhid)
 - [anielklimov](https://github.com/anielklimov)
 - [donetteroot](https://github.com/donetteroot)
 - [yhyalbwsettybogdano](https://github.com/yhyalbwsettybogdano)
+- [janisharrah4](https://github.com/janisharrah4)
 
 #### 🎢 Stats
 
