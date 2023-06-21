@@ -3,7 +3,6 @@
 - [lincon-ac](https://github.com/lincon-ac)
 - [ruikishimoto](https://github.com/ruikishimoto)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
-- [kabulat](https://github.com/kabulat)
 - [erethashivesshany](https://github.com/erethashivesshany)
 - [zlenkaasycuhid](https://github.com/zlenkaasycuhid)
 - [anielklimov](https://github.com/anielklimov)
@@ -99,3 +98,4 @@
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [bbypink](https://github.com/bbypink)
 - [MohamedMesto](https://github.com/MohamedMesto)
+- [mlojek](https://github.com/mlojek)
