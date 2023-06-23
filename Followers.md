@@ -1,5 +1,4 @@
 
-- [Thuando134](https://github.com/Thuando134)
 - [helimalena](https://github.com/helimalena)
 - [linhnguyen007](https://github.com/linhnguyen007)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
@@ -99,3 +98,4 @@
 - [bbypink](https://github.com/bbypink)
 - [MohamedMesto](https://github.com/MohamedMesto)
 - [mlojek](https://github.com/mlojek)
+- [JoyceFatima](https://github.com/JoyceFatima)
