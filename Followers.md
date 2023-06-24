@@ -1,4 +1,5 @@
 
+- [gooddavvy](https://github.com/gooddavvy)
 - [Kennethtimofeev](https://github.com/Kennethtimofeev)
 - [dompekaterine](https://github.com/dompekaterine)
 - [helimalena](https://github.com/helimalena)
@@ -98,4 +99,3 @@
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [bbypink](https://github.com/bbypink)
-- [MohamedMesto](https://github.com/MohamedMesto)

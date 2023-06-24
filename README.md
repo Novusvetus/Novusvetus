@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gooddavvy](https://github.com/gooddavvy)
 - [Kennethtimofeev](https://github.com/Kennethtimofeev)
 - [dompekaterine](https://github.com/dompekaterine)
 - [helimalena](https://github.com/helimalena)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
 - [anielklimov](https://github.com/anielklimov)
 - [donetteroot](https://github.com/donetteroot)
-- [yhyalbwsettybogdano](https://github.com/yhyalbwsettybogdano)
 
 #### 🎢 Stats
 
