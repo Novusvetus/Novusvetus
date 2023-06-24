@@ -1,4 +1,6 @@
 
+- [Kennethtimofeev](https://github.com/Kennethtimofeev)
+- [dompekaterine](https://github.com/dompekaterine)
 - [helimalena](https://github.com/helimalena)
 - [linhnguyen007](https://github.com/linhnguyen007)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
@@ -97,5 +99,3 @@
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [bbypink](https://github.com/bbypink)
 - [MohamedMesto](https://github.com/MohamedMesto)
-- [mlojek](https://github.com/mlojek)
-- [JoyceFatima](https://github.com/JoyceFatima)
