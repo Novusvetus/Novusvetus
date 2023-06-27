@@ -81,7 +81,6 @@
 - [louistalent](https://github.com/louistalent)
 - [suzukidavid](https://github.com/suzukidavid)
 - [Mach-Levi](https://github.com/Mach-Levi)
-- [stalk0](https://github.com/stalk0)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
@@ -99,3 +98,4 @@
 - [Joey-Resende](https://github.com/Joey-Resende)
 - [bbypink](https://github.com/bbypink)
 - [MohamedMesto](https://github.com/MohamedMesto)
+- [mlojek](https://github.com/mlojek)
