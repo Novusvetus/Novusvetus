@@ -79,7 +79,7 @@
 - [anteroselin](https://github.com/anteroselin)
 - [weliveinferdi](https://github.com/weliveinferdi)
 - [louistalent](https://github.com/louistalent)
-- [code-rain002](https://github.com/code-rain002)
+- [suzukidavid](https://github.com/suzukidavid)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [stalk0](https://github.com/stalk0)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
