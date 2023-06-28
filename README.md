@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-06-28](https://github.com/Novusvetus/action-php_codesniffer/pull/607) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-06-25](https://github.com/Novusvetus/action-phpinsights/pull/529) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-06-25](https://github.com/Novusvetus/action-php_codesniffer/pull/603) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-06-24](https://github.com/Novusvetus/action-php_codesniffer/pull/602) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -53,7 +54,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-06-18](https://github.com/Novusvetus/action-phpinsights/pull/525) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-06-18](https://github.com/Novusvetus/action-php_codesniffer/pull/598) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-06-17](https://github.com/Novusvetus/action-phpinsights/pull/524) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2023-06-17](https://github.com/Novusvetus/action-php_codesniffer/pull/597) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ValeraxD](https://github.com/ValeraxD)
 - [recursedddd](https://github.com/recursedddd)
 - [gooddavvy](https://github.com/gooddavvy)
 - [Kennethtimofeev](https://github.com/Kennethtimofeev)
@@ -70,12 +71,11 @@ _Nobody sponsors me. I am poor..._
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
-- [anielklimov](https://github.com/anielklimov)
 
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.01% followers!
+Worldwide 🌍: Top 0.009% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
