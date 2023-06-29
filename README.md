@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [HotCappuchino99](https://github.com/HotCappuchino99)
 - [ValeraxD](https://github.com/ValeraxD)
 - [gooddavvy](https://github.com/gooddavvy)
 - [Kennethtimofeev](https://github.com/Kennethtimofeev)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
 - [arrahshanaeonera](https://github.com/arrahshanaeonera)
-- [anielklimov](https://github.com/anielklimov)
 
 #### 🎢 Stats
 
