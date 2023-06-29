@@ -62,15 +62,15 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [HotCappuchino99](https://github.com/HotCappuchino99)
-- [ValeraxD](https://github.com/ValeraxD)
 - [gooddavvy](https://github.com/gooddavvy)
-- [Kennethtimofeev](https://github.com/Kennethtimofeev)
-- [dompekaterine](https://github.com/dompekaterine)
 - [helimalena](https://github.com/helimalena)
-- [linhnguyen007](https://github.com/linhnguyen007)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
-- [arrahshanaeonera](https://github.com/arrahshanaeonera)
+- [robinsoncrusio](https://github.com/robinsoncrusio)
+- [Shahupdates](https://github.com/Shahupdates)
+- [zbejas](https://github.com/zbejas)
+- [DannyMay9082](https://github.com/DannyMay9082)
+- [marketplacing](https://github.com/marketplacing)
 
 #### 🎢 Stats
 
