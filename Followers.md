@@ -7,7 +7,6 @@
 - [lincon-ac](https://github.com/lincon-ac)
 - [robinsoncrusio](https://github.com/robinsoncrusio)
 - [Shahupdates](https://github.com/Shahupdates)
-- [zbejas](https://github.com/zbejas)
 - [DannyMay9082](https://github.com/DannyMay9082)
 - [marketplacing](https://github.com/marketplacing)
 - [Dojikooo](https://github.com/Dojikooo)
@@ -99,3 +98,4 @@
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [Delta357](https://github.com/Delta357)
 - [harshit0209](https://github.com/harshit0209)
+- [hocinebouarara](https://github.com/hocinebouarara)
