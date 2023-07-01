@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [katchion13](https://github.com/katchion13)
 - [Crimsonyx412](https://github.com/Crimsonyx412)
 - [HotCappuchino99](https://github.com/HotCappuchino99)
 - [gooddavvy](https://github.com/gooddavvy)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [robinsoncrusio](https://github.com/robinsoncrusio)
 - [Shahupdates](https://github.com/Shahupdates)
 - [DannyMay9082](https://github.com/DannyMay9082)
-- [marketplacing](https://github.com/marketplacing)
 
 #### 🎢 Stats
 
