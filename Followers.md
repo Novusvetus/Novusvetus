@@ -74,7 +74,6 @@
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [anathlab](https://github.com/anathlab)
 - [knopmickael](https://github.com/knopmickael)
-- [AvinandanBose](https://github.com/AvinandanBose)
 - [mahdisml](https://github.com/mahdisml)
 - [vjanz](https://github.com/vjanz)
 - [dybbuk-dev](https://github.com/dybbuk-dev)
@@ -99,3 +98,4 @@
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [Delta357](https://github.com/Delta357)
 - [harshit0209](https://github.com/harshit0209)
+- [hocinebouarara](https://github.com/hocinebouarara)
