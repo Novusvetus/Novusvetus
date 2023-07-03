@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [Crimsonyx412](https://github.com/Crimsonyx412)
 - [HotCappuchino99](https://github.com/HotCappuchino99)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [lincon-ac](https://github.com/lincon-ac)
 - [robinsoncrusio](https://github.com/robinsoncrusio)
 - [Shahupdates](https://github.com/Shahupdates)
-- [DannyMay9082](https://github.com/DannyMay9082)
 
 #### 🎢 Stats
 
