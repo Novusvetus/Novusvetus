@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dexjr](https://github.com/dexjr)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [Crimsonyx412](https://github.com/Crimsonyx412)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
 - [robinsoncrusio](https://github.com/robinsoncrusio)
-- [Shahupdates](https://github.com/Shahupdates)
 
 #### 🎢 Stats
 

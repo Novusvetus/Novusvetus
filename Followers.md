@@ -1,4 +1,5 @@
 
+- [dexjr](https://github.com/dexjr)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [Crimsonyx412](https://github.com/Crimsonyx412)
@@ -98,4 +99,3 @@
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
 - [Delta357](https://github.com/Delta357)
-- [harshit0209](https://github.com/harshit0209)
