@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ayaan-Sharif](https://github.com/Ayaan-Sharif)
 - [kolya2803](https://github.com/kolya2803)
 - [dexjr](https://github.com/dexjr)
 - [AvinandanBose](https://github.com/AvinandanBose)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [gooddavvy](https://github.com/gooddavvy)
 - [helimalena](https://github.com/helimalena)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
-- [lincon-ac](https://github.com/lincon-ac)
 
 #### 🎢 Stats
 
