@@ -6,6 +6,7 @@
 - [katchion13](https://github.com/katchion13)
 - [Crimsonyx412](https://github.com/Crimsonyx412)
 - [HotCappuchino99](https://github.com/HotCappuchino99)
+- [gooddavvy](https://github.com/gooddavvy)
 - [helimalena](https://github.com/helimalena)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
@@ -98,4 +99,3 @@
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
-- [Delta357](https://github.com/Delta357)
