@@ -3,7 +3,6 @@
 - [craftysecurity](https://github.com/craftysecurity)
 - [Ayaan-Sharif](https://github.com/Ayaan-Sharif)
 - [kolya2803](https://github.com/kolya2803)
-- [dexjr](https://github.com/dexjr)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [Crimsonyx412](https://github.com/Crimsonyx412)
@@ -99,3 +98,4 @@
 - [iturbides](https://github.com/iturbides)
 - [V1nni00](https://github.com/V1nni00)
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
+- [mary270](https://github.com/mary270)
