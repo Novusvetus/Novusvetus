@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
-- [Ayaan-Sharif](https://github.com/Ayaan-Sharif)
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
@@ -71,6 +70,7 @@ _Nobody sponsors me. I am poor..._
 - [HotCappuchino99](https://github.com/HotCappuchino99)
 - [gooddavvy](https://github.com/gooddavvy)
 - [helimalena](https://github.com/helimalena)
+- [confidentmeerkat](https://github.com/confidentmeerkat)
 
 #### 🎢 Stats
 
