@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dexjr](https://github.com/dexjr)
 - [web-demon](https://github.com/web-demon)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [HotCappuchino99](https://github.com/HotCappuchino99)
 - [gooddavvy](https://github.com/gooddavvy)
 - [helimalena](https://github.com/helimalena)
-- [confidentmeerkat](https://github.com/confidentmeerkat)
 
 #### 🎢 Stats
 
