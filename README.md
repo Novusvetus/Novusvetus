@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [wonkyungup](https://github.com/wonkyungup)
 - [DGS1337](https://github.com/DGS1337)
 - [web-demon](https://github.com/web-demon)
 - [Freddywhest](https://github.com/Freddywhest)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [katchion13](https://github.com/katchion13)
 - [HotCappuchino99](https://github.com/HotCappuchino99)
 - [gooddavvy](https://github.com/gooddavvy)
-- [helimalena](https://github.com/helimalena)
 
 #### 🎢 Stats
 
