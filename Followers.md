@@ -1,4 +1,5 @@
 
+- [DGS1337](https://github.com/DGS1337)
 - [web-demon](https://github.com/web-demon)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
@@ -52,7 +53,6 @@
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [agathafr](https://github.com/agathafr)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
-- [DGS1337](https://github.com/DGS1337)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
 - [omarnaser1997](https://github.com/omarnaser1997)
 - [JeffersonRPM](https://github.com/JeffersonRPM)
