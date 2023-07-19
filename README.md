@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
 - [web-demon](https://github.com/web-demon)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [HotCappuchino99](https://github.com/HotCappuchino99)
-- [gooddavvy](https://github.com/gooddavvy)
 
 #### 🎢 Stats
 
