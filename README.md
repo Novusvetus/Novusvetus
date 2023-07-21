@@ -63,13 +63,13 @@ _Nobody sponsors me. I am poor..._
 - [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
-- [web-demon](https://github.com/web-demon)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [HotCappuchino99](https://github.com/HotCappuchino99)
+- [gooddavvy](https://github.com/gooddavvy)
 
 #### 🎢 Stats
 
