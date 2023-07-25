@@ -7,7 +7,6 @@
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
-- [HotCappuchino99](https://github.com/HotCappuchino99)
 - [gooddavvy](https://github.com/gooddavvy)
 - [helimalena](https://github.com/helimalena)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
@@ -99,3 +98,4 @@
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
+- [Delta357](https://github.com/Delta357)

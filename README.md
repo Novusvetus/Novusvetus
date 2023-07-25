@@ -69,8 +69,8 @@ _Nobody sponsors me. I am poor..._
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
-- [HotCappuchino99](https://github.com/HotCappuchino99)
 - [gooddavvy](https://github.com/gooddavvy)
+- [helimalena](https://github.com/helimalena)
 
 #### 🎢 Stats
 
