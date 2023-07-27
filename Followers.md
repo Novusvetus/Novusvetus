@@ -1,4 +1,5 @@
 
+- [DGS1337](https://github.com/DGS1337)
 - [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
@@ -98,4 +99,3 @@
 - [mhmdhoseinzade](https://github.com/mhmdhoseinzade)
 - [mary270](https://github.com/mary270)
 - [JubayerRiyad](https://github.com/JubayerRiyad)
-- [Delta357](https://github.com/Delta357)

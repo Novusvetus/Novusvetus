@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DGS1337](https://github.com/DGS1337)
 - [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
-- [helimalena](https://github.com/helimalena)
 
 #### 🎢 Stats
 
