@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
 - [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
-- [gooddavvy](https://github.com/gooddavvy)
 
 #### 🎢 Stats
 
