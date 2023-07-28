@@ -1,4 +1,5 @@
 
+- [dawidolko](https://github.com/dawidolko)
 - [escummy](https://github.com/escummy)
 - [0vm](https://github.com/0vm)
 - [ozboware](https://github.com/ozboware)
@@ -98,4 +99,3 @@
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [iturbides](https://github.com/iturbides)
-- [V1nni00](https://github.com/V1nni00)
