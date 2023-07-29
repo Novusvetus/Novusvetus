@@ -1,4 +1,5 @@
 
+- [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
 - [escummy](https://github.com/escummy)
 - [0vm](https://github.com/0vm)
@@ -98,4 +99,3 @@
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
-- [iturbides](https://github.com/iturbides)
