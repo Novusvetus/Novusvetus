@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
-- [escummy](https://github.com/escummy)
 - [0vm](https://github.com/0vm)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
+- [kolya2803](https://github.com/kolya2803)
 
 #### 🎢 Stats
 

@@ -1,7 +1,6 @@
 
 - [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
-- [escummy](https://github.com/escummy)
 - [0vm](https://github.com/0vm)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
@@ -99,3 +98,4 @@
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [iturbides](https://github.com/iturbides)
+- [V1nni00](https://github.com/V1nni00)
