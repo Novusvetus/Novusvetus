@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [0vm](https://github.com/0vm)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
-- [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
+- [craftysecurity](https://github.com/craftysecurity)
 
 #### 🎢 Stats
 

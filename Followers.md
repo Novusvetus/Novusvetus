@@ -5,7 +5,6 @@
 - [0vm](https://github.com/0vm)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
-- [comet19950902](https://github.com/comet19950902)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
@@ -99,3 +98,4 @@
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
+- [iturbides](https://github.com/iturbides)
