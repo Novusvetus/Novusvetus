@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
 - [0vm](https://github.com/0vm)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
-- [kolya2803](https://github.com/kolya2803)
 
 #### 🎢 Stats
 
