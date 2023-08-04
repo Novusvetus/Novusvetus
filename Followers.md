@@ -13,7 +13,6 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
-- [helimalena](https://github.com/helimalena)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
 - [Shahupdates](https://github.com/Shahupdates)
@@ -99,3 +98,4 @@
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [iturbides](https://github.com/iturbides)
+- [V1nni00](https://github.com/V1nni00)
