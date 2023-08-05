@@ -12,8 +12,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+- [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [isyuricunha](https://github.com/isyuricunha)
 - [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
-- [0vm](https://github.com/0vm)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
 - [alex-jones-0111](https://github.com/alex-jones-0111)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
+- [kolya2803](https://github.com/kolya2803)
 
 #### 🎢 Stats
 
