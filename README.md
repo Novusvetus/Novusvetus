@@ -67,7 +67,7 @@ _Nobody sponsors me. I am poor..._
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
-- [alex-jones-0111](https://github.com/alex-jones-0111)
+- [be-smart989](https://github.com/be-smart989)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
