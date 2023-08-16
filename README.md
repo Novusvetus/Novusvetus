@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [charles0830](https://github.com/charles0830)
 - [seniorcoder72](https://github.com/seniorcoder72)
 - [0vm](https://github.com/0vm)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [DGS1337](https://github.com/DGS1337)
 - [be-smart989](https://github.com/be-smart989)
 - [wonkyungup](https://github.com/wonkyungup)
-- [Freddywhest](https://github.com/Freddywhest)
 
 #### 🎢 Stats
 
