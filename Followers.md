@@ -1,4 +1,5 @@
 
+- [agathafr](https://github.com/agathafr)
 - [0vm](https://github.com/0vm)
 - [isyuricunha](https://github.com/isyuricunha)
 - [arcane4096](https://github.com/arcane4096)
@@ -53,7 +54,6 @@
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
-- [agathafr](https://github.com/agathafr)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
 - [AmarMijgar1](https://github.com/AmarMijgar1)
 - [omarnaser1997](https://github.com/omarnaser1997)
