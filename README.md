@@ -62,7 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [alternbot](https://github.com/alternbot)
+- [mohammadhasanii](https://github.com/mohammadhasanii)
+- [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
 - [0vm](https://github.com/0vm)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
 - [be-smart989](https://github.com/be-smart989)
-- [wonkyungup](https://github.com/wonkyungup)
 
 #### 🎢 Stats
 

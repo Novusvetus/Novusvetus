@@ -1,5 +1,6 @@
 
-- [alternbot](https://github.com/alternbot)
+- [mohammadhasanii](https://github.com/mohammadhasanii)
+- [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
 - [0vm](https://github.com/0vm)
 - [isyuricunha](https://github.com/isyuricunha)
@@ -98,4 +99,3 @@
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
 - [iturbides](https://github.com/iturbides)
-- [V1nni00](https://github.com/V1nni00)
