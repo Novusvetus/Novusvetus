@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [seniorcoder72](https://github.com/seniorcoder72)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
-- [be-smart989](https://github.com/be-smart989)
 
 #### 🎢 Stats
 
