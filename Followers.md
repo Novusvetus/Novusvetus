@@ -4,7 +4,6 @@
 - [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
 - [0vm](https://github.com/0vm)
-- [isyuricunha](https://github.com/isyuricunha)
 - [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
@@ -99,3 +98,4 @@
 - [JoyceFatima](https://github.com/JoyceFatima)
 - [scoobytux](https://github.com/scoobytux)
 - [rockstarcoder333](https://github.com/rockstarcoder333)
+- [iturbides](https://github.com/iturbides)
