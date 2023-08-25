@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mickey951112](https://github.com/mickey951112)
 - [mitranaser](https://github.com/mitranaser)
 - [OsmanMR99](https://github.com/OsmanMR99)
 - [sara8086](https://github.com/sara8086)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [agathafr](https://github.com/agathafr)
 - [0vm](https://github.com/0vm)
 - [arcane4096](https://github.com/arcane4096)
-- [dawidolko](https://github.com/dawidolko)
 
 #### 🎢 Stats
 
