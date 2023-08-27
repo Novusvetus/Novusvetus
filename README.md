@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [423JuPyter](https://github.com/423JuPyter)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
 - [mickey951112](https://github.com/mickey951112)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [seniorcoder72](https://github.com/seniorcoder72)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [alternbit](https://github.com/alternbit)
-- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
