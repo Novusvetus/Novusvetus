@@ -1,4 +1,5 @@
 
+- [itsmahadi007](https://github.com/itsmahadi007)
 - [423JuPyter](https://github.com/423JuPyter)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
@@ -98,4 +99,3 @@
 - [omololevy](https://github.com/omololevy)
 - [Ananiyaadefres](https://github.com/Ananiyaadefres)
 - [MichaelWayneKM](https://github.com/MichaelWayneKM)
-- [Joey-Resende](https://github.com/Joey-Resende)
