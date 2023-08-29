@@ -1,4 +1,5 @@
 
+- [Omar95-A](https://github.com/Omar95-A)
 - [itsmahadi007](https://github.com/itsmahadi007)
 - [423JuPyter](https://github.com/423JuPyter)
 - [mahseema](https://github.com/mahseema)
@@ -58,7 +59,6 @@
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
-- [dragon7210](https://github.com/dragon7210)
 - [nature613](https://github.com/nature613)
 - [mujtaba11-sep](https://github.com/mujtaba11-sep)
 - [jaglux12](https://github.com/jaglux12)
