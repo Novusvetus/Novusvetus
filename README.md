@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [Omar95-A](https://github.com/Omar95-A)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mickey951112](https://github.com/mickey951112)
 - [mitranaser](https://github.com/mitranaser)
 - [OsmanMR99](https://github.com/OsmanMR99)
-- [sara8086](https://github.com/sara8086)
 
 #### 🎢 Stats
 

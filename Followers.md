@@ -1,4 +1,5 @@
 
+- [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [Omar95-A](https://github.com/Omar95-A)
@@ -98,4 +99,3 @@
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
-- [omololevy](https://github.com/omololevy)
