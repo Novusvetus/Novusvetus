@@ -15,7 +15,6 @@
 - [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
 - [0vm](https://github.com/0vm)
-- [arcane4096](https://github.com/arcane4096)
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
@@ -99,3 +98,4 @@
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
+- [omololevy](https://github.com/omololevy)
