@@ -1,4 +1,5 @@
 
+- [midasminer](https://github.com/midasminer)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [Omar95-A](https://github.com/Omar95-A)
 - [itsmahadi007](https://github.com/itsmahadi007)
@@ -98,4 +99,3 @@
 - [ashwinikumar01](https://github.com/ashwinikumar01)
 - [omololevy](https://github.com/omololevy)
 - [Ananiyaadefres](https://github.com/Ananiyaadefres)
-- [MichaelWayneKM](https://github.com/MichaelWayneKM)
