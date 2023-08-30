@@ -62,10 +62,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
-- [Omar95-A](https://github.com/Omar95-A)
 - [itsmahadi007](https://github.com/itsmahadi007)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
