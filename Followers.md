@@ -1,4 +1,5 @@
 
+- [markulie](https://github.com/markulie)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
@@ -98,4 +99,3 @@
 - [GraniteMask](https://github.com/GraniteMask)
 - [Valentino-Junior](https://github.com/Valentino-Junior)
 - [ashwinikumar01](https://github.com/ashwinikumar01)
-- [omololevy](https://github.com/omololevy)
