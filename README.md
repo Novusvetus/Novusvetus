@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Omar95-A](https://github.com/Omar95-A)
+- [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [markulie](https://github.com/markulie)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [itsmahadi007](https://github.com/itsmahadi007)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
-- [mickey951112](https://github.com/mickey951112)
-- [mitranaser](https://github.com/mitranaser)
 
 #### 🎢 Stats
 

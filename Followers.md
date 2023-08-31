@@ -1,4 +1,6 @@
 
+- [Omar95-A](https://github.com/Omar95-A)
+- [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [markulie](https://github.com/markulie)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
@@ -97,5 +99,3 @@
 - [dybbuk-dev](https://github.com/dybbuk-dev)
 - [bendik0329](https://github.com/bendik0329)
 - [GraniteMask](https://github.com/GraniteMask)
-- [Valentino-Junior](https://github.com/Valentino-Junior)
-- [ashwinikumar01](https://github.com/ashwinikumar01)
