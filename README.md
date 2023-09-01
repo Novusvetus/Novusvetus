@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [EXPPAL](https://github.com/EXPPAL)
 - [charles0830](https://github.com/charles0830)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Omar95-A](https://github.com/Omar95-A)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
-- [itsmahadi007](https://github.com/itsmahadi007)
 
 #### 🎢 Stats
 
