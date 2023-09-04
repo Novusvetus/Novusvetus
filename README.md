@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [i12cu84](https://github.com/i12cu84)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Eagle9461](https://github.com/Eagle9461)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [markulie](https://github.com/markulie)
-- [Sam666O](https://github.com/Sam666O)
 
 #### 🎢 Stats
 
