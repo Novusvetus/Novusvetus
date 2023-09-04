@@ -16,7 +16,6 @@
 - [itsmahadi007](https://github.com/itsmahadi007)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
-- [mickey951112](https://github.com/mickey951112)
 - [mitranaser](https://github.com/mitranaser)
 - [OsmanMR99](https://github.com/OsmanMR99)
 - [sara8086](https://github.com/sara8086)
@@ -99,3 +98,4 @@
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [stalk0](https://github.com/stalk0)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
+- [anathlab](https://github.com/anathlab)
