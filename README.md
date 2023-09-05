@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Developer117](https://github.com/Developer117)
+- [Omanshu209](https://github.com/Omanshu209)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [i12cu84](https://github.com/i12cu84)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Eagle9461](https://github.com/Eagle9461)
 - [Reiderade](https://github.com/Reiderade)
 - [EXPPAL](https://github.com/EXPPAL)
-- [charles0830](https://github.com/charles0830)
-- [Omar95-A](https://github.com/Omar95-A)
 
 #### 🎢 Stats
 

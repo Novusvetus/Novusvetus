@@ -1,4 +1,6 @@
 
+- [Developer117](https://github.com/Developer117)
+- [Omanshu209](https://github.com/Omanshu209)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [i12cu84](https://github.com/i12cu84)
@@ -97,5 +99,3 @@
 - [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
 - [louistalent](https://github.com/louistalent)
 - [suzukidavid](https://github.com/suzukidavid)
-- [Mach-Levi](https://github.com/Mach-Levi)
-- [stalk0](https://github.com/stalk0)
