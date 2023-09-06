@@ -1,4 +1,5 @@
 
+- [elite390497](https://github.com/elite390497)
 - [Developer117](https://github.com/Developer117)
 - [Omanshu209](https://github.com/Omanshu209)
 - [jarvis-acv](https://github.com/jarvis-acv)
@@ -98,4 +99,3 @@
 - [anteroselin](https://github.com/anteroselin)
 - [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
 - [louistalent](https://github.com/louistalent)
-- [suzukidavid](https://github.com/suzukidavid)
