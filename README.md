@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [i12cu84](https://github.com/i12cu84)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
-- [Eagle9461](https://github.com/Eagle9461)
+- [Reiderade](https://github.com/Reiderade)
 
 #### 🎢 Stats
 

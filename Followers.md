@@ -8,7 +8,6 @@
 - [i12cu84](https://github.com/i12cu84)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
-- [Eagle9461](https://github.com/Eagle9461)
 - [Reiderade](https://github.com/Reiderade)
 - [EXPPAL](https://github.com/EXPPAL)
 - [charles0830](https://github.com/charles0830)
@@ -99,3 +98,4 @@
 - [Parameow3](https://github.com/Parameow3)
 - [anteroselin](https://github.com/anteroselin)
 - [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
+- [louistalent](https://github.com/louistalent)
