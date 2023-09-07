@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codegenius1017](https://github.com/codegenius1017)
 - [codemaster05330](https://github.com/codemaster05330)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [i12cu84](https://github.com/i12cu84)
-- [anaselgarhy](https://github.com/anaselgarhy)
 
 #### 🎢 Stats
 
