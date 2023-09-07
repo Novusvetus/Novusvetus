@@ -2,7 +2,6 @@
 - [0x17](https://github.com/0x17)
 - [elite390497](https://github.com/elite390497)
 - [Developer117](https://github.com/Developer117)
-- [Omanshu209](https://github.com/Omanshu209)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [i12cu84](https://github.com/i12cu84)
@@ -99,3 +98,4 @@
 - [anteroselin](https://github.com/anteroselin)
 - [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
 - [louistalent](https://github.com/louistalent)
+- [suzukidavid](https://github.com/suzukidavid)
