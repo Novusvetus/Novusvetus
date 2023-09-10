@@ -32,7 +32,6 @@
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
-- [0vm](https://github.com/0vm)
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
 - [DGS1337](https://github.com/DGS1337)
@@ -99,3 +98,4 @@
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
+- [Parameow3](https://github.com/Parameow3)
