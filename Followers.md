@@ -17,7 +17,6 @@
 - [charles0830](https://github.com/charles0830)
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
-- [markulie](https://github.com/markulie)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
@@ -99,3 +98,4 @@
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
+- [anteroselin](https://github.com/anteroselin)
