@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [0vm](https://github.com/0vm)
 - [andronic52](https://github.com/andronic52)
 - [codegenius1017](https://github.com/codegenius1017)
-- [codemaster05330](https://github.com/codemaster05330)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
 - [elite390497](https://github.com/elite390497)
 - [Developer117](https://github.com/Developer117)
 - [jarvis-acv](https://github.com/jarvis-acv)
+- [SukeshRondla](https://github.com/SukeshRondla)
 
 #### 🎢 Stats
 
