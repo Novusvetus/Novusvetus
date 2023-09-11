@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cedev935](https://github.com/cedev935)
 - [0vm](https://github.com/0vm)
 - [andronic52](https://github.com/andronic52)
 - [codegenius1017](https://github.com/codegenius1017)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [elite390497](https://github.com/elite390497)
 - [Developer117](https://github.com/Developer117)
 - [jarvis-acv](https://github.com/jarvis-acv)
-- [SukeshRondla](https://github.com/SukeshRondla)
 
 #### 🎢 Stats
 
