@@ -33,7 +33,6 @@
 - [agathafr](https://github.com/agathafr)
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
-- [DGS1337](https://github.com/DGS1337)
 - [be-smart989](https://github.com/be-smart989)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
@@ -99,3 +98,4 @@
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
 - [anteroselin](https://github.com/anteroselin)
+- [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
