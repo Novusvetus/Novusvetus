@@ -22,7 +22,6 @@
 - [D4Fi](https://github.com/D4Fi)
 - [midasminer](https://github.com/midasminer)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
-- [itsmahadi007](https://github.com/itsmahadi007)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
 - [mitranaser](https://github.com/mitranaser)
@@ -99,3 +98,4 @@
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
+- [anteroselin](https://github.com/anteroselin)
