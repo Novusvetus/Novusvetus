@@ -1,4 +1,5 @@
 
+- [DGS1337](https://github.com/DGS1337)
 - [robertlopez2219](https://github.com/robertlopez2219)
 - [0vm](https://github.com/0vm)
 - [cedev935](https://github.com/cedev935)
@@ -98,4 +99,3 @@
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
-- [anteroselin](https://github.com/anteroselin)
