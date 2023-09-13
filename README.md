@@ -63,7 +63,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [robertlopez2219](https://github.com/robertlopez2219)
-- [DGS1337](https://github.com/DGS1337)
 - [0vm](https://github.com/0vm)
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
 - [elite390497](https://github.com/elite390497)
+- [Developer117](https://github.com/Developer117)
 
 #### 🎢 Stats
 

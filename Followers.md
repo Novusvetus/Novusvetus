@@ -1,6 +1,5 @@
 
 - [robertlopez2219](https://github.com/robertlopez2219)
-- [DGS1337](https://github.com/DGS1337)
 - [0vm](https://github.com/0vm)
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
@@ -99,3 +98,4 @@
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
+- [anteroselin](https://github.com/anteroselin)
