@@ -35,7 +35,6 @@
 - [agathafr](https://github.com/agathafr)
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
-- [be-smart989](https://github.com/be-smart989)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
@@ -99,3 +98,4 @@
 - [JDHB717](https://github.com/JDHB717)
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
+- [anteroselin](https://github.com/anteroselin)
