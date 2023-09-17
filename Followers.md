@@ -16,7 +16,6 @@
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Reiderade](https://github.com/Reiderade)
-- [EXPPAL](https://github.com/EXPPAL)
 - [charles0830](https://github.com/charles0830)
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
@@ -99,3 +98,4 @@
 - [mahedialikhorjiya](https://github.com/mahedialikhorjiya)
 - [Parameow3](https://github.com/Parameow3)
 - [anteroselin](https://github.com/anteroselin)
+- [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
