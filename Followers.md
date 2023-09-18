@@ -47,7 +47,6 @@
 - [DannyMay9082](https://github.com/DannyMay9082)
 - [marketplacing](https://github.com/marketplacing)
 - [Dojikooo](https://github.com/Dojikooo)
-- [TheSecondChance](https://github.com/TheSecondChance)
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
@@ -99,3 +98,4 @@
 - [Parameow3](https://github.com/Parameow3)
 - [anteroselin](https://github.com/anteroselin)
 - [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
+- [louistalent](https://github.com/louistalent)
