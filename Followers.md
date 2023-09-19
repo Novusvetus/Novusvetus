@@ -1,5 +1,4 @@
 
-- [voidrlm](https://github.com/voidrlm)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [DGS1337](https://github.com/DGS1337)
 - [robertlopez2219](https://github.com/robertlopez2219)
@@ -99,3 +98,4 @@
 - [Parameow3](https://github.com/Parameow3)
 - [anteroselin](https://github.com/anteroselin)
 - [RHnAXiFg4Y](https://github.com/RHnAXiFg4Y)
+- [louistalent](https://github.com/louistalent)
