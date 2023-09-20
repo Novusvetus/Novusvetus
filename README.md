@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Md-Ashraf-Ali-cs](https://github.com/Md-Ashraf-Ali-cs)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [DGS1337](https://github.com/DGS1337)
 - [robertlopez2219](https://github.com/robertlopez2219)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
-- [elite390497](https://github.com/elite390497)
 
 #### 🎢 Stats
 
