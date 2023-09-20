@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codemaster05330](https://github.com/codemaster05330)
 - [Md-Ashraf-Ali-cs](https://github.com/Md-Ashraf-Ali-cs)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [DGS1337](https://github.com/DGS1337)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [codegenius1017](https://github.com/codegenius1017)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
-- [0x17](https://github.com/0x17)
 
 #### 🎢 Stats
 
