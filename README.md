@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bpradiip](https://github.com/bpradiip)
 - [3e415926](https://github.com/3e415926)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [andronic52](https://github.com/andronic52)
 - [codegenius1017](https://github.com/codegenius1017)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
-- [arjuncvinod](https://github.com/arjuncvinod)
 
 #### 🎢 Stats
 
