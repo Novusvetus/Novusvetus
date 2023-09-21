@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [3e415926](https://github.com/3e415926)
 - [codemaster05330](https://github.com/codemaster05330)
-- [mdashrafali-cs](https://github.com/mdashrafali-cs)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [DGS1337](https://github.com/DGS1337)
 - [robertlopez2219](https://github.com/robertlopez2219)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [andronic52](https://github.com/andronic52)
 - [codegenius1017](https://github.com/codegenius1017)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
+- [arjuncvinod](https://github.com/arjuncvinod)
 
 #### 🎢 Stats
 
