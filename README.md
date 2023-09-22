@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
-- [bpradiip](https://github.com/bpradiip)
 - [3e415926](https://github.com/3e415926)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [robertlopez2219](https://github.com/robertlopez2219)
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
+- [codegenius1017](https://github.com/codegenius1017)
 
 #### 🎢 Stats
 

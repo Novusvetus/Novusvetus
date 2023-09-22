@@ -1,7 +1,6 @@
 
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
-- [bpradiip](https://github.com/bpradiip)
 - [3e415926](https://github.com/3e415926)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
@@ -99,3 +98,4 @@
 - [dev-captain](https://github.com/dev-captain)
 - [nuth-vireak](https://github.com/nuth-vireak)
 - [JDHB717](https://github.com/JDHB717)
+- [Parameow3](https://github.com/Parameow3)
