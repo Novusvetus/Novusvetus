@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
 - [bpradiip](https://github.com/bpradiip)
 - [wr0110](https://github.com/wr0110)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [DGS1337](https://github.com/DGS1337)
 - [robertlopez2219](https://github.com/robertlopez2219)
-- [cedev935](https://github.com/cedev935)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
 - [bpradiip](https://github.com/bpradiip)
 - [wr0110](https://github.com/wr0110)
@@ -98,4 +99,3 @@
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
 - [dev-captain](https://github.com/dev-captain)
-- [nuth-vireak](https://github.com/nuth-vireak)
