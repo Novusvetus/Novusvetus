@@ -1,6 +1,6 @@
 
 - [bpradiip](https://github.com/bpradiip)
-- [GoldSea1211](https://github.com/GoldSea1211)
+- [GoldSea7](https://github.com/GoldSea7)
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
 - [wr0110](https://github.com/wr0110)
