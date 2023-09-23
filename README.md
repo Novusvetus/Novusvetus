@@ -65,13 +65,13 @@ _Nobody sponsors me. I am poor..._
 - [GoldSea1211](https://github.com/GoldSea1211)
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
-- [bpradiip](https://github.com/bpradiip)
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
 - [3e415926](https://github.com/3e415926)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [DGS1337](https://github.com/DGS1337)
+- [robertlopez2219](https://github.com/robertlopez2219)
 
 #### 🎢 Stats
 

@@ -2,7 +2,6 @@
 - [GoldSea1211](https://github.com/GoldSea1211)
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
-- [bpradiip](https://github.com/bpradiip)
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
 - [3e415926](https://github.com/3e415926)
@@ -99,3 +98,4 @@
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
+- [dev-captain](https://github.com/dev-captain)
