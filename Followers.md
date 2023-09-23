@@ -1,4 +1,5 @@
 
+- [bpradiip](https://github.com/bpradiip)
 - [GoldSea1211](https://github.com/GoldSea1211)
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
@@ -98,4 +99,3 @@
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
 - [codinghemp](https://github.com/codinghemp)
-- [dev-captain](https://github.com/dev-captain)
