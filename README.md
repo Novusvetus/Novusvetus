@@ -62,6 +62,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
+- [arcane4096](https://github.com/arcane4096)
 - [bpradiip](https://github.com/bpradiip)
 - [GoldSea7](https://github.com/GoldSea7)
 - [techtronixnepal](https://github.com/techtronixnepal)
@@ -70,8 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [Youssefouah](https://github.com/Youssefouah)
 - [3e415926](https://github.com/3e415926)
 - [codemaster05330](https://github.com/codemaster05330)
-- [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
-- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 
