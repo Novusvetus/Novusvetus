@@ -69,9 +69,9 @@ _Nobody sponsors me. I am poor..._
 - [mn0unreal](https://github.com/mn0unreal)
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
-- [iepn](https://github.com/iepn)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
+- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 
