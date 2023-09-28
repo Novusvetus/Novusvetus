@@ -9,7 +9,6 @@
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
-- [DGS1337](https://github.com/DGS1337)
 - [robertlopez2219](https://github.com/robertlopez2219)
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
@@ -99,3 +98,4 @@
 - [FullStackStar](https://github.com/FullStackStar)
 - [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
 - [AshrafUzzaman04](https://github.com/AshrafUzzaman04)
+- [codinghemp](https://github.com/codinghemp)
