@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
 - [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
 - [arcane4096](https://github.com/arcane4096)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
+- [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 
 #### 🎢 Stats
 
