@@ -45,15 +45,15 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-10-01](https://github.com/Novusvetus/Die-PARTEI-Links/pull/12) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
+- [Updates 2023-10-01](https://github.com/Novusvetus/action-phpinsights/pull/600) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
+- [Updates 2023-10-01](https://github.com/Novusvetus/Mendelssohn/pull/31) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Updates 2023-10-01](https://github.com/Novusvetus/StreamersMQTT/pull/12) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 - [Updates 2023-10-01](https://github.com/Novusvetus/Spotifriendslist/pull/11) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Updates 2023-10-01](https://github.com/Novusvetus/novusvetus.github.io/pull/11) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
 - [Updates 2023-10-01](https://github.com/Novusvetus/action-php_codesniffer/pull/675) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-10-01](https://github.com/Novusvetus/GedcomParser/pull/50) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2023-10-01](https://github.com/Novusvetus/action-php_codesniffer/pull/674) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-08-06](https://github.com/Novusvetus/action-phpinsights/pull/568) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2023-08-05](https://github.com/Novusvetus/action-php_codesniffer/pull/642) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-07-31](https://github.com/Novusvetus/action-phpinsights/pull/563) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
 - [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
 - [wr0110](https://github.com/wr0110)
-- [Youssefouah](https://github.com/Youssefouah)
 
 #### 🎢 Stats
 
