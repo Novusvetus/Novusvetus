@@ -60,6 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rishabh-108272](https://github.com/rishabh-108272)
+- [mitch-henderson](https://github.com/mitch-henderson)
 - [bpradiip](https://github.com/bpradiip)
 - [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
@@ -68,8 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
 - [arcane4096](https://github.com/arcane4096)
 - [GoldSea7](https://github.com/GoldSea7)
-- [techtronixnepal](https://github.com/techtronixnepal)
-- [mn0unreal](https://github.com/mn0unreal)
 
 #### 🎢 Stats
 
