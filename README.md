@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bpradiip](https://github.com/bpradiip)
 - [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
 - [DGS1337](https://github.com/DGS1337)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [GoldSea7](https://github.com/GoldSea7)
 - [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
-- [wr0110](https://github.com/wr0110)
 
 #### 🎢 Stats
 
