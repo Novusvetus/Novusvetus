@@ -64,12 +64,12 @@ _Nobody sponsors me. I am poor..._
 - [Samirtimalsina](https://github.com/Samirtimalsina)
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
-- [bpradiip](https://github.com/bpradiip)
 - [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
 - [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
 - [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
+- [arcane4096](https://github.com/arcane4096)
 
 #### 🎢 Stats
 
