@@ -11,7 +11,6 @@
 - [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
 - [arcane4096](https://github.com/arcane4096)
 - [GoldSea7](https://github.com/GoldSea7)
-- [techtronixnepal](https://github.com/techtronixnepal)
 - [mn0unreal](https://github.com/mn0unreal)
 - [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
@@ -99,3 +98,4 @@
 - [omarnasser199789](https://github.com/omarnasser199789)
 - [JeffersonRPM](https://github.com/JeffersonRPM)
 - [ethanflower1903](https://github.com/ethanflower1903)
+- [kingstar1115](https://github.com/kingstar1115)
