@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [voidrlm](https://github.com/voidrlm)
-- [CRPrabin](https://github.com/CRPrabin)
 - [Samirtimalsina](https://github.com/Samirtimalsina)
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
@@ -71,6 +70,7 @@ _Nobody sponsors me. I am poor..._
 - [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
 - [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
+- [arcane4096](https://github.com/arcane4096)
 
 #### 🎢 Stats
 
