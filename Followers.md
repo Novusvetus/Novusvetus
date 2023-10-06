@@ -18,7 +18,6 @@
 - [robertlopez2219](https://github.com/robertlopez2219)
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
-- [codegenius1017](https://github.com/codegenius1017)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
@@ -99,3 +98,4 @@
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
+- [AbdusSattar-70](https://github.com/AbdusSattar-70)
