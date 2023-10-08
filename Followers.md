@@ -7,7 +7,6 @@
 - [accept96](https://github.com/accept96)
 - [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
-- [shaikhshahbaz4022](https://github.com/shaikhshahbaz4022)
 - [arcane4096](https://github.com/arcane4096)
 - [GoldSea7](https://github.com/GoldSea7)
 - [mn0unreal](https://github.com/mn0unreal)
@@ -99,3 +98,4 @@
 - [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
+- [FullStackStar](https://github.com/FullStackStar)
