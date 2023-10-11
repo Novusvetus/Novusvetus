@@ -1,7 +1,7 @@
 
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
-- [Samirtimalsina](https://github.com/Samirtimalsina)
+- [techtroniix](https://github.com/techtroniix)
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
