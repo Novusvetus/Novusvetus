@@ -10,7 +10,6 @@
 - [GregTakeo25](https://github.com/GregTakeo25)
 - [GoldSea7](https://github.com/GoldSea7)
 - [mn0unreal](https://github.com/mn0unreal)
-- [wr0110](https://github.com/wr0110)
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
@@ -99,3 +98,4 @@
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
 - [FullStackStar](https://github.com/FullStackStar)
+- [MafujulHaquePlabon](https://github.com/MafujulHaquePlabon)
