@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
 - [Samirtimalsina](https://github.com/Samirtimalsina)
 - [rishabh-108272](https://github.com/rishabh-108272)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
 - [GoldSea7](https://github.com/GoldSea7)
-- [mn0unreal](https://github.com/mn0unreal)
 
 #### 🎢 Stats
 
