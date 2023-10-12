@@ -53,7 +53,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-10-02](https://github.com/Novusvetus/action-php_codesniffer/pull/676) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-10-01](https://github.com/Novusvetus/ClassHelper/pull/43) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Updates 2023-10-01](https://github.com/Novusvetus/Mendelssohn/pull/32) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
-- [Updates 2023-10-01](https://github.com/Novusvetus/GedcomParser/pull/51) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -75,7 +74,7 @@ _Nobody sponsors me. I am poor..._
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.01% followers!
+Worldwide 🌍: Top 0.02% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
