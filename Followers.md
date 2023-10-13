@@ -1,6 +1,5 @@
 
 - [getintorj](https://github.com/getintorj)
-- [bpradiip](https://github.com/bpradiip)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
 - [samirtimalsina](https://github.com/samirtimalsina)
@@ -99,3 +98,4 @@
 - [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
 - [AbdusSattar-70](https://github.com/AbdusSattar-70)
+- [FullStackStar](https://github.com/FullStackStar)
