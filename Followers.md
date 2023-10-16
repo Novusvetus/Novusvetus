@@ -2,7 +2,7 @@
 - [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
-- [techtroniix](https://github.com/techtroniix)
+- [samirtimalsina](https://github.com/samirtimalsina)
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
