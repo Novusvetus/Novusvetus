@@ -33,7 +33,7 @@
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
-- [midasminer](https://github.com/midasminer)
+- [midas95](https://github.com/midas95)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
