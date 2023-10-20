@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
 - [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
-- [DGS1337](https://github.com/DGS1337)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
 - [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
@@ -98,4 +99,3 @@
 - [ethanflower1903](https://github.com/ethanflower1903)
 - [kingstar1115](https://github.com/kingstar1115)
 - [marijan10marijan](https://github.com/marijan10marijan)
-- [AbdusSattar-70](https://github.com/AbdusSattar-70)
