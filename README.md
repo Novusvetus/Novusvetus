@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SWxEng](https://github.com/SWxEng)
 - [vladimir198321](https://github.com/vladimir198321)
 - [hasanyalsiz](https://github.com/hasanyalsiz)
 - [shiroennosuke](https://github.com/shiroennosuke)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [CharlieGreenman](https://github.com/CharlieGreenman)
 - [samirtimalsina](https://github.com/samirtimalsina)
 - [rishabh-108272](https://github.com/rishabh-108272)
-- [mitch-henderson](https://github.com/mitch-henderson)
 
 #### 🎢 Stats
 
