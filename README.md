@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-10-21](https://github.com/Novusvetus/action-php_codesniffer/pull/694) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-10-15](https://github.com/Novusvetus/action-phpinsights/pull/614) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-10-15](https://github.com/Novusvetus/action-php_codesniffer/pull/689) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-10-14](https://github.com/Novusvetus/action-phpinsights/pull/613) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
@@ -54,7 +55,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-10-12](https://github.com/Novusvetus/AutoGitIgnore/pull/47) on [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore)
 - [Updates 2023-10-12](https://github.com/Novusvetus/ClassHelper/pull/44) on [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper)
 - [Updates 2023-10-12](https://github.com/Novusvetus/Mendelssohn/pull/33) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
-- [Updates 2023-10-12](https://github.com/Novusvetus/GedcomParser/pull/52) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vladimir198321](https://github.com/vladimir198321)
 - [hasanyalsiz](https://github.com/hasanyalsiz)
 - [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [samirtimalsina](https://github.com/samirtimalsina)
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
-- [marzball](https://github.com/marzball)
 
 #### 🎢 Stats
 
