@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hasanyalsiz](https://github.com/hasanyalsiz)
 - [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
 - [getintorj](https://github.com/getintorj)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
-- [accept96](https://github.com/accept96)
 
 #### 🎢 Stats
 
