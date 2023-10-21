@@ -11,7 +11,7 @@
 - [accept96](https://github.com/accept96)
 - [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
-- [GoldSea7](https://github.com/GoldSea7)
+- [Nodroid7](https://github.com/Nodroid7)
 - [mn0unreal](https://github.com/mn0unreal)
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
