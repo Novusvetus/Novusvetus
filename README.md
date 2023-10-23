@@ -64,7 +64,6 @@ _Nobody sponsors me. I am poor..._
 
 - [AhmadrezaHamidi](https://github.com/AhmadrezaHamidi)
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
-- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [SWxEng](https://github.com/SWxEng)
 - [vladimir198321](https://github.com/vladimir198321)
 - [hasanyalsiz](https://github.com/hasanyalsiz)
@@ -72,6 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [mahfam1212](https://github.com/mahfam1212)
 - [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
+- [CharlieGreenman](https://github.com/CharlieGreenman)
 
 #### 🎢 Stats
 
