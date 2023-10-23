@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [SWxEng](https://github.com/SWxEng)
 - [vladimir198321](https://github.com/vladimir198321)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
-- [samirtimalsina](https://github.com/samirtimalsina)
 
 #### 🎢 Stats
 
