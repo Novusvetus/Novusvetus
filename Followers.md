@@ -1,6 +1,5 @@
 
 - [OracleBrain](https://github.com/OracleBrain)
-- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [AhmadrezaHamidi](https://github.com/AhmadrezaHamidi)
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [SWxEng](https://github.com/SWxEng)
@@ -99,3 +98,4 @@
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
+- [ArthurHendrich](https://github.com/ArthurHendrich)
