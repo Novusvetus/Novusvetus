@@ -1,4 +1,5 @@
 
+- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [AhmadrezaHamidi](https://github.com/AhmadrezaHamidi)
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [SWxEng](https://github.com/SWxEng)
@@ -98,4 +99,3 @@
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
 - [ArthurHendrich](https://github.com/ArthurHendrich)
-- [AmarMijgar1](https://github.com/AmarMijgar1)
