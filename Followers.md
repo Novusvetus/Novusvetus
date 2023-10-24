@@ -5,7 +5,6 @@
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [SWxEng](https://github.com/SWxEng)
 - [vladimir198321](https://github.com/vladimir198321)
-- [hasanyalsiz](https://github.com/hasanyalsiz)
 - [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
 - [getintorj](https://github.com/getintorj)
@@ -99,3 +98,4 @@
 - [jaglux12](https://github.com/jaglux12)
 - [cosmohacker](https://github.com/cosmohacker)
 - [mrpaziresh](https://github.com/mrpaziresh)
+- [ArthurHendrich](https://github.com/ArthurHendrich)

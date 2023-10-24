@@ -68,10 +68,10 @@ _Nobody sponsors me. I am poor..._
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [SWxEng](https://github.com/SWxEng)
 - [vladimir198321](https://github.com/vladimir198321)
-- [hasanyalsiz](https://github.com/hasanyalsiz)
 - [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
 - [getintorj](https://github.com/getintorj)
+- [DmytroKonovalov](https://github.com/DmytroKonovalov)
 
 #### 🎢 Stats
 
