@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
 - [OracleBrain](https://github.com/OracleBrain)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [vladimir198321](https://github.com/vladimir198321)
 - [shiroennosuke](https://github.com/shiroennosuke)
 - [mahfam1212](https://github.com/mahfam1212)
-- [getintorj](https://github.com/getintorj)
 
 #### 🎢 Stats
 
