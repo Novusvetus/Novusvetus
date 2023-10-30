@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [OmarElsakka1](https://github.com/OmarElsakka1)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [mohamadSaleh82](https://github.com/mohamadSaleh82)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [OracleBrain](https://github.com/OracleBrain)
 - [AhmadrezaHamidi](https://github.com/AhmadrezaHamidi)
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
-- [SWxEng](https://github.com/SWxEng)
 
 #### 🎢 Stats
 
