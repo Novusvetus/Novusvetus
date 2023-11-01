@@ -3,7 +3,6 @@
 - [Herri2](https://github.com/Herri2)
 - [OmarElsakka1](https://github.com/OmarElsakka1)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
-- [mohamadSaleh82](https://github.com/mohamadSaleh82)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
@@ -99,3 +98,4 @@
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
+- [nature613](https://github.com/nature613)

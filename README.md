@@ -66,12 +66,12 @@ _Nobody sponsors me. I am poor..._
 - [Herri2](https://github.com/Herri2)
 - [OmarElsakka1](https://github.com/OmarElsakka1)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
-- [mohamadSaleh82](https://github.com/mohamadSaleh82)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
 - [OracleBrain](https://github.com/OracleBrain)
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
+- [SWxEng](https://github.com/SWxEng)
 
 #### 🎢 Stats
 
