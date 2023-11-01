@@ -8,7 +8,6 @@
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
 - [OracleBrain](https://github.com/OracleBrain)
-- [AhmadrezaHamidi](https://github.com/AhmadrezaHamidi)
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [SWxEng](https://github.com/SWxEng)
 - [vladimir198321](https://github.com/vladimir198321)
@@ -99,3 +98,4 @@
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
+- [Solomonkassa](https://github.com/Solomonkassa)

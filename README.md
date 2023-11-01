@@ -71,7 +71,7 @@ _Nobody sponsors me. I am poor..._
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
 - [OracleBrain](https://github.com/OracleBrain)
-- [AhmadrezaHamidi](https://github.com/AhmadrezaHamidi)
+- [NyasimiPhilip](https://github.com/NyasimiPhilip)
 
 #### 🎢 Stats
 
