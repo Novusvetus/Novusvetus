@@ -20,7 +20,6 @@
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
-- [DGS1337](https://github.com/DGS1337)
 - [GregTakeo25](https://github.com/GregTakeo25)
 - [Nodroid7](https://github.com/Nodroid7)
 - [mn0unreal](https://github.com/mn0unreal)
@@ -99,3 +98,4 @@
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [nature613](https://github.com/nature613)
+- [mujtaba11-sep](https://github.com/mujtaba11-sep)
