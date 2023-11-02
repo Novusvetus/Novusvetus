@@ -1,4 +1,5 @@
 
+- [dougkalash](https://github.com/dougkalash)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Herri2](https://github.com/Herri2)
 - [OmarElsakka1](https://github.com/OmarElsakka1)
@@ -98,4 +99,3 @@
 - [CodeDroid999](https://github.com/CodeDroid999)
 - [Solomonkassa](https://github.com/Solomonkassa)
 - [nature613](https://github.com/nature613)
-- [mujtaba11-sep](https://github.com/mujtaba11-sep)
