@@ -90,7 +90,6 @@
 - [wisamosman](https://github.com/wisamosman)
 - [tonic-6101](https://github.com/tonic-6101)
 - [Nathanage3](https://github.com/Nathanage3)
-- [AISoltani](https://github.com/AISoltani)
 - [connectit2anand](https://github.com/connectit2anand)
 - [romanofficial](https://github.com/romanofficial)
 - [Spartanlasergun](https://github.com/Spartanlasergun)
@@ -99,3 +98,4 @@
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
+- [Solomonkassa](https://github.com/Solomonkassa)
