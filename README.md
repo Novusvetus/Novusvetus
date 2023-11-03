@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Robertzz2](https://github.com/Robertzz2)
 - [dougkalash](https://github.com/dougkalash)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Herri2](https://github.com/Herri2)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
 - [OracleBrain](https://github.com/OracleBrain)
-- [NyasimiPhilip](https://github.com/NyasimiPhilip)
 
 #### 🎢 Stats
 
