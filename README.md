@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ambesawi](https://github.com/Ambesawi)
 - [amirallami-code](https://github.com/amirallami-code)
 - [Adeema-Amir](https://github.com/Adeema-Amir)
 - [Robertzz2](https://github.com/Robertzz2)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
-- [Afsanehaa](https://github.com/Afsanehaa)
 
 #### 🎢 Stats
 
