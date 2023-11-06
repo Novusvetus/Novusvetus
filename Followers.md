@@ -5,7 +5,6 @@
 - [dougkalash](https://github.com/dougkalash)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Herri2](https://github.com/Herri2)
-- [OmarElsakka1](https://github.com/OmarElsakka1)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
@@ -99,3 +98,4 @@
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
+- [Solomonkassa](https://github.com/Solomonkassa)
