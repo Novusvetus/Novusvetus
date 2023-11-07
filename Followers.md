@@ -3,7 +3,6 @@
 - [amirallami-code](https://github.com/amirallami-code)
 - [Adeema-Amir](https://github.com/Adeema-Amir)
 - [Robertzz2](https://github.com/Robertzz2)
-- [dougkalash](https://github.com/dougkalash)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Herri2](https://github.com/Herri2)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
@@ -99,3 +98,4 @@
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
+- [Solomonkassa](https://github.com/Solomonkassa)

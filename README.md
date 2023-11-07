@@ -65,12 +65,12 @@ _Nobody sponsors me. I am poor..._
 - [amirallami-code](https://github.com/amirallami-code)
 - [Adeema-Amir](https://github.com/Adeema-Amir)
 - [Robertzz2](https://github.com/Robertzz2)
-- [dougkalash](https://github.com/dougkalash)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Herri2](https://github.com/Herri2)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
+- [Afsanehaa](https://github.com/Afsanehaa)
 
 #### 🎢 Stats
 
