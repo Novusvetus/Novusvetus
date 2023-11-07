@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Muga20](https://github.com/Muga20)
 - [dougkalash](https://github.com/dougkalash)
 - [Ambesawi](https://github.com/Ambesawi)
 - [amirallami-code](https://github.com/amirallami-code)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Herri2](https://github.com/Herri2)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [vladyslav833](https://github.com/vladyslav833)
-- [tigerhunter318](https://github.com/tigerhunter318)
 
 #### 🎢 Stats
 
