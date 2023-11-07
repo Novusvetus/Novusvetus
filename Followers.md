@@ -1,4 +1,5 @@
 
+- [dougkalash](https://github.com/dougkalash)
 - [Ambesawi](https://github.com/Ambesawi)
 - [amirallami-code](https://github.com/amirallami-code)
 - [Adeema-Amir](https://github.com/Adeema-Amir)
@@ -98,4 +99,3 @@
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
 - [CodeDroid999](https://github.com/CodeDroid999)
-- [Solomonkassa](https://github.com/Solomonkassa)
