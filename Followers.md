@@ -38,7 +38,6 @@
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
 - [elite390497](https://github.com/elite390497)
-- [Developer117](https://github.com/Developer117)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [i12cu84](https://github.com/i12cu84)
@@ -99,3 +98,4 @@
 - [ADItya0367](https://github.com/ADItya0367)
 - [abduadem](https://github.com/abduadem)
 - [Zid95](https://github.com/Zid95)
+- [CodeDroid999](https://github.com/CodeDroid999)
