@@ -1,4 +1,5 @@
 
+- [in-jun](https://github.com/in-jun)
 - [george0st](https://github.com/george0st)
 - [Many-Al](https://github.com/Many-Al)
 - [dougkalash](https://github.com/dougkalash)
@@ -98,4 +99,3 @@
 - [Spartanlasergun](https://github.com/Spartanlasergun)
 - [Kubenew](https://github.com/Kubenew)
 - [ADItya0367](https://github.com/ADItya0367)
-- [abduadem](https://github.com/abduadem)
