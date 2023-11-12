@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [loranYousef](https://github.com/loranYousef)
 - [in-jun](https://github.com/in-jun)
 - [george0st](https://github.com/george0st)
 - [Many-Al](https://github.com/Many-Al)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [amirallami-code](https://github.com/amirallami-code)
 - [Adeema-Amir](https://github.com/Adeema-Amir)
 - [Robertzz2](https://github.com/Robertzz2)
-- [ninjadev0831](https://github.com/ninjadev0831)
 
 #### 🎢 Stats
 
