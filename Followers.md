@@ -1,4 +1,5 @@
 
+- [Thizh](https://github.com/Thizh)
 - [HappyDream0317](https://github.com/HappyDream0317)
 - [loranYousef](https://github.com/loranYousef)
 - [in-jun](https://github.com/in-jun)
@@ -98,4 +99,3 @@
 - [Nathanage3](https://github.com/Nathanage3)
 - [connectit2anand](https://github.com/connectit2anand)
 - [romanofficial](https://github.com/romanofficial)
-- [Spartanlasergun](https://github.com/Spartanlasergun)
