@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [abdorrahmani](https://github.com/abdorrahmani)
 - [Emakiflom](https://github.com/Emakiflom)
 - [Thizh](https://github.com/Thizh)
 - [HappyDream0317](https://github.com/HappyDream0317)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Many-Al](https://github.com/Many-Al)
 - [dougkalash](https://github.com/dougkalash)
 - [Ambesawi](https://github.com/Ambesawi)
-- [Muga20](https://github.com/Muga20)
 
 #### 🎢 Stats
 
