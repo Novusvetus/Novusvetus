@@ -1,4 +1,5 @@
 
+- [binary-blazer](https://github.com/binary-blazer)
 - [mvaibhav131](https://github.com/mvaibhav131)
 - [1cbyc](https://github.com/1cbyc)
 - [abdorrahmani](https://github.com/abdorrahmani)
@@ -98,4 +99,3 @@
 - [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
 - [Julius-Hamilton](https://github.com/Julius-Hamilton)
 - [CharlesDerek](https://github.com/CharlesDerek)
-- [wisamosman](https://github.com/wisamosman)
