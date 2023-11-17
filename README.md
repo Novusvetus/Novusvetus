@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mvaibhav131](https://github.com/mvaibhav131)
 - [1cbyc](https://github.com/1cbyc)
 - [abdorrahmani](https://github.com/abdorrahmani)
 - [Emakiflom](https://github.com/Emakiflom)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [in-jun](https://github.com/in-jun)
 - [george0st](https://github.com/george0st)
 - [Many-Al](https://github.com/Many-Al)
-- [dougkalash](https://github.com/dougkalash)
 
 #### 🎢 Stats
 
