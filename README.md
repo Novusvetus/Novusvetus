@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AlpetG](https://github.com/AlpetG)
 - [silver99928](https://github.com/silver99928)
 - [binary-blazer](https://github.com/binary-blazer)
 - [mvaibhav131](https://github.com/mvaibhav131)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [Thizh](https://github.com/Thizh)
 - [HappyDream0317](https://github.com/HappyDream0317)
 - [loranYousef](https://github.com/loranYousef)
-- [in-jun](https://github.com/in-jun)
 
 #### 🎢 Stats
 
