@@ -91,7 +91,6 @@
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
-- [singharaj-usai](https://github.com/singharaj-usai)
 - [nga193](https://github.com/nga193)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
@@ -99,3 +98,4 @@
 - [Gizachew29](https://github.com/Gizachew29)
 - [tresa5923](https://github.com/tresa5923)
 - [itswadesh](https://github.com/itswadesh)
+- [SaraKhamisMostafa](https://github.com/SaraKhamisMostafa)
