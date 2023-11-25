@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
 - [terrorist](https://github.com/terrorist)
 - [expertcoder1204](https://github.com/expertcoder1204)
@@ -69,12 +70,11 @@ _Nobody sponsors me. I am poor..._
 - [mvaibhav131](https://github.com/mvaibhav131)
 - [1cbyc](https://github.com/1cbyc)
 - [abdorrahmani](https://github.com/abdorrahmani)
-- [Emakiflom](https://github.com/Emakiflom)
 
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.008% followers!
+Worldwide 🌍: Top 0.01% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 

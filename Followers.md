@@ -1,4 +1,5 @@
 
+- [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
 - [terrorist](https://github.com/terrorist)
 - [expertcoder1204](https://github.com/expertcoder1204)
@@ -98,4 +99,3 @@
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
 - [redwood0riginal](https://github.com/redwood0riginal)
 - [Gizachew29](https://github.com/Gizachew29)
-- [tresa5923](https://github.com/tresa5923)
