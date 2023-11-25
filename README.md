@@ -14,10 +14,10 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
 - [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 - [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
-- [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
 - [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
 - [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
@@ -45,13 +45,13 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-11-25](https://github.com/Novusvetus/novusvetus.github.io/pull/12) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
+- [Updates 2023-11-25](https://github.com/Novusvetus/GedcomParser/pull/53) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 - [Updates 2023-11-25](https://github.com/Novusvetus/action-php_codesniffer/pull/729) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-11-25](https://github.com/Novusvetus/action-phpinsights/pull/651) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-11-25](https://github.com/Novusvetus/action-php_codesniffer/pull/728) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-11-24](https://github.com/Novusvetus/action-php_codesniffer/pull/727) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-11-06](https://github.com/Novusvetus/action-phpinsights/pull/632) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
-- [Updates 2023-11-04](https://github.com/Novusvetus/action-php_codesniffer/pull/707) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-10-31](https://github.com/Novusvetus/action-phpinsights/pull/630) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -73,7 +73,7 @@ _Nobody sponsors me. I am poor..._
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.01% followers!
+Worldwide 🌍: Top 0.009% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
