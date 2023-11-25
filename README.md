@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [spider0317](https://github.com/spider0317)
 - [terrorist](https://github.com/terrorist)
 - [expertcoder1204](https://github.com/expertcoder1204)
 - [AlpetG](https://github.com/AlpetG)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [1cbyc](https://github.com/1cbyc)
 - [abdorrahmani](https://github.com/abdorrahmani)
 - [Emakiflom](https://github.com/Emakiflom)
-- [Thizh](https://github.com/Thizh)
 
 #### 🎢 Stats
 
