@@ -22,7 +22,6 @@
 - [Ambesawi](https://github.com/Ambesawi)
 - [Muga20](https://github.com/Muga20)
 - [amirallami-code](https://github.com/amirallami-code)
-- [Adeema-Amir](https://github.com/Adeema-Amir)
 - [Robertzz2](https://github.com/Robertzz2)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Herri2](https://github.com/Herri2)
@@ -99,3 +98,4 @@
 - [nga193](https://github.com/nga193)
 - [laoman5](https://github.com/laoman5)
 - [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
+- [redwood0riginal](https://github.com/redwood0riginal)
