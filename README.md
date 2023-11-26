@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Makitey](https://github.com/Makitey)
 - [mutasim77](https://github.com/mutasim77)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [silver99928](https://github.com/silver99928)
 - [binary-blazer](https://github.com/binary-blazer)
 - [mvaibhav131](https://github.com/mvaibhav131)
-- [1cbyc](https://github.com/1cbyc)
 
 #### 🎢 Stats
 
