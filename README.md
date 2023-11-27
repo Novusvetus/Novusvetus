@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-11-27](https://github.com/Novusvetus/action-php_codesniffer/pull/731) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Prepare for 1.1.16](https://github.com/Novusvetus/action-phpinsights/pull/652) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-11-25](https://github.com/Novusvetus/Die-PARTEI-Links/pull/13) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
 - [Updates 2023-11-25](https://github.com/Novusvetus/StreamersMQTT/pull/13) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
