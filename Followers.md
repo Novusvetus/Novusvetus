@@ -1,4 +1,5 @@
 
+- [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
 - [codeWizard337](https://github.com/codeWizard337)
 - [silver99928](https://github.com/silver99928)
@@ -98,4 +99,3 @@
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
-- [nga193](https://github.com/nga193)
