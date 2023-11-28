@@ -62,6 +62,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codeWizard337](https://github.com/codeWizard337)
 - [silver99928](https://github.com/silver99928)
 - [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
@@ -71,7 +72,6 @@ _Nobody sponsors me. I am poor..._
 - [terrorist](https://github.com/terrorist)
 - [expertcoder1204](https://github.com/expertcoder1204)
 - [AlpetG](https://github.com/AlpetG)
-- [binary-blazer](https://github.com/binary-blazer)
 
 #### 🎢 Stats
 

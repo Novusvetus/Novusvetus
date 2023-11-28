@@ -1,4 +1,5 @@
 
+- [codeWizard337](https://github.com/codeWizard337)
 - [silver99928](https://github.com/silver99928)
 - [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
@@ -98,4 +99,3 @@
 - [adaptive-beaver](https://github.com/adaptive-beaver)
 - [nga193](https://github.com/nga193)
 - [laoman5](https://github.com/laoman5)
-- [MadhawaRathnayaka](https://github.com/MadhawaRathnayaka)
