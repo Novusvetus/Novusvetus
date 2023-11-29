@@ -1,5 +1,4 @@
 
-- [bellaabdelouahab](https://github.com/bellaabdelouahab)
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
 - [codeWizard337](https://github.com/codeWizard337)
@@ -99,3 +98,4 @@
 - [Dojikooo](https://github.com/Dojikooo)
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
+- [adaptive-beaver](https://github.com/adaptive-beaver)
