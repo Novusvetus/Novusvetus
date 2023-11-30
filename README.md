@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dougkalash](https://github.com/dougkalash)
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
 - [codeWizard337](https://github.com/codeWizard337)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [mutasim77](https://github.com/mutasim77)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
-- [terrorist](https://github.com/terrorist)
 
 #### 🎢 Stats
 
