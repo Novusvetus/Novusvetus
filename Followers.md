@@ -1,4 +1,5 @@
 
+- [TaliResearch](https://github.com/TaliResearch)
 - [dougkalash](https://github.com/dougkalash)
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
@@ -98,4 +99,3 @@
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
-- [nga193](https://github.com/nga193)
