@@ -22,7 +22,6 @@
 - [in-jun](https://github.com/in-jun)
 - [george0st](https://github.com/george0st)
 - [Many-Al](https://github.com/Many-Al)
-- [dougkalash](https://github.com/dougkalash)
 - [Ambesawi](https://github.com/Ambesawi)
 - [Muga20](https://github.com/Muga20)
 - [amirallami-code](https://github.com/amirallami-code)
@@ -99,3 +98,4 @@
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
+- [nga193](https://github.com/nga193)
