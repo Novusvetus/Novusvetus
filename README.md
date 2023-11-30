@@ -68,9 +68,9 @@ _Nobody sponsors me. I am poor..._
 - [silver99928](https://github.com/silver99928)
 - [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
-- [mutasim77](https://github.com/mutasim77)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
+- [terrorist](https://github.com/terrorist)
 
 #### 🎢 Stats
 

@@ -6,7 +6,6 @@
 - [silver99928](https://github.com/silver99928)
 - [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
-- [mutasim77](https://github.com/mutasim77)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
 - [terrorist](https://github.com/terrorist)
@@ -99,3 +98,4 @@
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
 - [adaptive-beaver](https://github.com/adaptive-beaver)
+- [nga193](https://github.com/nga193)
