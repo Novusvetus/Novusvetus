@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Syipmong](https://github.com/Syipmong)
 - [dougkalash](https://github.com/dougkalash)
 - [TaliResearch](https://github.com/TaliResearch)
 - [vjanz](https://github.com/vjanz)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
-- [spider0317](https://github.com/spider0317)
 
 #### 🎢 Stats
 
