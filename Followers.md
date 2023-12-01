@@ -1,6 +1,5 @@
 
 - [Syipmong](https://github.com/Syipmong)
-- [dougkalash](https://github.com/dougkalash)
 - [TaliResearch](https://github.com/TaliResearch)
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
@@ -99,3 +98,4 @@
 - [Dojikooo](https://github.com/Dojikooo)
 - [kamelorac](https://github.com/kamelorac)
 - [luckminer](https://github.com/luckminer)
+- [adaptive-beaver](https://github.com/adaptive-beaver)
