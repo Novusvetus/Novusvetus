@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-12-03](https://github.com/Novusvetus/action-php_codesniffer/pull/737) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-03](https://github.com/Novusvetus/Mendelssohn/pull/3) on [Novusvetus/Mendelssohn](https://github.com/Novusvetus/Mendelssohn)
 - [Updates 2023-12-03](https://github.com/Novusvetus/action-php_codesniffer/pull/736) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-11-28](https://github.com/Novusvetus/GedcomParser/pull/54) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
@@ -52,7 +53,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Prepare for 1.1.16](https://github.com/Novusvetus/action-phpinsights/pull/652) on [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights)
 - [Updates 2023-11-25](https://github.com/Novusvetus/Die-PARTEI-Links/pull/13) on [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links)
 - [Updates 2023-11-25](https://github.com/Novusvetus/StreamersMQTT/pull/13) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
-- [Updates 2023-11-25](https://github.com/Novusvetus/Spotifriendslist/pull/12) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dragon7210](https://github.com/dragon7210)
 - [dougkalash](https://github.com/dougkalash)
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [silver99928](https://github.com/silver99928)
 - [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
-- [Ruth12mak](https://github.com/Ruth12mak)
 
 #### 🎢 Stats
 
