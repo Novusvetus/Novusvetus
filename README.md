@@ -53,7 +53,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-11-25](https://github.com/Novusvetus/StreamersMQTT/pull/13) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 - [Updates 2023-11-25](https://github.com/Novusvetus/Spotifriendslist/pull/12) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Prepare for 1.2.17](https://github.com/Novusvetus/action-php_codesniffer/pull/730) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-11-25](https://github.com/Novusvetus/novusvetus.github.io/pull/12) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -75,7 +74,7 @@ _Nobody sponsors me. I am poor..._
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.009% followers!
+Worldwide 🌍: Top 0.01% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
