@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [IvanPitukh](https://github.com/IvanPitukh)
 - [dragon7210](https://github.com/dragon7210)
 - [dougkalash](https://github.com/dougkalash)
 - [Syipmong](https://github.com/Syipmong)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [codeWizard337](https://github.com/codeWizard337)
 - [silver99928](https://github.com/silver99928)
 - [H-K-R](https://github.com/H-K-R)
-- [Makitey](https://github.com/Makitey)
 
 #### 🎢 Stats
 

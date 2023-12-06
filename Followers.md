@@ -1,4 +1,5 @@
 
+- [IvanPitukh](https://github.com/IvanPitukh)
 - [dragon7210](https://github.com/dragon7210)
 - [dougkalash](https://github.com/dougkalash)
 - [Syipmong](https://github.com/Syipmong)
@@ -98,4 +99,3 @@
 - [DannyMay9082](https://github.com/DannyMay9082)
 - [marketplacing](https://github.com/marketplacing)
 - [Dojikooo](https://github.com/Dojikooo)
-- [kamelorac](https://github.com/kamelorac)
