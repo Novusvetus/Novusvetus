@@ -1,4 +1,5 @@
 
+- [Swag666baby](https://github.com/Swag666baby)
 - [froglost](https://github.com/froglost)
 - [bstar0406](https://github.com/bstar0406)
 - [IvanPitukh](https://github.com/IvanPitukh)
@@ -98,4 +99,3 @@
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
 - [Shahupdates](https://github.com/Shahupdates)
-- [DannyMay9082](https://github.com/DannyMay9082)

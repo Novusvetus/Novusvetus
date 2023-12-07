@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Swag666baby](https://github.com/Swag666baby)
 - [froglost](https://github.com/froglost)
 - [bstar0406](https://github.com/bstar0406)
 - [IvanPitukh](https://github.com/IvanPitukh)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [TaliResearch](https://github.com/TaliResearch)
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
-- [codeWizard337](https://github.com/codeWizard337)
 
 #### 🎢 Stats
 
