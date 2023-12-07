@@ -1,4 +1,5 @@
 
+- [froglost](https://github.com/froglost)
 - [bstar0406](https://github.com/bstar0406)
 - [IvanPitukh](https://github.com/IvanPitukh)
 - [dragon7210](https://github.com/dragon7210)
@@ -98,4 +99,3 @@
 - [lincon-ac](https://github.com/lincon-ac)
 - [Shahupdates](https://github.com/Shahupdates)
 - [DannyMay9082](https://github.com/DannyMay9082)
-- [marketplacing](https://github.com/marketplacing)
