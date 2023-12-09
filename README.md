@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [micooper9041](https://github.com/micooper9041)
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
 - [codeWizard337](https://github.com/codeWizard337)
-- [silver99928](https://github.com/silver99928)
 
 #### 🎢 Stats
 
