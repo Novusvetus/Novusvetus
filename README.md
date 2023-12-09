@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LeviHan511](https://github.com/LeviHan511)
 - [micooper9041](https://github.com/micooper9041)
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [TaliResearch](https://github.com/TaliResearch)
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
-- [codeWizard337](https://github.com/codeWizard337)
 
 #### 🎢 Stats
 
