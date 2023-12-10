@@ -1,4 +1,5 @@
 
+- [whitesnow1022127](https://github.com/whitesnow1022127)
 - [LeviHan511](https://github.com/LeviHan511)
 - [micooper9041](https://github.com/micooper9041)
 - [awesomedev08](https://github.com/awesomedev08)
@@ -98,4 +99,3 @@
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
-- [Shahupdates](https://github.com/Shahupdates)
