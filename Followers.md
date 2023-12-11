@@ -1,4 +1,5 @@
 
+- [StevenKamwaza](https://github.com/StevenKamwaza)
 - [VenusWhisperer](https://github.com/VenusWhisperer)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
 - [LeviHan511](https://github.com/LeviHan511)
@@ -98,4 +99,3 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
-- [confidentmeerkat](https://github.com/confidentmeerkat)

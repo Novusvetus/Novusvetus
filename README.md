@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [StevenKamwaza](https://github.com/StevenKamwaza)
 - [VenusWhisperer](https://github.com/VenusWhisperer)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
 - [LeviHan511](https://github.com/LeviHan511)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [dragon7210](https://github.com/dragon7210)
 - [dougkalash](https://github.com/dougkalash)
 - [Syipmong](https://github.com/Syipmong)
-- [TaliResearch](https://github.com/TaliResearch)
 
 #### 🎢 Stats
 
