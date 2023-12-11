@@ -80,7 +80,6 @@
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
-- [midas95](https://github.com/midas95)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
@@ -99,3 +98,4 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
+- [confidentmeerkat](https://github.com/confidentmeerkat)
