@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LovelyFriend0309](https://github.com/LovelyFriend0309)
 - [Chan0094](https://github.com/Chan0094)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [VenusWhisperer](https://github.com/VenusWhisperer)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
-- [dougkalash](https://github.com/dougkalash)
 
 #### 🎢 Stats
 
