@@ -60,15 +60,15 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [zhmidd](https://github.com/zhmidd)
-- [LovelyFriend0309](https://github.com/LovelyFriend0309)
-- [Chan0094](https://github.com/Chan0094)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
-- [VenusWhisperer](https://github.com/VenusWhisperer)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
 - [LeviHan511](https://github.com/LeviHan511)
-- [micooper9041](https://github.com/micooper9041)
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
+- [dragon7210](https://github.com/dragon7210)
+- [dougkalash](https://github.com/dougkalash)
+- [Syipmong](https://github.com/Syipmong)
+- [TaliResearch](https://github.com/TaliResearch)
 
 #### 🎢 Stats
 
