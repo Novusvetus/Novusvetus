@@ -62,13 +62,13 @@ _Nobody sponsors me. I am poor..._
 - [zhmidd](https://github.com/zhmidd)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
-- [LeviHan511](https://github.com/LeviHan511)
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
 - [dougkalash](https://github.com/dougkalash)
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
+- [vjanz](https://github.com/vjanz)
 
 #### 🎢 Stats
 
