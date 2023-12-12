@@ -1,4 +1,5 @@
 
+- [zhmidd](https://github.com/zhmidd)
 - [LovelyFriend0309](https://github.com/LovelyFriend0309)
 - [Chan0094](https://github.com/Chan0094)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
@@ -98,4 +99,3 @@
 - [craftysecurity](https://github.com/craftysecurity)
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
-- [katchion13](https://github.com/katchion13)
