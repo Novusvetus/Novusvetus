@@ -33,7 +33,7 @@
 - [amirallami-code](https://github.com/amirallami-code)
 - [Robertzz2](https://github.com/Robertzz2)
 - [ninjadev0831](https://github.com/ninjadev0831)
-- [Herri2](https://github.com/Herri2)
+- [Jordan-2113](https://github.com/Jordan-2113)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
