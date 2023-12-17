@@ -1,4 +1,5 @@
 
+- [DarkHorse0311](https://github.com/DarkHorse0311)
 - [zhmidd](https://github.com/zhmidd)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
@@ -98,4 +99,3 @@
 - [marketplacing](https://github.com/marketplacing)
 - [Dojikooo](https://github.com/Dojikooo)
 - [kamelorac](https://github.com/kamelorac)
-- [luckminer](https://github.com/luckminer)
