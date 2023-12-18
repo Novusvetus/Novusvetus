@@ -61,7 +61,7 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [DarkHorse0311](https://github.com/DarkHorse0311)
-- [zhmidd](https://github.com/zhmidd)
+- [idkvarg](https://github.com/idkvarg)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
 - [awesomedev08](https://github.com/awesomedev08)
