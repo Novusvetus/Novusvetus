@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [groupofstars](https://github.com/groupofstars)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
 - [idkvarg](https://github.com/idkvarg)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
 - [dougkalash](https://github.com/dougkalash)
-- [Syipmong](https://github.com/Syipmong)
 
 #### 🎢 Stats
 
