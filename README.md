@@ -12,8 +12,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [Mendelssohn-Repository/Mendelssohn](https://github.com/Mendelssohn-Repository/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+- [Mendelssohn-Repository/Mendelssohn](https://github.com/Mendelssohn-Repository/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Mendelssohn-Repository/.github](https://github.com/Mendelssohn-Repository/.github) - This is a ✨special ✨ repository.
 - [Mendelssohn-Repository/Github](https://github.com/Mendelssohn-Repository/Github) - Github  extension for Mendelssohn.
 - [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - Gitlab  extension for Mendelssohn.
@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-12-24](https://github.com/Novusvetus/action-php_codesniffer/pull/758) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-23](https://github.com/Novusvetus/action-php_codesniffer/pull/757) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-18](https://github.com/Novusvetus/action-php_codesniffer/pull/753) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-16](https://github.com/Novusvetus/action-php_codesniffer/pull/751) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
