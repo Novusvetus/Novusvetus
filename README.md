@@ -19,9 +19,9 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - Gitlab  extension for Mendelssohn.
 - [Mendelssohn-Repository/Bitbucket](https://github.com/Mendelssohn-Repository/Bitbucket) - Bitbucket  extension for Mendelssohn.
 - [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
+- [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
 - [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
-- [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 
 #### 🐣 My latest projects
 
