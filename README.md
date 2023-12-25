@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2023-12-25](https://github.com/Novusvetus/action-php_codesniffer/pull/759) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-24](https://github.com/Novusvetus/action-php_codesniffer/pull/758) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-23](https://github.com/Novusvetus/action-php_codesniffer/pull/757) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-18](https://github.com/Novusvetus/action-php_codesniffer/pull/753) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -53,8 +54,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2023-12-09](https://github.com/Novusvetus/action-php_codesniffer/pull/746) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-07](https://github.com/Novusvetus/action-php_codesniffer/pull/743) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2023-12-05](https://github.com/Novusvetus/action-php_codesniffer/pull/741) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-12-03](https://github.com/Novusvetus/action-php_codesniffer/pull/737) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-12-03](https://github.com/Mendelssohn-Repository/Mendelssohn/pull/3) on [Mendelssohn-Repository/Mendelssohn](https://github.com/Mendelssohn-Repository/Mendelssohn)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -76,7 +75,7 @@ _Nobody sponsors me. I am poor..._
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.009% followers!
+Worldwide 🌍: Top 0.01% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
