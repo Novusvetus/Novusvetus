@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [HeyHeyChicken](https://github.com/HeyHeyChicken)
 - [rajatcantcode](https://github.com/rajatcantcode)
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [idkvarg](https://github.com/idkvarg)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
-- [awesomedev08](https://github.com/awesomedev08)
 
 #### 🎢 Stats
 

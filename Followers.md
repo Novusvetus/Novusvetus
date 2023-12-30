@@ -1,4 +1,5 @@
 
+- [HeyHeyChicken](https://github.com/HeyHeyChicken)
 - [rajatcantcode](https://github.com/rajatcantcode)
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
@@ -98,4 +99,3 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
-- [confidentmeerkat](https://github.com/confidentmeerkat)
