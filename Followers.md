@@ -1,5 +1,4 @@
 
-- [HeyHeyChicken](https://github.com/HeyHeyChicken)
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
 - [groupofstars](https://github.com/groupofstars)
@@ -99,3 +98,4 @@
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
+- [lincon-ac](https://github.com/lincon-ac)
