@@ -21,7 +21,6 @@
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
-- [terrorist](https://github.com/terrorist)
 - [AlpetG](https://github.com/AlpetG)
 - [binary-blazer](https://github.com/binary-blazer)
 - [mvaibhav131](https://github.com/mvaibhav131)
@@ -99,3 +98,4 @@
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
+- [lincon-ac](https://github.com/lincon-ac)
