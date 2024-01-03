@@ -2,7 +2,6 @@
 - [HeyHeyChicken](https://github.com/HeyHeyChicken)
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
-- [groupofstars](https://github.com/groupofstars)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
 - [idkvarg](https://github.com/idkvarg)
@@ -99,3 +98,4 @@
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
+- [Shahupdates](https://github.com/Shahupdates)
