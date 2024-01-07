@@ -4,7 +4,6 @@
 - [nakshatra05](https://github.com/nakshatra05)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
-- [idkvarg](https://github.com/idkvarg)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
 - [awesomedev08](https://github.com/awesomedev08)
@@ -99,3 +98,4 @@
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
 - [Shahupdates](https://github.com/Shahupdates)
+- [DannyMay9082](https://github.com/DannyMay9082)
