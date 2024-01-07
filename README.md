@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dawn0123](https://github.com/dawn0123)
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
-- [dougkalash](https://github.com/dougkalash)
 
 #### 🎢 Stats
 
