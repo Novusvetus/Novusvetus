@@ -13,15 +13,15 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 #### 💻 Check out what I'm currently working on
 
 - [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+- [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 - [Mendelssohn-Repository/Mendelssohn](https://github.com/Mendelssohn-Repository/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Mendelssohn-Repository/.github](https://github.com/Mendelssohn-Repository/.github) - This is a ✨special ✨ repository.
-- [Mendelssohn-Repository/Github](https://github.com/Mendelssohn-Repository/Github) - Github  extension for Mendelssohn.
 - [Mendelssohn-Repository/Bitbucket](https://github.com/Mendelssohn-Repository/Bitbucket) - Bitbucket  extension for Mendelssohn.
+- [Mendelssohn-Repository/Github](https://github.com/Mendelssohn-Repository/Github) - Github  extension for Mendelssohn.
 - [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - Gitlab  extension for Mendelssohn.
 - [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
-- [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
+- [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
-- [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io) - (WIP) My personal github.io page.
 
 #### 🐣 My latest projects
 
@@ -75,7 +75,7 @@ _Nobody sponsors me. I am poor..._
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.01% followers!
+Worldwide 🌍: Top 0.02% followers!
 
 Germany 🇩🇪: Top 0.2% followers!
 
