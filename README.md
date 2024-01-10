@@ -61,6 +61,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [subhamkumarr](https://github.com/subhamkumarr)
 - [StrongDonald](https://github.com/StrongDonald)
 - [dawn0123](https://github.com/dawn0123)
 - [Cwackz](https://github.com/Cwackz)
@@ -70,7 +71,6 @@ _Nobody sponsors me. I am poor..._
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [whitesnow1022127](https://github.com/whitesnow1022127)
 - [awesomedev08](https://github.com/awesomedev08)
-- [bstar0406](https://github.com/bstar0406)
 
 #### 🎢 Stats
 

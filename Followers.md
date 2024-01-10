@@ -1,4 +1,5 @@
 
+- [subhamkumarr](https://github.com/subhamkumarr)
 - [StrongDonald](https://github.com/StrongDonald)
 - [dawn0123](https://github.com/dawn0123)
 - [Cwackz](https://github.com/Cwackz)
@@ -98,4 +99,3 @@
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
 - [lincon-ac](https://github.com/lincon-ac)
-- [Shahupdates](https://github.com/Shahupdates)
