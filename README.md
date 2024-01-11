@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
 - [subhamkumarr](https://github.com/subhamkumarr)
@@ -68,14 +69,13 @@ _Nobody sponsors me. I am poor..._
 - [nakshatra05](https://github.com/nakshatra05)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
-- [StevenKamwaza](https://github.com/StevenKamwaza)
 
 #### 🎢 Stats
 
 
-Worldwide 🌍: Top 0.008% followers!
+Worldwide 🌍: Top 0.01% followers!
 
-Germany 🇩🇪: Top 0.2% followers!
+Germany 🇩🇪: Top 0.1% followers!
 
 
 ![Novusvetus' stats](https://github-readme-stats.vercel.app/api?username=novusvetus&show_icons=true&count_private=true)

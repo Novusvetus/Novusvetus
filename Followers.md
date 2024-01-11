@@ -1,4 +1,5 @@
 
+- [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
 - [subhamkumarr](https://github.com/subhamkumarr)
@@ -98,4 +99,3 @@
 - [AvinandanBose](https://github.com/AvinandanBose)
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
-- [confidentmeerkat](https://github.com/confidentmeerkat)
