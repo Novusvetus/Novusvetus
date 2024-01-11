@@ -55,9 +55,9 @@ _I have no friends..._
 #### 🎢 Stats
 
 <!-- TEXTSTATS_START -->
-Worldwide 🌍: Top 0.02% followers!
+Worldwide 🌍: Top 0.01% followers!
 
-Germany 🇩🇪: Top 0.2% followers!
+Germany 🇩🇪: Top 0.1% followers!
 <!-- TEXTSTATS_END -->
 
 ![Novusvetus' stats](https://github-readme-stats.vercel.app/api?username=novusvetus&show_icons=true&count_private=true)
