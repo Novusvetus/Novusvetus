@@ -1,4 +1,5 @@
 
+- [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
 - [subhamkumarr](https://github.com/subhamkumarr)
 - [StrongDonald](https://github.com/StrongDonald)
@@ -98,4 +99,3 @@
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
-- [lincon-ac](https://github.com/lincon-ac)

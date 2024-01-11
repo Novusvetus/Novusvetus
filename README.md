@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
 - [subhamkumarr](https://github.com/subhamkumarr)
 - [StrongDonald](https://github.com/StrongDonald)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
-- [whitesnow1022127](https://github.com/whitesnow1022127)
 
 #### 🎢 Stats
 
