@@ -71,7 +71,6 @@
 - [elite390497](https://github.com/elite390497)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
-- [i12cu84](https://github.com/i12cu84)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Reiderade](https://github.com/Reiderade)
@@ -99,3 +98,4 @@
 - [katchion13](https://github.com/katchion13)
 - [gooddavvy](https://github.com/gooddavvy)
 - [confidentmeerkat](https://github.com/confidentmeerkat)
+- [lincon-ac](https://github.com/lincon-ac)
