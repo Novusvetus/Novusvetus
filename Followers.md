@@ -1,4 +1,5 @@
 
+- [Razmahit](https://github.com/Razmahit)
 - [flexcommits](https://github.com/flexcommits)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
@@ -98,4 +99,3 @@
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
 - [kolya2803](https://github.com/kolya2803)
-- [AvinandanBose](https://github.com/AvinandanBose)

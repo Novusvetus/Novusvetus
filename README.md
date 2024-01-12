@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Razmahit](https://github.com/Razmahit)
 - [flexcommits](https://github.com/flexcommits)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [StrongDonald](https://github.com/StrongDonald)
 - [dawn0123](https://github.com/dawn0123)
 - [Cwackz](https://github.com/Cwackz)
-- [nakshatra05](https://github.com/nakshatra05)
 
 #### 🎢 Stats
 
