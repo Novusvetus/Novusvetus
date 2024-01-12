@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
-- [DarkHorse0311](https://github.com/DarkHorse0311)
 
 #### 🎢 Stats
 
