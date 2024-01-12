@@ -1,4 +1,5 @@
 
+- [flexcommits](https://github.com/flexcommits)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
@@ -98,4 +99,3 @@
 - [craftysecurity](https://github.com/craftysecurity)
 - [kolya2803](https://github.com/kolya2803)
 - [AvinandanBose](https://github.com/AvinandanBose)
-- [katchion13](https://github.com/katchion13)
