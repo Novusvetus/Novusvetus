@@ -6,7 +6,6 @@
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
-- [subhamkumarr](https://github.com/subhamkumarr)
 - [StrongDonald](https://github.com/StrongDonald)
 - [dawn0123](https://github.com/dawn0123)
 - [Cwackz](https://github.com/Cwackz)
@@ -99,3 +98,4 @@
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
+- [kolya2803](https://github.com/kolya2803)
