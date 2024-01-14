@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2024-01-14](https://github.com/Novusvetus/action-php_codesniffer/pull/777) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-13](https://github.com/Novusvetus/action-php_codesniffer/pull/776) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-11](https://github.com/Novusvetus/action-php_codesniffer/pull/775) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-10](https://github.com/Novusvetus/action-php_codesniffer/pull/772) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -52,7 +53,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2024-01-03](https://github.com/Novusvetus/Spotifriendslist/pull/13) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Updates 2024-01-01](https://github.com/Novusvetus/novusvetus.github.io/pull/13) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
 - [Updates 2023-12-31](https://github.com/Novusvetus/action-php_codesniffer/pull/761) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2023-12-27](https://github.com/Novusvetus/GedcomParser/pull/55) on [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
