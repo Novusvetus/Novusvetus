@@ -34,7 +34,6 @@
 - [abdorrahmani](https://github.com/abdorrahmani)
 - [Emakiflom](https://github.com/Emakiflom)
 - [Thizh](https://github.com/Thizh)
-- [HappyDream0317](https://github.com/HappyDream0317)
 - [loranYousef](https://github.com/loranYousef)
 - [in-jun](https://github.com/in-jun)
 - [george0st](https://github.com/george0st)
@@ -99,3 +98,4 @@
 - [Freddywhest](https://github.com/Freddywhest)
 - [craftysecurity](https://github.com/craftysecurity)
 - [kolya2803](https://github.com/kolya2803)
+- [AvinandanBose](https://github.com/AvinandanBose)
