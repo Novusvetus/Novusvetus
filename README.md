@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
 - [dongwookkim3](https://github.com/dongwookkim3)
 - [Razmahit](https://github.com/Razmahit)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [rman1223](https://github.com/rman1223)
 - [StrongDonald](https://github.com/StrongDonald)
 - [dawn0123](https://github.com/dawn0123)
-- [Cwackz](https://github.com/Cwackz)
 
 #### 🎢 Stats
 
