@@ -63,13 +63,13 @@ _Nobody sponsors me. I am poor..._
 - [karthik558](https://github.com/karthik558)
 - [dongwookkim3](https://github.com/dongwookkim3)
 - [Razmahit](https://github.com/Razmahit)
-- [flexcommits](https://github.com/flexcommits)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
 - [StrongDonald](https://github.com/StrongDonald)
 - [dawn0123](https://github.com/dawn0123)
+- [Cwackz](https://github.com/Cwackz)
 
 #### 🎢 Stats
 
