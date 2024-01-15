@@ -1,4 +1,5 @@
 
+- [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
@@ -15,7 +16,7 @@
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
-- [OleksiiKasian1803](https://github.com/OleksiiKasian1803)
+- [snow1022127](https://github.com/snow1022127)
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
@@ -98,4 +99,3 @@
 - [ozboware](https://github.com/ozboware)
 - [wonkyungup](https://github.com/wonkyungup)
 - [Freddywhest](https://github.com/Freddywhest)
-- [craftysecurity](https://github.com/craftysecurity)

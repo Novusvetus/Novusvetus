@@ -45,6 +45,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2024-01-15](https://github.com/Novusvetus/action-php_codesniffer/pull/779) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-14](https://github.com/Novusvetus/action-php_codesniffer/pull/777) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-13](https://github.com/Novusvetus/action-php_codesniffer/pull/776) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-11](https://github.com/Novusvetus/action-php_codesniffer/pull/775) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -52,7 +53,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Updates 2024-01-04](https://github.com/Novusvetus/StreamersMQTT/pull/14) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 - [Updates 2024-01-03](https://github.com/Novusvetus/Spotifriendslist/pull/13) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 - [Updates 2024-01-01](https://github.com/Novusvetus/novusvetus.github.io/pull/13) on [Novusvetus/novusvetus.github.io](https://github.com/Novusvetus/novusvetus.github.io)
-- [Updates 2023-12-31](https://github.com/Novusvetus/action-php_codesniffer/pull/761) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [rman1223](https://github.com/rman1223)
-- [StrongDonald](https://github.com/StrongDonald)
 
 #### 🎢 Stats
 
