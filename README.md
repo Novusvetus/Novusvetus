@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [Razmahit](https://github.com/Razmahit)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
-- [toptalhook](https://github.com/toptalhook)
 
 #### 🎢 Stats
 
