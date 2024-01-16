@@ -1,4 +1,5 @@
 
+- [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
@@ -98,4 +99,3 @@
 - [dawidolko](https://github.com/dawidolko)
 - [ozboware](https://github.com/ozboware)
 - [wonkyungup](https://github.com/wonkyungup)
-- [Freddywhest](https://github.com/Freddywhest)
