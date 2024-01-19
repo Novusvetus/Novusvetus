@@ -1,4 +1,5 @@
 
+- [CleuJunior](https://github.com/CleuJunior)
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
@@ -98,4 +99,3 @@
 - [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
 - [dawidolko](https://github.com/dawidolko)
-- [ozboware](https://github.com/ozboware)
