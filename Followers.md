@@ -1,4 +1,5 @@
 
+- [metect](https://github.com/metect)
 - [CleuJunior](https://github.com/CleuJunior)
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [dawn0123](https://github.com/dawn0123)
@@ -98,4 +99,3 @@
 - [sara8086](https://github.com/sara8086)
 - [alternbit](https://github.com/alternbit)
 - [agathafr](https://github.com/agathafr)
-- [dawidolko](https://github.com/dawidolko)

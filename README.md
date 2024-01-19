@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [metect](https://github.com/metect)
 - [CleuJunior](https://github.com/CleuJunior)
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [dawn0123](https://github.com/dawn0123)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
 - [dongwookkim3](https://github.com/dongwookkim3)
-- [Razmahit](https://github.com/Razmahit)
 
 #### 🎢 Stats
 
