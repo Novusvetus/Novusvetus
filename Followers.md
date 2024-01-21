@@ -1,7 +1,6 @@
 
 - [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
-- [metect](https://github.com/metect)
 - [CleuJunior](https://github.com/CleuJunior)
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [dawn0123](https://github.com/dawn0123)
@@ -99,3 +98,4 @@
 - [mitranaser](https://github.com/mitranaser)
 - [OsmanMR99](https://github.com/OsmanMR99)
 - [sara8086](https://github.com/sara8086)
+- [alternbit](https://github.com/alternbit)
