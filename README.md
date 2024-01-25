@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [metect](https://github.com/metect)
 - [web3-degen](https://github.com/web3-degen)
 - [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
-- [warmice71](https://github.com/warmice71)
 
 #### 🎢 Stats
 
