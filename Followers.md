@@ -71,7 +71,6 @@
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
 - [accept96](https://github.com/accept96)
-- [GregTakeo25](https://github.com/GregTakeo25)
 - [Nodroid7](https://github.com/Nodroid7)
 - [mn0unreal](https://github.com/mn0unreal)
 - [Youssefouah](https://github.com/Youssefouah)
@@ -99,3 +98,4 @@
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
 - [mitranaser](https://github.com/mitranaser)
+- [OsmanMR99](https://github.com/OsmanMR99)
