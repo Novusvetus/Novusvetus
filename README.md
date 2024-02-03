@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
-- [metect](https://github.com/metect)
 - [web3-degen](https://github.com/web3-degen)
 - [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
+- [CursedPrograms](https://github.com/CursedPrograms)
 
 #### 🎢 Stats
 

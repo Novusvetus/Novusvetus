@@ -1,7 +1,6 @@
 
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
-- [metect](https://github.com/metect)
 - [web3-degen](https://github.com/web3-degen)
 - [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
@@ -99,3 +98,4 @@
 - [jahan5455](https://github.com/jahan5455)
 - [mitranaser](https://github.com/mitranaser)
 - [OsmanMR99](https://github.com/OsmanMR99)
+- [sara8086](https://github.com/sara8086)
