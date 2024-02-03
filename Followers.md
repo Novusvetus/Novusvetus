@@ -1,4 +1,5 @@
 
+- [Allanoallashe](https://github.com/Allanoallashe)
 - [metect](https://github.com/metect)
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
@@ -98,4 +99,3 @@
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
 - [mitranaser](https://github.com/mitranaser)
-- [OsmanMR99](https://github.com/OsmanMR99)
