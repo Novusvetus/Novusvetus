@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
-- [metect](https://github.com/metect)
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
 - [web3-degen](https://github.com/web3-degen)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [tharindu-d](https://github.com/tharindu-d)
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
+- [hafsalodhi2023](https://github.com/hafsalodhi2023)
 
 #### 🎢 Stats
 
