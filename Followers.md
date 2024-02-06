@@ -1,4 +1,5 @@
 
+- [farhan7reza7](https://github.com/farhan7reza7)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
@@ -98,4 +99,3 @@
 - [midas95](https://github.com/midas95)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [mahseema](https://github.com/mahseema)
-- [jahan5455](https://github.com/jahan5455)
