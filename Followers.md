@@ -1,4 +1,5 @@
 
+- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
 - [dangerousfatal](https://github.com/dangerousfatal)
@@ -98,4 +99,3 @@
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
 - [mahseema](https://github.com/mahseema)
 - [jahan5455](https://github.com/jahan5455)
-- [mitranaser](https://github.com/mitranaser)

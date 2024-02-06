@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
 - [dangerousfatal](https://github.com/dangerousfatal)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [tharindu-d](https://github.com/tharindu-d)
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
-- [hafsalodhi2023](https://github.com/hafsalodhi2023)
 
 #### 🎢 Stats
 
