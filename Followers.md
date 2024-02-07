@@ -7,7 +7,6 @@
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
 - [web3-degen](https://github.com/web3-degen)
-- [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
@@ -99,3 +98,4 @@
 - [D4Fi](https://github.com/D4Fi)
 - [midas95](https://github.com/midas95)
 - [Rodrigo-Cn](https://github.com/Rodrigo-Cn)
+- [mahseema](https://github.com/mahseema)

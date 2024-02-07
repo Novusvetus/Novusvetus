@@ -68,8 +68,8 @@ _Nobody sponsors me. I am poor..._
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
 - [web3-degen](https://github.com/web3-degen)
-- [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
+- [CleuJunior](https://github.com/CleuJunior)
 
 #### 🎢 Stats
 
