@@ -27,7 +27,7 @@
 - [lialinvladyslav](https://github.com/lialinvladyslav)
 - [DarkHorse0311](https://github.com/DarkHorse0311)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
-- [snow1022127](https://github.com/snow1022127)
+- [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
