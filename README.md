@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [champion10873](https://github.com/champion10873)
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [maxprohor](https://github.com/maxprohor)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [web3-degen](https://github.com/web3-degen)
 - [victorpreston](https://github.com/victorpreston)
 - [tharindu-d](https://github.com/tharindu-d)
-- [CleuJunior](https://github.com/CleuJunior)
 
 #### 🎢 Stats
 
