@@ -1,4 +1,5 @@
 
+- [JamesKano0128](https://github.com/JamesKano0128)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
 - [champion10873](https://github.com/champion10873)
@@ -98,4 +99,3 @@
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
-- [midas95](https://github.com/midas95)
