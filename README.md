@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [JamesKano0128](https://github.com/JamesKano0128)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
 - [champion10873](https://github.com/champion10873)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [Allanoallashe](https://github.com/Allanoallashe)
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
+- [web3-degen](https://github.com/web3-degen)
 
 #### 🎢 Stats
 
