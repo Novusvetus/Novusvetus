@@ -64,12 +64,12 @@ _Nobody sponsors me. I am poor..._
 - [AndriiFullStack](https://github.com/AndriiFullStack)
 - [champion10873](https://github.com/champion10873)
 - [farhan7reza7](https://github.com/farhan7reza7)
-- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
 - [web3-degen](https://github.com/web3-degen)
+- [tharindu-d](https://github.com/tharindu-d)
 
 #### 🎢 Stats
 
