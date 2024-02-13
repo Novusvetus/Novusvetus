@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dougkalash](https://github.com/dougkalash)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
 - [champion10873](https://github.com/champion10873)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
 - [web3-degen](https://github.com/web3-degen)
-- [tharindu-d](https://github.com/tharindu-d)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [dougkalash](https://github.com/dougkalash)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
 - [champion10873](https://github.com/champion10873)
@@ -32,7 +33,6 @@
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
-- [dougkalash](https://github.com/dougkalash)
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
 - [vjanz](https://github.com/vjanz)
