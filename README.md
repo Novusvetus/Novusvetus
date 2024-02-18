@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [johncarlosofficial](https://github.com/johncarlosofficial)
 - [MrBElga](https://github.com/MrBElga)
 - [flaviopavim](https://github.com/flaviopavim)
 - [dougkalash](https://github.com/dougkalash)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
-- [dangerousfatal](https://github.com/dangerousfatal)
 
 #### 🎢 Stats
 
