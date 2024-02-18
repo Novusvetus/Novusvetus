@@ -1,4 +1,5 @@
 
+- [MrBElga](https://github.com/MrBElga)
 - [flaviopavim](https://github.com/flaviopavim)
 - [dougkalash](https://github.com/dougkalash)
 - [ProspDev](https://github.com/ProspDev)
@@ -98,4 +99,3 @@
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
-- [midas95](https://github.com/midas95)
