@@ -60,10 +60,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dougkalash](https://github.com/dougkalash)
 - [johncarlosofficial](https://github.com/johncarlosofficial)
 - [MrBElga](https://github.com/MrBElga)
 - [flaviopavim](https://github.com/flaviopavim)
-- [dougkalash](https://github.com/dougkalash)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
 - [champion10873](https://github.com/champion10873)
