@@ -1,4 +1,5 @@
 
+- [manmaks](https://github.com/manmaks)
 - [dougkalash](https://github.com/dougkalash)
 - [johncarlosofficial](https://github.com/johncarlosofficial)
 - [MrBElga](https://github.com/MrBElga)
@@ -98,4 +99,3 @@
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
-- [D4Fi](https://github.com/D4Fi)
