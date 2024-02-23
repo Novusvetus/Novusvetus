@@ -60,8 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [rman1223](https://github.com/rman1223)
 - [dougkalash](https://github.com/dougkalash)
+- [rman1223](https://github.com/rman1223)
 - [manmaks](https://github.com/manmaks)
 - [johncarlosofficial](https://github.com/johncarlosofficial)
 - [MrBElga](https://github.com/MrBElga)
