@@ -1,4 +1,5 @@
 
+- [rman1223](https://github.com/rman1223)
 - [dougkalash](https://github.com/dougkalash)
 - [manmaks](https://github.com/manmaks)
 - [johncarlosofficial](https://github.com/johncarlosofficial)
@@ -26,7 +27,6 @@
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
-- [rman1223](https://github.com/rman1223)
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
