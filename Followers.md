@@ -61,7 +61,6 @@
 - [Robertzz2](https://github.com/Robertzz2)
 - [ninjadev0831](https://github.com/ninjadev0831)
 - [Jordan-2113](https://github.com/Jordan-2113)
-- [mohammadhasanii](https://github.com/mohammadhasanii)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
@@ -99,3 +98,4 @@
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
 - [D4Fi](https://github.com/D4Fi)
+- [midas95](https://github.com/midas95)
