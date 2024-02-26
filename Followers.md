@@ -11,7 +11,6 @@
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
-- [dangerousfatal](https://github.com/dangerousfatal)
 - [unmitra](https://github.com/unmitra)
 - [web3-degen](https://github.com/web3-degen)
 - [tharindu-d](https://github.com/tharindu-d)
@@ -99,3 +98,4 @@
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
+- [D4Fi](https://github.com/D4Fi)
