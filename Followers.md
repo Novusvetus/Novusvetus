@@ -1,4 +1,5 @@
 
+- [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [dougkalash](https://github.com/dougkalash)
 - [rman1223](https://github.com/rman1223)
@@ -98,4 +99,3 @@
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
-- [D4Fi](https://github.com/D4Fi)
