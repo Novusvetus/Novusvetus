@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [dougkalash](https://github.com/dougkalash)
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [rman1223](https://github.com/rman1223)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [flaviopavim](https://github.com/flaviopavim)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
+- [champion10873](https://github.com/champion10873)
 
 #### 🎢 Stats
 
