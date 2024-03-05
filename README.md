@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
-- [dougkalash](https://github.com/dougkalash)
 - [rman1223](https://github.com/rman1223)
 - [manmaks](https://github.com/manmaks)
 - [johncarlosofficial](https://github.com/johncarlosofficial)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [flaviopavim](https://github.com/flaviopavim)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
+- [champion10873](https://github.com/champion10873)
 
 #### 🎢 Stats
 
