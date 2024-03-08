@@ -1,6 +1,5 @@
 
 - [OskarMast](https://github.com/OskarMast)
-- [mahdiramazani](https://github.com/mahdiramazani)
 - [dougkalash](https://github.com/dougkalash)
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
@@ -99,3 +98,4 @@
 - [charles0830](https://github.com/charles0830)
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
+- [Sam666O](https://github.com/Sam666O)
