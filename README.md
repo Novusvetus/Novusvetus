@@ -66,10 +66,10 @@ _Nobody sponsors me. I am poor..._
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [rman1223](https://github.com/rman1223)
 - [manmaks](https://github.com/manmaks)
-- [johncarlosofficial](https://github.com/johncarlosofficial)
 - [MrBElga](https://github.com/MrBElga)
 - [flaviopavim](https://github.com/flaviopavim)
 - [ProspDev](https://github.com/ProspDev)
+- [AndriiFullStack](https://github.com/AndriiFullStack)
 
 #### 🎢 Stats
 
