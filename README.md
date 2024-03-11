@@ -60,8 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [OskarMast](https://github.com/OskarMast)
 - [dougkalash](https://github.com/dougkalash)
+- [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [rman1223](https://github.com/rman1223)
