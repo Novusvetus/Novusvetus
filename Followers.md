@@ -1,6 +1,6 @@
 
-- [MadSkel8on](https://github.com/MadSkel8on)
 - [dougkalash](https://github.com/dougkalash)
+- [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
