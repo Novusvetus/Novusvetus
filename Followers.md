@@ -24,7 +24,6 @@
 - [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
 - [dongwookkim3](https://github.com/dongwookkim3)
-- [Razmahit](https://github.com/Razmahit)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
@@ -99,3 +98,4 @@
 - [Omar95-A](https://github.com/Omar95-A)
 - [Amir-Afshar-1](https://github.com/Amir-Afshar-1)
 - [Sam666O](https://github.com/Sam666O)
+- [D4Fi](https://github.com/D4Fi)
