@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aldrshan](https://github.com/aldrshan)
 - [dougkalash](https://github.com/dougkalash)
 - [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [manmaks](https://github.com/manmaks)
 - [MrBElga](https://github.com/MrBElga)
 - [flaviopavim](https://github.com/flaviopavim)
-- [ProspDev](https://github.com/ProspDev)
 
 #### 🎢 Stats
 
