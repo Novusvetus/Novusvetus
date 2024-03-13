@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gr8monk3ys](https://github.com/gr8monk3ys)
 - [whitenight1201](https://github.com/whitenight1201)
 - [Doaa-Tartir](https://github.com/Doaa-Tartir)
 - [aldrshan](https://github.com/aldrshan)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [rman1223](https://github.com/rman1223)
-- [manmaks](https://github.com/manmaks)
 
 #### 🎢 Stats
 
