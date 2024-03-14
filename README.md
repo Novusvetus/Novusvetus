@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vistaJ0103](https://github.com/vistaJ0103)
 - [dougkalash](https://github.com/dougkalash)
 - [gr8monk3ys](https://github.com/gr8monk3ys)
 - [whitenight1201](https://github.com/whitenight1201)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
-- [rman1223](https://github.com/rman1223)
 
 #### 🎢 Stats
 
