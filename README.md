@@ -64,12 +64,12 @@ _Nobody sponsors me. I am poor..._
 - [whitenight1201](https://github.com/whitenight1201)
 - [Doaa-Tartir](https://github.com/Doaa-Tartir)
 - [aldrshan](https://github.com/aldrshan)
-- [dougkalash](https://github.com/dougkalash)
 - [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [rman1223](https://github.com/rman1223)
+- [manmaks](https://github.com/manmaks)
 
 #### 🎢 Stats
 

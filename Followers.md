@@ -3,7 +3,6 @@
 - [whitenight1201](https://github.com/whitenight1201)
 - [Doaa-Tartir](https://github.com/Doaa-Tartir)
 - [aldrshan](https://github.com/aldrshan)
-- [dougkalash](https://github.com/dougkalash)
 - [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
@@ -99,3 +98,4 @@
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Reiderade](https://github.com/Reiderade)
 - [charles0830](https://github.com/charles0830)
+- [Omar95-A](https://github.com/Omar95-A)
