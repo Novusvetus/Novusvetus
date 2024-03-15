@@ -1,4 +1,5 @@
 
+- [thiagopac](https://github.com/thiagopac)
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [dougkalash](https://github.com/dougkalash)
 - [gr8monk3ys](https://github.com/gr8monk3ys)
@@ -98,4 +99,3 @@
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
-- [Reiderade](https://github.com/Reiderade)
