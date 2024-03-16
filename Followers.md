@@ -35,7 +35,6 @@
 - [Cwackz](https://github.com/Cwackz)
 - [nakshatra05](https://github.com/nakshatra05)
 - [lialinvladyslav](https://github.com/lialinvladyslav)
-- [DarkHorse0311](https://github.com/DarkHorse0311)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
@@ -99,3 +98,4 @@
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Reiderade](https://github.com/Reiderade)
+- [charles0830](https://github.com/charles0830)
