@@ -4,7 +4,6 @@
 - [dougkalash](https://github.com/dougkalash)
 - [gr8monk3ys](https://github.com/gr8monk3ys)
 - [whitenight1201](https://github.com/whitenight1201)
-- [Doaa-Tartir](https://github.com/Doaa-Tartir)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
@@ -99,3 +98,4 @@
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
+- [Reiderade](https://github.com/Reiderade)
