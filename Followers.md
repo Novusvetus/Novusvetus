@@ -47,7 +47,6 @@
 - [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
 - [codeWizard337](https://github.com/codeWizard337)
-- [H-K-R](https://github.com/H-K-R)
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
@@ -99,3 +98,4 @@
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
+- [Reiderade](https://github.com/Reiderade)
