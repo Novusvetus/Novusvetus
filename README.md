@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
 - [nickdev0118](https://github.com/nickdev0118)
 - [MrMDrX](https://github.com/MrMDrX)
 - [vistaJ0103](https://github.com/vistaJ0103)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
-- [AlexNesvit](https://github.com/AlexNesvit)
 
 #### 🎢 Stats
 

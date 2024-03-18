@@ -1,4 +1,5 @@
 
+- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
 - [nickdev0118](https://github.com/nickdev0118)
 - [MrMDrX](https://github.com/MrMDrX)
 - [vistaJ0103](https://github.com/vistaJ0103)
@@ -98,4 +99,3 @@
 - [shahriar-rahman](https://github.com/shahriar-rahman)
 - [Reiderade](https://github.com/Reiderade)
 - [charles0830](https://github.com/charles0830)
-- [Omar95-A](https://github.com/Omar95-A)
