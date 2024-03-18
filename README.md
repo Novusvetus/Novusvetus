@@ -65,11 +65,11 @@ _Nobody sponsors me. I am poor..._
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [dougkalash](https://github.com/dougkalash)
 - [gr8monk3ys](https://github.com/gr8monk3ys)
-- [whitenight1201](https://github.com/whitenight1201)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
 - [OskarMast](https://github.com/OskarMast)
 - [juliofleitas](https://github.com/juliofleitas)
+- [AlexNesvit](https://github.com/AlexNesvit)
 
 #### 🎢 Stats
 
