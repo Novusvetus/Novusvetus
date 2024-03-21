@@ -1,4 +1,5 @@
 
+- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
@@ -98,4 +99,3 @@
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [anaselgarhy](https://github.com/anaselgarhy)
 - [shahriar-rahman](https://github.com/shahriar-rahman)
-- [Reiderade](https://github.com/Reiderade)

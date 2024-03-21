@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [gr8monk3ys](https://github.com/gr8monk3ys)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
-- [OskarMast](https://github.com/OskarMast)
 
 #### 🎢 Stats
 
