@@ -67,7 +67,7 @@
 - [Muga20](https://github.com/Muga20)
 - [amirallami-code](https://github.com/amirallami-code)
 - [Robertzz2](https://github.com/Robertzz2)
-- [ninjadev0831](https://github.com/ninjadev0831)
+- [DanielSmith0831](https://github.com/DanielSmith0831)
 - [Jordan-2113](https://github.com/Jordan-2113)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
