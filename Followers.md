@@ -67,7 +67,6 @@
 - [Muga20](https://github.com/Muga20)
 - [amirallami-code](https://github.com/amirallami-code)
 - [Robertzz2](https://github.com/Robertzz2)
-- [DanielSmith0831](https://github.com/DanielSmith0831)
 - [Jordan-2113](https://github.com/Jordan-2113)
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
@@ -99,3 +98,4 @@
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
 - [anaselgarhy](https://github.com/anaselgarhy)
+- [shahriar-rahman](https://github.com/shahriar-rahman)
