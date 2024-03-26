@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mutasim77](https://github.com/mutasim77)
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [dougkalash](https://github.com/dougkalash)
 - [gr8monk3ys](https://github.com/gr8monk3ys)
-- [aldrshan](https://github.com/aldrshan)
 
 #### 🎢 Stats
 
