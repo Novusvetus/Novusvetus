@@ -1,4 +1,5 @@
 
+- [Denys0808](https://github.com/Denys0808)
 - [valloon427428](https://github.com/valloon427428)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [mutasim77](https://github.com/mutasim77)
@@ -98,4 +99,3 @@
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
 - [elite390497](https://github.com/elite390497)
-- [jarvis-acv](https://github.com/jarvis-acv)
