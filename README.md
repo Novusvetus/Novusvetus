@@ -67,9 +67,9 @@ _Nobody sponsors me. I am poor..._
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
-- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
+- [dougkalash](https://github.com/dougkalash)
 
 #### 🎢 Stats
 
