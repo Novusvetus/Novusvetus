@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [Denys0808](https://github.com/Denys0808)
-- [valloon427428](https://github.com/valloon427428)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [mutasim77](https://github.com/mutasim77)
 - [techsolutioncat](https://github.com/techsolutioncat)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [dougkalash](https://github.com/dougkalash)
+- [gr8monk3ys](https://github.com/gr8monk3ys)
 
 #### 🎢 Stats
 
