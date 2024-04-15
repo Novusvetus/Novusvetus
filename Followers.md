@@ -2,7 +2,6 @@
 - [defihook](https://github.com/defihook)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
-- [mutasim77](https://github.com/mutasim77)
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
@@ -99,3 +98,4 @@
 - [0x17](https://github.com/0x17)
 - [elite390497](https://github.com/elite390497)
 - [jarvis-acv](https://github.com/jarvis-acv)
+- [SukeshRondla](https://github.com/SukeshRondla)
