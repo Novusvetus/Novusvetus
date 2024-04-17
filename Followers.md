@@ -1,4 +1,5 @@
 
+- [dougkalash](https://github.com/dougkalash)
 - [defihook](https://github.com/defihook)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
@@ -7,7 +8,6 @@
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
-- [dougkalash](https://github.com/dougkalash)
 - [gr8monk3ys](https://github.com/gr8monk3ys)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
