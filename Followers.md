@@ -16,7 +16,6 @@
 - [AlexNesvit](https://github.com/AlexNesvit)
 - [rman1223](https://github.com/rman1223)
 - [manmaks](https://github.com/manmaks)
-- [MrBElga](https://github.com/MrBElga)
 - [flaviopavim](https://github.com/flaviopavim)
 - [ProspDev](https://github.com/ProspDev)
 - [AndriiFullStack](https://github.com/AndriiFullStack)
@@ -99,3 +98,4 @@
 - [elite390497](https://github.com/elite390497)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
+- [anaselgarhy](https://github.com/anaselgarhy)
