@@ -18,7 +18,7 @@
 - [manmaks](https://github.com/manmaks)
 - [flaviopavim](https://github.com/flaviopavim)
 - [ProspDev](https://github.com/ProspDev)
-- [AndriiFullStack](https://github.com/AndriiFullStack)
+- [MykytaFullStack](https://github.com/MykytaFullStack)
 - [champion10873](https://github.com/champion10873)
 - [farhan7reza7](https://github.com/farhan7reza7)
 - [maxprohor](https://github.com/maxprohor)
