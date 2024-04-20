@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [codeWithDavide](https://github.com/codeWithDavide)
 - [PHPTCloud](https://github.com/PHPTCloud)
 - [dougkalash](https://github.com/dougkalash)
 - [defihook](https://github.com/defihook)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [nickdev0118](https://github.com/nickdev0118)
-- [vistaJ0103](https://github.com/vistaJ0103)
 
 #### 🎢 Stats
 

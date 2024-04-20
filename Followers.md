@@ -1,4 +1,5 @@
 
+- [codeWithDavide](https://github.com/codeWithDavide)
 - [PHPTCloud](https://github.com/PHPTCloud)
 - [dougkalash](https://github.com/dougkalash)
 - [defihook](https://github.com/defihook)
@@ -98,4 +99,3 @@
 - [elite390497](https://github.com/elite390497)
 - [jarvis-acv](https://github.com/jarvis-acv)
 - [SukeshRondla](https://github.com/SukeshRondla)
-- [anaselgarhy](https://github.com/anaselgarhy)
