@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [monolab825](https://github.com/monolab825)
 - [codeWithDavide](https://github.com/codeWithDavide)
 - [PHPTCloud](https://github.com/PHPTCloud)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
-- [mohmadalamansari](https://github.com/mohmadalamansari)
 
 #### 🎢 Stats
 
