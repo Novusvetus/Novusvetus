@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [54J4N](https://github.com/54J4N)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [monolab825](https://github.com/monolab825)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [defihook](https://github.com/defihook)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
+- [techsolutioncat](https://github.com/techsolutioncat)
 
 #### 🎢 Stats
 
