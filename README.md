@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [uanc](https://github.com/uanc)
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [dougkalash](https://github.com/dougkalash)
 - [defihook](https://github.com/defihook)
 - [Denys0808](https://github.com/Denys0808)
-- [aylarghezelbash](https://github.com/aylarghezelbash)
 
 #### 🎢 Stats
 
