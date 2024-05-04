@@ -67,9 +67,9 @@ _Nobody sponsors me. I am poor..._
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [monolab825](https://github.com/monolab825)
 - [codeWithDavide](https://github.com/codeWithDavide)
-- [PHPTCloud](https://github.com/PHPTCloud)
 - [dougkalash](https://github.com/dougkalash)
 - [defihook](https://github.com/defihook)
+- [Denys0808](https://github.com/Denys0808)
 
 #### 🎢 Stats
 
