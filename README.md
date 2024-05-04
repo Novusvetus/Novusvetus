@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [fo110wme4f0llowu](https://github.com/fo110wme4f0llowu)
 - [mukul-sharma085](https://github.com/mukul-sharma085)
 - [uanc](https://github.com/uanc)
 - [TopGuru777](https://github.com/TopGuru777)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [codeWithDavide](https://github.com/codeWithDavide)
 - [dougkalash](https://github.com/dougkalash)
 - [defihook](https://github.com/defihook)
-- [Denys0808](https://github.com/Denys0808)
 
 #### 🎢 Stats
 
