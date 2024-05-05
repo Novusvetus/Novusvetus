@@ -86,7 +86,6 @@
 - [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
-- [gitechnologi](https://github.com/gitechnologi)
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
@@ -99,3 +98,4 @@
 - [johnolson2219](https://github.com/johnolson2219)
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
+- [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
