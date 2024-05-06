@@ -55,7 +55,6 @@
 - [dragon7210](https://github.com/dragon7210)
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
-- [vjanz](https://github.com/vjanz)
 - [ip681](https://github.com/ip681)
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
@@ -99,3 +98,4 @@
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
+- [arjuncvinod](https://github.com/arjuncvinod)
