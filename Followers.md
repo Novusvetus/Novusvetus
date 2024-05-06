@@ -9,7 +9,6 @@
 - [monolab825](https://github.com/monolab825)
 - [codeWithDavide](https://github.com/codeWithDavide)
 - [dougkalash](https://github.com/dougkalash)
-- [defihook](https://github.com/defihook)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [techsolutioncat](https://github.com/techsolutioncat)
@@ -99,3 +98,4 @@
 - [cedev935](https://github.com/cedev935)
 - [andronic52](https://github.com/andronic52)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
+- [arjuncvinod](https://github.com/arjuncvinod)
