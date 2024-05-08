@@ -28,7 +28,6 @@
 - [ProspDev](https://github.com/ProspDev)
 - [MykytaFullStack](https://github.com/MykytaFullStack)
 - [champion10873](https://github.com/champion10873)
-- [farhan7reza7](https://github.com/farhan7reza7)
 - [maxprohor](https://github.com/maxprohor)
 - [Allanoallashe](https://github.com/Allanoallashe)
 - [unmitra](https://github.com/unmitra)
@@ -99,3 +98,4 @@
 - [andronic52](https://github.com/andronic52)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
+- [0x17](https://github.com/0x17)
