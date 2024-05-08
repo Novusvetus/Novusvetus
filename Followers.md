@@ -1,4 +1,5 @@
 
+- [omololevy](https://github.com/omololevy)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [mukul-sharma085](https://github.com/mukul-sharma085)
 - [uanc](https://github.com/uanc)
@@ -98,4 +99,3 @@
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
 - [0x17](https://github.com/0x17)
-- [elite390497](https://github.com/elite390497)
