@@ -1,4 +1,5 @@
 
+- [OskarMast](https://github.com/OskarMast)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [omololevy](https://github.com/omololevy)
 - [decoderwhoami](https://github.com/decoderwhoami)
@@ -98,4 +99,3 @@
 - [andronic52](https://github.com/andronic52)
 - [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
 - [arjuncvinod](https://github.com/arjuncvinod)
-- [0x17](https://github.com/0x17)
