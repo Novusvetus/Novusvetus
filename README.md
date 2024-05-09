@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vickkie](https://github.com/vickkie)
 - [OskarMast](https://github.com/OskarMast)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [omololevy](https://github.com/omololevy)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
-- [monolab825](https://github.com/monolab825)
 
 #### 🎢 Stats
 
