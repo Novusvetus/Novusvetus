@@ -47,7 +47,7 @@
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [Cwackz](https://github.com/Cwackz)
-- [nakshatra05](https://github.com/nakshatra05)
+- [Nakshatra05](https://github.com/Nakshatra05)
 - [maksimsoftdev](https://github.com/maksimsoftdev)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
