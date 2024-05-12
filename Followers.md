@@ -1,4 +1,6 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [davidlotfi](https://github.com/davidlotfi)
 - [Krishna18062005](https://github.com/Krishna18062005)
 - [vickkie](https://github.com/vickkie)
 - [OskarMast](https://github.com/OskarMast)
@@ -97,5 +99,3 @@
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [johnolson2219](https://github.com/johnolson2219)
 - [cedev935](https://github.com/cedev935)
-- [andronic52](https://github.com/andronic52)
-- [CarlosAlexandre197](https://github.com/CarlosAlexandre197)
