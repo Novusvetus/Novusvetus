@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [davidlotfi](https://github.com/davidlotfi)
 - [Krishna18062005](https://github.com/Krishna18062005)
 - [vickkie](https://github.com/vickkie)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [mukul-sharma085](https://github.com/mukul-sharma085)
 - [uanc](https://github.com/uanc)
 - [TopGuru777](https://github.com/TopGuru777)
+- [peymanmotamedifar](https://github.com/peymanmotamedifar)
 
 #### 🎢 Stats
 
