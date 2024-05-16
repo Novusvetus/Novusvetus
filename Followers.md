@@ -1,4 +1,6 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [shantunparmar](https://github.com/shantunparmar)
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
@@ -97,5 +99,3 @@
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
-- [johnolson2219](https://github.com/johnolson2219)
-- [cedev935](https://github.com/cedev935)
