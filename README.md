@@ -60,7 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
+- [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
 - [vickkie](https://github.com/vickkie)
 - [OskarMast](https://github.com/OskarMast)
