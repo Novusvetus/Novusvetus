@@ -1,4 +1,5 @@
 
+- [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
 - [vickkie](https://github.com/vickkie)
@@ -98,4 +99,3 @@
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
 - [johnolson2219](https://github.com/johnolson2219)
 - [cedev935](https://github.com/cedev935)
-- [andronic52](https://github.com/andronic52)
