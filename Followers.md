@@ -52,7 +52,7 @@
 - [toptalhook](https://github.com/toptalhook)
 - [Cwackz](https://github.com/Cwackz)
 - [Nakshatra05](https://github.com/Nakshatra05)
-- [maksimsoftdev](https://github.com/maksimsoftdev)
+- [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
