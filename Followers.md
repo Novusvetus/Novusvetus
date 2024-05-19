@@ -1,4 +1,5 @@
 
+- [agathafr](https://github.com/agathafr)
 - [shantunparmar](https://github.com/shantunparmar)
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
@@ -98,4 +99,3 @@
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
 - [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
-- [johnolson2219](https://github.com/johnolson2219)
