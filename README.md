@@ -60,8 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [agathafr](https://github.com/agathafr)
 - [shantunparmar](https://github.com/shantunparmar)
+- [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
