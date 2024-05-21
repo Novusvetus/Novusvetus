@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [luisro19997](https://github.com/luisro19997)
 - [shantunparmar](https://github.com/shantunparmar)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [OskarMast](https://github.com/OskarMast)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [omololevy](https://github.com/omololevy)
-- [mukul-sharma085](https://github.com/mukul-sharma085)
 
 #### 🎢 Stats
 
