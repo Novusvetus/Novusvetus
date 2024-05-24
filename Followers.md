@@ -1,5 +1,6 @@
 
 - [shantunparmar](https://github.com/shantunparmar)
+- [dougkalash](https://github.com/dougkalash)
 - [luisro19997](https://github.com/luisro19997)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
@@ -16,7 +17,6 @@
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [monolab825](https://github.com/monolab825)
 - [codeWithDavide](https://github.com/codeWithDavide)
-- [dougkalash](https://github.com/dougkalash)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [techsolutioncat](https://github.com/techsolutioncat)
