@@ -88,7 +88,6 @@
 - [NyasimiPhilip](https://github.com/NyasimiPhilip)
 - [SWxEng](https://github.com/SWxEng)
 - [mahfam1212](https://github.com/mahfam1212)
-- [getintorj](https://github.com/getintorj)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
 - [rishabh-108272](https://github.com/rishabh-108272)
@@ -99,3 +98,4 @@
 - [mn0unreal](https://github.com/mn0unreal)
 - [Youssefouah](https://github.com/Youssefouah)
 - [codemaster05330](https://github.com/codemaster05330)
+- [MohamedKhamisMostafa](https://github.com/MohamedKhamisMostafa)
