@@ -60,7 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [dougkalash](https://github.com/dougkalash)
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [shantunparmar](https://github.com/shantunparmar)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
