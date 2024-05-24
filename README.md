@@ -62,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 
 - [shantunparmar](https://github.com/shantunparmar)
 - [dougkalash](https://github.com/dougkalash)
-- [luisro19997](https://github.com/luisro19997)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [vickkie](https://github.com/vickkie)
 - [OskarMast](https://github.com/OskarMast)
 - [Mach-Levi](https://github.com/Mach-Levi)
+- [omololevy](https://github.com/omololevy)
 
 #### 🎢 Stats
 
