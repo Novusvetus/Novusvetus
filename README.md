@@ -60,6 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Puneetsharma5525](https://github.com/Puneetsharma5525)
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro)
 - [shantunparmar](https://github.com/shantunparmar)
 - [agathafr](https://github.com/agathafr)
@@ -68,8 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [davidlotfi](https://github.com/davidlotfi)
 - [vickkie](https://github.com/vickkie)
 - [OskarMast](https://github.com/OskarMast)
-- [Mach-Levi](https://github.com/Mach-Levi)
-- [omololevy](https://github.com/omololevy)
 
 #### 🎢 Stats
 
