@@ -1,4 +1,5 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [dougkalash](https://github.com/dougkalash)
 - [Puneetsharma5525](https://github.com/Puneetsharma5525)
 - [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro)
@@ -98,4 +99,3 @@
 - [Nodroid7](https://github.com/Nodroid7)
 - [mn0unreal](https://github.com/mn0unreal)
 - [Youssefouah](https://github.com/Youssefouah)
-- [codemaster05330](https://github.com/codemaster05330)
