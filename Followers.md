@@ -1,5 +1,5 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
+- [dougkalash](https://github.com/dougkalash)
 - [awesome1115](https://github.com/awesome1115)
 - [redLiquidator](https://github.com/redLiquidator)
 - [thepiratehub](https://github.com/thepiratehub)
