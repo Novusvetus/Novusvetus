@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [thepiratehub](https://github.com/thepiratehub)
 - [dougkalash](https://github.com/dougkalash)
 - [Puneetsharma5525](https://github.com/Puneetsharma5525)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
+- [vickkie](https://github.com/vickkie)
 
 #### 🎢 Stats
 
