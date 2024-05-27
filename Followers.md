@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [redLiquidator](https://github.com/redLiquidator)
 - [thepiratehub](https://github.com/thepiratehub)
 - [dougkalash](https://github.com/dougkalash)
@@ -99,3 +98,4 @@
 - [marzball](https://github.com/marzball)
 - [911-carrera](https://github.com/911-carrera)
 - [Nodroid7](https://github.com/Nodroid7)
+- [mn0unreal](https://github.com/mn0unreal)
