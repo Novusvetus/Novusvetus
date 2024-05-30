@@ -1,12 +1,10 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
 - [awesome1115](https://github.com/awesome1115)
 - [redLiquidator](https://github.com/redLiquidator)
 - [thepiratehub](https://github.com/thepiratehub)
 - [Puneetsharma5525](https://github.com/Puneetsharma5525)
-- [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro)
 - [shantunparmar](https://github.com/shantunparmar)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
@@ -99,3 +97,5 @@
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
 - [911-carrera](https://github.com/911-carrera)
+- [Nodroid7](https://github.com/Nodroid7)
+- [mn0unreal](https://github.com/mn0unreal)

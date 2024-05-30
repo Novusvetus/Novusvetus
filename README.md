@@ -60,16 +60,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
 - [awesome1115](https://github.com/awesome1115)
 - [redLiquidator](https://github.com/redLiquidator)
 - [thepiratehub](https://github.com/thepiratehub)
 - [Puneetsharma5525](https://github.com/Puneetsharma5525)
-- [Rafaelmdcarneiro](https://github.com/Rafaelmdcarneiro)
 - [shantunparmar](https://github.com/shantunparmar)
 - [agathafr](https://github.com/agathafr)
+- [techking11](https://github.com/techking11)
+- [isadevlima](https://github.com/isadevlima)
 
 #### 🎢 Stats
 
