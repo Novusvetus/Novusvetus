@@ -1,10 +1,10 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
 - [redLiquidator](https://github.com/redLiquidator)
 - [thepiratehub](https://github.com/thepiratehub)
 - [Puneetsharma5525](https://github.com/Puneetsharma5525)
-- [shantunparmar](https://github.com/shantunparmar)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
