@@ -1,5 +1,4 @@
 
-- [Vikranth3140](https://github.com/Vikranth3140)
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
 - [redLiquidator](https://github.com/redLiquidator)
@@ -99,3 +98,4 @@
 - [Nodroid7](https://github.com/Nodroid7)
 - [mn0unreal](https://github.com/mn0unreal)
 - [Youssefouah](https://github.com/Youssefouah)
+- [codemaster05330](https://github.com/codemaster05330)

@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Vikranth3140](https://github.com/Vikranth3140)
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
 - [redLiquidator](https://github.com/redLiquidator)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
+- [vickkie](https://github.com/vickkie)
 
 #### 🎢 Stats
 
