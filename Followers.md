@@ -63,6 +63,7 @@
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
 - [ip681](https://github.com/ip681)
+- [codeWizard337](https://github.com/codeWizard337)
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
@@ -98,4 +99,3 @@
 - [Nodroid7](https://github.com/Nodroid7)
 - [mn0unreal](https://github.com/mn0unreal)
 - [Youssefouah](https://github.com/Youssefouah)
-- [codemaster05330](https://github.com/codemaster05330)
