@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [monolab825](https://github.com/monolab825)
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
 - [isadevlima](https://github.com/isadevlima)
-- [davidlotfi](https://github.com/davidlotfi)
 
 #### 🎢 Stats
 
