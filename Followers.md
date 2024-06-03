@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
@@ -99,3 +98,4 @@
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
 - [911-carrera](https://github.com/911-carrera)
+- [Nodroid7](https://github.com/Nodroid7)
