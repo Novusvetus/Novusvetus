@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [mwarcc](https://github.com/mwarcc)
 - [AngryDumbledore](https://github.com/AngryDumbledore)
 - [carlesloriente](https://github.com/carlesloriente)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [flaviopavim](https://github.com/flaviopavim)
 - [redLiquidator](https://github.com/redLiquidator)
 - [thepiratehub](https://github.com/thepiratehub)
+- [Puneetsharma5525](https://github.com/Puneetsharma5525)
 
 #### 🎢 Stats
 
