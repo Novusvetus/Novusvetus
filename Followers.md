@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [mwarcc](https://github.com/mwarcc)
 - [AngryDumbledore](https://github.com/AngryDumbledore)
 - [carlesloriente](https://github.com/carlesloriente)
@@ -99,3 +98,4 @@
 - [rishabh-108272](https://github.com/rishabh-108272)
 - [mitch-henderson](https://github.com/mitch-henderson)
 - [marzball](https://github.com/marzball)
+- [911-carrera](https://github.com/911-carrera)
