@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [mwarcc](https://github.com/mwarcc)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [dougkalash](https://github.com/dougkalash)
 - [flaviopavim](https://github.com/flaviopavim)
 - [redLiquidator](https://github.com/redLiquidator)
+- [thepiratehub](https://github.com/thepiratehub)
 
 #### 🎢 Stats
 
