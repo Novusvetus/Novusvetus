@@ -1,6 +1,5 @@
 
 - [smile1130](https://github.com/smile1130)
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [mwarcc](https://github.com/mwarcc)
@@ -99,3 +98,4 @@
 - [mahfam1212](https://github.com/mahfam1212)
 - [DmytroKonovalov](https://github.com/DmytroKonovalov)
 - [CharlieGreenman](https://github.com/CharlieGreenman)
+- [rishabh-108272](https://github.com/rishabh-108272)
