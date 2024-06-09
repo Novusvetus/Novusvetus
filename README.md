@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [simbacodewizard](https://github.com/simbacodewizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [smile1130](https://github.com/smile1130)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [dougkalash](https://github.com/dougkalash)
-- [flaviopavim](https://github.com/flaviopavim)
 
 #### 🎢 Stats
 
