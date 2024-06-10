@@ -1,4 +1,9 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [kazupot7](https://github.com/kazupot7)
+- [johnsmith0212](https://github.com/johnsmith0212)
+- [ishida0415](https://github.com/ishida0415)
+- [hitosisasaki](https://github.com/hitosisasaki)
 - [simbacodewizard](https://github.com/simbacodewizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [smile1130](https://github.com/smile1130)
@@ -94,8 +99,3 @@
 - [vladyslav833](https://github.com/vladyslav833)
 - [tigerhunter318](https://github.com/tigerhunter318)
 - [Afsanehaa](https://github.com/Afsanehaa)
-- [OracleBrain](https://github.com/OracleBrain)
-- [NyasimiPhilip](https://github.com/NyasimiPhilip)
-- [SWxEng](https://github.com/SWxEng)
-- [mahfam1212](https://github.com/mahfam1212)
-- [DmytroKonovalov](https://github.com/DmytroKonovalov)

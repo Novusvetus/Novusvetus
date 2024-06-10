@@ -60,16 +60,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [kazupot7](https://github.com/kazupot7)
+- [johnsmith0212](https://github.com/johnsmith0212)
+- [ishida0415](https://github.com/ishida0415)
+- [hitosisasaki](https://github.com/hitosisasaki)
 - [simbacodewizard](https://github.com/simbacodewizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [smile1130](https://github.com/smile1130)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
-- [mwarcc](https://github.com/mwarcc)
-- [AngryDumbledore](https://github.com/AngryDumbledore)
-- [carlesloriente](https://github.com/carlesloriente)
-- [monolab825](https://github.com/monolab825)
-- [dougkalash](https://github.com/dougkalash)
 
 #### 🎢 Stats
 
