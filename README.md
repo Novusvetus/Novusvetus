@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [alirezajavadigit](https://github.com/alirezajavadigit)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [lind0118](https://github.com/lind0118)
 - [kentaurse](https://github.com/kentaurse)
 - [kazupot7](https://github.com/kazupot7)
+- [johnsmith0212](https://github.com/johnsmith0212)
 
 #### 🎢 Stats
 
