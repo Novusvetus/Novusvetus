@@ -1,4 +1,6 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [alirezajavadigit](https://github.com/alirezajavadigit)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
 - [alxkm](https://github.com/alxkm)
@@ -97,5 +99,3 @@
 - [in-jun](https://github.com/in-jun)
 - [george0st](https://github.com/george0st)
 - [Many-Al](https://github.com/Many-Al)
-- [Ambesawi](https://github.com/Ambesawi)
-- [Muga20](https://github.com/Muga20)
