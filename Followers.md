@@ -1,6 +1,5 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
-- [Vikranth3140](https://github.com/Vikranth3140)
+- [MightyTechNinja](https://github.com/MightyTechNinja)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
 - [alxkm](https://github.com/alxkm)
 - [satomichru](https://github.com/satomichru)
@@ -99,3 +98,4 @@
 - [george0st](https://github.com/george0st)
 - [Many-Al](https://github.com/Many-Al)
 - [Ambesawi](https://github.com/Ambesawi)
+- [Muga20](https://github.com/Muga20)
