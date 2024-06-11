@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
 - [alxkm](https://github.com/alxkm)
 - [satomichru](https://github.com/satomichru)
@@ -99,3 +98,4 @@
 - [Many-Al](https://github.com/Many-Al)
 - [Ambesawi](https://github.com/Ambesawi)
 - [Muga20](https://github.com/Muga20)
+- [amirallami-code](https://github.com/amirallami-code)
