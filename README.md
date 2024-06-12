@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [imaarov](https://github.com/imaarov)
 - [CavinMatrics](https://github.com/CavinMatrics)
 - [Merciful123](https://github.com/Merciful123)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [seriousfuzzy](https://github.com/seriousfuzzy)
 - [alxkm](https://github.com/alxkm)
 - [satomichru](https://github.com/satomichru)
+- [satokihanada](https://github.com/satokihanada)
 
 #### 🎢 Stats
 

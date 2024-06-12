@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [imaarov](https://github.com/imaarov)
 - [CavinMatrics](https://github.com/CavinMatrics)
 - [Merciful123](https://github.com/Merciful123)
@@ -99,3 +98,4 @@
 - [abdorrahmani](https://github.com/abdorrahmani)
 - [Emakiflom](https://github.com/Emakiflom)
 - [Thizh](https://github.com/Thizh)
+- [loranYousef](https://github.com/loranYousef)
