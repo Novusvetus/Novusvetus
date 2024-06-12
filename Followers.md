@@ -1,4 +1,8 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [imaarov](https://github.com/imaarov)
+- [CavinMatrics](https://github.com/CavinMatrics)
+- [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [alirezajavadigit](https://github.com/alirezajavadigit)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
@@ -95,7 +99,3 @@
 - [abdorrahmani](https://github.com/abdorrahmani)
 - [Emakiflom](https://github.com/Emakiflom)
 - [Thizh](https://github.com/Thizh)
-- [loranYousef](https://github.com/loranYousef)
-- [in-jun](https://github.com/in-jun)
-- [george0st](https://github.com/george0st)
-- [Many-Al](https://github.com/Many-Al)

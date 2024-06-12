@@ -60,16 +60,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [imaarov](https://github.com/imaarov)
+- [CavinMatrics](https://github.com/CavinMatrics)
+- [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [alirezajavadigit](https://github.com/alirezajavadigit)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
 - [alxkm](https://github.com/alxkm)
 - [satomichru](https://github.com/satomichru)
-- [satokihanada](https://github.com/satokihanada)
-- [lind0118](https://github.com/lind0118)
-- [kentaurse](https://github.com/kentaurse)
-- [kazupot7](https://github.com/kazupot7)
 
 #### 🎢 Stats
 
