@@ -1,4 +1,7 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [laluxx](https://github.com/laluxx)
+- [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 - [dexeril974](https://github.com/dexeril974)
 - [imaarov](https://github.com/imaarov)
@@ -96,6 +99,3 @@
 - [AlpetG](https://github.com/AlpetG)
 - [binary-blazer](https://github.com/binary-blazer)
 - [mvaibhav131](https://github.com/mvaibhav131)
-- [1cbyc](https://github.com/1cbyc)
-- [abdorrahmani](https://github.com/abdorrahmani)
-- [Emakiflom](https://github.com/Emakiflom)
