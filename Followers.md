@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [madeindex](https://github.com/madeindex)
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
@@ -27,7 +26,7 @@
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [mwarcc](https://github.com/mwarcc)
-- [AngryDumbledore](https://github.com/AngryDumbledore)
+- [dev51312117411](https://github.com/dev51312117411)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [dougkalash](https://github.com/dougkalash)
@@ -99,3 +98,4 @@
 - [spider0317](https://github.com/spider0317)
 - [AlpetG](https://github.com/AlpetG)
 - [binary-blazer](https://github.com/binary-blazer)
+- [mvaibhav131](https://github.com/mvaibhav131)
