@@ -1,4 +1,5 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [madeindex](https://github.com/madeindex)
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
@@ -8,7 +9,6 @@
 - [CavinMatrics](https://github.com/CavinMatrics)
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
-- [alirezajavadigit](https://github.com/alirezajavadigit)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
 - [alxkm](https://github.com/alxkm)
