@@ -1,4 +1,6 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [madeindex](https://github.com/madeindex)
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
@@ -19,7 +21,7 @@
 - [johnsmith0212](https://github.com/johnsmith0212)
 - [ishida0415](https://github.com/ishida0415)
 - [hitosisasaki](https://github.com/hitosisasaki)
-- [simbacodewizard](https://github.com/simbacodewizard)
+- [simbadevwizard](https://github.com/simbadevwizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [smile1130](https://github.com/smile1130)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
@@ -97,5 +99,3 @@
 - [spider0317](https://github.com/spider0317)
 - [AlpetG](https://github.com/AlpetG)
 - [binary-blazer](https://github.com/binary-blazer)
-- [mvaibhav131](https://github.com/mvaibhav131)
-- [1cbyc](https://github.com/1cbyc)

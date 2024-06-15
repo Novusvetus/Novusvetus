@@ -60,6 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [madeindex](https://github.com/madeindex)
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
@@ -68,8 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [CavinMatrics](https://github.com/CavinMatrics)
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
-- [alirezajavadigit](https://github.com/alirezajavadigit)
-- [MightyTechNinja](https://github.com/MightyTechNinja)
 
 #### 🎢 Stats
 
