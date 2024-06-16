@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [tientq64](https://github.com/tientq64)
 - [libraiger](https://github.com/libraiger)
 - [sajjad-salam](https://github.com/sajjad-salam)
@@ -99,3 +98,4 @@
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
+- [AlpetG](https://github.com/AlpetG)
