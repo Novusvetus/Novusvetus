@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [libraiger](https://github.com/libraiger)
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [madeindex](https://github.com/madeindex)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [dexeril974](https://github.com/dexeril974)
 - [imaarov](https://github.com/imaarov)
 - [CavinMatrics](https://github.com/CavinMatrics)
+- [Merciful123](https://github.com/Merciful123)
 
 #### 🎢 Stats
 
