@@ -1,4 +1,5 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [libraiger](https://github.com/libraiger)
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [madeindex](https://github.com/madeindex)
@@ -98,4 +99,3 @@
 - [Ruth12mak](https://github.com/Ruth12mak)
 - [spider0317](https://github.com/spider0317)
 - [AlpetG](https://github.com/AlpetG)
-- [binary-blazer](https://github.com/binary-blazer)
