@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [topone-engineer](https://github.com/topone-engineer)
 - [tientq64](https://github.com/tientq64)
 - [libraiger](https://github.com/libraiger)
@@ -99,3 +98,4 @@
 - [unitop322](https://github.com/unitop322)
 - [Makitey](https://github.com/Makitey)
 - [Ruth12mak](https://github.com/Ruth12mak)
+- [spider0317](https://github.com/spider0317)
