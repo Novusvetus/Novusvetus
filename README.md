@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [xaramore](https://github.com/xaramore)
-- [TonhoDB](https://github.com/TonhoDB)
 - [topone-engineer](https://github.com/topone-engineer)
 - [tientq64](https://github.com/tientq64)
 - [libraiger](https://github.com/libraiger)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
+- [dexeril974](https://github.com/dexeril974)
 
 #### 🎢 Stats
 

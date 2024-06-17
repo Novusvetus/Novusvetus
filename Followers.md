@@ -1,6 +1,5 @@
 
 - [xaramore](https://github.com/xaramore)
-- [TonhoDB](https://github.com/TonhoDB)
 - [topone-engineer](https://github.com/topone-engineer)
 - [tientq64](https://github.com/tientq64)
 - [libraiger](https://github.com/libraiger)
@@ -99,3 +98,4 @@
 - [ip681](https://github.com/ip681)
 - [unitop322](https://github.com/unitop322)
 - [Makitey](https://github.com/Makitey)
+- [Ruth12mak](https://github.com/Ruth12mak)
