@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [TonhoDB](https://github.com/TonhoDB)
 - [xaramore](https://github.com/xaramore)
 - [topone-engineer](https://github.com/topone-engineer)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [madeindex](https://github.com/madeindex)
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
-- [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 
 #### 🎢 Stats
 
