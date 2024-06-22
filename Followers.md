@@ -1,7 +1,6 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [mrrust77](https://github.com/mrrust77)
-- [TonhoDB](https://github.com/TonhoDB)
+- [SysAdminHeal](https://github.com/SysAdminHeal)
 - [xaramore](https://github.com/xaramore)
 - [topone-engineer](https://github.com/topone-engineer)
 - [tientq64](https://github.com/tientq64)
@@ -99,3 +98,4 @@
 - [TaliResearch](https://github.com/TaliResearch)
 - [ip681](https://github.com/ip681)
 - [unitop010](https://github.com/unitop010)
+- [Makitey](https://github.com/Makitey)
