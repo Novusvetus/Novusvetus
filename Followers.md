@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [mrrust77](https://github.com/mrrust77)
 - [TonhoDB](https://github.com/TonhoDB)
 - [xaramore](https://github.com/xaramore)
@@ -12,7 +11,6 @@
 - [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 - [dexeril974](https://github.com/dexeril974)
-- [imaarov](https://github.com/imaarov)
 - [CavinMatrics](https://github.com/CavinMatrics)
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
@@ -99,3 +97,5 @@
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
 - [ip681](https://github.com/ip681)
+- [unitop010](https://github.com/unitop010)
+- [Makitey](https://github.com/Makitey)
