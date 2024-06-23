@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [blocage](https://github.com/blocage)
 - [mrrust77](https://github.com/mrrust77)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [libraiger](https://github.com/libraiger)
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [madeindex](https://github.com/madeindex)
+- [laluxx](https://github.com/laluxx)
 
 #### 🎢 Stats
 
