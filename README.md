@@ -60,6 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [shahradelahi](https://github.com/shahradelahi)
 - [mrrust77](https://github.com/mrrust77)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
 - [xaramore](https://github.com/xaramore)
@@ -68,8 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [madeindex](https://github.com/madeindex)
 - [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
-- [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
-- [dexeril974](https://github.com/dexeril974)
 
 #### 🎢 Stats
 
