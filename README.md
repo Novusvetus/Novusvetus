@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
 - [shahradelahi](https://github.com/shahradelahi)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [madeindex](https://github.com/madeindex)
-- [laluxx](https://github.com/laluxx)
 
 #### 🎢 Stats
 
