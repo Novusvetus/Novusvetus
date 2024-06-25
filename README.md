@@ -60,7 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
+- [blocage](https://github.com/blocage)
 - [shahradelahi](https://github.com/shahradelahi)
 - [mrrust77](https://github.com/mrrust77)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
