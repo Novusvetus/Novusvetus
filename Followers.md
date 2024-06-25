@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [rabnail](https://github.com/rabnail)
 - [shahradelahi](https://github.com/shahradelahi)
 - [mrrust77](https://github.com/mrrust77)
@@ -98,4 +99,3 @@
 - [TaliResearch](https://github.com/TaliResearch)
 - [ip681](https://github.com/ip681)
 - [Makitey](https://github.com/Makitey)
-- [Ruth12mak](https://github.com/Ruth12mak)
