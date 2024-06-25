@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
 - [shahradelahi](https://github.com/shahradelahi)
@@ -99,3 +98,4 @@
 - [Syipmong](https://github.com/Syipmong)
 - [TaliResearch](https://github.com/TaliResearch)
 - [ip681](https://github.com/ip681)
+- [Makitey](https://github.com/Makitey)
