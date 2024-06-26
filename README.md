@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [sk466366](https://github.com/sk466366)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [xaramore](https://github.com/xaramore)
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
+- [madeindex](https://github.com/madeindex)
 
 #### 🎢 Stats
 
