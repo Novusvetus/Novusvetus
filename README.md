@@ -60,6 +60,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [Mansi-indian](https://github.com/Mansi-indian)
 - [masterindigitalmarketing](https://github.com/masterindigitalmarketing)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
@@ -68,8 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [mrrust77](https://github.com/mrrust77)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
 - [xaramore](https://github.com/xaramore)
-- [tientq64](https://github.com/tientq64)
-- [sajjad-salam](https://github.com/sajjad-salam)
 
 #### 🎢 Stats
 
