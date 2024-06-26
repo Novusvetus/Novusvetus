@@ -1,10 +1,8 @@
 
 - [iurysantos-hub](https://github.com/iurysantos-hub)
-- [blocage](https://github.com/blocage)
 - [sk466366](https://github.com/sk466366)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
-- [shahradelahi](https://github.com/shahradelahi)
 - [mrrust77](https://github.com/mrrust77)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
 - [xaramore](https://github.com/xaramore)
@@ -99,3 +97,5 @@
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
 - [Syipmong](https://github.com/Syipmong)
+- [TaliResearch](https://github.com/TaliResearch)
+- [ip681](https://github.com/ip681)
