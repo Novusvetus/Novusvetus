@@ -60,7 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [masterindigitalmarketing](https://github.com/masterindigitalmarketing)
