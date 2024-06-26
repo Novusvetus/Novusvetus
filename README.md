@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [masterindigitalmarketing](https://github.com/masterindigitalmarketing)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [rabnail](https://github.com/rabnail)
 - [mrrust77](https://github.com/mrrust77)
 - [SysAdminHeal](https://github.com/SysAdminHeal)
-- [xaramore](https://github.com/xaramore)
 
 #### 🎢 Stats
 
