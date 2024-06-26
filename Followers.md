@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [masterindigitalmarketing](https://github.com/masterindigitalmarketing)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
@@ -99,3 +98,4 @@
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
 - [Syipmong](https://github.com/Syipmong)
+- [TaliResearch](https://github.com/TaliResearch)
