@@ -1,5 +1,6 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
+- [iurysantos-hub](https://github.com/iurysantos-hub)
+- [blocage](https://github.com/blocage)
 - [sk466366](https://github.com/sk466366)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
@@ -98,4 +99,3 @@
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
 - [Syipmong](https://github.com/Syipmong)
-- [TaliResearch](https://github.com/TaliResearch)
