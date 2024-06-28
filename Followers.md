@@ -1,5 +1,5 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
+- [khanovict](https://github.com/khanovict)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
