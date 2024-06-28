@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [khanovict](https://github.com/khanovict)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
@@ -34,7 +33,6 @@
 - [hitosisasaki](https://github.com/hitosisasaki)
 - [simbadevwizard](https://github.com/simbadevwizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
-- [smile1130](https://github.com/smile1130)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [mwarcc](https://github.com/mwarcc)
@@ -99,3 +97,5 @@
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
+- [bstar0406](https://github.com/bstar0406)
+- [dragon7210](https://github.com/dragon7210)

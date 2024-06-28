@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [khanovict](https://github.com/khanovict)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
 - [mrrust77](https://github.com/mrrust77)
+- [SysAdminHeal](https://github.com/SysAdminHeal)
 
 #### 🎢 Stats
 
