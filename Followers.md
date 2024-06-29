@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [betty0915](https://github.com/betty0915)
 - [khanovict](https://github.com/khanovict)
 - [Frosmin](https://github.com/Frosmin)
@@ -10,7 +9,6 @@
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
 - [mrrust77](https://github.com/mrrust77)
-- [SysAdminHeal](https://github.com/SysAdminHeal)
 - [xaramore](https://github.com/xaramore)
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
@@ -99,3 +97,5 @@
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
+- [bstar0406](https://github.com/bstar0406)
+- [dragon7210](https://github.com/dragon7210)
