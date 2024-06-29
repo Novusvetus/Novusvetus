@@ -1,5 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [betty0915](https://github.com/betty0915)
 - [khanovict](https://github.com/khanovict)
 - [Frosmin](https://github.com/Frosmin)
@@ -99,3 +98,4 @@
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
+- [bstar0406](https://github.com/bstar0406)
