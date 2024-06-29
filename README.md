@@ -60,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [decoderwhoami](https://github.com/decoderwhoami)
-- [blocage](https://github.com/blocage)
 - [FaisalNadaf](https://github.com/FaisalNadaf)
 - [betty0915](https://github.com/betty0915)
 - [khanovict](https://github.com/khanovict)
@@ -70,6 +68,8 @@ _Nobody sponsors me. I am poor..._
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
+- [sk66641](https://github.com/sk66641)
+- [rabnail](https://github.com/rabnail)
 
 #### 🎢 Stats
 

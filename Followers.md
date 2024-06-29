@@ -1,6 +1,4 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
-- [blocage](https://github.com/blocage)
 - [FaisalNadaf](https://github.com/FaisalNadaf)
 - [betty0915](https://github.com/betty0915)
 - [khanovict](https://github.com/khanovict)
@@ -99,3 +97,5 @@
 - [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
+- [awesomedev08](https://github.com/awesomedev08)
+- [bstar0406](https://github.com/bstar0406)
