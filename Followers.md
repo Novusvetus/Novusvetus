@@ -1,8 +1,5 @@
 
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [FaisalNadaf](https://github.com/FaisalNadaf)
-- [betty0915](https://github.com/betty0915)
-- [khanovict](https://github.com/khanovict)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
@@ -99,3 +96,6 @@
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
 - [awesomedev08](https://github.com/awesomedev08)
+- [bstar0406](https://github.com/bstar0406)
+- [dragon7210](https://github.com/dragon7210)
+- [Syipmong](https://github.com/Syipmong)
