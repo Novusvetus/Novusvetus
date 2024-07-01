@@ -1,4 +1,5 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [FaisalNadaf](https://github.com/FaisalNadaf)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
@@ -25,7 +26,6 @@
 - [satomichru](https://github.com/satomichru)
 - [satokihanada](https://github.com/satokihanada)
 - [lind0118](https://github.com/lind0118)
-- [kentaurse](https://github.com/kentaurse)
 - [kazupot7](https://github.com/kazupot7)
 - [johnsmith0212](https://github.com/johnsmith0212)
 - [ishida0415](https://github.com/ishida0415)
