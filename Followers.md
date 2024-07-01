@@ -1,4 +1,5 @@
 
+- [decoderwhoami](https://github.com/decoderwhoami)
 - [FaisalNadaf](https://github.com/FaisalNadaf)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
@@ -98,4 +99,3 @@
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
 - [Syipmong](https://github.com/Syipmong)
-- [TaliResearch](https://github.com/TaliResearch)
