@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [FaisalNadaf](https://github.com/FaisalNadaf)
 - [Frosmin](https://github.com/Frosmin)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [sk466366](https://github.com/sk466366)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
-- [milkocrypto](https://github.com/milkocrypto)
 
 #### 🎢 Stats
 
