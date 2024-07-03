@@ -34,7 +34,6 @@
 - [simbadevwizard](https://github.com/simbadevwizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
-- [md-sazzadul-islam](https://github.com/md-sazzadul-islam)
 - [mwarcc](https://github.com/mwarcc)
 - [dev51312117411](https://github.com/dev51312117411)
 - [carlesloriente](https://github.com/carlesloriente)
@@ -99,3 +98,4 @@
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
+- [Syipmong](https://github.com/Syipmong)
