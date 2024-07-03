@@ -9,7 +9,7 @@
 - [sk466366](https://github.com/sk466366)
 - [sk66641](https://github.com/sk66641)
 - [rabnail](https://github.com/rabnail)
-- [milkocrypto](https://github.com/milkocrypto)
+- [MisterRust](https://github.com/MisterRust)
 - [xaramore](https://github.com/xaramore)
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
