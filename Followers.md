@@ -1,4 +1,5 @@
 
+- [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
@@ -98,4 +99,3 @@
 - [awesomedev08](https://github.com/awesomedev08)
 - [bstar0406](https://github.com/bstar0406)
 - [dragon7210](https://github.com/dragon7210)
-- [Syipmong](https://github.com/Syipmong)
