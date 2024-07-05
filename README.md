@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tig-bbit](https://github.com/tig-bbit)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [skeleton1009](https://github.com/skeleton1009)
@@ -69,7 +70,6 @@ _Nobody sponsors me. I am poor..._
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
-- [Mansi-indian](https://github.com/Mansi-indian)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [tig-bbit](https://github.com/tig-bbit)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [skeleton1009](https://github.com/skeleton1009)
@@ -98,4 +99,3 @@
 - [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
-- [awesomedev08](https://github.com/awesomedev08)
