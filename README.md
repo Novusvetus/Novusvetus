@@ -67,9 +67,9 @@ _Nobody sponsors me. I am poor..._
 - [nathalylorena](https://github.com/nathalylorena)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [FaisalNadaf](https://github.com/FaisalNadaf)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
+- [Mansi-indian](https://github.com/Mansi-indian)
 
 #### 🎢 Stats
 

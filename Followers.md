@@ -6,7 +6,6 @@
 - [nathalylorena](https://github.com/nathalylorena)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [FaisalNadaf](https://github.com/FaisalNadaf)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
@@ -99,3 +98,4 @@
 - [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
 - [TechStart1022](https://github.com/TechStart1022)
+- [awesomedev08](https://github.com/awesomedev08)
