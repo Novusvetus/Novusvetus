@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [CollinLiu813](https://github.com/CollinLiu813)
 - [tig-bbit](https://github.com/tig-bbit)
 - [Daynlight](https://github.com/Daynlight)
@@ -70,6 +69,7 @@ _Nobody sponsors me. I am poor..._
 - [nathalylorena](https://github.com/nathalylorena)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
+- [Frosmin](https://github.com/Frosmin)
 
 #### 🎢 Stats
 
