@@ -19,7 +19,6 @@
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [madeindex](https://github.com/madeindex)
-- [laluxx](https://github.com/laluxx)
 - [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 - [dexeril974](https://github.com/dexeril974)
@@ -99,3 +98,4 @@
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
+- [TechStart1022](https://github.com/TechStart1022)
