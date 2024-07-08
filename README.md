@@ -8,7 +8,6 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 * [ReindeerWeb](https://reindeer-web.de) (My own company)
 * [Novusvetus](https://novusvetus.de) (My personal page)
-* [MEN AT WORK Werbeagentur GmbH](https://www.men-at-work.de/) (My employer)
 
 #### 💻 Check out what I'm currently working on
 
