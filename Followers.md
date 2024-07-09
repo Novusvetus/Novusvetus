@@ -7,7 +7,6 @@
 - [skeleton1009](https://github.com/skeleton1009)
 - [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
-- [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
@@ -99,3 +98,4 @@
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
+- [TechStart1022](https://github.com/TechStart1022)

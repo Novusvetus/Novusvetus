@@ -67,8 +67,8 @@ _Nobody sponsors me. I am poor..._
 - [skeleton1009](https://github.com/skeleton1009)
 - [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
-- [IvanENERGY](https://github.com/IvanENERGY)
 - [decoderwhoami](https://github.com/decoderwhoami)
+- [Frosmin](https://github.com/Frosmin)
 
 #### 🎢 Stats
 
