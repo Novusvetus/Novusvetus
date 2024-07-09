@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
 - [CollinLiu813](https://github.com/CollinLiu813)
 - [tig-bbit](https://github.com/tig-bbit)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [Frosmin](https://github.com/Frosmin)
 
 #### 🎢 Stats
 
