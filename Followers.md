@@ -3,7 +3,6 @@
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
 - [CollinLiu813](https://github.com/CollinLiu813)
-- [tig-bbit](https://github.com/tig-bbit)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [skeleton1009](https://github.com/skeleton1009)
@@ -99,3 +98,4 @@
 - [Cwackz](https://github.com/Cwackz)
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [awesomedev82](https://github.com/awesomedev82)
+- [StevenKamwaza](https://github.com/StevenKamwaza)

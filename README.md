@@ -63,12 +63,12 @@ _Nobody sponsors me. I am poor..._
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
 - [CollinLiu813](https://github.com/CollinLiu813)
-- [tig-bbit](https://github.com/tig-bbit)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [skeleton1009](https://github.com/skeleton1009)
 - [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
+- [decoderwhoami](https://github.com/decoderwhoami)
 
 #### 🎢 Stats
 
