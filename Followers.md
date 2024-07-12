@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [qpeckin](https://github.com/qpeckin)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
@@ -98,4 +99,3 @@
 - [Cwackz](https://github.com/Cwackz)
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [awesomedev82](https://github.com/awesomedev82)
-- [StevenKamwaza](https://github.com/StevenKamwaza)
