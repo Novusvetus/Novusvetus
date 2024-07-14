@@ -64,7 +64,6 @@
 - [codeWithDavide](https://github.com/codeWithDavide)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
-- [techsolutioncat](https://github.com/techsolutioncat)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
@@ -99,3 +98,4 @@
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [awesomedev82](https://github.com/awesomedev82)
 - [StevenKamwaza](https://github.com/StevenKamwaza)
+- [TechStart1022](https://github.com/TechStart1022)
