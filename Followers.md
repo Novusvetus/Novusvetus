@@ -1,4 +1,5 @@
 
+- [l950x](https://github.com/l950x)
 - [shahradelahi](https://github.com/shahradelahi)
 - [qpeckin](https://github.com/qpeckin)
 - [IvanENERGY](https://github.com/IvanENERGY)
@@ -98,4 +99,3 @@
 - [Cwackz](https://github.com/Cwackz)
 - [Nakshatra05](https://github.com/Nakshatra05)
 - [awesomedev82](https://github.com/awesomedev82)
-- [StevenKamwaza](https://github.com/StevenKamwaza)
