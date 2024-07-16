@@ -1,4 +1,5 @@
 
+- [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
 - [shahradelahi](https://github.com/shahradelahi)
 - [qpeckin](https://github.com/qpeckin)
@@ -98,4 +99,3 @@
 - [toptalhook](https://github.com/toptalhook)
 - [Cwackz](https://github.com/Cwackz)
 - [Nakshatra05](https://github.com/Nakshatra05)
-- [awesomedev82](https://github.com/awesomedev82)

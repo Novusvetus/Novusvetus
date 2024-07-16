@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
 - [shahradelahi](https://github.com/shahradelahi)
 - [qpeckin](https://github.com/qpeckin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [skeleton1009](https://github.com/skeleton1009)
-- [hotcoding85](https://github.com/hotcoding85)
 
 #### 🎢 Stats
 
