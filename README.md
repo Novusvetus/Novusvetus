@@ -62,13 +62,13 @@ _Nobody sponsors me. I am poor..._
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
-- [shahradelahi](https://github.com/shahradelahi)
 - [qpeckin](https://github.com/qpeckin)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
 - [CollinLiu813](https://github.com/CollinLiu813)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
+- [skeleton1009](https://github.com/skeleton1009)
 
 #### 🎢 Stats
 
