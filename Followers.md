@@ -1,4 +1,5 @@
 
+- [WhityGhost](https://github.com/WhityGhost)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
@@ -98,4 +99,3 @@
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
 - [Cwackz](https://github.com/Cwackz)
-- [Nakshatra05](https://github.com/Nakshatra05)
