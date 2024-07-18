@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
@@ -99,3 +98,4 @@
 - [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
 - [dongwookkim3](https://github.com/dongwookkim3)
+- [Razmahit](https://github.com/Razmahit)
