@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [WhityGhost](https://github.com/WhityGhost)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
@@ -99,3 +98,4 @@
 - [Razmahit](https://github.com/Razmahit)
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
+- [toptalhook](https://github.com/toptalhook)
