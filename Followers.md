@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
@@ -39,6 +40,7 @@
 - [satomichru](https://github.com/satomichru)
 - [satokihanada](https://github.com/satokihanada)
 - [lind0118](https://github.com/lind0118)
+- [kentaurse](https://github.com/kentaurse)
 - [kazupot7](https://github.com/kazupot7)
 - [johnsmith0212](https://github.com/johnsmith0212)
 - [ishida0415](https://github.com/ishida0415)
@@ -97,5 +99,3 @@
 - [warmice71](https://github.com/warmice71)
 - [karthik558](https://github.com/karthik558)
 - [dongwookkim3](https://github.com/dongwookkim3)
-- [Razmahit](https://github.com/Razmahit)
-- [Tituchkin](https://github.com/Tituchkin)
