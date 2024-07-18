@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ammadsaleem18](https://github.com/ammadsaleem18)
 - [techsolutioncat](https://github.com/techsolutioncat)
 - [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [WhityGhost](https://github.com/WhityGhost)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [qpeckin](https://github.com/qpeckin)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
-- [CollinLiu813](https://github.com/CollinLiu813)
 
 #### 🎢 Stats
 
