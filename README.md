@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [WhityGhost](https://github.com/WhityGhost)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [otaviossousa](https://github.com/otaviossousa)
 - [CollinLiu813](https://github.com/CollinLiu813)
 - [Daynlight](https://github.com/Daynlight)
-- [theicedev](https://github.com/theicedev)
 
 #### 🎢 Stats
 

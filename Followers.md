@@ -1,4 +1,5 @@
 
+- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [WhityGhost](https://github.com/WhityGhost)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
@@ -98,4 +99,3 @@
 - [Tituchkin](https://github.com/Tituchkin)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [toptalhook](https://github.com/toptalhook)
-- [Cwackz](https://github.com/Cwackz)
