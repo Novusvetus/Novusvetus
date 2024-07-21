@@ -64,11 +64,11 @@ _Nobody sponsors me. I am poor..._
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [techsolutioncat](https://github.com/techsolutioncat)
-- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [WhityGhost](https://github.com/WhityGhost)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
+- [qpeckin](https://github.com/qpeckin)
 
 #### 🎢 Stats
 
