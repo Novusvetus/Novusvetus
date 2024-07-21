@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [devenye](https://github.com/devenye)
 - [idkvarghastaken](https://github.com/idkvarghastaken)
 - [psharifi1997](https://github.com/psharifi1997)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
+- [qpeckin](https://github.com/qpeckin)
 
 #### 🎢 Stats
 
