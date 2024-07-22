@@ -25,7 +25,7 @@
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
 - [sk66641](https://github.com/sk66641)
-- [rabnail](https://github.com/rabnail)
+- [solana-lunatic](https://github.com/solana-lunatic)
 - [xaramore](https://github.com/xaramore)
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
