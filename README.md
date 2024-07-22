@@ -61,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 
 - [anti-dominator](https://github.com/anti-dominator)
 - [devenye](https://github.com/devenye)
-- [idkvarghastaken](https://github.com/idkvarghastaken)
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [techsolutioncat](https://github.com/techsolutioncat)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
+- [qpeckin](https://github.com/qpeckin)
 
 #### 🎢 Stats
 

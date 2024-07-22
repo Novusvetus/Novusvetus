@@ -1,7 +1,6 @@
 
 - [anti-dominator](https://github.com/anti-dominator)
 - [devenye](https://github.com/devenye)
-- [idkvarghastaken](https://github.com/idkvarghastaken)
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [techsolutioncat](https://github.com/techsolutioncat)
@@ -99,3 +98,4 @@
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
+- [karthik558](https://github.com/karthik558)
