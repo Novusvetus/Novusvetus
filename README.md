@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [smartcoder0310](https://github.com/smartcoder0310)
 - [anti-dominator](https://github.com/anti-dominator)
 - [devenye](https://github.com/devenye)
 - [psharifi1997](https://github.com/psharifi1997)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
-- [qpeckin](https://github.com/qpeckin)
 
 #### 🎢 Stats
 
