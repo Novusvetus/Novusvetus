@@ -1,4 +1,5 @@
 
+- [Sneezedip](https://github.com/Sneezedip)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [anti-dominator](https://github.com/anti-dominator)
 - [devenye](https://github.com/devenye)
@@ -98,4 +99,3 @@
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
-- [karthik558](https://github.com/karthik558)
