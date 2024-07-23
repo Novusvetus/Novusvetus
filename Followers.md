@@ -4,7 +4,6 @@
 - [devenye](https://github.com/devenye)
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
-- [techsolutioncat](https://github.com/techsolutioncat)
 - [WhityGhost](https://github.com/WhityGhost)
 - [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
@@ -99,3 +98,4 @@
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
+- [karthik558](https://github.com/karthik558)
