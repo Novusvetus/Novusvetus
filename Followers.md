@@ -18,7 +18,6 @@
 - [skeleton1009](https://github.com/skeleton1009)
 - [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
-- [decoderwhoami](https://github.com/decoderwhoami)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
@@ -99,3 +98,4 @@
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
+- [karthik558](https://github.com/karthik558)
