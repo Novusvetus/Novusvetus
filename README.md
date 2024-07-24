@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [decoderwhoami](https://github.com/decoderwhoami)
+- [blocage](https://github.com/blocage)
 - [shizuki-kiyoko](https://github.com/shizuki-kiyoko)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [WhityGhost](https://github.com/WhityGhost)
-- [RustChainBuilder](https://github.com/RustChainBuilder)
-- [nobbydoo80](https://github.com/nobbydoo80)
 
 #### 🎢 Stats
 
