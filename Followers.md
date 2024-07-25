@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [shizuki-kiyoko](https://github.com/shizuki-kiyoko)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
@@ -99,3 +98,4 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
+- [warmice71](https://github.com/warmice71)
