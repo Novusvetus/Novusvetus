@@ -8,7 +8,6 @@
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [WhityGhost](https://github.com/WhityGhost)
-- [RustChainBuilder](https://github.com/RustChainBuilder)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [l950x](https://github.com/l950x)
 - [qpeckin](https://github.com/qpeckin)
@@ -99,3 +98,4 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
+- [warmice71](https://github.com/warmice71)

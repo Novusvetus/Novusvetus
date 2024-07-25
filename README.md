@@ -68,7 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [WhityGhost](https://github.com/WhityGhost)
-- [RustChainBuilder](https://github.com/RustChainBuilder)
+- [nobbydoo80](https://github.com/nobbydoo80)
 
 #### 🎢 Stats
 
