@@ -52,7 +52,7 @@
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [mwarcc](https://github.com/mwarcc)
-- [god-of-night-nightfurry](https://github.com/god-of-night-nightfurry)
+- [god-of-night](https://github.com/god-of-night)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [dougkalash](https://github.com/dougkalash)
