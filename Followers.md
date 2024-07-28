@@ -24,7 +24,6 @@
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
-- [sk66641](https://github.com/sk66641)
 - [solana-lunatic](https://github.com/solana-lunatic)
 - [xaramore](https://github.com/xaramore)
 - [tientq64](https://github.com/tientq64)
@@ -99,3 +98,4 @@
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
+- [karthik558](https://github.com/karthik558)
