@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [bambi-bf](https://github.com/bambi-bf)
-- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [shizuki-kiyoko](https://github.com/shizuki-kiyoko)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [anti-dominator](https://github.com/anti-dominator)
 - [devenye](https://github.com/devenye)
 - [psharifi1997](https://github.com/psharifi1997)
+- [ammadsaleem18](https://github.com/ammadsaleem18)
 
 #### 🎢 Stats
 

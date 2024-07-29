@@ -1,6 +1,5 @@
 
 - [bambi-bf](https://github.com/bambi-bf)
-- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [shizuki-kiyoko](https://github.com/shizuki-kiyoko)
@@ -99,3 +98,4 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
+- [warmice71](https://github.com/warmice71)
