@@ -72,7 +72,6 @@
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
-- [JyaburaniTech](https://github.com/JyaburaniTech)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
@@ -99,3 +98,4 @@
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
 - [warmice71](https://github.com/warmice71)
+- [karthik558](https://github.com/karthik558)
