@@ -72,7 +72,7 @@
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
-- [codeWithDavide](https://github.com/codeWithDavide)
+- [JyaburaniTech](https://github.com/JyaburaniTech)
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
