@@ -1,4 +1,5 @@
 
+- [ServerSync](https://github.com/ServerSync)
 - [iloveryuux](https://github.com/iloveryuux)
 - [bambi-bf](https://github.com/bambi-bf)
 - [thecatfix](https://github.com/thecatfix)
@@ -98,4 +99,3 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
-- [warmice71](https://github.com/warmice71)
