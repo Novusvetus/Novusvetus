@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [ServerSync](https://github.com/ServerSync)
 - [iloveryuux](https://github.com/iloveryuux)
 - [bambi-bf](https://github.com/bambi-bf)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [anti-dominator](https://github.com/anti-dominator)
-- [devenye](https://github.com/devenye)
 
 #### 🎢 Stats
 
