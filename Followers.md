@@ -9,7 +9,7 @@
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [anti-dominator](https://github.com/anti-dominator)
-- [devenye](https://github.com/devenye)
+- [rust-solman](https://github.com/rust-solman)
 - [psharifi1997](https://github.com/psharifi1997)
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [WhityGhost](https://github.com/WhityGhost)
