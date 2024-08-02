@@ -15,7 +15,6 @@
 - [ammadsaleem18](https://github.com/ammadsaleem18)
 - [WhityGhost](https://github.com/WhityGhost)
 - [nobbydoo80](https://github.com/nobbydoo80)
-- [l950x](https://github.com/l950x)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
 - [CollinLiu813](https://github.com/CollinLiu813)
@@ -99,3 +98,4 @@
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
+- [stan8086](https://github.com/stan8086)
