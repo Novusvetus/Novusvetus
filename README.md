@@ -66,7 +66,7 @@ _Nobody sponsors me. I am poor..._
 - [bambi-bf](https://github.com/bambi-bf)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [shizuki-kiyoko](https://github.com/shizuki-kiyoko)
+- [nerinee](https://github.com/nerinee)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 
