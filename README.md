@@ -62,13 +62,13 @@ _Nobody sponsors me. I am poor..._
 - [GrayMamoru](https://github.com/GrayMamoru)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [iloveryuux](https://github.com/iloveryuux)
 - [bambi-bf](https://github.com/bambi-bf)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [nerinee](https://github.com/nerinee)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
+- [anti-dominator](https://github.com/anti-dominator)
 
 #### 🎢 Stats
 
