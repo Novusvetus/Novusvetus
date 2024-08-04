@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [GrayMamoru](https://github.com/GrayMamoru)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [nerinee](https://github.com/nerinee)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
-- [anti-dominator](https://github.com/anti-dominator)
 
 #### 🎢 Stats
 
