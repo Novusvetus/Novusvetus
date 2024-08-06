@@ -13,7 +13,6 @@
 - [anti-dominator](https://github.com/anti-dominator)
 - [rust-solman](https://github.com/rust-solman)
 - [psharifi1997](https://github.com/psharifi1997)
-- [ammadsaleem18](https://github.com/ammadsaleem18)
 - [WhityGhost](https://github.com/WhityGhost)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [IvanENERGY](https://github.com/IvanENERGY)
@@ -99,3 +98,4 @@
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
+- [stan8086](https://github.com/stan8086)
