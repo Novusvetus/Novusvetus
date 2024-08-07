@@ -1,4 +1,5 @@
 
+- [x3ric](https://github.com/x3ric)
 - [xopaz](https://github.com/xopaz)
 - [tothetop430](https://github.com/tothetop430)
 - [GrayMamoru](https://github.com/GrayMamoru)
@@ -33,7 +34,6 @@
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [madeindex](https://github.com/madeindex)
-- [x3ric](https://github.com/x3ric)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 - [dexeril974](https://github.com/dexeril974)
 - [CavinMatrics](https://github.com/CavinMatrics)

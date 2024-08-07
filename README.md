@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [x3ric](https://github.com/x3ric)
 - [xopaz](https://github.com/xopaz)
 - [tothetop430](https://github.com/tothetop430)
 - [GrayMamoru](https://github.com/GrayMamoru)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [nerinee](https://github.com/nerinee)
-- [tr4m0ryp](https://github.com/tr4m0ryp)
 
 #### 🎢 Stats
 
