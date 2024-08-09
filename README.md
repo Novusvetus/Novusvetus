@@ -60,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [0bvim](https://github.com/0bvim)
+- [MuhammadRayyan16](https://github.com/MuhammadRayyan16)
 - [x3ric](https://github.com/x3ric)
 - [xopaz](https://github.com/xopaz)
 - [tothetop430](https://github.com/tothetop430)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [bambi-bf](https://github.com/bambi-bf)
 - [thecatfix](https://github.com/thecatfix)
-- [decoderwhoami](https://github.com/decoderwhoami)
 
 #### 🎢 Stats
 
