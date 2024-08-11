@@ -53,7 +53,7 @@
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [mwarcc](https://github.com/mwarcc)
-- [god-of-night](https://github.com/god-of-night)
+- [raccoondog-sniper](https://github.com/raccoondog-sniper)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [dougkalash](https://github.com/dougkalash)
