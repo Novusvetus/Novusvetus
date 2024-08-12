@@ -49,7 +49,6 @@
 - [johnsmith0212](https://github.com/johnsmith0212)
 - [ishida0415](https://github.com/ishida0415)
 - [hitosisasaki](https://github.com/hitosisasaki)
-- [simbadevwizard](https://github.com/simbadevwizard)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [mwarcc](https://github.com/mwarcc)
@@ -99,3 +98,4 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
+- [warmice71](https://github.com/warmice71)
