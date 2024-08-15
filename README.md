@@ -67,8 +67,8 @@ _Nobody sponsors me. I am poor..._
 - [GrayMamoru](https://github.com/GrayMamoru)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [bambi-bf](https://github.com/bambi-bf)
 - [thecatfix](https://github.com/thecatfix)
+- [decoderwhoami](https://github.com/decoderwhoami)
 
 #### 🎢 Stats
 
