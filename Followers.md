@@ -1,4 +1,5 @@
 
+- [chipnertkj](https://github.com/chipnertkj)
 - [ministerko](https://github.com/ministerko)
 - [x3ric](https://github.com/x3ric)
 - [xopaz](https://github.com/xopaz)
@@ -98,4 +99,3 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
-- [warmice71](https://github.com/warmice71)
