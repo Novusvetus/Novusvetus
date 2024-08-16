@@ -51,7 +51,7 @@
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [mwarcc](https://github.com/mwarcc)
-- [raccoondog-sniper](https://github.com/raccoondog-sniper)
+- [the-raccoondog](https://github.com/the-raccoondog)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [dougkalash](https://github.com/dougkalash)
