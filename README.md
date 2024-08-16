@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
 - [ministerko](https://github.com/ministerko)
 - [x3ric](https://github.com/x3ric)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [thecatfix](https://github.com/thecatfix)
-- [decoderwhoami](https://github.com/decoderwhoami)
 
 #### 🎢 Stats
 
