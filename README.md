@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
 - [ministerko](https://github.com/ministerko)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [GrayMamoru](https://github.com/GrayMamoru)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [thecatfix](https://github.com/thecatfix)
 
 #### 🎢 Stats
 
