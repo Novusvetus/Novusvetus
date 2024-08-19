@@ -1,4 +1,5 @@
 
+- [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
@@ -98,4 +99,3 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
-- [warmice71](https://github.com/warmice71)
