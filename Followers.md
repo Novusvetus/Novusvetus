@@ -22,7 +22,6 @@
 - [CollinLiu813](https://github.com/CollinLiu813)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
-- [skeleton1009](https://github.com/skeleton1009)
 - [hotcoding85](https://github.com/hotcoding85)
 - [nathalylorena](https://github.com/nathalylorena)
 - [Frosmin](https://github.com/Frosmin)
@@ -99,3 +98,4 @@
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
 - [CursedPrograms](https://github.com/CursedPrograms)
+- [warmice71](https://github.com/warmice71)
