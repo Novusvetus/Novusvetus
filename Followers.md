@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
@@ -99,3 +98,4 @@
 - [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
+- [CursedPrograms](https://github.com/CursedPrograms)
