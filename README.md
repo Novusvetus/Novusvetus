@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cometsheepboy](https://github.com/cometsheepboy)
 - [whosthere1337](https://github.com/whosthere1337)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [x3ric](https://github.com/x3ric)
 - [xopaz](https://github.com/xopaz)
 - [tothetop430](https://github.com/tothetop430)
-- [GrayMamoru](https://github.com/GrayMamoru)
 
 #### 🎢 Stats
 
