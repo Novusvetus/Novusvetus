@@ -1,4 +1,5 @@
 
+- [whosthere1337](https://github.com/whosthere1337)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
@@ -98,4 +99,3 @@
 - [dawn0123](https://github.com/dawn0123)
 - [hafsalodhi2023](https://github.com/hafsalodhi2023)
 - [stan8086](https://github.com/stan8086)
-- [CursedPrograms](https://github.com/CursedPrograms)
