@@ -18,7 +18,6 @@
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
-- [solkeen](https://github.com/solkeen)
 - [rust-solman](https://github.com/rust-solman)
 - [psharifi1997](https://github.com/psharifi1997)
 - [nobbydoo80](https://github.com/nobbydoo80)
@@ -99,3 +98,4 @@
 - [tharindu-d](https://github.com/tharindu-d)
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
+- [hafsalodhi2023](https://github.com/hafsalodhi2023)
