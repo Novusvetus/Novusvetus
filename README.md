@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [foxier25](https://github.com/foxier25)
 - [mythofmidas](https://github.com/mythofmidas)
 - [cometsheepboy](https://github.com/cometsheepboy)
 - [whosthere1337](https://github.com/whosthere1337)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [chipnertkj](https://github.com/chipnertkj)
 - [ministerko](https://github.com/ministerko)
 - [x3ric](https://github.com/x3ric)
-- [xopaz](https://github.com/xopaz)
 
 #### 🎢 Stats
 
