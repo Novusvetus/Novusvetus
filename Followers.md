@@ -40,7 +40,6 @@
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 - [dexeril974](https://github.com/dexeril974)
-- [CavinMatrics](https://github.com/CavinMatrics)
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
@@ -99,3 +98,4 @@
 - [unmitra](https://github.com/unmitra)
 - [tharindu-d](https://github.com/tharindu-d)
 - [CleuJunior](https://github.com/CleuJunior)
+- [dawn0123](https://github.com/dawn0123)
