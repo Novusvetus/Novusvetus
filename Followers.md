@@ -1,4 +1,5 @@
 
+- [mythofmidas](https://github.com/mythofmidas)
 - [cometsheepboy](https://github.com/cometsheepboy)
 - [whosthere1337](https://github.com/whosthere1337)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
@@ -98,4 +99,3 @@
 - [tharindu-d](https://github.com/tharindu-d)
 - [CleuJunior](https://github.com/CleuJunior)
 - [dawn0123](https://github.com/dawn0123)
-- [hafsalodhi2023](https://github.com/hafsalodhi2023)
