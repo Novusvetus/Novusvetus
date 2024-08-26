@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xmoohad](https://github.com/xmoohad)
 - [CoderTrinh](https://github.com/CoderTrinh)
 - [foxier25](https://github.com/foxier25)
 - [mythofmidas](https://github.com/mythofmidas)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
-- [ministerko](https://github.com/ministerko)
 
 #### 🎢 Stats
 
