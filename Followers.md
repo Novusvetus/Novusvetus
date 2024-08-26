@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [xmoohad](https://github.com/xmoohad)
 - [CoderTrinh](https://github.com/CoderTrinh)
 - [foxier25](https://github.com/foxier25)
@@ -98,4 +99,3 @@
 - [Allanoallashe](https://github.com/Allanoallashe)
 - [unmitra](https://github.com/unmitra)
 - [tharindu-d](https://github.com/tharindu-d)
-- [CleuJunior](https://github.com/CleuJunior)
