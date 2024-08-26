@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [xmoohad](https://github.com/xmoohad)
 - [CoderTrinh](https://github.com/CoderTrinh)
 - [foxier25](https://github.com/foxier25)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
+- [chipnertkj](https://github.com/chipnertkj)
 
 #### 🎢 Stats
 
