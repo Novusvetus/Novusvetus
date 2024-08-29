@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
 - [xmoohad](https://github.com/xmoohad)
 - [CoderTrinh](https://github.com/CoderTrinh)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [whosthere1337](https://github.com/whosthere1337)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
-- [Mathenge-Alex](https://github.com/Mathenge-Alex)
 
 #### 🎢 Stats
 
