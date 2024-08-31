@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [foryou929](https://github.com/foryou929)
 - [razaafazal](https://github.com/razaafazal)
 - [pushitICP](https://github.com/pushitICP)
@@ -98,4 +99,3 @@
 - [ProspDev](https://github.com/ProspDev)
 - [awesomedev77](https://github.com/awesomedev77)
 - [champion10873](https://github.com/champion10873)
-- [maxprohor](https://github.com/maxprohor)
