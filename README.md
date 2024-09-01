@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [foryou929](https://github.com/foryou929)
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [mythofmidas](https://github.com/mythofmidas)
 - [cometsheepboy](https://github.com/cometsheepboy)
 - [whosthere1337](https://github.com/whosthere1337)
-- [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 
 #### 🎢 Stats
 
