@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
 - [foryou929](https://github.com/foryou929)
 - [pushitICP](https://github.com/pushitICP)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [foxier25](https://github.com/foxier25)
 - [mythofmidas](https://github.com/mythofmidas)
 - [cometsheepboy](https://github.com/cometsheepboy)
-- [whosthere1337](https://github.com/whosthere1337)
 
 #### 🎢 Stats
 
