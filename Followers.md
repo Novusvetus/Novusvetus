@@ -1,4 +1,6 @@
 
+- [muhdnajeeb3](https://github.com/muhdnajeeb3)
+- [aoaydin](https://github.com/aoaydin)
 - [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
 - [foryou929](https://github.com/foryou929)
@@ -97,5 +99,3 @@
 - [rman1223](https://github.com/rman1223)
 - [manmaks](https://github.com/manmaks)
 - [ProspDev](https://github.com/ProspDev)
-- [awesomedev77](https://github.com/awesomedev77)
-- [champion10873](https://github.com/champion10873)
