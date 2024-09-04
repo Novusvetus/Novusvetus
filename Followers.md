@@ -61,7 +61,7 @@
 - [kentaurse](https://github.com/kentaurse)
 - [kazupot7](https://github.com/kazupot7)
 - [johnsmith0212](https://github.com/johnsmith0212)
-- [ishida0415](https://github.com/ishida0415)
+- [pls0x001](https://github.com/pls0x001)
 - [hitosisasaki](https://github.com/hitosisasaki)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
