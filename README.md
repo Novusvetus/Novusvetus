@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
 - [muhdnajeeb3](https://github.com/muhdnajeeb3)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [foryou929](https://github.com/foryou929)
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
-- [xmoohad](https://github.com/xmoohad)
 
 #### 🎢 Stats
 
