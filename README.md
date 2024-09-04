@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mustafacagri](https://github.com/mustafacagri)
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
 - [muhdnajeeb3](https://github.com/muhdnajeeb3)
 - [aoaydin](https://github.com/aoaydin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
 - [xmoohad](https://github.com/xmoohad)
-- [CoderTrinh](https://github.com/CoderTrinh)
 
 #### 🎢 Stats
 
