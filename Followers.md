@@ -35,7 +35,7 @@
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
-- [CollinLiu813](https://github.com/CollinLiu813)
+- [golden-lucky-monkey](https://github.com/golden-lucky-monkey)
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [hotcoding85](https://github.com/hotcoding85)
