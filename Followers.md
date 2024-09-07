@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [Gail19](https://github.com/Gail19)
 - [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
@@ -99,3 +98,4 @@
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
+- [juliofleitas](https://github.com/juliofleitas)
