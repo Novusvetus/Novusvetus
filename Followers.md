@@ -1,4 +1,5 @@
 
+- [omoghaoghenemano](https://github.com/omoghaoghenemano)
 - [capitansec](https://github.com/capitansec)
 - [Gail19](https://github.com/Gail19)
 - [Pookie0717](https://github.com/Pookie0717)
@@ -98,4 +99,3 @@
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
-- [MadSkel8on](https://github.com/MadSkel8on)
