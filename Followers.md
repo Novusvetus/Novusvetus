@@ -15,7 +15,6 @@
 - [CoderTrinh](https://github.com/CoderTrinh)
 - [foxier25](https://github.com/foxier25)
 - [mythofmidas](https://github.com/mythofmidas)
-- [cometsheepboy](https://github.com/cometsheepboy)
 - [whosthere1337](https://github.com/whosthere1337)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
@@ -99,3 +98,4 @@
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
+- [juliofleitas](https://github.com/juliofleitas)
