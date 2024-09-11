@@ -5,7 +5,6 @@
 - [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
-- [muhdnajeeb3](https://github.com/muhdnajeeb3)
 - [aoaydin](https://github.com/aoaydin)
 - [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
@@ -99,3 +98,4 @@
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
+- [MadSkel8on](https://github.com/MadSkel8on)

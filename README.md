@@ -65,10 +65,10 @@ _Nobody sponsors me. I am poor..._
 - [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
-- [muhdnajeeb3](https://github.com/muhdnajeeb3)
 - [aoaydin](https://github.com/aoaydin)
 - [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
+- [foryou929](https://github.com/foryou929)
 
 #### 🎢 Stats
 
