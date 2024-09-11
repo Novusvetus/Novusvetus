@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
 - [capitansec](https://github.com/capitansec)
 - [Gail19](https://github.com/Gail19)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [aoaydin](https://github.com/aoaydin)
 - [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
-- [foryou929](https://github.com/foryou929)
 
 #### 🎢 Stats
 
