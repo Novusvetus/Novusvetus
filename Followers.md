@@ -32,7 +32,6 @@
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
-- [rstkey](https://github.com/rstkey)
 - [psharifi1997](https://github.com/psharifi1997)
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [IvanENERGY](https://github.com/IvanENERGY)
@@ -99,3 +98,4 @@
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
+- [juliofleitas](https://github.com/juliofleitas)
