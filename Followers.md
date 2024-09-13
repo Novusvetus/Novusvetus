@@ -1,4 +1,5 @@
 
+- [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
 - [capitansec](https://github.com/capitansec)
@@ -98,4 +99,3 @@
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
 - [MadSkel8on](https://github.com/MadSkel8on)
-- [juliofleitas](https://github.com/juliofleitas)
