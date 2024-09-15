@@ -1,4 +1,5 @@
 
+- [qpeckin](https://github.com/qpeckin)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
@@ -98,4 +99,3 @@
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
-- [aldrshan](https://github.com/aldrshan)
