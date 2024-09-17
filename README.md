@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [qpeckin](https://github.com/qpeckin)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
 - [capitansec](https://github.com/capitansec)
 - [Gail19](https://github.com/Gail19)
-- [Pookie0717](https://github.com/Pookie0717)
 
 #### 🎢 Stats
 
