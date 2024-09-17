@@ -10,7 +10,6 @@
 - [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
-- [aoaydin](https://github.com/aoaydin)
 - [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
 - [foryou929](https://github.com/foryou929)
@@ -99,3 +98,4 @@
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
 - [nickdev0118](https://github.com/nickdev0118)
+- [vistaJ0103](https://github.com/vistaJ0103)
