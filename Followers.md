@@ -86,7 +86,7 @@
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
 - [vickkie](https://github.com/vickkie)
-- [bald404](https://github.com/bald404)
+- [miroshar-success](https://github.com/miroshar-success)
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [omololevy](https://github.com/omololevy)
 - [mukul-sharma085](https://github.com/mukul-sharma085)
