@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [despicableGruu](https://github.com/despicableGruu)
 - [PatrykIA](https://github.com/PatrykIA)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
-- [capitansec](https://github.com/capitansec)
 
 #### 🎢 Stats
 
