@@ -1,4 +1,5 @@
 
+- [PatrykIA](https://github.com/PatrykIA)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
@@ -98,4 +99,3 @@
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
-- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
