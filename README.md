@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [despicableGruu](https://github.com/despicableGruu)
 - [PatrykIA](https://github.com/PatrykIA)
 - [s-n-3](https://github.com/s-n-3)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
+- [omoghaoghenemano](https://github.com/omoghaoghenemano)
 
 #### 🎢 Stats
 
