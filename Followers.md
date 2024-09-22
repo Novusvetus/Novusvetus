@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [sol-wiz](https://github.com/sol-wiz)
 - [despicableGruu](https://github.com/despicableGruu)
 - [PatrykIA](https://github.com/PatrykIA)
@@ -99,3 +98,4 @@
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [Denys0808](https://github.com/Denys0808)
+- [aylarghezelbash](https://github.com/aylarghezelbash)
