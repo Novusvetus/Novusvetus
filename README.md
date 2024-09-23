@@ -60,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [ssakuraki](https://github.com/ssakuraki)
-- [dougkalash](https://github.com/dougkalash)
 - [sol-wiz](https://github.com/sol-wiz)
 - [PatrykIA](https://github.com/PatrykIA)
 - [s-n-3](https://github.com/s-n-3)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [qpeckin](https://github.com/qpeckin)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
+- [reinakwasi](https://github.com/reinakwasi)
 
 #### 🎢 Stats
 
