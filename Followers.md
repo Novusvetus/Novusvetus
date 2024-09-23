@@ -76,7 +76,7 @@
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [mwarcc](https://github.com/mwarcc)
-- [wonder-world-pp](https://github.com/wonder-world-pp)
+- [wonder-Furry](https://github.com/wonder-Furry)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [flaviopavim](https://github.com/flaviopavim)
