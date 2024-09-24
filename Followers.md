@@ -2,7 +2,6 @@
 - [Xilover](https://github.com/Xilover)
 - [dougkalash](https://github.com/dougkalash)
 - [ssakuraki](https://github.com/ssakuraki)
-- [sol-wiz](https://github.com/sol-wiz)
 - [PatrykIA](https://github.com/PatrykIA)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
@@ -99,3 +98,4 @@
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [Denys0808](https://github.com/Denys0808)
+- [aylarghezelbash](https://github.com/aylarghezelbash)
