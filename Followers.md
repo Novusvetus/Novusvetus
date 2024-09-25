@@ -77,7 +77,7 @@
 - [LegendaryNaix](https://github.com/LegendaryNaix)
 - [HappyCodingWizard](https://github.com/HappyCodingWizard)
 - [mwarcc](https://github.com/mwarcc)
-- [wonder-Furry](https://github.com/wonder-Furry)
+- [techwizard-mobile-ai](https://github.com/techwizard-mobile-ai)
 - [carlesloriente](https://github.com/carlesloriente)
 - [monolab825](https://github.com/monolab825)
 - [flaviopavim](https://github.com/flaviopavim)
