@@ -62,13 +62,13 @@ _Nobody sponsors me. I am poor..._
 - [Xilover](https://github.com/Xilover)
 - [dougkalash](https://github.com/dougkalash)
 - [ssakuraki](https://github.com/ssakuraki)
-- [PatrykIA](https://github.com/PatrykIA)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [qpeckin](https://github.com/qpeckin)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
+- [reinakwasi](https://github.com/reinakwasi)
 
 #### 🎢 Stats
 
