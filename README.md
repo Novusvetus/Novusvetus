@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [Xilover](https://github.com/Xilover)
 - [dougkalash](https://github.com/dougkalash)
 - [ssakuraki](https://github.com/ssakuraki)
@@ -69,6 +68,7 @@ _Nobody sponsors me. I am poor..._
 - [qpeckin](https://github.com/qpeckin)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
+- [reinakwasi](https://github.com/reinakwasi)
 
 #### 🎢 Stats
 
