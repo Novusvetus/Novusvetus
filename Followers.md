@@ -1,6 +1,5 @@
 
 - [Xilover](https://github.com/Xilover)
-- [dougkalash](https://github.com/dougkalash)
 - [ssakuraki](https://github.com/ssakuraki)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
@@ -99,3 +98,4 @@
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
+- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
