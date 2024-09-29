@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dougkalash](https://github.com/dougkalash)
 - [Xilover](https://github.com/Xilover)
 - [ssakuraki](https://github.com/ssakuraki)
 - [s-n-3](https://github.com/s-n-3)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
-- [omoghaoghenemano](https://github.com/omoghaoghenemano)
 
 #### 🎢 Stats
 
