@@ -48,7 +48,6 @@
 - [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [hotcoding85](https://github.com/hotcoding85)
-- [nathalylorena](https://github.com/nathalylorena)
 - [Frosmin](https://github.com/Frosmin)
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
@@ -99,3 +98,4 @@
 - [Denys0808](https://github.com/Denys0808)
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
+- [mohmadalamansari](https://github.com/mohmadalamansari)
