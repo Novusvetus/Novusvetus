@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
 - [dougkalash](https://github.com/dougkalash)
 - [Xilover](https://github.com/Xilover)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [qpeckin](https://github.com/qpeckin)
 - [mbahomaid](https://github.com/mbahomaid)
-- [samarjitsahoo](https://github.com/samarjitsahoo)
 
 #### 🎢 Stats
 
