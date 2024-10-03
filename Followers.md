@@ -24,7 +24,6 @@
 - [lxRbckl](https://github.com/lxRbckl)
 - [CoderTrinh](https://github.com/CoderTrinh)
 - [foxier25](https://github.com/foxier25)
-- [mythofmidas](https://github.com/mythofmidas)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
@@ -99,3 +98,4 @@
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
+- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
