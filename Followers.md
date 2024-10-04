@@ -1,7 +1,6 @@
 
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
-- [dougkalash](https://github.com/dougkalash)
 - [Xilover](https://github.com/Xilover)
 - [ssakuraki](https://github.com/ssakuraki)
 - [s-n-3](https://github.com/s-n-3)
@@ -99,3 +98,4 @@
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
+- [nickdev0118](https://github.com/nickdev0118)
