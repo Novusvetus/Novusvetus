@@ -1,5 +1,4 @@
 
-- [dougkalash](https://github.com/dougkalash)
 - [ByteXenon](https://github.com/ByteXenon)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
@@ -99,3 +98,4 @@
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
 - [nickdev0118](https://github.com/nickdev0118)
+- [vistaJ0103](https://github.com/vistaJ0103)
