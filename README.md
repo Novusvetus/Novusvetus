@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [renominated](https://github.com/renominated)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
 - [shiny0103](https://github.com/shiny0103)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
-- [omoghaoghenemano](https://github.com/omoghaoghenemano)
 
 #### 🎢 Stats
 
