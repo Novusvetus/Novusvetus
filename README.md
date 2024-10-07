@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [theamallalgi](https://github.com/theamallalgi)
 - [ByteXenon](https://github.com/ByteXenon)
 - [renominated](https://github.com/renominated)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
-- [samarjitsahoo](https://github.com/samarjitsahoo)
 
 #### 🎢 Stats
 

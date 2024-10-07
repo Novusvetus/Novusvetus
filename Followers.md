@@ -1,4 +1,5 @@
 
+- [theamallalgi](https://github.com/theamallalgi)
 - [ByteXenon](https://github.com/ByteXenon)
 - [renominated](https://github.com/renominated)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
@@ -98,4 +99,3 @@
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
 - [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
-- [nickdev0118](https://github.com/nickdev0118)
