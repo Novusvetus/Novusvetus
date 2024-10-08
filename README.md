@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [Keviiiiiiiin](https://github.com/Keviiiiiiiin)
 - [theamallalgi](https://github.com/theamallalgi)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [veryhari](https://github.com/veryhari)
 - [shiny0103](https://github.com/shiny0103)
 - [s-n-3](https://github.com/s-n-3)
-- [kpshivaprasath](https://github.com/kpshivaprasath)
 
 #### 🎢 Stats
 
