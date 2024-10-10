@@ -65,10 +65,10 @@ _Nobody sponsors me. I am poor..._
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [Keviiiiiiiin](https://github.com/Keviiiiiiiin)
 - [theamallalgi](https://github.com/theamallalgi)
-- [ByteXenon](https://github.com/ByteXenon)
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
+- [shiny0103](https://github.com/shiny0103)
 
 #### 🎢 Stats
 
