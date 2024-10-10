@@ -59,6 +59,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mahdi-eth](https://github.com/mahdi-eth)
+- [rasuljangirli](https://github.com/rasuljangirli)
 - [blocage](https://github.com/blocage)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [Keviiiiiiiin](https://github.com/Keviiiiiiiin)
@@ -67,8 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
-- [shiny0103](https://github.com/shiny0103)
-- [s-n-3](https://github.com/s-n-3)
 
 #### 🎢 Stats
 

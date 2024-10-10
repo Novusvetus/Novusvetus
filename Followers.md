@@ -1,4 +1,6 @@
 
+- [mahdi-eth](https://github.com/mahdi-eth)
+- [rasuljangirli](https://github.com/rasuljangirli)
 - [blocage](https://github.com/blocage)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [Keviiiiiiiin](https://github.com/Keviiiiiiiin)
@@ -97,5 +99,3 @@
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
-- [Denys0808](https://github.com/Denys0808)
-- [aylarghezelbash](https://github.com/aylarghezelbash)
