@@ -46,7 +46,6 @@
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [psharifi1997](https://github.com/psharifi1997)
 - [nobbydoo80](https://github.com/nobbydoo80)
-- [IvanENERGY](https://github.com/IvanENERGY)
 - [otaviossousa](https://github.com/otaviossousa)
 - [golden-lucky-monkey](https://github.com/golden-lucky-monkey)
 - [Daynlight](https://github.com/Daynlight)
@@ -99,3 +98,4 @@
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
+- [Denys0808](https://github.com/Denys0808)
