@@ -2,7 +2,6 @@
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [rasuljangirli](https://github.com/rasuljangirli)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
-- [Keviiiiiiiin](https://github.com/Keviiiiiiiin)
 - [theamallalgi](https://github.com/theamallalgi)
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
@@ -99,3 +98,4 @@
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
+- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)

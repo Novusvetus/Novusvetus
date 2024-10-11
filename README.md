@@ -62,13 +62,13 @@ _Nobody sponsors me. I am poor..._
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [rasuljangirli](https://github.com/rasuljangirli)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
-- [Keviiiiiiiin](https://github.com/Keviiiiiiiin)
 - [theamallalgi](https://github.com/theamallalgi)
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
+- [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 
 #### 🎢 Stats
 
