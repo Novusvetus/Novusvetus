@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bellafalconi](https://github.com/bellafalconi)
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [rasuljangirli](https://github.com/rasuljangirli)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [veryhari](https://github.com/veryhari)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
-- [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 
 #### 🎢 Stats
 
