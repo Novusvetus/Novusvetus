@@ -90,7 +90,7 @@
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [omololevy](https://github.com/omololevy)
 - [mukul-sharma085](https://github.com/mukul-sharma085)
-- [uanc](https://github.com/uanc)
+- [nearest](https://github.com/nearest)
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
