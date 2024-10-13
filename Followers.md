@@ -90,7 +90,7 @@
 - [Mach-Levi](https://github.com/Mach-Levi)
 - [omololevy](https://github.com/omololevy)
 - [mukul-sharma085](https://github.com/mukul-sharma085)
-- [ryanisfemboy](https://github.com/ryanisfemboy)
+- [restriction](https://github.com/restriction)
 - [TopGuru777](https://github.com/TopGuru777)
 - [peymanmotamedifar](https://github.com/peymanmotamedifar)
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
