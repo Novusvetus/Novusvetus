@@ -67,7 +67,6 @@
 - [satomichru](https://github.com/satomichru)
 - [satokihanada](https://github.com/satokihanada)
 - [lind0118](https://github.com/lind0118)
-- [kentaurse](https://github.com/kentaurse)
 - [kazupot7](https://github.com/kazupot7)
 - [0x0factor](https://github.com/0x0factor)
 - [pls0x001](https://github.com/pls0x001)
@@ -99,3 +98,4 @@
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
+- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
