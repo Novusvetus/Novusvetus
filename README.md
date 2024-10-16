@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Connor9994](https://github.com/Connor9994)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [bellafalconi](https://github.com/bellafalconi)
 - [mahdi-eth](https://github.com/mahdi-eth)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
 - [s-n-3](https://github.com/s-n-3)
-- [kpshivaprasath](https://github.com/kpshivaprasath)
 
 #### 🎢 Stats
 

@@ -1,4 +1,5 @@
 
+- [Connor9994](https://github.com/Connor9994)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [bellafalconi](https://github.com/bellafalconi)
 - [mahdi-eth](https://github.com/mahdi-eth)
@@ -98,4 +99,3 @@
 - [aylarghezelbash](https://github.com/aylarghezelbash)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
-- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
