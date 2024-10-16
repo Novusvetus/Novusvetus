@@ -59,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [Connor9994](https://github.com/Connor9994)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [bellafalconi](https://github.com/bellafalconi)
@@ -68,7 +69,6 @@ _Nobody sponsors me. I am poor..._
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [veryhari](https://github.com/veryhari)
-- [s-n-3](https://github.com/s-n-3)
 
 #### 🎢 Stats
 
