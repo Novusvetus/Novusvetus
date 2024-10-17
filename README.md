@@ -61,14 +61,14 @@ _Nobody sponsors me. I am poor..._
 
 - [Connor9994](https://github.com/Connor9994)
 - [CelaDaniel](https://github.com/CelaDaniel)
-- [bellafalconi](https://github.com/bellafalconi)
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [theamallalgi](https://github.com/theamallalgi)
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
-- [veryhari](https://github.com/veryhari)
 - [s-n-3](https://github.com/s-n-3)
+- [kpshivaprasath](https://github.com/kpshivaprasath)
+- [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 
 #### 🎢 Stats
 
