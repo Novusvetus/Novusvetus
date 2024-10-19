@@ -31,7 +31,6 @@
 - [chipnertkj](https://github.com/chipnertkj)
 - [ministerko](https://github.com/ministerko)
 - [x3ric](https://github.com/x3ric)
-- [xopaz](https://github.com/xopaz)
 - [tothetop430](https://github.com/tothetop430)
 - [GrayMamoru](https://github.com/GrayMamoru)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
@@ -99,3 +98,4 @@
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
+- [MadSkel8on](https://github.com/MadSkel8on)
