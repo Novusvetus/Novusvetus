@@ -25,7 +25,6 @@
 - [foryou929](https://github.com/foryou929)
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
-- [CoderTrinh](https://github.com/CoderTrinh)
 - [foxier25](https://github.com/foxier25)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
@@ -99,3 +98,4 @@
 - [nickdev0118](https://github.com/nickdev0118)
 - [vistaJ0103](https://github.com/vistaJ0103)
 - [aldrshan](https://github.com/aldrshan)
+- [MadSkel8on](https://github.com/MadSkel8on)
