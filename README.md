@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Tohidkhan6332](https://github.com/Tohidkhan6332)
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [theamallalgi](https://github.com/theamallalgi)
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
-- [s-n-3](https://github.com/s-n-3)
 
 #### 🎢 Stats
 
