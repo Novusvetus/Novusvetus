@@ -62,11 +62,11 @@ _Nobody sponsors me. I am poor..._
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
-- [CelaDaniel](https://github.com/CelaDaniel)
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [theamallalgi](https://github.com/theamallalgi)
 - [befoulers](https://github.com/befoulers)
+- [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 
 #### 🎢 Stats
 
