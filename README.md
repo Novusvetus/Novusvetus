@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Rez4-3yz](https://github.com/Rez4-3yz)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
 - [edu-amr](https://github.com/edu-amr)
 - [Tohidkhan6332](https://github.com/Tohidkhan6332)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [ClashProgrammer](https://github.com/ClashProgrammer)
 - [theamallalgi](https://github.com/theamallalgi)
-- [befoulers](https://github.com/befoulers)
 
 #### 🎢 Stats
 
