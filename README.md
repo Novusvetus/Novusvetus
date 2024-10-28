@@ -57,6 +57,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [khodeprs](https://github.com/khodeprs)
+- [CoreUnitNET](https://github.com/CoreUnitNET)
 - [mahakkhajeh](https://github.com/mahakkhajeh)
 - [H-K-R](https://github.com/H-K-R)
 - [vladduucckk](https://github.com/vladduucckk)
@@ -65,8 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [maryam-kazemi](https://github.com/maryam-kazemi)
 - [edu-amr](https://github.com/edu-amr)
 - [Tohidkhan6332](https://github.com/Tohidkhan6332)
-- [idimetrix](https://github.com/idimetrix)
-- [krzysztof293](https://github.com/krzysztof293)
 
 #### 🎢 Stats
 
