@@ -1,4 +1,5 @@
 
+- [H-K-R](https://github.com/H-K-R)
 - [vladduucckk](https://github.com/vladduucckk)
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
@@ -98,4 +99,3 @@
 - [Denys0808](https://github.com/Denys0808)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
 - [mohmadalamansari](https://github.com/mohmadalamansari)
-- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)

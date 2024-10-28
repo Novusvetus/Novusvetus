@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [H-K-R](https://github.com/H-K-R)
 - [vladduucckk](https://github.com/vladduucckk)
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
-- [mahdi-eth](https://github.com/mahdi-eth)
 
 #### 🎢 Stats
 
