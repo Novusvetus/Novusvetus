@@ -60,13 +60,13 @@ _Nobody sponsors me. I am poor..._
 - [vladduucckk](https://github.com/vladduucckk)
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
-- [Rez4-3yz](https://github.com/Rez4-3yz)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
 - [edu-amr](https://github.com/edu-amr)
 - [Tohidkhan6332](https://github.com/Tohidkhan6332)
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
+- [mahdi-eth](https://github.com/mahdi-eth)
 
 #### 🎢 Stats
 
