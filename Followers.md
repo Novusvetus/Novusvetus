@@ -1,4 +1,7 @@
 
+- [vladduucckk](https://github.com/vladduucckk)
+- [AgileTech777](https://github.com/AgileTech777)
+- [AZIZEMESR](https://github.com/AZIZEMESR)
 - [Rez4-3yz](https://github.com/Rez4-3yz)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
 - [edu-amr](https://github.com/edu-amr)
@@ -96,6 +99,3 @@
 - [HappyLuckYesterday](https://github.com/HappyLuckYesterday)
 - [Denys0808](https://github.com/Denys0808)
 - [MohamedAyman22E](https://github.com/MohamedAyman22E)
-- [mohmadalamansari](https://github.com/mohmadalamansari)
-- [TheSonOfSocrates](https://github.com/TheSonOfSocrates)
-- [nickdev0118](https://github.com/nickdev0118)
