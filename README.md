@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Kiimmiiya](https://github.com/Kiimmiiya)
 - [alieeahmadi08](https://github.com/alieeahmadi08)
 - [khodeprs](https://github.com/khodeprs)
 - [CoreUnitNET](https://github.com/CoreUnitNET)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
-- [edu-amr](https://github.com/edu-amr)
 
 #### 🎢 Stats
 
