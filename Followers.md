@@ -1,4 +1,6 @@
 
+- [Soheilja28](https://github.com/Soheilja28)
+- [FaezehRahimian](https://github.com/FaezehRahimian)
 - [luckysw0rd](https://github.com/luckysw0rd)
 - [hhdst](https://github.com/hhdst)
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
@@ -97,5 +99,3 @@
 - [isadevlima](https://github.com/isadevlima)
 - [davidlotfi](https://github.com/davidlotfi)
 - [vickkie](https://github.com/vickkie)
-- [miroshar-success](https://github.com/miroshar-success)
-- [Mach-Levi](https://github.com/Mach-Levi)

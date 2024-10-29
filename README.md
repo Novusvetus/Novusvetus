@@ -57,6 +57,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Soheilja28](https://github.com/Soheilja28)
+- [FaezehRahimian](https://github.com/FaezehRahimian)
 - [luckysw0rd](https://github.com/luckysw0rd)
 - [hhdst](https://github.com/hhdst)
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
@@ -65,8 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [Kiimmiiya](https://github.com/Kiimmiiya)
 - [alieeahmadi08](https://github.com/alieeahmadi08)
 - [khodeprs](https://github.com/khodeprs)
-- [mahakkhajeh](https://github.com/mahakkhajeh)
-- [H-K-R](https://github.com/H-K-R)
 
 #### 🎢 Stats
 
