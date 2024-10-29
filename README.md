@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [luckysw0rd](https://github.com/luckysw0rd)
 - [hhdst](https://github.com/hhdst)
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [MdShawonForazi](https://github.com/MdShawonForazi)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [khodeprs](https://github.com/khodeprs)
 - [mahakkhajeh](https://github.com/mahakkhajeh)
 - [H-K-R](https://github.com/H-K-R)
-- [vladduucckk](https://github.com/vladduucckk)
 
 #### 🎢 Stats
 
