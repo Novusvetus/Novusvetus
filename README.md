@@ -63,10 +63,10 @@ _Nobody sponsors me. I am poor..._
 - [Kiimmiiya](https://github.com/Kiimmiiya)
 - [alieeahmadi08](https://github.com/alieeahmadi08)
 - [khodeprs](https://github.com/khodeprs)
-- [CoreUnitNET](https://github.com/CoreUnitNET)
 - [mahakkhajeh](https://github.com/mahakkhajeh)
 - [H-K-R](https://github.com/H-K-R)
 - [vladduucckk](https://github.com/vladduucckk)
+- [AgileTech777](https://github.com/AgileTech777)
 
 #### 🎢 Stats
 
