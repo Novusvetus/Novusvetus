@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [abaoo3](https://github.com/abaoo3)
 - [nanadiy](https://github.com/nanadiy)
 - [Fatemehkiani2002](https://github.com/Fatemehkiani2002)
 - [Soheilja28](https://github.com/Soheilja28)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [MdShawonForazi](https://github.com/MdShawonForazi)
 - [rubsxyz](https://github.com/rubsxyz)
-- [Kiimmiiya](https://github.com/Kiimmiiya)
 
 #### 🎢 Stats
 
