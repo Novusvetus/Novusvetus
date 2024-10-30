@@ -19,7 +19,6 @@
 - [AZIZEMESR](https://github.com/AZIZEMESR)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
 - [edu-amr](https://github.com/edu-amr)
-- [Tohidkhan6332](https://github.com/Tohidkhan6332)
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
@@ -99,3 +98,4 @@
 - [Puneetsharma5525](https://github.com/Puneetsharma5525)
 - [agathafr](https://github.com/agathafr)
 - [techking11](https://github.com/techking11)
+- [isadevlima](https://github.com/isadevlima)
