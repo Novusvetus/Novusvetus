@@ -1,4 +1,6 @@
 
+- [byigitt](https://github.com/byigitt)
+- [Macgyver02](https://github.com/Macgyver02)
 - [MiladJoodi](https://github.com/MiladJoodi)
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
@@ -97,5 +99,3 @@
 - [monolab825](https://github.com/monolab825)
 - [flaviopavim](https://github.com/flaviopavim)
 - [redLiquidator](https://github.com/redLiquidator)
-- [thepiratehub](https://github.com/thepiratehub)
-- [Puneetsharma5525](https://github.com/Puneetsharma5525)
