@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
 - [karimselim](https://github.com/karimselim)
 - [FJahanmiri](https://github.com/FJahanmiri)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
 - [abaoo3](https://github.com/abaoo3)
-- [nanadiy](https://github.com/nanadiy)
 
 #### 🎢 Stats
 
