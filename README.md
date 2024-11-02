@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jasixiedust](https://github.com/jasixiedust)
 - [SaraAhmed1999](https://github.com/SaraAhmed1999)
 - [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [Macgyver02](https://github.com/Macgyver02)
 - [MiladJoodi](https://github.com/MiladJoodi)
 - [maryamdnn](https://github.com/maryamdnn)
-- [omar49511](https://github.com/omar49511)
 
 #### 🎢 Stats
 
