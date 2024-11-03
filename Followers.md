@@ -2,7 +2,6 @@
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [santiagocanepa](https://github.com/santiagocanepa)
 - [jasixiedust](https://github.com/jasixiedust)
-- [SaraAhmed1999](https://github.com/SaraAhmed1999)
 - [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
 - [karimselim](https://github.com/karimselim)
@@ -99,3 +98,4 @@
 - [pls0x001](https://github.com/pls0x001)
 - [hitosisasaki](https://github.com/hitosisasaki)
 - [LegendaryNaix](https://github.com/LegendaryNaix)
+- [HappyCodingWizard](https://github.com/HappyCodingWizard)
