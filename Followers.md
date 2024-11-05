@@ -1,4 +1,6 @@
 
+- [santaclousdon](https://github.com/santaclousdon)
+- [rasuljangirli](https://github.com/rasuljangirli)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [santiagocanepa](https://github.com/santiagocanepa)
@@ -74,7 +76,6 @@
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [otaviossousa](https://github.com/otaviossousa)
 - [golden-lucky-monkey](https://github.com/golden-lucky-monkey)
-- [Daynlight](https://github.com/Daynlight)
 - [theicedev](https://github.com/theicedev)
 - [hotcoding85](https://github.com/hotcoding85)
 - [Frosmin](https://github.com/Frosmin)
@@ -98,4 +99,3 @@
 - [0x0factor](https://github.com/0x0factor)
 - [pls0x001](https://github.com/pls0x001)
 - [hitosisasaki](https://github.com/hitosisasaki)
-- [LegendaryNaix](https://github.com/LegendaryNaix)
