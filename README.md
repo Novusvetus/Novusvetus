@@ -57,6 +57,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jelspace](https://github.com/jelspace)
+- [alpine29](https://github.com/alpine29)
 - [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
 - [rasuljangirli](https://github.com/rasuljangirli)
@@ -65,8 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [santiagocanepa](https://github.com/santiagocanepa)
 - [jasixiedust](https://github.com/jasixiedust)
 - [TiraDevHead](https://github.com/TiraDevHead)
-- [Amir100200](https://github.com/Amir100200)
-- [karimselim](https://github.com/karimselim)
 
 #### 🎢 Stats
 

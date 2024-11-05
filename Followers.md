@@ -1,4 +1,6 @@
 
+- [jelspace](https://github.com/jelspace)
+- [alpine29](https://github.com/alpine29)
 - [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
 - [rasuljangirli](https://github.com/rasuljangirli)
@@ -97,5 +99,3 @@
 - [satokihanada](https://github.com/satokihanada)
 - [lind0118](https://github.com/lind0118)
 - [kazupot7](https://github.com/kazupot7)
-- [0x0factor](https://github.com/0x0factor)
-- [pls0x001](https://github.com/pls0x001)
