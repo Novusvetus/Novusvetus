@@ -1,4 +1,5 @@
 
+- [najmul-haque-talukder](https://github.com/najmul-haque-talukder)
 - [Salvelop07](https://github.com/Salvelop07)
 - [jelspace](https://github.com/jelspace)
 - [alpine29](https://github.com/alpine29)
@@ -98,4 +99,3 @@
 - [satomichru](https://github.com/satomichru)
 - [satokihanada](https://github.com/satokihanada)
 - [lind0118](https://github.com/lind0118)
-- [kazupot7](https://github.com/kazupot7)
