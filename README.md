@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
 - [rasuljangirli](https://github.com/rasuljangirli)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
 - [karimselim](https://github.com/karimselim)
-- [FJahanmiri](https://github.com/FJahanmiri)
 
 #### 🎢 Stats
 

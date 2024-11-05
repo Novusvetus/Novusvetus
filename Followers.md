@@ -1,4 +1,5 @@
 
+- [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
 - [rasuljangirli](https://github.com/rasuljangirli)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
@@ -98,4 +99,3 @@
 - [kazupot7](https://github.com/kazupot7)
 - [0x0factor](https://github.com/0x0factor)
 - [pls0x001](https://github.com/pls0x001)
-- [hitosisasaki](https://github.com/hitosisasaki)
