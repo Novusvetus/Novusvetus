@@ -62,11 +62,11 @@ _Nobody sponsors me. I am poor..._
 - [alpine29](https://github.com/alpine29)
 - [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
-- [rasuljangirli](https://github.com/rasuljangirli)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [santiagocanepa](https://github.com/santiagocanepa)
 - [jasixiedust](https://github.com/jasixiedust)
+- [TiraDevHead](https://github.com/TiraDevHead)
 
 #### 🎢 Stats
 

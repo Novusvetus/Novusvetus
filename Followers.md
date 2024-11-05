@@ -4,7 +4,6 @@
 - [alpine29](https://github.com/alpine29)
 - [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
-- [rasuljangirli](https://github.com/rasuljangirli)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [santiagocanepa](https://github.com/santiagocanepa)
@@ -99,3 +98,4 @@
 - [satomichru](https://github.com/satomichru)
 - [satokihanada](https://github.com/satokihanada)
 - [lind0118](https://github.com/lind0118)
+- [kazupot7](https://github.com/kazupot7)
