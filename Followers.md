@@ -37,7 +37,6 @@
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
-- [edu-amr](https://github.com/edu-amr)
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
@@ -99,3 +98,4 @@
 - [alxkm](https://github.com/alxkm)
 - [satomichru](https://github.com/satomichru)
 - [satokihanada](https://github.com/satokihanada)
+- [lind0118](https://github.com/lind0118)
