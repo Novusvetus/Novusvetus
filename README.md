@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kourosh07](https://github.com/kourosh07)
 - [najmul-haque-talukder](https://github.com/najmul-haque-talukder)
 - [Salvelop07](https://github.com/Salvelop07)
 - [jelspace](https://github.com/jelspace)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [santiagocanepa](https://github.com/santiagocanepa)
-- [jasixiedust](https://github.com/jasixiedust)
 
 #### 🎢 Stats
 
