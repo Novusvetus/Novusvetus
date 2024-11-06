@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [danialtorkinezhad](https://github.com/danialtorkinezhad)
 - [kourosh07](https://github.com/kourosh07)
 - [najmul-haque-talukder](https://github.com/najmul-haque-talukder)
 - [Salvelop07](https://github.com/Salvelop07)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [santaclousdon](https://github.com/santaclousdon)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
-- [santiagocanepa](https://github.com/santiagocanepa)
 
 #### 🎢 Stats
 
