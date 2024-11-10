@@ -1,4 +1,5 @@
 
+- [Ali1Safi](https://github.com/Ali1Safi)
 - [taisprestes01](https://github.com/taisprestes01)
 - [SaurabhSSB](https://github.com/SaurabhSSB)
 - [fatemehataei](https://github.com/fatemehataei)
@@ -98,4 +99,3 @@
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [seriousfuzzy](https://github.com/seriousfuzzy)
-- [alxkm](https://github.com/alxkm)

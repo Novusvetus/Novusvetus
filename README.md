@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ali1Safi](https://github.com/Ali1Safi)
 - [taisprestes01](https://github.com/taisprestes01)
 - [SaurabhSSB](https://github.com/SaurabhSSB)
 - [fatemehataei](https://github.com/fatemehataei)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [Salvelop07](https://github.com/Salvelop07)
 - [jelspace](https://github.com/jelspace)
 - [alpine29](https://github.com/alpine29)
-- [Elenavz83](https://github.com/Elenavz83)
 
 #### 🎢 Stats
 
