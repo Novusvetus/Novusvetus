@@ -18,8 +18,8 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 - [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist) - (WIP) A tool programmed in PHP that creates a Spotify playlist that contains music from you and your colleagues or your workmates.
 - [Mendelssohn-Repository/Mendelssohn](https://github.com/Mendelssohn-Repository/Mendelssohn) - (WIP) Mendelssohn is a repository for Composer. It provides PHP packages that can be installed with Composer. It has a simple rights management available.
 - [Mendelssohn-Repository/.github](https://github.com/Mendelssohn-Repository/.github) - This is a ✨special ✨ repository.
-- [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - Gitlab  extension for Mendelssohn.
 - [Mendelssohn-Repository/Github](https://github.com/Mendelssohn-Repository/Github) - Github  extension for Mendelssohn.
+- [Mendelssohn-Repository/Gitlab](https://github.com/Mendelssohn-Repository/Gitlab) - Gitlab  extension for Mendelssohn.
 - [Mendelssohn-Repository/Bitbucket](https://github.com/Mendelssohn-Repository/Bitbucket) - Bitbucket  extension for Mendelssohn.
 
 #### 🐣 My latest projects
