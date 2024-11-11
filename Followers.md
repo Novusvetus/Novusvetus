@@ -1,5 +1,4 @@
 
-- [TanvirOnGH](https://github.com/TanvirOnGH)
 - [Ali1Safi](https://github.com/Ali1Safi)
 - [taisprestes01](https://github.com/taisprestes01)
 - [SaurabhSSB](https://github.com/SaurabhSSB)
@@ -99,3 +98,4 @@
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
+- [seriousfuzzy](https://github.com/seriousfuzzy)
