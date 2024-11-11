@@ -1,4 +1,5 @@
 
+- [TanvirOnGH](https://github.com/TanvirOnGH)
 - [Ali1Safi](https://github.com/Ali1Safi)
 - [taisprestes01](https://github.com/taisprestes01)
 - [SaurabhSSB](https://github.com/SaurabhSSB)
@@ -63,7 +64,7 @@
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
 - [Mohamedpr0](https://github.com/Mohamedpr0)
 - [parsaa74](https://github.com/parsaa74)
-- [foryou929](https://github.com/foryou929)
+- [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
 - [foxier25](https://github.com/foxier25)
@@ -98,4 +99,3 @@
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
-- [seriousfuzzy](https://github.com/seriousfuzzy)
