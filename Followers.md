@@ -7,7 +7,6 @@
 - [fatemehataei](https://github.com/fatemehataei)
 - [danialtorkinezhad](https://github.com/danialtorkinezhad)
 - [kourosh07](https://github.com/kourosh07)
-- [najmul-haque-talukder](https://github.com/najmul-haque-talukder)
 - [Salvelop07](https://github.com/Salvelop07)
 - [jelspace](https://github.com/jelspace)
 - [alpine29](https://github.com/alpine29)
@@ -99,3 +98,4 @@
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [alxkm](https://github.com/alxkm)
+- [satomichru](https://github.com/satomichru)
