@@ -20,7 +20,6 @@
 - [Amir100200](https://github.com/Amir100200)
 - [karimselim](https://github.com/karimselim)
 - [FJahanmiri](https://github.com/FJahanmiri)
-- [byigitt](https://github.com/byigitt)
 - [Macgyver02](https://github.com/Macgyver02)
 - [MiladJoodi](https://github.com/MiladJoodi)
 - [maryamdnn](https://github.com/maryamdnn)
@@ -99,3 +98,4 @@
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
+- [alxkm](https://github.com/alxkm)
