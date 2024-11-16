@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [khvci](https://github.com/khvci)
 - [sol-magic](https://github.com/sol-magic)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
 - [Ali1Safi](https://github.com/Ali1Safi)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [danialtorkinezhad](https://github.com/danialtorkinezhad)
 - [kourosh07](https://github.com/kourosh07)
 - [najmul-haque-talukder](https://github.com/najmul-haque-talukder)
-- [Salvelop07](https://github.com/Salvelop07)
 
 #### 🎢 Stats
 

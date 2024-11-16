@@ -1,4 +1,5 @@
 
+- [khvci](https://github.com/khvci)
 - [sol-magic](https://github.com/sol-magic)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
 - [Ali1Safi](https://github.com/Ali1Safi)
@@ -98,4 +99,3 @@
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
-- [alxkm](https://github.com/alxkm)
