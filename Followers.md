@@ -1,7 +1,6 @@
 
 - [Salvelop07](https://github.com/Salvelop07)
 - [ipqwery](https://github.com/ipqwery)
-- [khvci](https://github.com/khvci)
 - [sol-magic](https://github.com/sol-magic)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
 - [Ali1Safi](https://github.com/Ali1Safi)
@@ -99,3 +98,4 @@
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [alxkm](https://github.com/alxkm)
+- [satomichru](https://github.com/satomichru)

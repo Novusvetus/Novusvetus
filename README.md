@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 - [Salvelop07](https://github.com/Salvelop07)
 - [ipqwery](https://github.com/ipqwery)
-- [khvci](https://github.com/khvci)
 - [sol-magic](https://github.com/sol-magic)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
 - [Ali1Safi](https://github.com/Ali1Safi)
@@ -67,6 +66,7 @@ _Nobody sponsors me. I am poor..._
 - [fatemehataei](https://github.com/fatemehataei)
 - [danialtorkinezhad](https://github.com/danialtorkinezhad)
 - [kourosh07](https://github.com/kourosh07)
+- [jelspace](https://github.com/jelspace)
 
 #### 🎢 Stats
 
