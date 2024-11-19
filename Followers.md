@@ -1,4 +1,5 @@
 
+- [mysterium-atnas](https://github.com/mysterium-atnas)
 - [Salvelop07](https://github.com/Salvelop07)
 - [ipqwery](https://github.com/ipqwery)
 - [sol-magic](https://github.com/sol-magic)
@@ -98,4 +99,3 @@
 - [koalnix](https://github.com/koalnix)
 - [MightyTechNinja](https://github.com/MightyTechNinja)
 - [alxkm](https://github.com/alxkm)
-- [satomichru](https://github.com/satomichru)
