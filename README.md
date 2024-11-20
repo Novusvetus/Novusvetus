@@ -57,6 +57,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AIDABGI](https://github.com/AIDABGI)
+- [Daniolet](https://github.com/Daniolet)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [Salvelop07](https://github.com/Salvelop07)
 - [ipqwery](https://github.com/ipqwery)
@@ -65,8 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [Ali1Safi](https://github.com/Ali1Safi)
 - [taisprestes01](https://github.com/taisprestes01)
 - [fatemehataei](https://github.com/fatemehataei)
-- [danialtorkinezhad](https://github.com/danialtorkinezhad)
-- [kourosh07](https://github.com/kourosh07)
 
 #### 🎢 Stats
 

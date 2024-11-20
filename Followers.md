@@ -1,4 +1,6 @@
 
+- [AIDABGI](https://github.com/AIDABGI)
+- [Daniolet](https://github.com/Daniolet)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [Salvelop07](https://github.com/Salvelop07)
 - [ipqwery](https://github.com/ipqwery)
@@ -97,5 +99,3 @@
 - [dexeril974](https://github.com/dexeril974)
 - [Merciful123](https://github.com/Merciful123)
 - [koalnix](https://github.com/koalnix)
-- [MightyTechNinja](https://github.com/MightyTechNinja)
-- [alxkm](https://github.com/alxkm)
