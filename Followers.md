@@ -1,5 +1,5 @@
 
-- [PigsFIy](https://github.com/PigsFIy)
+- [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
 - [Daniolet](https://github.com/Daniolet)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
