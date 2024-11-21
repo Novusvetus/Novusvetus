@@ -1,4 +1,5 @@
 
+- [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
 - [Daniolet](https://github.com/Daniolet)
@@ -98,4 +99,3 @@
 - [sajjad-salam](https://github.com/sajjad-salam)
 - [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
 - [dexeril974](https://github.com/dexeril974)
-- [Merciful123](https://github.com/Merciful123)
