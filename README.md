@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [ipqwery](https://github.com/ipqwery)
 - [sol-magic](https://github.com/sol-magic)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
-- [Ali1Safi](https://github.com/Ali1Safi)
 
 #### 🎢 Stats
 
