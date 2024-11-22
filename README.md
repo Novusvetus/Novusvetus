@@ -57,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [samanes11](https://github.com/samanes11)
 - [odest](https://github.com/odest)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [DragonLee321](https://github.com/DragonLee321)
@@ -66,7 +67,6 @@ _Nobody sponsors me. I am poor..._
 - [Daniolet](https://github.com/Daniolet)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [Salvelop07](https://github.com/Salvelop07)
-- [ipqwery](https://github.com/ipqwery)
 
 #### 🎢 Stats
 
