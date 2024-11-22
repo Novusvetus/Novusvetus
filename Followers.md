@@ -51,7 +51,6 @@
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
 - [mahdi-eth](https://github.com/mahdi-eth)
-- [ClashProgrammer](https://github.com/ClashProgrammer)
 - [theamallalgi](https://github.com/theamallalgi)
 - [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
@@ -99,3 +98,4 @@
 - [sk466366](https://github.com/sk466366)
 - [tientq64](https://github.com/tientq64)
 - [sajjad-salam](https://github.com/sajjad-salam)
+- [WV-Wesley-Victor](https://github.com/WV-Wesley-Victor)
