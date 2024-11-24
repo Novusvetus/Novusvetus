@@ -59,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 
 - [khemssharma](https://github.com/khemssharma)
 - [126-Arvind](https://github.com/126-Arvind)
-- [ilyesw](https://github.com/ilyesw)
 - [samanes11](https://github.com/samanes11)
 - [odest](https://github.com/odest)
 - [MatthewMacri](https://github.com/MatthewMacri)
@@ -67,6 +66,7 @@ _Nobody sponsors me. I am poor..._
 - [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
+- [Daniolet](https://github.com/Daniolet)
 
 #### 🎢 Stats
 
