@@ -7,7 +7,6 @@
 - [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
-- [Daniolet](https://github.com/Daniolet)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [Salvelop07](https://github.com/Salvelop07)
 - [ipqwery](https://github.com/ipqwery)
@@ -99,3 +98,4 @@
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
+- [tientq64](https://github.com/tientq64)

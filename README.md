@@ -64,8 +64,8 @@ _Nobody sponsors me. I am poor..._
 - [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
-- [Daniolet](https://github.com/Daniolet)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
+- [Salvelop07](https://github.com/Salvelop07)
 
 #### 🎢 Stats
 
