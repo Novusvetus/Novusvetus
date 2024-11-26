@@ -59,13 +59,13 @@ _Nobody sponsors me. I am poor..._
 - [goldenpath1109](https://github.com/goldenpath1109)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
-- [odest](https://github.com/odest)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [DragonLee321](https://github.com/DragonLee321)
 - [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
 - [Daniolet](https://github.com/Daniolet)
+- [mysterium-atnas](https://github.com/mysterium-atnas)
 
 #### 🎢 Stats
 

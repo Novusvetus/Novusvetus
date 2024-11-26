@@ -2,7 +2,6 @@
 - [goldenpath1109](https://github.com/goldenpath1109)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
-- [odest](https://github.com/odest)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [DragonLee321](https://github.com/DragonLee321)
 - [rkhalili83](https://github.com/rkhalili83)
@@ -99,3 +98,4 @@
 - [m7zr](https://github.com/m7zr)
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
+- [sk466366](https://github.com/sk466366)
