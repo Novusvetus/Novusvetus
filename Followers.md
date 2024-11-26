@@ -1,5 +1,6 @@
 
-- [brilliantsunlight](https://github.com/brilliantsunlight)
+- [khemssharma](https://github.com/khemssharma)
+- [Kavorix](https://github.com/Kavorix)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
@@ -98,4 +99,3 @@
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
-- [tientq64](https://github.com/tientq64)

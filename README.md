@@ -56,7 +56,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [brilliantsunlight](https://github.com/brilliantsunlight)
+- [khemssharma](https://github.com/khemssharma)
+- [Kavorix](https://github.com/Kavorix)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
@@ -65,7 +66,6 @@ _Nobody sponsors me. I am poor..._
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
-- [Salvelop07](https://github.com/Salvelop07)
 
 #### 🎢 Stats
 
