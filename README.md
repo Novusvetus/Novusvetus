@@ -56,7 +56,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [goldenpath1109](https://github.com/goldenpath1109)
+- [brilliantsunlight](https://github.com/brilliantsunlight)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
