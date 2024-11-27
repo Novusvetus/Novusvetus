@@ -56,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Sharmadipti98](https://github.com/Sharmadipti98)
 - [AlphaCoX](https://github.com/AlphaCoX)
 - [Kavorix](https://github.com/Kavorix)
 - [126-Arvind](https://github.com/126-Arvind)
@@ -66,6 +65,7 @@ _Nobody sponsors me. I am poor..._
 - [rkhalili83](https://github.com/rkhalili83)
 - [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
+- [mysterium-atnas](https://github.com/mysterium-atnas)
 
 #### 🎢 Stats
 
