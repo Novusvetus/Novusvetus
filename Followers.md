@@ -1,4 +1,5 @@
 
+- [Ninja1375](https://github.com/Ninja1375)
 - [AlphaCoX](https://github.com/AlphaCoX)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
@@ -98,4 +99,3 @@
 - [Mansi-indian](https://github.com/Mansi-indian)
 - [iurysantos-hub](https://github.com/iurysantos-hub)
 - [sk466366](https://github.com/sk466366)
-- [tientq64](https://github.com/tientq64)
