@@ -1,4 +1,5 @@
 
+- [khemssharma](https://github.com/khemssharma)
 - [Kavorix](https://github.com/Kavorix)
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [elliott-diy](https://github.com/elliott-diy)
@@ -98,4 +99,3 @@
 - [golden-lucky-monkey](https://github.com/golden-lucky-monkey)
 - [theicedev](https://github.com/theicedev)
 - [hotcoding85](https://github.com/hotcoding85)
-- [Frosmin](https://github.com/Frosmin)
