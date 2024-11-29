@@ -56,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [khemssharma](https://github.com/khemssharma)
 - [elliott-diy](https://github.com/elliott-diy)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
@@ -65,7 +66,6 @@ _Nobody sponsors me. I am poor..._
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [DragonLee321](https://github.com/DragonLee321)
 - [rkhalili83](https://github.com/rkhalili83)
-- [FreeEarl](https://github.com/FreeEarl)
 
 #### 🎢 Stats
 
