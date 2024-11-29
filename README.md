@@ -58,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 
 - [Kavorix](https://github.com/Kavorix)
 - [tech-ramakant](https://github.com/tech-ramakant)
-- [khemssharma](https://github.com/khemssharma)
 - [elliott-diy](https://github.com/elliott-diy)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
@@ -66,6 +65,7 @@ _Nobody sponsors me. I am poor..._
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
+- [DragonLee321](https://github.com/DragonLee321)
 
 #### 🎢 Stats
 
