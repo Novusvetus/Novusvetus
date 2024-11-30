@@ -1,4 +1,5 @@
 
+- [khemssharma](https://github.com/khemssharma)
 - [khvci](https://github.com/khvci)
 - [amirebadi21](https://github.com/amirebadi21)
 - [Kavorix](https://github.com/Kavorix)
@@ -98,4 +99,3 @@
 - [nobbydoo80](https://github.com/nobbydoo80)
 - [otaviossousa](https://github.com/otaviossousa)
 - [golden-lucky-monkey](https://github.com/golden-lucky-monkey)
-- [theicedev](https://github.com/theicedev)
