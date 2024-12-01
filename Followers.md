@@ -12,7 +12,6 @@
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [DragonLee321](https://github.com/DragonLee321)
 - [rkhalili83](https://github.com/rkhalili83)
-- [FreeEarl](https://github.com/FreeEarl)
 - [AIDABGI](https://github.com/AIDABGI)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [Salvelop07](https://github.com/Salvelop07)
@@ -99,3 +98,4 @@
 - [otaviossousa](https://github.com/otaviossousa)
 - [golden-lucky-monkey](https://github.com/golden-lucky-monkey)
 - [theicedev](https://github.com/theicedev)
+- [hotcoding85](https://github.com/hotcoding85)
