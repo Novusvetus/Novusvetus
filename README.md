@@ -56,7 +56,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [khvci](https://github.com/khvci)
 - [amirebadi21](https://github.com/amirebadi21)
 - [Kavorix](https://github.com/Kavorix)
 - [tech-ramakant](https://github.com/tech-ramakant)
@@ -66,6 +65,7 @@ _Nobody sponsors me. I am poor..._
 - [AlphaCoX](https://github.com/AlphaCoX)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
+- [MatthewMacri](https://github.com/MatthewMacri)
 
 #### 🎢 Stats
 
