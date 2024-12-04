@@ -56,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [khemssharma](https://github.com/khemssharma)
 - [samsorrahman](https://github.com/samsorrahman)
 - [XiaomingX](https://github.com/XiaomingX)
 - [hangga](https://github.com/hangga)
@@ -65,7 +66,6 @@ _Nobody sponsors me. I am poor..._
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [elliott-diy](https://github.com/elliott-diy)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
-- [Ninja1375](https://github.com/Ninja1375)
 
 #### 🎢 Stats
 
