@@ -75,7 +75,7 @@
 - [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
-- [Mohamedpr0](https://github.com/Mohamedpr0)
+- [MohamedKrd](https://github.com/MohamedKrd)
 - [parsaa74](https://github.com/parsaa74)
 - [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
