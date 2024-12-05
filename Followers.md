@@ -1,4 +1,5 @@
 
+- [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
 - [khvci](https://github.com/khvci)
 - [samsorrahman](https://github.com/samsorrahman)
@@ -98,4 +99,3 @@
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [psharifi1997](https://github.com/psharifi1997)
-- [nobbydoo80](https://github.com/nobbydoo80)
