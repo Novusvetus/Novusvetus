@@ -56,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
@@ -65,7 +66,6 @@ _Nobody sponsors me. I am poor..._
 - [hangga](https://github.com/hangga)
 - [Salvelop07](https://github.com/Salvelop07)
 - [3th1K](https://github.com/3th1K)
-- [amirebadi21](https://github.com/amirebadi21)
 
 #### 🎢 Stats
 

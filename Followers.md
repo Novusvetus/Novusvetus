@@ -1,4 +1,5 @@
 
+- [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
@@ -98,4 +99,3 @@
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
-- [smartcoder0310](https://github.com/smartcoder0310)
