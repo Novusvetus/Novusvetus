@@ -39,7 +39,6 @@
 - [jasixiedust](https://github.com/jasixiedust)
 - [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
-- [karimselim](https://github.com/karimselim)
 - [FJahanmiri](https://github.com/FJahanmiri)
 - [Macgyver02](https://github.com/Macgyver02)
 - [MiladJoodi](https://github.com/MiladJoodi)
@@ -99,3 +98,4 @@
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
+- [smartcoder0310](https://github.com/smartcoder0310)
