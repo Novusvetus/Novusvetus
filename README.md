@@ -63,9 +63,9 @@ _Nobody sponsors me. I am poor..._
 - [khvci](https://github.com/khvci)
 - [samsorrahman](https://github.com/samsorrahman)
 - [XiaomingX](https://github.com/XiaomingX)
-- [hangga](https://github.com/hangga)
 - [Salvelop07](https://github.com/Salvelop07)
 - [3th1K](https://github.com/3th1K)
+- [amirebadi21](https://github.com/amirebadi21)
 
 #### 🎢 Stats
 

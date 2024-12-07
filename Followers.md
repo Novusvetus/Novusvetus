@@ -6,7 +6,6 @@
 - [khvci](https://github.com/khvci)
 - [samsorrahman](https://github.com/samsorrahman)
 - [XiaomingX](https://github.com/XiaomingX)
-- [hangga](https://github.com/hangga)
 - [Salvelop07](https://github.com/Salvelop07)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
@@ -99,3 +98,4 @@
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
+- [psharifi1997](https://github.com/psharifi1997)
