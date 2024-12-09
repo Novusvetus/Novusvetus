@@ -1,5 +1,4 @@
 
-- [hangga](https://github.com/hangga)
 - [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
@@ -99,3 +98,4 @@
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [psharifi1997](https://github.com/psharifi1997)
 - [nobbydoo80](https://github.com/nobbydoo80)
+- [otaviossousa](https://github.com/otaviossousa)
