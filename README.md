@@ -52,6 +52,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Rez4-3yz](https://github.com/Rez4-3yz)
 - [K1rsN7](https://github.com/K1rsN7)
 - [okerun](https://github.com/okerun)
 - [TrungpdtE](https://github.com/TrungpdtE)
@@ -61,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 - [ilyesw](https://github.com/ilyesw)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Salvelop07](https://github.com/Salvelop07)
-- [3th1K](https://github.com/3th1K)
 
 #### 🎢 Stats
 
