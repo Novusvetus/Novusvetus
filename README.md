@@ -58,10 +58,10 @@ _Nobody sponsors me. I am poor..._
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
-- [samsorrahman](https://github.com/samsorrahman)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Salvelop07](https://github.com/Salvelop07)
 - [3th1K](https://github.com/3th1K)
+- [amirebadi21](https://github.com/amirebadi21)
 
 #### 🎢 Stats
 

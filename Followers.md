@@ -5,7 +5,6 @@
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
-- [samsorrahman](https://github.com/samsorrahman)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Salvelop07](https://github.com/Salvelop07)
 - [3th1K](https://github.com/3th1K)
@@ -99,3 +98,4 @@
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [psharifi1997](https://github.com/psharifi1997)
+- [nobbydoo80](https://github.com/nobbydoo80)
