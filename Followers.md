@@ -1,4 +1,5 @@
 
+- [K1rsN7](https://github.com/K1rsN7)
 - [okerun](https://github.com/okerun)
 - [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
@@ -98,4 +99,3 @@
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [psharifi1997](https://github.com/psharifi1997)
-- [nobbydoo80](https://github.com/nobbydoo80)
