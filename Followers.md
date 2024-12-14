@@ -11,7 +11,6 @@
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
 - [tech-ramakant](https://github.com/tech-ramakant)
-- [elliott-diy](https://github.com/elliott-diy)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
 - [AlphaCoX](https://github.com/AlphaCoX)
@@ -99,3 +98,4 @@
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
 - [psharifi1997](https://github.com/psharifi1997)
+- [nobbydoo80](https://github.com/nobbydoo80)
