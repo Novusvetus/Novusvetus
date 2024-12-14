@@ -61,7 +61,7 @@ _Nobody sponsors me. I am poor..._
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
 - [XiaomingX](https://github.com/XiaomingX)
-- [Salvelop07](https://github.com/Salvelop07)
+- [3th1K](https://github.com/3th1K)
 
 #### 🎢 Stats
 
