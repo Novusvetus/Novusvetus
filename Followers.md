@@ -15,7 +15,6 @@
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
-- [AlphaCoX](https://github.com/AlphaCoX)
 - [126-Arvind](https://github.com/126-Arvind)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
@@ -99,3 +98,4 @@
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
+- [psharifi1997](https://github.com/psharifi1997)
