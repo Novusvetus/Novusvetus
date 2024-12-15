@@ -1,7 +1,6 @@
 
 - [bambangkred](https://github.com/bambangkred)
 - [The-Young-Programer](https://github.com/The-Young-Programer)
-- [Rez4-3yz](https://github.com/Rez4-3yz)
 - [K1rsN7](https://github.com/K1rsN7)
 - [okerun](https://github.com/okerun)
 - [TrungpdtE](https://github.com/TrungpdtE)
@@ -99,3 +98,4 @@
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
 - [smartcoder0310](https://github.com/smartcoder0310)
+- [psharifi1997](https://github.com/psharifi1997)
