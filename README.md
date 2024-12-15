@@ -52,6 +52,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bambangkred](https://github.com/bambangkred)
 - [The-Young-Programer](https://github.com/The-Young-Programer)
 - [Rez4-3yz](https://github.com/Rez4-3yz)
 - [K1rsN7](https://github.com/K1rsN7)
@@ -61,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
-- [XiaomingX](https://github.com/XiaomingX)
 
 #### 🎢 Stats
 
