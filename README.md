@@ -52,6 +52,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [djvelimir](https://github.com/djvelimir)
 - [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
@@ -61,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 - [okerun](https://github.com/okerun)
 - [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
-- [EDGI9](https://github.com/EDGI9)
 
 #### 🎢 Stats
 

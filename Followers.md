@@ -1,4 +1,5 @@
 
+- [djvelimir](https://github.com/djvelimir)
 - [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
@@ -98,4 +99,3 @@
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [tr4m0ryp](https://github.com/tr4m0ryp)
