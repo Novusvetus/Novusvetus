@@ -1,4 +1,5 @@
 
+- [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [bambangkred](https://github.com/bambangkred)
@@ -98,4 +99,3 @@
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
-- [smartcoder0310](https://github.com/smartcoder0310)
