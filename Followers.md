@@ -1,4 +1,5 @@
 
+- [SpiritMark](https://github.com/SpiritMark)
 - [djvelimir](https://github.com/djvelimir)
 - [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
@@ -98,4 +99,3 @@
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [thecatfix](https://github.com/thecatfix)
-- [decoderwhoami](https://github.com/decoderwhoami)
