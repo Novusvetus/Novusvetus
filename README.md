@@ -61,7 +61,7 @@ _Nobody sponsors me. I am poor..._
 - [The-Young-Programer](https://github.com/The-Young-Programer)
 - [K1rsN7](https://github.com/K1rsN7)
 - [okerun](https://github.com/okerun)
-- [TrungpdtE](https://github.com/TrungpdtE)
+- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
