@@ -59,9 +59,9 @@ _Nobody sponsors me. I am poor..._
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [bambangkred](https://github.com/bambangkred)
 - [The-Young-Programer](https://github.com/The-Young-Programer)
-- [K1rsN7](https://github.com/K1rsN7)
 - [okerun](https://github.com/okerun)
 - [devddine](https://github.com/devddine)
+- [EDGI9](https://github.com/EDGI9)
 
 #### 🎢 Stats
 

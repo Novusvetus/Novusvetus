@@ -6,7 +6,6 @@
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [bambangkred](https://github.com/bambangkred)
 - [The-Young-Programer](https://github.com/The-Young-Programer)
-- [K1rsN7](https://github.com/K1rsN7)
 - [okerun](https://github.com/okerun)
 - [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
@@ -99,3 +98,4 @@
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
+- [tr4m0ryp](https://github.com/tr4m0ryp)
