@@ -58,7 +58,6 @@
 - [khodeprs](https://github.com/khodeprs)
 - [mahakkhajeh](https://github.com/mahakkhajeh)
 - [H-K-R](https://github.com/H-K-R)
-- [vladduucckk](https://github.com/vladduucckk)
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
@@ -99,3 +98,4 @@
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
+- [smartcoder0310](https://github.com/smartcoder0310)
