@@ -1,4 +1,5 @@
 
+- [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
 - [djvelimir](https://github.com/djvelimir)
 - [fermincasquero](https://github.com/fermincasquero)
@@ -98,4 +99,3 @@
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
 - [tr4m0ryp](https://github.com/tr4m0ryp)
-- [smartcoder0310](https://github.com/smartcoder0310)

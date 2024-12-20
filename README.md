@@ -52,6 +52,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
 - [djvelimir](https://github.com/djvelimir)
 - [fermincasquero](https://github.com/fermincasquero)
@@ -61,7 +62,6 @@ _Nobody sponsors me. I am poor..._
 - [The-Young-Programer](https://github.com/The-Young-Programer)
 - [okerun](https://github.com/okerun)
 - [devddine](https://github.com/devddine)
-- [EDGI9](https://github.com/EDGI9)
 
 #### 🎢 Stats
 
