@@ -1,4 +1,5 @@
 
+- [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
 - [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
@@ -98,4 +99,3 @@
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [thecatfix](https://github.com/thecatfix)
 - [decoderwhoami](https://github.com/decoderwhoami)
-- [tr4m0ryp](https://github.com/tr4m0ryp)
