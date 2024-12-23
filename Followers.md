@@ -11,6 +11,7 @@
 - [bambangkred](https://github.com/bambangkred)
 - [The-Young-Programer](https://github.com/The-Young-Programer)
 - [okerun](https://github.com/okerun)
+- [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
@@ -98,4 +99,3 @@
 - [GrayMamoru](https://github.com/GrayMamoru)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [thecatfix](https://github.com/thecatfix)
