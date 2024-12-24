@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [mooosakhan](https://github.com/mooosakhan)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
 - [iroot3](https://github.com/iroot3)
@@ -61,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 - [djvelimir](https://github.com/djvelimir)
 - [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
+- [MaryamFereidooni](https://github.com/MaryamFereidooni)
 
 #### 🎢 Stats
 
