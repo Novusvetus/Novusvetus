@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tryevertthhub](https://github.com/tryevertthhub)
 - [saloskilo](https://github.com/saloskilo)
 - [mooosakhan](https://github.com/mooosakhan)
 - [mowhn](https://github.com/mowhn)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [standardgalactic](https://github.com/standardgalactic)
 - [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
-- [djvelimir](https://github.com/djvelimir)
 
 #### 🎢 Stats
 
