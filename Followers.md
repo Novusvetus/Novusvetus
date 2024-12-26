@@ -1,4 +1,5 @@
 
+- [saloskilo](https://github.com/saloskilo)
 - [mooosakhan](https://github.com/mooosakhan)
 - [mowhn](https://github.com/mowhn)
 - [KevinTrinh1227](https://github.com/KevinTrinh1227)
@@ -98,4 +99,3 @@
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
 - [x3ric](https://github.com/x3ric)
-- [tothetop430](https://github.com/tothetop430)
