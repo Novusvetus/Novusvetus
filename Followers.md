@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [tryevertthhub](https://github.com/tryevertthhub)
 - [saloskilo](https://github.com/saloskilo)
 - [mooosakhan](https://github.com/mooosakhan)
@@ -99,3 +98,4 @@
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
+- [x3ric](https://github.com/x3ric)
