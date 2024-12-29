@@ -14,7 +14,6 @@
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [bambangkred](https://github.com/bambangkred)
-- [The-Young-Programer](https://github.com/The-Young-Programer)
 - [okerun](https://github.com/okerun)
 - [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
@@ -99,3 +98,4 @@
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
+- [x3ric](https://github.com/x3ric)
