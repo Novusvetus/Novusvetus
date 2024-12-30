@@ -3,7 +3,6 @@
 - [saloskilo](https://github.com/saloskilo)
 - [mooosakhan](https://github.com/mooosakhan)
 - [mowhn](https://github.com/mowhn)
-- [KevinTrinh1227](https://github.com/KevinTrinh1227)
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
@@ -99,3 +98,4 @@
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
 - [chipnertkj](https://github.com/chipnertkj)
 - [x3ric](https://github.com/x3ric)
+- [tothetop430](https://github.com/tothetop430)
