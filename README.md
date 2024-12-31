@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [IasonOrlandos](https://github.com/IasonOrlandos)
 - [tryevertthhub](https://github.com/tryevertthhub)
 - [saloskilo](https://github.com/saloskilo)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
 - [yyle88](https://github.com/yyle88)
-- [SpiritMark](https://github.com/SpiritMark)
 
 #### 🎢 Stats
 
