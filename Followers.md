@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [IasonOrlandos](https://github.com/IasonOrlandos)
 - [tryevertthhub](https://github.com/tryevertthhub)
@@ -99,3 +98,4 @@
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
 - [Mathenge-Alex](https://github.com/Mathenge-Alex)
+- [chipnertkj](https://github.com/chipnertkj)

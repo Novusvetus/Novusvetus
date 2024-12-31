@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [IasonOrlandos](https://github.com/IasonOrlandos)
 - [tryevertthhub](https://github.com/tryevertthhub)
@@ -61,6 +60,7 @@ _Nobody sponsors me. I am poor..._
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
+- [yyle88](https://github.com/yyle88)
 
 #### 🎢 Stats
 
