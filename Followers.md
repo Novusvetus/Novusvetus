@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
 - [itsKayWat](https://github.com/itsKayWat)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
@@ -98,4 +99,3 @@
 - [lxRbckl](https://github.com/lxRbckl)
 - [foxier25](https://github.com/foxier25)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
-- [muladz3gio](https://github.com/muladz3gio)
