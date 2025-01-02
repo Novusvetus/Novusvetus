@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [itsKayWat](https://github.com/itsKayWat)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [IasonOrlandos](https://github.com/IasonOrlandos)
@@ -98,4 +99,3 @@
 - [foxier25](https://github.com/foxier25)
 - [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
 - [muladz3gio](https://github.com/muladz3gio)
-- [Mathenge-Alex](https://github.com/Mathenge-Alex)
