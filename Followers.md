@@ -1,4 +1,5 @@
 
+- [wintunmmocc](https://github.com/wintunmmocc)
 - [sarmadgardezi](https://github.com/sarmadgardezi)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
 - [itsKayWat](https://github.com/itsKayWat)
@@ -98,4 +99,3 @@
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
 - [foxier25](https://github.com/foxier25)
-- [seniorvuejsdeveloper](https://github.com/seniorvuejsdeveloper)
