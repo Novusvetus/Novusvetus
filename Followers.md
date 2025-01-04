@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [sarmadgardezi](https://github.com/sarmadgardezi)
@@ -99,3 +98,4 @@
 - [parsaa74](https://github.com/parsaa74)
 - [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
+- [lxRbckl](https://github.com/lxRbckl)
