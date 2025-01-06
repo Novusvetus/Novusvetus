@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [IasonOrlandos](https://github.com/IasonOrlandos)
 - [tryevertthhub](https://github.com/tryevertthhub)
-- [saloskilo](https://github.com/saloskilo)
 
 #### 🎢 Stats
 
