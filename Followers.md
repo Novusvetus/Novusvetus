@@ -27,7 +27,6 @@
 - [EDGI9](https://github.com/EDGI9)
 - [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
-- [XiaomingX](https://github.com/XiaomingX)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
 - [tech-ramakant](https://github.com/tech-ramakant)
@@ -99,3 +98,4 @@
 - [parsaa74](https://github.com/parsaa74)
 - [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
+- [lxRbckl](https://github.com/lxRbckl)
