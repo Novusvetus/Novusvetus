@@ -10,7 +10,6 @@
 - [tryevertthhub](https://github.com/tryevertthhub)
 - [saloskilo](https://github.com/saloskilo)
 - [mooosakhan](https://github.com/mooosakhan)
-- [mowhn](https://github.com/mowhn)
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
@@ -99,3 +98,4 @@
 - [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
 - [lxRbckl](https://github.com/lxRbckl)
+- [foxier25](https://github.com/foxier25)
