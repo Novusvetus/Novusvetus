@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [itsKayWat](https://github.com/itsKayWat)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [IasonOrlandos](https://github.com/IasonOrlandos)
-- [tryevertthhub](https://github.com/tryevertthhub)
 
 #### 🎢 Stats
 
