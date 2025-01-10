@@ -40,7 +40,6 @@
 - [AIDABGI](https://github.com/AIDABGI)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [ipqwery](https://github.com/ipqwery)
-- [sol-magic](https://github.com/sol-magic)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
 - [Ali1Safi](https://github.com/Ali1Safi)
 - [taisprestes01](https://github.com/taisprestes01)
@@ -99,3 +98,4 @@
 - [parsaa74](https://github.com/parsaa74)
 - [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
+- [lxRbckl](https://github.com/lxRbckl)
