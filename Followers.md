@@ -1,4 +1,5 @@
 
+- [agathafr](https://github.com/agathafr)
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
@@ -98,4 +99,3 @@
 - [parsaa74](https://github.com/parsaa74)
 - [juan-diego-v](https://github.com/juan-diego-v)
 - [pushitICP](https://github.com/pushitICP)
-- [lxRbckl](https://github.com/lxRbckl)
