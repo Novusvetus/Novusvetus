@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [agathafr](https://github.com/agathafr)
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
@@ -99,3 +98,4 @@
 - [MohamedKrd](https://github.com/MohamedKrd)
 - [parsaa74](https://github.com/parsaa74)
 - [juan-diego-v](https://github.com/juan-diego-v)
+- [pushitICP](https://github.com/pushitICP)
