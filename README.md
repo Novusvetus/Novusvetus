@@ -47,6 +47,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xxspell](https://github.com/xxspell)
+- [befoulers](https://github.com/befoulers)
+- [AbMosawerWadan](https://github.com/AbMosawerWadan)
 - [agathafr](https://github.com/agathafr)
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
@@ -54,9 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [sarmadgardezi](https://github.com/sarmadgardezi)
-- [Anonymous1223334444](https://github.com/Anonymous1223334444)
-- [itsKayWat](https://github.com/itsKayWat)
-- [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 
 #### 🎢 Stats
 

@@ -1,4 +1,7 @@
 
+- [xxspell](https://github.com/xxspell)
+- [befoulers](https://github.com/befoulers)
+- [AbMosawerWadan](https://github.com/AbMosawerWadan)
 - [agathafr](https://github.com/agathafr)
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
@@ -81,7 +84,6 @@
 - [Connor9994](https://github.com/Connor9994)
 - [mahdi-eth](https://github.com/mahdi-eth)
 - [theamallalgi](https://github.com/theamallalgi)
-- [befoulers](https://github.com/befoulers)
 - [KIRAN-KUMAR-K3](https://github.com/KIRAN-KUMAR-K3)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
@@ -97,5 +99,3 @@
 - [ogunsoladebayo](https://github.com/ogunsoladebayo)
 - [MohamedKrd](https://github.com/MohamedKrd)
 - [parsaa74](https://github.com/parsaa74)
-- [juan-diego-v](https://github.com/juan-diego-v)
-- [pushitICP](https://github.com/pushitICP)
