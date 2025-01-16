@@ -49,7 +49,6 @@ _Nobody sponsors me. I am poor..._
 
 - [miladbadeleh](https://github.com/miladbadeleh)
 - [nstrmx](https://github.com/nstrmx)
-- [Mmabiaa](https://github.com/Mmabiaa)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [xxspell](https://github.com/xxspell)
@@ -57,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 - [agathafr](https://github.com/agathafr)
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
+- [Iqbolshoh](https://github.com/Iqbolshoh)
 
 #### 🎢 Stats
 
