@@ -1,4 +1,5 @@
 
+- [nstrmx](https://github.com/nstrmx)
 - [Mmabiaa](https://github.com/Mmabiaa)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
@@ -98,4 +99,3 @@
 - [Gail19](https://github.com/Gail19)
 - [Pookie0717](https://github.com/Pookie0717)
 - [mustafacagri](https://github.com/mustafacagri)
-- [ogunsoladebayo](https://github.com/ogunsoladebayo)

@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nstrmx](https://github.com/nstrmx)
 - [Mmabiaa](https://github.com/Mmabiaa)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
-- [salimnursalim](https://github.com/salimnursalim)
 
 #### 🎢 Stats
 
