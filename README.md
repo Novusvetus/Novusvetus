@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [oliviawilson2003](https://github.com/oliviawilson2003)
 - [miladbadeleh](https://github.com/miladbadeleh)
 - [nstrmx](https://github.com/nstrmx)
 - [befoulers](https://github.com/befoulers)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [agathafr](https://github.com/agathafr)
 - [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
-- [Iqbolshoh](https://github.com/Iqbolshoh)
 
 #### 🎢 Stats
 
