@@ -29,7 +29,6 @@
 - [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
-- [bambangkred](https://github.com/bambangkred)
 - [okerun](https://github.com/okerun)
 - [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
@@ -99,3 +98,4 @@
 - [capitansec](https://github.com/capitansec)
 - [Gail19](https://github.com/Gail19)
 - [Pookie0717](https://github.com/Pookie0717)
+- [mustafacagri](https://github.com/mustafacagri)
