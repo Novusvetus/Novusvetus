@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [xxspell](https://github.com/xxspell)
 - [AbMosawerWadan](https://github.com/AbMosawerWadan)
-- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
