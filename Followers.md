@@ -1,4 +1,5 @@
 
+- [LinuxPath](https://github.com/LinuxPath)
 - [XiaomingX](https://github.com/XiaomingX)
 - [benjaminjvdm](https://github.com/benjaminjvdm)
 - [KCblama19](https://github.com/KCblama19)
@@ -98,4 +99,3 @@
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
-- [capitansec](https://github.com/capitansec)
