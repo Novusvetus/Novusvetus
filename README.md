@@ -47,7 +47,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [LinuxPath](https://github.com/LinuxPath)
 - [XiaomingX](https://github.com/XiaomingX)
 - [KCblama19](https://github.com/KCblama19)
@@ -57,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 - [nstrmx](https://github.com/nstrmx)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
+- [xxspell](https://github.com/xxspell)
 
 #### 🎢 Stats
 
