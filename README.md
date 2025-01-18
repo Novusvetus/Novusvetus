@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [benjaminjvdm](https://github.com/benjaminjvdm)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [xxspell](https://github.com/xxspell)
-- [AbMosawerWadan](https://github.com/AbMosawerWadan)
 
 #### 🎢 Stats
 
