@@ -1,6 +1,5 @@
 
 - [benjaminjvdm](https://github.com/benjaminjvdm)
-- [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
@@ -99,3 +98,4 @@
 - [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
 - [capitansec](https://github.com/capitansec)
+- [Gail19](https://github.com/Gail19)
