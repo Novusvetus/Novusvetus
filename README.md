@@ -49,7 +49,6 @@ _Nobody sponsors me. I am poor..._
 
 - [LinuxPath](https://github.com/LinuxPath)
 - [XiaomingX](https://github.com/XiaomingX)
-- [benjaminjvdm](https://github.com/benjaminjvdm)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
@@ -57,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 - [nstrmx](https://github.com/nstrmx)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
+- [xxspell](https://github.com/xxspell)
 
 #### 🎢 Stats
 
