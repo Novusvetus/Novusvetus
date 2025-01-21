@@ -12,7 +12,6 @@
 - [xxspell](https://github.com/xxspell)
 - [AbMosawerWadan](https://github.com/AbMosawerWadan)
 - [agathafr](https://github.com/agathafr)
-- [SamHillierDev](https://github.com/SamHillierDev)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
@@ -99,3 +98,4 @@
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
+- [capitansec](https://github.com/capitansec)
