@@ -1,4 +1,5 @@
 
+- [WesleyCodeMaster](https://github.com/WesleyCodeMaster)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -98,4 +99,3 @@
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
 - [omoghaoghenemano](https://github.com/omoghaoghenemano)
-- [capitansec](https://github.com/capitansec)
