@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Chitus](https://github.com/Chitus)
 - [WesleyCodeMaster](https://github.com/WesleyCodeMaster)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [miladbadeleh](https://github.com/miladbadeleh)
 - [nstrmx](https://github.com/nstrmx)
-- [befoulers](https://github.com/befoulers)
 
 #### 🎢 Stats
 
