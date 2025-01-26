@@ -1,6 +1,5 @@
 
 - [Chitus](https://github.com/Chitus)
-- [WesleyCodeMaster](https://github.com/WesleyCodeMaster)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -99,3 +98,4 @@
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
+- [omoghaoghenemano](https://github.com/omoghaoghenemano)
