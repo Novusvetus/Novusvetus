@@ -1,4 +1,5 @@
 
+- [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
@@ -98,4 +99,3 @@
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
 - [reinakwasi](https://github.com/reinakwasi)
-- [omoghaoghenemano](https://github.com/omoghaoghenemano)
