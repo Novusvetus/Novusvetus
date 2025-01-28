@@ -1,4 +1,5 @@
 
+- [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
@@ -98,4 +99,3 @@
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
-- [reinakwasi](https://github.com/reinakwasi)
