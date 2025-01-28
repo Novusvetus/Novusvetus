@@ -12,7 +12,6 @@
 - [nstrmx](https://github.com/nstrmx)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
-- [xxspell](https://github.com/xxspell)
 - [AbMosawerWadan](https://github.com/AbMosawerWadan)
 - [agathafr](https://github.com/agathafr)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
@@ -99,3 +98,4 @@
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
+- [reinakwasi](https://github.com/reinakwasi)
