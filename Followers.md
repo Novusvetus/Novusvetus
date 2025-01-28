@@ -1,4 +1,6 @@
 
+- [testhesabimacg](https://github.com/testhesabimacg)
+- [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
@@ -9,7 +11,6 @@
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [miladbadeleh](https://github.com/miladbadeleh)
-- [nstrmx](https://github.com/nstrmx)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [AbMosawerWadan](https://github.com/AbMosawerWadan)
@@ -98,4 +99,3 @@
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
 - [samarjitsahoo](https://github.com/samarjitsahoo)
-- [reinakwasi](https://github.com/reinakwasi)

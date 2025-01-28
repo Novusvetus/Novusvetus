@@ -47,6 +47,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [testhesabimacg](https://github.com/testhesabimacg)
+- [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
@@ -55,8 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [XiaomingX](https://github.com/XiaomingX)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
-- [oliviawilson2003](https://github.com/oliviawilson2003)
-- [miladbadeleh](https://github.com/miladbadeleh)
 
 #### 🎢 Stats
 
