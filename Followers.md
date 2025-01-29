@@ -11,7 +11,6 @@
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
-- [miladbadeleh](https://github.com/miladbadeleh)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [AbMosawerWadan](https://github.com/AbMosawerWadan)
@@ -99,3 +98,4 @@
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
+- [samarjitsahoo](https://github.com/samarjitsahoo)
