@@ -47,7 +47,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
 - [alicangunduz](https://github.com/alicangunduz)
 - [testhesabimacg](https://github.com/testhesabimacg)
@@ -57,6 +56,7 @@ _Nobody sponsors me. I am poor..._
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
+- [XiaomingX](https://github.com/XiaomingX)
 
 #### 🎢 Stats
 
