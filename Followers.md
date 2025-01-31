@@ -41,7 +41,6 @@
 - [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
-- [erikerik116](https://github.com/erikerik116)
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
@@ -99,3 +98,4 @@
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
+- [samarjitsahoo](https://github.com/samarjitsahoo)
