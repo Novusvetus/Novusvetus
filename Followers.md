@@ -1,4 +1,5 @@
 
+- [riseansmal](https://github.com/riseansmal)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
 - [alicangunduz](https://github.com/alicangunduz)
 - [testhesabimacg](https://github.com/testhesabimacg)
@@ -98,4 +99,3 @@
 - [kpshivaprasath](https://github.com/kpshivaprasath)
 - [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
 - [mbahomaid](https://github.com/mbahomaid)
-- [samarjitsahoo](https://github.com/samarjitsahoo)
