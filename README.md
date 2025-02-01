@@ -47,6 +47,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [tanishq-ctrl](https://github.com/tanishq-ctrl)
+- [blocage](https://github.com/blocage)
 - [jahidnation](https://github.com/jahidnation)
 - [riseansmal](https://github.com/riseansmal)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
@@ -55,8 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
-- [Chitus](https://github.com/Chitus)
-- [AnitaSobhanian](https://github.com/AnitaSobhanian)
 
 #### 🎢 Stats
 
