@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [jahidnation](https://github.com/jahidnation)
 - [riseansmal](https://github.com/riseansmal)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
 - [alicangunduz](https://github.com/alicangunduz)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
-- [LinuxPath](https://github.com/LinuxPath)
 
 #### 🎢 Stats
 
