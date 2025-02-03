@@ -3,7 +3,6 @@
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [jahidnation](https://github.com/jahidnation)
 - [riseansmal](https://github.com/riseansmal)
-- [alicangunduz](https://github.com/alicangunduz)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
@@ -99,3 +98,4 @@
 - [theamallalgi](https://github.com/theamallalgi)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
+- [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
