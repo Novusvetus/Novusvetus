@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mig1023](https://github.com/mig1023)
 - [nelbta](https://github.com/nelbta)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [jahidnation](https://github.com/jahidnation)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
-- [AnitaSobhanian](https://github.com/AnitaSobhanian)
 
 #### 🎢 Stats
 

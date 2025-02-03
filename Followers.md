@@ -1,4 +1,5 @@
 
+- [mig1023](https://github.com/mig1023)
 - [nelbta](https://github.com/nelbta)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [jahidnation](https://github.com/jahidnation)
@@ -98,4 +99,3 @@
 - [theamallalgi](https://github.com/theamallalgi)
 - [s-n-3](https://github.com/s-n-3)
 - [kpshivaprasath](https://github.com/kpshivaprasath)
-- [NinjaCrypto0831](https://github.com/NinjaCrypto0831)
