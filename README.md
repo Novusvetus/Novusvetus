@@ -47,6 +47,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
 - [mig1023](https://github.com/mig1023)
 - [nelbta](https://github.com/nelbta)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
@@ -56,7 +57,6 @@ _Nobody sponsors me. I am poor..._
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
-- [Chitus](https://github.com/Chitus)
 
 #### 🎢 Stats
 
