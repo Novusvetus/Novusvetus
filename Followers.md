@@ -1,4 +1,5 @@
 
+- [K1rsN7](https://github.com/K1rsN7)
 - [cfrBernard](https://github.com/cfrBernard)
 - [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
 - [mig1023](https://github.com/mig1023)
@@ -98,4 +99,3 @@
 - [krzysztof293](https://github.com/krzysztof293)
 - [Connor9994](https://github.com/Connor9994)
 - [mahdi-eth](https://github.com/mahdi-eth)
-- [theamallalgi](https://github.com/theamallalgi)
