@@ -32,6 +32,7 @@ _Really? Nothing?_
 
 #### 🛠 Latest Pull Requests I published
 
+- [Updates 2025-02-05](https://github.com/Novusvetus/action-php_codesniffer/pull/839) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2025-02-05](https://github.com/Novusvetus/IntelliJStatsPlugin/pull/6) on [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin)
 - [Updates 2025-02-05](https://github.com/Novusvetus/IntelliJStatsPlugin/pull/5) on [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin)
 - [Updates 2024-01-15](https://github.com/Novusvetus/action-php_codesniffer/pull/779) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
@@ -40,7 +41,6 @@ _Really? Nothing?_
 - [Updates 2024-01-11](https://github.com/Novusvetus/action-php_codesniffer/pull/775) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-10](https://github.com/Novusvetus/action-php_codesniffer/pull/772) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-04](https://github.com/Novusvetus/StreamersMQTT/pull/14) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
-- [Updates 2024-01-03](https://github.com/Novusvetus/Spotifriendslist/pull/13) on [Novusvetus/Spotifriendslist](https://github.com/Novusvetus/Spotifriendslist)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
