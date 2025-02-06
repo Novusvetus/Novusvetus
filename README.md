@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [pinhe91](https://github.com/pinhe91)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [DeFiApeSniper](https://github.com/DeFiApeSniper)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [mig1023](https://github.com/mig1023)
 - [nelbta](https://github.com/nelbta)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
-- [jahidnation](https://github.com/jahidnation)
 
 #### 🎢 Stats
 

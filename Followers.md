@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [pinhe91](https://github.com/pinhe91)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [DeFiApeSniper](https://github.com/DeFiApeSniper)
@@ -98,4 +99,3 @@
 - [AgileTech777](https://github.com/AgileTech777)
 - [AZIZEMESR](https://github.com/AZIZEMESR)
 - [maryam-kazemi](https://github.com/maryam-kazemi)
-- [idimetrix](https://github.com/idimetrix)
