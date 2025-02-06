@@ -1,4 +1,5 @@
 
+- [Geek-Bunny](https://github.com/Geek-Bunny)
 - [DeFiApeSniper](https://github.com/DeFiApeSniper)
 - [K1rsN7](https://github.com/K1rsN7)
 - [cfrBernard](https://github.com/cfrBernard)
@@ -98,4 +99,3 @@
 - [maryam-kazemi](https://github.com/maryam-kazemi)
 - [idimetrix](https://github.com/idimetrix)
 - [krzysztof293](https://github.com/krzysztof293)
-- [Connor9994](https://github.com/Connor9994)
