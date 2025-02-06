@@ -49,6 +49,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [pinhe91](https://github.com/pinhe91)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [DeFiApeSniper](https://github.com/DeFiApeSniper)
 - [K1rsN7](https://github.com/K1rsN7)
@@ -58,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 - [nelbta](https://github.com/nelbta)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [jahidnation](https://github.com/jahidnation)
-- [riseansmal](https://github.com/riseansmal)
 
 #### 🎢 Stats
 
