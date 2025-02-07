@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nelbetancur](https://github.com/nelbetancur)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [pinhe91](https://github.com/pinhe91)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [cfrBernard](https://github.com/cfrBernard)
 - [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
 - [mig1023](https://github.com/mig1023)
-- [nelbta](https://github.com/nelbta)
 
 #### 🎢 Stats
 
