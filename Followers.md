@@ -1,4 +1,5 @@
 
+- [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
 - [meta0xflip](https://github.com/meta0xflip)
 - [niushaghavamii](https://github.com/niushaghavamii)
@@ -98,4 +99,3 @@
 - [rubsxyz](https://github.com/rubsxyz)
 - [Kiimmiiya](https://github.com/Kiimmiiya)
 - [alieeahmadi08](https://github.com/alieeahmadi08)
-- [khodeprs](https://github.com/khodeprs)
