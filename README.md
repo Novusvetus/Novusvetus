@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [miracleheras](https://github.com/miracleheras)
 - [meta0xflip](https://github.com/meta0xflip)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [nelbetancur](https://github.com/nelbetancur)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [DeFiApeSniper](https://github.com/DeFiApeSniper)
 - [K1rsN7](https://github.com/K1rsN7)
-- [cfrBernard](https://github.com/cfrBernard)
 
 #### 🎢 Stats
 
