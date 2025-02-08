@@ -15,7 +15,6 @@
 - [mig1023](https://github.com/mig1023)
 - [nelbta](https://github.com/nelbta)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
-- [jahidnation](https://github.com/jahidnation)
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
@@ -99,3 +98,4 @@
 - [rubsxyz](https://github.com/rubsxyz)
 - [Kiimmiiya](https://github.com/Kiimmiiya)
 - [alieeahmadi08](https://github.com/alieeahmadi08)
+- [khodeprs](https://github.com/khodeprs)
