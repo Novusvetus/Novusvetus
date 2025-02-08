@@ -1,4 +1,5 @@
 
+- [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
 - [meta0xflip](https://github.com/meta0xflip)
@@ -6,7 +7,6 @@
 - [nelbetancur](https://github.com/nelbetancur)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
-- [pinhe91](https://github.com/pinhe91)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [DeFiApeSniper](https://github.com/DeFiApeSniper)
 - [K1rsN7](https://github.com/K1rsN7)
