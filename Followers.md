@@ -1,4 +1,5 @@
 
+- [hudesdev](https://github.com/hudesdev)
 - [mbahomaid](https://github.com/mbahomaid)
 - [bencheayoub](https://github.com/bencheayoub)
 - [pinhe91](https://github.com/pinhe91)
@@ -98,4 +99,3 @@
 - [hhdst](https://github.com/hhdst)
 - [MdShawonForazi](https://github.com/MdShawonForazi)
 - [rubsxyz](https://github.com/rubsxyz)
-- [Kiimmiiya](https://github.com/Kiimmiiya)

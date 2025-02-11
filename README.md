@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hudesdev](https://github.com/hudesdev)
 - [mbahomaid](https://github.com/mbahomaid)
 - [bencheayoub](https://github.com/bencheayoub)
 - [pinhe91](https://github.com/pinhe91)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [nelbetancur](https://github.com/nelbetancur)
 - [hamxy](https://github.com/hamxy)
-- [hipolitorodrigues](https://github.com/hipolitorodrigues)
 
 #### 🎢 Stats
 
