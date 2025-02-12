@@ -50,7 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [hudesdev](https://github.com/hudesdev)
+- [m4rcu5o](https://github.com/m4rcu5o)
 - [mbahomaid](https://github.com/mbahomaid)
 - [bencheayoub](https://github.com/bencheayoub)
 - [pinhe91](https://github.com/pinhe91)
