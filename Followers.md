@@ -2,7 +2,6 @@
 - [woremixituki](https://github.com/woremixituki)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [mbahomaid](https://github.com/mbahomaid)
-- [bencheayoub](https://github.com/bencheayoub)
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
@@ -99,3 +98,4 @@
 - [FaezehRahimian](https://github.com/FaezehRahimian)
 - [hhdst](https://github.com/hhdst)
 - [MdShawonForazi](https://github.com/MdShawonForazi)
+- [rubsxyz](https://github.com/rubsxyz)

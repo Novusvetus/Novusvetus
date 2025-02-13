@@ -53,13 +53,13 @@ _Nobody sponsors me. I am poor..._
 - [woremixituki](https://github.com/woremixituki)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [mbahomaid](https://github.com/mbahomaid)
-- [bencheayoub](https://github.com/bencheayoub)
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
 - [meta0xflip](https://github.com/meta0xflip)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [nelbetancur](https://github.com/nelbetancur)
+- [hamxy](https://github.com/hamxy)
 
 #### 🎢 Stats
 
