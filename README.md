@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [woremixituki](https://github.com/woremixituki)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [mbahomaid](https://github.com/mbahomaid)
 - [bencheayoub](https://github.com/bencheayoub)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [meta0xflip](https://github.com/meta0xflip)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [nelbetancur](https://github.com/nelbetancur)
-- [hamxy](https://github.com/hamxy)
 
 #### 🎢 Stats
 
