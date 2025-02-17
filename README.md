@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [treeMan0301](https://github.com/treeMan0301)
 - [agathafr](https://github.com/agathafr)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
 - [madhavaprmr](https://github.com/madhavaprmr)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
-- [meta0xflip](https://github.com/meta0xflip)
 
 #### 🎢 Stats
 
