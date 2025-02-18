@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [denishy-sh](https://github.com/denishy-sh)
 - [ahr-i](https://github.com/ahr-i)
 - [treeMan0301](https://github.com/treeMan0301)
 - [agathafr](https://github.com/agathafr)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [mbahomaid](https://github.com/mbahomaid)
 - [pinhe91](https://github.com/pinhe91)
-- [reid-harrisson](https://github.com/reid-harrisson)
 
 #### 🎢 Stats
 
