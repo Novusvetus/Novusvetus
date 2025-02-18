@@ -1,4 +1,5 @@
 
+- [chris-ruther](https://github.com/chris-ruther)
 - [denishy-sh](https://github.com/denishy-sh)
 - [ahr-i](https://github.com/ahr-i)
 - [treeMan0301](https://github.com/treeMan0301)
@@ -98,4 +99,3 @@
 - [omar49511](https://github.com/omar49511)
 - [abaoo3](https://github.com/abaoo3)
 - [nanadiy](https://github.com/nanadiy)
-- [Fatemehkiani2002](https://github.com/Fatemehkiani2002)
