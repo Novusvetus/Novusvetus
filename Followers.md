@@ -10,7 +10,6 @@
 - [madhavaprmr](https://github.com/madhavaprmr)
 - [woremixituki](https://github.com/woremixituki)
 - [m4rcu5o](https://github.com/m4rcu5o)
-- [mbahomaid](https://github.com/mbahomaid)
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
@@ -99,3 +98,4 @@
 - [MiladJoodi](https://github.com/MiladJoodi)
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
+- [abaoo3](https://github.com/abaoo3)
