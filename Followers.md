@@ -63,7 +63,6 @@
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [okerun](https://github.com/okerun)
-- [TrungpdtE](https://github.com/TrungpdtE)
 - [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
 - [ilyesw](https://github.com/ilyesw)
@@ -99,3 +98,4 @@
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
 - [abaoo3](https://github.com/abaoo3)
+- [nanadiy](https://github.com/nanadiy)
