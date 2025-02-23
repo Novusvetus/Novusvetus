@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
 - [chris-ruther](https://github.com/chris-ruther)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [agathafr](https://github.com/agathafr)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
 - [madhavaprmr](https://github.com/madhavaprmr)
-- [woremixituki](https://github.com/woremixituki)
 
 #### 🎢 Stats
 
