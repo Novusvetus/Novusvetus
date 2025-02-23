@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
@@ -98,4 +99,3 @@
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
 - [abaoo3](https://github.com/abaoo3)
-- [nanadiy](https://github.com/nanadiy)

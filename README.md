@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [treeMan0301](https://github.com/treeMan0301)
 - [agathafr](https://github.com/agathafr)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
-- [madhavaprmr](https://github.com/madhavaprmr)
 
 #### 🎢 Stats
 
