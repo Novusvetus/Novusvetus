@@ -36,7 +36,6 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
-- [XiaomingX](https://github.com/XiaomingX)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
@@ -99,3 +98,4 @@
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
 - [abaoo3](https://github.com/abaoo3)
+- [nanadiy](https://github.com/nanadiy)
