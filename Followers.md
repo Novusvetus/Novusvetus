@@ -1,4 +1,5 @@
 
+- [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
 - [LinuxJS](https://github.com/LinuxJS)
@@ -98,4 +99,3 @@
 - [MiladJoodi](https://github.com/MiladJoodi)
 - [maryamdnn](https://github.com/maryamdnn)
 - [omar49511](https://github.com/omar49511)
-- [abaoo3](https://github.com/abaoo3)
