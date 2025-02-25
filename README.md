@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [ahr-i](https://github.com/ahr-i)
 - [treeMan0301](https://github.com/treeMan0301)
 - [agathafr](https://github.com/agathafr)
-- [yaroslavmatei](https://github.com/yaroslavmatei)
 
 #### 🎢 Stats
 
