@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [florian-ariasu](https://github.com/florian-ariasu)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [chris-ruther](https://github.com/chris-ruther)
 - [denishy-sh](https://github.com/denishy-sh)
 - [ahr-i](https://github.com/ahr-i)
-- [treeMan0301](https://github.com/treeMan0301)
 
 #### 🎢 Stats
 

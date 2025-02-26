@@ -1,4 +1,5 @@
 
+- [florian-ariasu](https://github.com/florian-ariasu)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
@@ -98,4 +99,3 @@
 - [Macgyver02](https://github.com/Macgyver02)
 - [MiladJoodi](https://github.com/MiladJoodi)
 - [maryamdnn](https://github.com/maryamdnn)
-- [omar49511](https://github.com/omar49511)
