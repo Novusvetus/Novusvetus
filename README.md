@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [helallao](https://github.com/helallao)
+- [tubakhxn](https://github.com/tubakhxn)
 - [florian-ariasu](https://github.com/florian-ariasu)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
 - [chris-ruther](https://github.com/chris-ruther)
-- [denishy-sh](https://github.com/denishy-sh)
-- [ahr-i](https://github.com/ahr-i)
 
 #### 🎢 Stats
 
