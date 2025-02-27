@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [helallao](https://github.com/helallao)
 - [tubakhxn](https://github.com/tubakhxn)
 - [florian-ariasu](https://github.com/florian-ariasu)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
-- [chris-ruther](https://github.com/chris-ruther)
 
 #### 🎢 Stats
 
