@@ -64,7 +64,6 @@
 - [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
 - [djvelimir](https://github.com/djvelimir)
-- [fermincasquero](https://github.com/fermincasquero)
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [okerun](https://github.com/okerun)
@@ -99,3 +98,4 @@
 - [Amir100200](https://github.com/Amir100200)
 - [FJahanmiri](https://github.com/FJahanmiri)
 - [Macgyver02](https://github.com/Macgyver02)
+- [MiladJoodi](https://github.com/MiladJoodi)
