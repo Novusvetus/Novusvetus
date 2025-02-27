@@ -1,5 +1,4 @@
 
-- [blocage](https://github.com/blocage)
 - [light-hat](https://github.com/light-hat)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [helallao](https://github.com/helallao)
@@ -99,3 +98,4 @@
 - [jasixiedust](https://github.com/jasixiedust)
 - [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
+- [FJahanmiri](https://github.com/FJahanmiri)

@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
 - [light-hat](https://github.com/light-hat)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [helallao](https://github.com/helallao)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
 - [LinuxJS](https://github.com/LinuxJS)
+- [laurence57l](https://github.com/laurence57l)
 
 #### 🎢 Stats
 
