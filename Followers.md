@@ -22,7 +22,6 @@
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
-- [meta0xflip](https://github.com/meta0xflip)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [nelbetancur](https://github.com/nelbetancur)
 - [hamxy](https://github.com/hamxy)
@@ -99,3 +98,4 @@
 - [TiraDevHead](https://github.com/TiraDevHead)
 - [Amir100200](https://github.com/Amir100200)
 - [FJahanmiri](https://github.com/FJahanmiri)
+- [Macgyver02](https://github.com/Macgyver02)
