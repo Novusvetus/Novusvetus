@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [helallao](https://github.com/helallao)
 - [tubakhxn](https://github.com/tubakhxn)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
-- [emmanuelvelmo](https://github.com/emmanuelvelmo)
 
 #### 🎢 Stats
 
