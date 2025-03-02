@@ -1,4 +1,5 @@
 
+- [blocage](https://github.com/blocage)
 - [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [helallao](https://github.com/helallao)
@@ -27,7 +28,6 @@
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
-- [DeFiApeSniper](https://github.com/DeFiApeSniper)
 - [K1rsN7](https://github.com/K1rsN7)
 - [cfrBernard](https://github.com/cfrBernard)
 - [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
