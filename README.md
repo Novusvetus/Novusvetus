@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nholuongut](https://github.com/nholuongut)
+- [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 - [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [helallao](https://github.com/helallao)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
-- [LinuxJS](https://github.com/LinuxJS)
-- [laurence57l](https://github.com/laurence57l)
 
 #### 🎢 Stats
 
