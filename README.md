@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ZenXen7](https://github.com/ZenXen7)
 - [nholuongut](https://github.com/nholuongut)
 - [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 - [snowMan128](https://github.com/snowMan128)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [florian-ariasu](https://github.com/florian-ariasu)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
-- [Teymur-Babayev](https://github.com/Teymur-Babayev)
 
 #### 🎢 Stats
 
