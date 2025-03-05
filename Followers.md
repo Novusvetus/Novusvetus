@@ -7,7 +7,6 @@
 - [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [tubakhxn](https://github.com/tubakhxn)
-- [florian-ariasu](https://github.com/florian-ariasu)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
@@ -99,3 +98,4 @@
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [jasixiedust](https://github.com/jasixiedust)
 - [TiraDevHead](https://github.com/TiraDevHead)
+- [Amir100200](https://github.com/Amir100200)

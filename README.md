@@ -58,8 +58,8 @@ _Nobody sponsors me. I am poor..._
 - [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [tubakhxn](https://github.com/tubakhxn)
-- [florian-ariasu](https://github.com/florian-ariasu)
 - [nazari63](https://github.com/nazari63)
+- [segemun](https://github.com/segemun)
 
 #### 🎢 Stats
 
