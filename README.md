@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Suzan1994](https://github.com/Suzan1994)
 - [CandleLearner-M](https://github.com/CandleLearner-M)
 - [Roohollah81](https://github.com/Roohollah81)
 - [sabbir-noyon](https://github.com/sabbir-noyon)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [tubakhxn](https://github.com/tubakhxn)
-- [nazari63](https://github.com/nazari63)
 
 #### 🎢 Stats
 

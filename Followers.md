@@ -1,4 +1,5 @@
 
+- [Suzan1994](https://github.com/Suzan1994)
 - [CandleLearner-M](https://github.com/CandleLearner-M)
 - [Roohollah81](https://github.com/Roohollah81)
 - [sabbir-noyon](https://github.com/sabbir-noyon)
@@ -98,4 +99,3 @@
 - [santaclousdon](https://github.com/santaclousdon)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
 - [jasixiedust](https://github.com/jasixiedust)
-- [TiraDevHead](https://github.com/TiraDevHead)
