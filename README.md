@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CandleLearner-M](https://github.com/CandleLearner-M)
 - [psemicol](https://github.com/psemicol)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [AI4Networking](https://github.com/AI4Networking)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [ZenXen7](https://github.com/ZenXen7)
 - [nholuongut](https://github.com/nholuongut)
 - [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
-- [snowMan128](https://github.com/snowMan128)
 
 #### 🎢 Stats
 
