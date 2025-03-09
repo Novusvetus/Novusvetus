@@ -1,4 +1,5 @@
 
+- [VicTorWHoX](https://github.com/VicTorWHoX)
 - [AI4Networking](https://github.com/AI4Networking)
 - [Suzan1994](https://github.com/Suzan1994)
 - [Roohollah81](https://github.com/Roohollah81)
@@ -98,4 +99,3 @@
 - [Elenavz83](https://github.com/Elenavz83)
 - [santaclousdon](https://github.com/santaclousdon)
 - [nastaranmofakhami](https://github.com/nastaranmofakhami)
-- [jasixiedust](https://github.com/jasixiedust)

@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [VicTorWHoX](https://github.com/VicTorWHoX)
 - [AI4Networking](https://github.com/AI4Networking)
 - [Suzan1994](https://github.com/Suzan1994)
 - [Roohollah81](https://github.com/Roohollah81)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 - [snowMan128](https://github.com/snowMan128)
 - [Crazycrystaldev](https://github.com/Crazycrystaldev)
-- [tubakhxn](https://github.com/tubakhxn)
 
 #### 🎢 Stats
 
