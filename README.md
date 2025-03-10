@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [CandleLearner-M](https://github.com/CandleLearner-M)
 - [psemicol](https://github.com/psemicol)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [sabbir-noyon](https://github.com/sabbir-noyon)
 - [ZenXen7](https://github.com/ZenXen7)
 - [nholuongut](https://github.com/nholuongut)
-- [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 
 #### 🎢 Stats
 
