@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [dimkagithub](https://github.com/dimkagithub)
+- [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
 - [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [murapa96](https://github.com/murapa96)
 - [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [psemicol](https://github.com/psemicol)
-- [VicTorWHoX](https://github.com/VicTorWHoX)
-- [AI4Networking](https://github.com/AI4Networking)
 
 #### 🎢 Stats
 
