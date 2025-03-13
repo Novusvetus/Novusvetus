@@ -58,8 +58,8 @@ _Nobody sponsors me. I am poor..._
 - [MISHOW2](https://github.com/MISHOW2)
 - [Xmosha](https://github.com/Xmosha)
 - [murapa96](https://github.com/murapa96)
-- [Tomiwa-Ot](https://github.com/Tomiwa-Ot)
 - [psemicol](https://github.com/psemicol)
+- [VicTorWHoX](https://github.com/VicTorWHoX)
 
 #### 🎢 Stats
 
