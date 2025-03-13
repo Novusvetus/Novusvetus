@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SicklesHit](https://github.com/SicklesHit)
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
 - [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
 - [MISHOW2](https://github.com/MISHOW2)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [psemicol](https://github.com/psemicol)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [AI4Networking](https://github.com/AI4Networking)
-- [Suzan1994](https://github.com/Suzan1994)
 
 #### 🎢 Stats
 
