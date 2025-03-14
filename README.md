@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [0joseDark](https://github.com/0joseDark)
+- [BondYurii](https://github.com/BondYurii)
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [MISHOW2](https://github.com/MISHOW2)
 - [Xmosha](https://github.com/Xmosha)
 - [murapa96](https://github.com/murapa96)
-- [psemicol](https://github.com/psemicol)
-- [VicTorWHoX](https://github.com/VicTorWHoX)
 
 #### 🎢 Stats
 

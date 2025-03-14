@@ -1,4 +1,6 @@
 
+- [0joseDark](https://github.com/0joseDark)
+- [BondYurii](https://github.com/BondYurii)
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
@@ -97,5 +99,3 @@
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [ipqwery](https://github.com/ipqwery)
 - [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
-- [Ali1Safi](https://github.com/Ali1Safi)
-- [taisprestes01](https://github.com/taisprestes01)
