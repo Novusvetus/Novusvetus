@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
 - [BondYurii](https://github.com/BondYurii)
 - [dimkagithub](https://github.com/dimkagithub)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
 - [MISHOW2](https://github.com/MISHOW2)
 - [Xmosha](https://github.com/Xmosha)
-- [murapa96](https://github.com/murapa96)
 
 #### 🎢 Stats
 
