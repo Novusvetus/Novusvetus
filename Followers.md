@@ -34,7 +34,6 @@
 - [denishy-sh](https://github.com/denishy-sh)
 - [ahr-i](https://github.com/ahr-i)
 - [treeMan0301](https://github.com/treeMan0301)
-- [agathafr](https://github.com/agathafr)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
 - [madhavaprmr](https://github.com/madhavaprmr)
 - [liamsmith413](https://github.com/liamsmith413)
@@ -99,3 +98,4 @@
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
 - [AIDABGI](https://github.com/AIDABGI)
+- [mysterium-atnas](https://github.com/mysterium-atnas)
