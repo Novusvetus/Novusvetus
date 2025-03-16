@@ -55,11 +55,11 @@ _Nobody sponsors me. I am poor..._
 - [Capybara003](https://github.com/Capybara003)
 - [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
-- [BondYurii](https://github.com/BondYurii)
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
+- [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
 
 #### 🎢 Stats
 

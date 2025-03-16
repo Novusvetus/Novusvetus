@@ -4,7 +4,6 @@
 - [Capybara003](https://github.com/Capybara003)
 - [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
-- [BondYurii](https://github.com/BondYurii)
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
@@ -99,3 +98,4 @@
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
 - [AIDABGI](https://github.com/AIDABGI)
+- [mysterium-atnas](https://github.com/mysterium-atnas)
