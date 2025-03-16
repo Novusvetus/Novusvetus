@@ -9,7 +9,6 @@
 - [SicklesHit](https://github.com/SicklesHit)
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
 - [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
-- [MISHOW2](https://github.com/MISHOW2)
 - [Xmosha](https://github.com/Xmosha)
 - [murapa96](https://github.com/murapa96)
 - [psemicol](https://github.com/psemicol)
@@ -99,3 +98,4 @@
 - [rkhalili83](https://github.com/rkhalili83)
 - [AIDABGI](https://github.com/AIDABGI)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
+- [ipqwery](https://github.com/ipqwery)
