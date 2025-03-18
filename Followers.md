@@ -84,7 +84,6 @@
 - [Benjamin-cup](https://github.com/Benjamin-cup)
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [okerun](https://github.com/okerun)
-- [devddine](https://github.com/devddine)
 - [EDGI9](https://github.com/EDGI9)
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
@@ -99,3 +98,4 @@
 - [AIDABGI](https://github.com/AIDABGI)
 - [mysterium-atnas](https://github.com/mysterium-atnas)
 - [ipqwery](https://github.com/ipqwery)
+- [ZahraHosseinkhani](https://github.com/ZahraHosseinkhani)
