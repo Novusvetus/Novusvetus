@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
 - [mbahomaid](https://github.com/mbahomaid)
 - [Capybara003](https://github.com/Capybara003)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
-- [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
 
 #### 🎢 Stats
 
