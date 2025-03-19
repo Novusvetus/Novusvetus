@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nullptrException100](https://github.com/nullptrException100)
 - [Gabrieliam42](https://github.com/Gabrieliam42)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
-- [SicklesHit](https://github.com/SicklesHit)
 
 #### 🎢 Stats
 

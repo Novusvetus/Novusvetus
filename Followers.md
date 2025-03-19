@@ -1,4 +1,5 @@
 
+- [nullptrException100](https://github.com/nullptrException100)
 - [Gabrieliam42](https://github.com/Gabrieliam42)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
@@ -98,4 +99,3 @@
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
 - [AIDABGI](https://github.com/AIDABGI)
-- [mysterium-atnas](https://github.com/mysterium-atnas)
