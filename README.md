@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [xiaohuohumax](https://github.com/xiaohuohumax)
 - [Repsolia](https://github.com/Repsolia)
 - [nullptrException100](https://github.com/nullptrException100)
 - [Gabrieliam42](https://github.com/Gabrieliam42)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Capybara003](https://github.com/Capybara003)
 - [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
-- [dimkagithub](https://github.com/dimkagithub)
 
 #### 🎢 Stats
 
