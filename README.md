@@ -50,10 +50,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [devddine](https://github.com/devddine)
 - [xiaohuohumax](https://github.com/xiaohuohumax)
 - [Repsolia](https://github.com/Repsolia)
 - [nullptrException100](https://github.com/nullptrException100)
-- [Gabrieliam42](https://github.com/Gabrieliam42)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
 - [mbahomaid](https://github.com/mbahomaid)

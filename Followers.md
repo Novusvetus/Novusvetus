@@ -1,8 +1,8 @@
 
+- [devddine](https://github.com/devddine)
 - [xiaohuohumax](https://github.com/xiaohuohumax)
 - [Repsolia](https://github.com/Repsolia)
 - [nullptrException100](https://github.com/nullptrException100)
-- [Gabrieliam42](https://github.com/Gabrieliam42)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
 - [mbahomaid](https://github.com/mbahomaid)
@@ -15,7 +15,7 @@
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
 - [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
 - [Xmosha](https://github.com/Xmosha)
-- [murapa96](https://github.com/murapa96)
+- [murapadev](https://github.com/murapadev)
 - [psemicol](https://github.com/psemicol)
 - [VicTorWHoX](https://github.com/VicTorWHoX)
 - [AI4Networking](https://github.com/AI4Networking)
