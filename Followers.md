@@ -1,4 +1,6 @@
 
+- [hoangks5](https://github.com/hoangks5)
+- [ashishkumar30](https://github.com/ashishkumar30)
 - [0vm](https://github.com/0vm)
 - [devddine](https://github.com/devddine)
 - [xiaohuohumax](https://github.com/xiaohuohumax)
@@ -97,5 +99,3 @@
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
 - [samanes11](https://github.com/samanes11)
-- [MatthewMacri](https://github.com/MatthewMacri)
-- [GoldenDev321](https://github.com/GoldenDev321)
