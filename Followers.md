@@ -5,7 +5,6 @@
 - [0vm](https://github.com/0vm)
 - [devddine](https://github.com/devddine)
 - [xiaohuohumax](https://github.com/xiaohuohumax)
-- [Repsolia](https://github.com/Repsolia)
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
@@ -99,3 +98,4 @@
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
+- [samanes11](https://github.com/samanes11)
