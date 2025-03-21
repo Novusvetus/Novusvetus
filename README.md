@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Shubh2-0](https://github.com/Shubh2-0)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
 - [ashishkumar30](https://github.com/ashishkumar30)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
-- [mbahomaid](https://github.com/mbahomaid)
 
 #### 🎢 Stats
 
