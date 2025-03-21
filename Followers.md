@@ -6,7 +6,6 @@
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
 - [mbahomaid](https://github.com/mbahomaid)
-- [Capybara003](https://github.com/Capybara003)
 - [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
@@ -99,3 +98,4 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
+- [rkhalili83](https://github.com/rkhalili83)

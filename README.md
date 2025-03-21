@@ -57,9 +57,9 @@ _Nobody sponsors me. I am poor..._
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
 - [mbahomaid](https://github.com/mbahomaid)
-- [Capybara003](https://github.com/Capybara003)
 - [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
+- [dimkagithub](https://github.com/dimkagithub)
 
 #### 🎢 Stats
 
