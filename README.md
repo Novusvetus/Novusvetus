@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [0vm](https://github.com/0vm)
 - [devddine](https://github.com/devddine)
 - [xiaohuohumax](https://github.com/xiaohuohumax)
 - [Repsolia](https://github.com/Repsolia)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [mbahomaid](https://github.com/mbahomaid)
 - [maqibraja](https://github.com/maqibraja)
 - [0joseDark](https://github.com/0joseDark)
-- [dimkagithub](https://github.com/dimkagithub)
 
 #### 🎢 Stats
 
