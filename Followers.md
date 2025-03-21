@@ -54,7 +54,7 @@
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [K1rsN7](https://github.com/K1rsN7)
 - [cfrBernard](https://github.com/cfrBernard)
-- [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
+- [DIMFLIX](https://github.com/DIMFLIX)
 - [mig1023](https://github.com/mig1023)
 - [aburraspace](https://github.com/aburraspace)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
