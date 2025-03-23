@@ -4,7 +4,6 @@
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
 - [ashishkumar30](https://github.com/ashishkumar30)
-- [0vm](https://github.com/0vm)
 - [devddine](https://github.com/devddine)
 - [xiaohuohumax](https://github.com/xiaohuohumax)
 - [nullptrException100](https://github.com/nullptrException100)
@@ -99,3 +98,4 @@
 - [amirebadi21](https://github.com/amirebadi21)
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
+- [Ninja1375](https://github.com/Ninja1375)
