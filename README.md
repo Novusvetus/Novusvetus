@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [0vm](https://github.com/0vm)
-- [AhooraRamesh](https://github.com/AhooraRamesh)
 - [Shubh2-0](https://github.com/Shubh2-0)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [xiaohuohumax](https://github.com/xiaohuohumax)
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
+- [agathafr](https://github.com/agathafr)
 
 #### 🎢 Stats
 
