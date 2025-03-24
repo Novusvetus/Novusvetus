@@ -17,7 +17,6 @@
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
 - [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
-- [kanyekidnapschildren69](https://github.com/kanyekidnapschildren69)
 - [Xmosha](https://github.com/Xmosha)
 - [murapadev](https://github.com/murapadev)
 - [psemicol](https://github.com/psemicol)
@@ -99,3 +98,4 @@
 - [amirebadi21](https://github.com/amirebadi21)
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
+- [Ninja1375](https://github.com/Ninja1375)
