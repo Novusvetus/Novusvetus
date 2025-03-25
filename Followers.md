@@ -1,4 +1,5 @@
 
+- [msodiq19](https://github.com/msodiq19)
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
@@ -98,4 +99,3 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
-- [rkhalili83](https://github.com/rkhalili83)
