@@ -3,7 +3,6 @@
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
-- [Shubh2-0](https://github.com/Shubh2-0)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
 - [ashishkumar30](https://github.com/ashishkumar30)
@@ -99,3 +98,4 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
+- [rkhalili83](https://github.com/rkhalili83)
