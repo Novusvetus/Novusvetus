@@ -8,7 +8,6 @@
 - [hoangks5](https://github.com/hoangks5)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [devddine](https://github.com/devddine)
-- [xiaohuohumax](https://github.com/xiaohuohumax)
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
@@ -99,3 +98,4 @@
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
+- [AIDABGI](https://github.com/AIDABGI)

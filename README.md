@@ -59,7 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [hoangks5](https://github.com/hoangks5)
 - [ashishkumar30](https://github.com/ashishkumar30)
 - [devddine](https://github.com/devddine)
-- [xiaohuohumax](https://github.com/xiaohuohumax)
+- [nullptrException100](https://github.com/nullptrException100)
 
 #### 🎢 Stats
 
