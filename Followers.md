@@ -18,7 +18,6 @@
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
 - [SicklesHit](https://github.com/SicklesHit)
-- [Shamim-Al-Mamun](https://github.com/Shamim-Al-Mamun)
 - [murapadev](https://github.com/murapadev)
 - [Roohollah81](https://github.com/Roohollah81)
 - [sabbir-noyon](https://github.com/sabbir-noyon)
@@ -99,3 +98,4 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
+- [rkhalili83](https://github.com/rkhalili83)
