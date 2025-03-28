@@ -1,4 +1,5 @@
 
+- [Peti6inge](https://github.com/Peti6inge)
 - [nirvanascent](https://github.com/nirvanascent)
 - [msodiq19](https://github.com/msodiq19)
 - [mahmudnibir](https://github.com/mahmudnibir)
@@ -98,4 +99,3 @@
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
-- [AIDABGI](https://github.com/AIDABGI)
