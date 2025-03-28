@@ -1,4 +1,5 @@
 
+- [bhza](https://github.com/bhza)
 - [Peti6inge](https://github.com/Peti6inge)
 - [nirvanascent](https://github.com/nirvanascent)
 - [msodiq19](https://github.com/msodiq19)
@@ -98,4 +99,3 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
-- [rkhalili83](https://github.com/rkhalili83)

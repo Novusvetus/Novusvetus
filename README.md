@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bhza](https://github.com/bhza)
 - [Peti6inge](https://github.com/Peti6inge)
 - [nirvanascent](https://github.com/nirvanascent)
 - [msodiq19](https://github.com/msodiq19)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
 - [ashishkumar30](https://github.com/ashishkumar30)
-- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
