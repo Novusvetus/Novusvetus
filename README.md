@@ -54,12 +54,12 @@ _Nobody sponsors me. I am poor..._
 - [bhza](https://github.com/bhza)
 - [Peti6inge](https://github.com/Peti6inge)
 - [nirvanascent](https://github.com/nirvanascent)
-- [msodiq19](https://github.com/msodiq19)
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
+- [ashishkumar30](https://github.com/ashishkumar30)
 
 #### 🎢 Stats
 

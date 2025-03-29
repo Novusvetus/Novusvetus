@@ -3,7 +3,6 @@
 - [bhza](https://github.com/bhza)
 - [Peti6inge](https://github.com/Peti6inge)
 - [nirvanascent](https://github.com/nirvanascent)
-- [msodiq19](https://github.com/msodiq19)
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
@@ -99,3 +98,4 @@
 - [Ninja1375](https://github.com/Ninja1375)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
+- [GoldenDev321](https://github.com/GoldenDev321)
