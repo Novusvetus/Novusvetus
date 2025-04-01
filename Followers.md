@@ -1,7 +1,6 @@
 
 - [Ballwictb](https://github.com/Ballwictb)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
-- [bhza](https://github.com/bhza)
 - [Peti6inge](https://github.com/Peti6inge)
 - [nirvanascent](https://github.com/nirvanascent)
 - [mahmudnibir](https://github.com/mahmudnibir)
@@ -99,3 +98,4 @@
 - [Ninja1375](https://github.com/Ninja1375)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
+- [GoldenDev321](https://github.com/GoldenDev321)
