@@ -8,7 +8,6 @@
 - [0vm](https://github.com/0vm)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
-- [ashishkumar30](https://github.com/ashishkumar30)
 - [devddine](https://github.com/devddine)
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
@@ -99,3 +98,4 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
+- [rkhalili83](https://github.com/rkhalili83)

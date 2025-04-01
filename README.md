@@ -59,7 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [0vm](https://github.com/0vm)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
-- [ashishkumar30](https://github.com/ashishkumar30)
+- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
