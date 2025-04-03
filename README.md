@@ -53,7 +53,7 @@ _Nobody sponsors me. I am poor..._
 - [Ballwictb](https://github.com/Ballwictb)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
-- [nirvanascent](https://github.com/nirvanascent)
+- [lustangel](https://github.com/lustangel)
 - [mahmudnibir](https://github.com/mahmudnibir)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
