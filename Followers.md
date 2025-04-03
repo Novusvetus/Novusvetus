@@ -1,4 +1,5 @@
 
+- [d3v1sh](https://github.com/d3v1sh)
 - [Ballwictb](https://github.com/Ballwictb)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
@@ -98,4 +99,3 @@
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
-- [AIDABGI](https://github.com/AIDABGI)

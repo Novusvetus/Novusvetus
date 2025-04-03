@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [d3v1sh](https://github.com/d3v1sh)
 - [Ballwictb](https://github.com/Ballwictb)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [0vm](https://github.com/0vm)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
 - [hoangks5](https://github.com/hoangks5)
-- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
