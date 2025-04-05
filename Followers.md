@@ -21,7 +21,6 @@
 - [murapadev](https://github.com/murapadev)
 - [Roohollah81](https://github.com/Roohollah81)
 - [sabbir-noyon](https://github.com/sabbir-noyon)
-- [ZenXen7](https://github.com/ZenXen7)
 - [nholuongut](https://github.com/nholuongut)
 - [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 - [snowMan128](https://github.com/snowMan128)
@@ -99,3 +98,4 @@
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
+- [AIDABGI](https://github.com/AIDABGI)
