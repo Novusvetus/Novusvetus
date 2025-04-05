@@ -17,7 +17,7 @@
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
 - [PioSol7](https://github.com/PioSol7)
-- [puresatan](https://github.com/puresatan)
+- [berserkfury](https://github.com/berserkfury)
 - [murapadev](https://github.com/murapadev)
 - [Roohollah81](https://github.com/Roohollah81)
 - [sabbir-noyon](https://github.com/sabbir-noyon)
