@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [CodeEvolv](https://github.com/CodeEvolv)
 - [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 - [d3v1sh](https://github.com/d3v1sh)
 - [Ballwictb](https://github.com/Ballwictb)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
 - [syedbilalalam001](https://github.com/syedbilalalam001)
-- [hoangks5](https://github.com/hoangks5)
 
 #### 🎢 Stats
 
