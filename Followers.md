@@ -8,7 +8,7 @@
 - [lustangel](https://github.com/lustangel)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
-- [syedbilalalam001](https://github.com/syedbilalalam001)
+- [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
 - [devddine](https://github.com/devddine)
 - [nullptrException100](https://github.com/nullptrException100)

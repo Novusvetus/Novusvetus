@@ -59,7 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [lustangel](https://github.com/lustangel)
 - [Capybara003](https://github.com/Capybara003)
 - [0vm](https://github.com/0vm)
-- [syedbilalalam001](https://github.com/syedbilalalam001)
+- [syedbilalalam1](https://github.com/syedbilalalam1)
 
 #### 🎢 Stats
 
