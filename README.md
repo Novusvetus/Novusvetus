@@ -58,8 +58,8 @@ _Nobody sponsors me. I am poor..._
 - [Peti6inge](https://github.com/Peti6inge)
 - [lustangel](https://github.com/lustangel)
 - [Capybara003](https://github.com/Capybara003)
-- [0vm](https://github.com/0vm)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
+- [hoangks5](https://github.com/hoangks5)
 
 #### 🎢 Stats
 

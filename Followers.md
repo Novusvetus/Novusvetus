@@ -7,7 +7,6 @@
 - [Peti6inge](https://github.com/Peti6inge)
 - [lustangel](https://github.com/lustangel)
 - [Capybara003](https://github.com/Capybara003)
-- [0vm](https://github.com/0vm)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
 - [devddine](https://github.com/devddine)
@@ -99,3 +98,4 @@
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
 - [rkhalili83](https://github.com/rkhalili83)
+- [AIDABGI](https://github.com/AIDABGI)
