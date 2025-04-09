@@ -17,7 +17,7 @@
 - [mbahomaid](https://github.com/mbahomaid)
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
-- [PioSol7](https://github.com/PioSol7)
+- [dev-takhi77](https://github.com/dev-takhi77)
 - [berserkfury](https://github.com/berserkfury)
 - [murapadev](https://github.com/murapadev)
 - [Roohollah81](https://github.com/Roohollah81)
