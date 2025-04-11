@@ -47,7 +47,7 @@
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
-- [nelbetancur](https://github.com/nelbetancur)
+- [ls7co](https://github.com/ls7co)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
