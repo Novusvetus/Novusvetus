@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [itsjomon](https://github.com/itsjomon)
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
 - [Ballwictb](https://github.com/Ballwictb)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
 - [lustangel](https://github.com/lustangel)
-- [Capybara003](https://github.com/Capybara003)
 
 #### 🎢 Stats
 
