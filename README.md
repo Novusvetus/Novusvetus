@@ -54,12 +54,12 @@ _Nobody sponsors me. I am poor..._
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
 - [Ballwictb](https://github.com/Ballwictb)
-- [jahidnation](https://github.com/jahidnation)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [d3v1sh](https://github.com/d3v1sh)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
 - [lustangel](https://github.com/lustangel)
+- [Capybara003](https://github.com/Capybara003)
 
 #### 🎢 Stats
 

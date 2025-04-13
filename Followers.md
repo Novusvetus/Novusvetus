@@ -3,7 +3,6 @@
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [pouyashahrdami](https://github.com/pouyashahrdami)
 - [Ballwictb](https://github.com/Ballwictb)
-- [jahidnation](https://github.com/jahidnation)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [d3v1sh](https://github.com/d3v1sh)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
@@ -99,3 +98,4 @@
 - [Ninja1375](https://github.com/Ninja1375)
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
+- [GoldenDev321](https://github.com/GoldenDev321)
