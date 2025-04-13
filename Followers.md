@@ -1,7 +1,6 @@
 
 - [itsjomon](https://github.com/itsjomon)
 - [TopTrenDev](https://github.com/TopTrenDev)
-- [pouyashahrdami](https://github.com/pouyashahrdami)
 - [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [d3v1sh](https://github.com/d3v1sh)
@@ -99,3 +98,4 @@
 - [samanes11](https://github.com/samanes11)
 - [MatthewMacri](https://github.com/MatthewMacri)
 - [GoldenDev321](https://github.com/GoldenDev321)
+- [rkhalili83](https://github.com/rkhalili83)
