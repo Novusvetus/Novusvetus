@@ -56,10 +56,10 @@ _Nobody sponsors me. I am poor..._
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
+- [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 - [d3v1sh](https://github.com/d3v1sh)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
-- [lustangel](https://github.com/lustangel)
 
 #### 🎢 Stats
 
