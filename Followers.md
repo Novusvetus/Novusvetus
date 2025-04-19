@@ -1,4 +1,5 @@
 
+- [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
 - [NotReeceHarris](https://github.com/NotReeceHarris)
 - [0vm](https://github.com/0vm)
@@ -98,4 +99,3 @@
 - [amirebadi21](https://github.com/amirebadi21)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
-- [samanes11](https://github.com/samanes11)
