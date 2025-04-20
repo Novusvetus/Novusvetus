@@ -22,7 +22,6 @@
 - [mbahomaid](https://github.com/mbahomaid)
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
-- [dev-takhi77](https://github.com/dev-takhi77)
 - [berserkfury](https://github.com/berserkfury)
 - [murapadev](https://github.com/murapadev)
 - [Roohollah81](https://github.com/Roohollah81)
@@ -99,3 +98,4 @@
 - [amirebadi21](https://github.com/amirebadi21)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
+- [samanes11](https://github.com/samanes11)
