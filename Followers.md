@@ -11,7 +11,7 @@
 - [d3v1sh](https://github.com/d3v1sh)
 - [jamesarnold0816](https://github.com/jamesarnold0816)
 - [Peti6inge](https://github.com/Peti6inge)
-- [lustangel](https://github.com/lustangel)
+- [sc5r](https://github.com/sc5r)
 - [Capybara003](https://github.com/Capybara003)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
