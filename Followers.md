@@ -29,7 +29,6 @@
 - [nholuongut](https://github.com/nholuongut)
 - [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 - [snowMan128](https://github.com/snowMan128)
-- [Crazycrystaldev](https://github.com/Crazycrystaldev)
 - [tubakhxn](https://github.com/tubakhxn)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
@@ -99,3 +98,4 @@
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
 - [Ninja1375](https://github.com/Ninja1375)
 - [samanes11](https://github.com/samanes11)
+- [MatthewMacri](https://github.com/MatthewMacri)
