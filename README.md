@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
 - [NotReeceHarris](https://github.com/NotReeceHarris)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
-- [d3v1sh](https://github.com/d3v1sh)
 
 #### 🎢 Stats
 
