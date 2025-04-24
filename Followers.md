@@ -5,7 +5,6 @@
 - [hope-423126](https://github.com/hope-423126)
 - [NotReeceHarris](https://github.com/NotReeceHarris)
 - [0vm](https://github.com/0vm)
-- [itsjomon](https://github.com/itsjomon)
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
@@ -99,3 +98,4 @@
 - [amirebadi21](https://github.com/amirebadi21)
 - [tech-ramakant](https://github.com/tech-ramakant)
 - [rezaghorbanzadeh](https://github.com/rezaghorbanzadeh)
+- [Ninja1375](https://github.com/Ninja1375)

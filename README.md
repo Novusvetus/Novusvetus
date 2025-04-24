@@ -56,10 +56,10 @@ _Nobody sponsors me. I am poor..._
 - [hope-423126](https://github.com/hope-423126)
 - [NotReeceHarris](https://github.com/NotReeceHarris)
 - [0vm](https://github.com/0vm)
-- [itsjomon](https://github.com/itsjomon)
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
+- [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 
 #### 🎢 Stats
 
