@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gambling-addict](https://github.com/gambling-addict)
 - [darkhorse374](https://github.com/darkhorse374)
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [NotReeceHarris](https://github.com/NotReeceHarris)
 - [0vm](https://github.com/0vm)
 - [TopTrenDev](https://github.com/TopTrenDev)
-- [Ballwictb](https://github.com/Ballwictb)
 
 #### 🎢 Stats
 
