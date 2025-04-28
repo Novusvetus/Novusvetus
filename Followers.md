@@ -13,7 +13,7 @@
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 - [d3v1sh](https://github.com/d3v1sh)
-- [jamesarnold0816](https://github.com/jamesarnold0816)
+- [Blockify0](https://github.com/Blockify0)
 - [Peti6inge](https://github.com/Peti6inge)
 - [finl4nd](https://github.com/finl4nd)
 - [Capybara003](https://github.com/Capybara003)
