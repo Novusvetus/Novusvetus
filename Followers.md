@@ -8,7 +8,6 @@
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
-- [NotReeceHarris](https://github.com/NotReeceHarris)
 - [0vm](https://github.com/0vm)
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [Ballwictb](https://github.com/Ballwictb)
@@ -99,3 +98,4 @@
 - [okerun](https://github.com/okerun)
 - [EDGI9](https://github.com/EDGI9)
 - [ilyesw](https://github.com/ilyesw)
+- [3th1K](https://github.com/3th1K)
