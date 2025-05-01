@@ -23,7 +23,6 @@
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
-- [mbahomaid](https://github.com/mbahomaid)
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
 - [HeavenizeSluagh](https://github.com/HeavenizeSluagh)
@@ -99,3 +98,4 @@
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
+- [tech-ramakant](https://github.com/tech-ramakant)
