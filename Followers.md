@@ -1,4 +1,5 @@
 
+- [diaspd](https://github.com/diaspd)
 - [Fifixex](https://github.com/Fifixex)
 - [gambling-addict](https://github.com/gambling-addict)
 - [darkhorse374](https://github.com/darkhorse374)
@@ -98,4 +99,3 @@
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
-- [tech-ramakant](https://github.com/tech-ramakant)
