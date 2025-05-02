@@ -17,7 +17,6 @@
 - [Blockify0](https://github.com/Blockify0)
 - [Peti6inge](https://github.com/Peti6inge)
 - [swuomi](https://github.com/swuomi)
-- [Capybara003](https://github.com/Capybara003)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
 - [devddine](https://github.com/devddine)
@@ -99,3 +98,4 @@
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
+- [tech-ramakant](https://github.com/tech-ramakant)
