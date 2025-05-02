@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [0xAdafang](https://github.com/0xAdafang)
 - [diaspd](https://github.com/diaspd)
 - [Fifixex](https://github.com/Fifixex)
 - [gambling-addict](https://github.com/gambling-addict)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
-- [0vm](https://github.com/0vm)
 
 #### 🎢 Stats
 
