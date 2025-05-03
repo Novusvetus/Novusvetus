@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [0xAdafang](https://github.com/0xAdafang)
 - [diaspd](https://github.com/diaspd)
-- [Fifixex](https://github.com/Fifixex)
 - [gambling-addict](https://github.com/gambling-addict)
 - [darkhorse374](https://github.com/darkhorse374)
 - [hanzla-sib](https://github.com/hanzla-sib)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
+- [0vm](https://github.com/0vm)
 
 #### 🎢 Stats
 
