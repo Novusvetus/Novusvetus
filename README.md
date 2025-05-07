@@ -53,13 +53,13 @@ _Nobody sponsors me. I am poor..._
 - [freestardev711](https://github.com/freestardev711)
 - [alejyoo](https://github.com/alejyoo)
 - [0xAdafang](https://github.com/0xAdafang)
-- [diaspd](https://github.com/diaspd)
 - [gambling-addict](https://github.com/gambling-addict)
 - [darkhorse374](https://github.com/darkhorse374)
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
+- [hope-423126](https://github.com/hope-423126)
 
 #### 🎢 Stats
 
