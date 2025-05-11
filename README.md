@@ -50,10 +50,10 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [0xAdafang](https://github.com/0xAdafang)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
 - [ZenXen7](https://github.com/ZenXen7)
 - [alejyoo](https://github.com/alejyoo)
-- [0xAdafang](https://github.com/0xAdafang)
 - [gambling-addict](https://github.com/gambling-addict)
 - [darkhorse374](https://github.com/darkhorse374)
 - [hanzla-sib](https://github.com/hanzla-sib)
