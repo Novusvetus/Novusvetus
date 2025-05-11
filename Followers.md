@@ -1,4 +1,6 @@
 
+- [kh-mahmoud](https://github.com/kh-mahmoud)
+- [ZenXen7](https://github.com/ZenXen7)
 - [alejyoo](https://github.com/alejyoo)
 - [0xAdafang](https://github.com/0xAdafang)
 - [gambling-addict](https://github.com/gambling-addict)
@@ -97,5 +99,3 @@
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
-- [tech-ramakant](https://github.com/tech-ramakant)
-- [Ninja1375](https://github.com/Ninja1375)

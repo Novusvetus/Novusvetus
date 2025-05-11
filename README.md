@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [kh-mahmoud](https://github.com/kh-mahmoud)
+- [ZenXen7](https://github.com/ZenXen7)
 - [alejyoo](https://github.com/alejyoo)
 - [0xAdafang](https://github.com/0xAdafang)
 - [gambling-addict](https://github.com/gambling-addict)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
-- [hope-423126](https://github.com/hope-423126)
-- [TopTrenDev](https://github.com/TopTrenDev)
 
 #### 🎢 Stats
 
