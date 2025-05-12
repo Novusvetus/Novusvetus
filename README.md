@@ -55,11 +55,11 @@ _Nobody sponsors me. I am poor..._
 - [ZenXen7](https://github.com/ZenXen7)
 - [alejyoo](https://github.com/alejyoo)
 - [gambling-addict](https://github.com/gambling-addict)
-- [darkhorse374](https://github.com/darkhorse374)
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
+- [hope-423126](https://github.com/hope-423126)
 
 #### 🎢 Stats
 
