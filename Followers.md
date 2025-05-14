@@ -1,4 +1,5 @@
 
+- [serkantolga](https://github.com/serkantolga)
 - [vikram-singh9](https://github.com/vikram-singh9)
 - [0xAdafang](https://github.com/0xAdafang)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
@@ -98,4 +99,3 @@
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
-- [tech-ramakant](https://github.com/tech-ramakant)
