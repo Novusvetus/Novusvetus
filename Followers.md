@@ -1,4 +1,5 @@
 
+- [mbitujames](https://github.com/mbitujames)
 - [bar-echa](https://github.com/bar-echa)
 - [serkantolga](https://github.com/serkantolga)
 - [vikram-singh9](https://github.com/vikram-singh9)
@@ -98,4 +99,3 @@
 - [okerun](https://github.com/okerun)
 - [EDGI9](https://github.com/EDGI9)
 - [ilyesw](https://github.com/ilyesw)
-- [3th1K](https://github.com/3th1K)

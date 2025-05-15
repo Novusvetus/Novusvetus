@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mbitujames](https://github.com/mbitujames)
 - [bar-echa](https://github.com/bar-echa)
 - [serkantolga](https://github.com/serkantolga)
 - [vikram-singh9](https://github.com/vikram-singh9)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [gambling-addict](https://github.com/gambling-addict)
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
-- [crypto0402](https://github.com/crypto0402)
 
 #### 🎢 Stats
 
