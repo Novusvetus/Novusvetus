@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Motaman-M](https://github.com/Motaman-M)
 - [iidmsa](https://github.com/iidmsa)
 - [mbitujames](https://github.com/mbitujames)
 - [bar-echa](https://github.com/bar-echa)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [kh-mahmoud](https://github.com/kh-mahmoud)
 - [alejyoo](https://github.com/alejyoo)
 - [gambling-addict](https://github.com/gambling-addict)
-- [hanzla-sib](https://github.com/hanzla-sib)
 
 #### 🎢 Stats
 
