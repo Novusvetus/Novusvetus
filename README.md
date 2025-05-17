@@ -55,11 +55,11 @@ _Nobody sponsors me. I am poor..._
 - [mbitujames](https://github.com/mbitujames)
 - [bar-echa](https://github.com/bar-echa)
 - [vikram-singh9](https://github.com/vikram-singh9)
-- [0xAdafang](https://github.com/0xAdafang)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
 - [alejyoo](https://github.com/alejyoo)
 - [gambling-addict](https://github.com/gambling-addict)
 - [hanzla-sib](https://github.com/hanzla-sib)
+- [Abdelwahdn](https://github.com/Abdelwahdn)
 
 #### 🎢 Stats
 

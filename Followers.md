@@ -4,7 +4,6 @@
 - [mbitujames](https://github.com/mbitujames)
 - [bar-echa](https://github.com/bar-echa)
 - [vikram-singh9](https://github.com/vikram-singh9)
-- [0xAdafang](https://github.com/0xAdafang)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
 - [alejyoo](https://github.com/alejyoo)
 - [gambling-addict](https://github.com/gambling-addict)
@@ -99,3 +98,4 @@
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [okerun](https://github.com/okerun)
 - [EDGI9](https://github.com/EDGI9)
+- [ilyesw](https://github.com/ilyesw)
