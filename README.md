@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [Motaman-M](https://github.com/Motaman-M)
 - [iidmsa](https://github.com/iidmsa)
-- [mbitujames](https://github.com/mbitujames)
 - [bar-echa](https://github.com/bar-echa)
 - [vikram-singh9](https://github.com/vikram-singh9)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
+- [anthonycancelled](https://github.com/anthonycancelled)
 
 #### 🎢 Stats
 
