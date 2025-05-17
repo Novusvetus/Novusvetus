@@ -5,7 +5,6 @@
 - [bar-echa](https://github.com/bar-echa)
 - [vikram-singh9](https://github.com/vikram-singh9)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
-- [alejyoo](https://github.com/alejyoo)
 - [gambling-addict](https://github.com/gambling-addict)
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
@@ -99,3 +98,4 @@
 - [okerun](https://github.com/okerun)
 - [EDGI9](https://github.com/EDGI9)
 - [ilyesw](https://github.com/ilyesw)
+- [3th1K](https://github.com/3th1K)
