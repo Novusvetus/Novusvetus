@@ -1,6 +1,5 @@
 
 - [Motaman-M](https://github.com/Motaman-M)
-- [iidmsa](https://github.com/iidmsa)
 - [bar-echa](https://github.com/bar-echa)
 - [vikram-singh9](https://github.com/vikram-singh9)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
@@ -52,7 +51,7 @@
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
-- [ls7co](https://github.com/ls7co)
+- [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
@@ -99,3 +98,4 @@
 - [ilyesw](https://github.com/ilyesw)
 - [3th1K](https://github.com/3th1K)
 - [amirebadi21](https://github.com/amirebadi21)
+- [tech-ramakant](https://github.com/tech-ramakant)

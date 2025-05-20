@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [Motaman-M](https://github.com/Motaman-M)
-- [iidmsa](https://github.com/iidmsa)
 - [bar-echa](https://github.com/bar-echa)
 - [vikram-singh9](https://github.com/vikram-singh9)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
+- [hope-423126](https://github.com/hope-423126)
 
 #### 🎢 Stats
 
