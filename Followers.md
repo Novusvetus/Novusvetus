@@ -1,4 +1,5 @@
 
+- [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [Sawi78112](https://github.com/Sawi78112)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
@@ -98,4 +99,3 @@
 - [MaryamFereidooni](https://github.com/MaryamFereidooni)
 - [okerun](https://github.com/okerun)
 - [EDGI9](https://github.com/EDGI9)
-- [ilyesw](https://github.com/ilyesw)

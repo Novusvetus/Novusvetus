@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [Sawi78112](https://github.com/Sawi78112)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [kh-mahmoud](https://github.com/kh-mahmoud)
 - [gambling-addict](https://github.com/gambling-addict)
 - [hanzla-sib](https://github.com/hanzla-sib)
-- [Abdelwahdn](https://github.com/Abdelwahdn)
 
 #### 🎢 Stats
 
