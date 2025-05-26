@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [sinha-19](https://github.com/sinha-19)
 - [karmapoIice](https://github.com/karmapoIice)
 - [filedonkey](https://github.com/filedonkey)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Motaman-M](https://github.com/Motaman-M)
 - [bar-echa](https://github.com/bar-echa)
-- [vikram-singh9](https://github.com/vikram-singh9)
 
 #### 🎢 Stats
 
