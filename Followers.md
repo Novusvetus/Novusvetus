@@ -5,7 +5,6 @@
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
-- [Sawi78112](https://github.com/Sawi78112)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Motaman-M](https://github.com/Motaman-M)
 - [bar-echa](https://github.com/bar-echa)
@@ -99,3 +98,4 @@
 - [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
 - [djvelimir](https://github.com/djvelimir)
+- [Benjamin-cup](https://github.com/Benjamin-cup)

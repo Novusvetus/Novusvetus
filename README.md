@@ -56,10 +56,10 @@ _Nobody sponsors me. I am poor..._
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [Lincoln-Madaraka](https://github.com/Lincoln-Madaraka)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
-- [Sawi78112](https://github.com/Sawi78112)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Motaman-M](https://github.com/Motaman-M)
 - [bar-echa](https://github.com/bar-echa)
+- [vikram-singh9](https://github.com/vikram-singh9)
 
 #### 🎢 Stats
 
