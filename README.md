@@ -54,12 +54,12 @@ _Nobody sponsors me. I am poor..._
 - [marichu-kt](https://github.com/marichu-kt)
 - [will97331](https://github.com/will97331)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
-- [sinha-19](https://github.com/sinha-19)
 - [karmapoIice](https://github.com/karmapoIice)
 - [filedonkey](https://github.com/filedonkey)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
+- [Motaman-M](https://github.com/Motaman-M)
 
 #### 🎢 Stats
 
