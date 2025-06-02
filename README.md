@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [MonoPX](https://github.com/MonoPX)
-- [marichu-kt](https://github.com/marichu-kt)
 - [will97331](https://github.com/will97331)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [karmapoIice](https://github.com/karmapoIice)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Motaman-M](https://github.com/Motaman-M)
+- [bar-echa](https://github.com/bar-echa)
 
 #### 🎢 Stats
 

@@ -1,6 +1,5 @@
 
 - [MonoPX](https://github.com/MonoPX)
-- [marichu-kt](https://github.com/marichu-kt)
 - [will97331](https://github.com/will97331)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [karmapoIice](https://github.com/karmapoIice)
@@ -99,3 +98,4 @@
 - [standardgalactic](https://github.com/standardgalactic)
 - [yyle88](https://github.com/yyle88)
 - [SpiritMark](https://github.com/SpiritMark)
+- [djvelimir](https://github.com/djvelimir)
