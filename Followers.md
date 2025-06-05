@@ -19,7 +19,6 @@
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
-- [TopTrenDev](https://github.com/TopTrenDev)
 - [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
@@ -99,3 +98,4 @@
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
 - [yyle88](https://github.com/yyle88)
+- [SpiritMark](https://github.com/SpiritMark)
