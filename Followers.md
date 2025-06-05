@@ -1,4 +1,5 @@
 
+- [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
 - [MonoPX](https://github.com/MonoPX)
@@ -98,4 +99,3 @@
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
 - [yyle88](https://github.com/yyle88)
-- [SpiritMark](https://github.com/SpiritMark)

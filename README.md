@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
 - [MonoPX](https://github.com/MonoPX)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [filedonkey](https://github.com/filedonkey)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
-- [AmirPeyravan](https://github.com/AmirPeyravan)
 
 #### 🎢 Stats
 
