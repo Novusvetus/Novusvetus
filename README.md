@@ -53,13 +53,13 @@ _Nobody sponsors me. I am poor..._
 - [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
-- [MonoPX](https://github.com/MonoPX)
 - [will97331](https://github.com/will97331)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
+- [Motaman-M](https://github.com/Motaman-M)
 
 #### 🎢 Stats
 
