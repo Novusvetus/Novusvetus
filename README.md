@@ -52,7 +52,7 @@ _Nobody sponsors me. I am poor..._
 
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
-- [I-Am-Shimanto](https://github.com/I-Am-Shimanto)
+- [iamShimanto](https://github.com/iamShimanto)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
 - [will97331](https://github.com/will97331)
