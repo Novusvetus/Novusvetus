@@ -1,7 +1,6 @@
 
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
-- [iamShimanto](https://github.com/iamShimanto)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
 - [will97331](https://github.com/will97331)
@@ -99,3 +98,4 @@
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
+- [yyle88](https://github.com/yyle88)

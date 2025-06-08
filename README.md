@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
-- [iamShimanto](https://github.com/iamShimanto)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
 - [will97331](https://github.com/will97331)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
+- [AmirPeyravan](https://github.com/AmirPeyravan)
 
 #### 🎢 Stats
 
