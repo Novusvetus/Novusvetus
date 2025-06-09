@@ -1,4 +1,5 @@
 
+- [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [marichu-kt](https://github.com/marichu-kt)
@@ -98,4 +99,3 @@
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
 - [iroot3](https://github.com/iroot3)
 - [standardgalactic](https://github.com/standardgalactic)
-- [yyle88](https://github.com/yyle88)

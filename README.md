@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [marichu-kt](https://github.com/marichu-kt)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
-- [AmirPeyravan](https://github.com/AmirPeyravan)
 
 #### 🎢 Stats
 
