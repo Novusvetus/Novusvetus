@@ -1,4 +1,5 @@
 
+- [rosem-coder](https://github.com/rosem-coder)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
@@ -98,4 +99,3 @@
 - [saloskilo](https://github.com/saloskilo)
 - [mooosakhan](https://github.com/mooosakhan)
 - [MelikaRezazadeh](https://github.com/MelikaRezazadeh)
-- [iroot3](https://github.com/iroot3)

@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [rosem-coder](https://github.com/rosem-coder)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [will97331](https://github.com/will97331)
 - [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [karmapoIice](https://github.com/karmapoIice)
-- [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 
 #### 🎢 Stats
 
