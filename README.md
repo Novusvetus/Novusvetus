@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
-- [will97331](https://github.com/will97331)
 
 #### 🎢 Stats
 

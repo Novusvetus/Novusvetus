@@ -1,4 +1,5 @@
 
+- [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
@@ -98,4 +99,3 @@
 - [itsKayWat](https://github.com/itsKayWat)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
 - [tryevertthhub](https://github.com/tryevertthhub)
-- [saloskilo](https://github.com/saloskilo)
