@@ -1,4 +1,5 @@
 
+- [sinha-19](https://github.com/sinha-19)
 - [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
@@ -98,4 +99,3 @@
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
 - [itsKayWat](https://github.com/itsKayWat)
 - [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
-- [tryevertthhub](https://github.com/tryevertthhub)
