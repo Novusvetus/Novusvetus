@@ -38,7 +38,6 @@
 - [parasociaI](https://github.com/parasociaI)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
-- [devddine](https://github.com/devddine)
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
@@ -99,3 +98,4 @@
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
+- [itsKayWat](https://github.com/itsKayWat)
