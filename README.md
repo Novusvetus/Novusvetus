@@ -57,9 +57,9 @@ _Nobody sponsors me. I am poor..._
 - [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
+- [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 
 #### 🎢 Stats
 

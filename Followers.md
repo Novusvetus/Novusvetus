@@ -6,7 +6,6 @@
 - [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
@@ -99,3 +98,4 @@
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
 - [itsKayWat](https://github.com/itsKayWat)
+- [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
