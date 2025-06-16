@@ -35,7 +35,7 @@
 - [d3v1sh](https://github.com/d3v1sh)
 - [Blockify0](https://github.com/Blockify0)
 - [Peti6inge](https://github.com/Peti6inge)
-- [parasociaI](https://github.com/parasociaI)
+- [carnaI](https://github.com/carnaI)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
 - [nullptrException100](https://github.com/nullptrException100)
