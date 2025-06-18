@@ -1,6 +1,5 @@
 
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
-- [devspidr](https://github.com/devspidr)
 - [nelbetancur](https://github.com/nelbetancur)
 - [sinha-19](https://github.com/sinha-19)
 - [chirsdav](https://github.com/chirsdav)
@@ -99,3 +98,4 @@
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
 - [itsKayWat](https://github.com/itsKayWat)
+- [Ravi-Dahiya-00](https://github.com/Ravi-Dahiya-00)
