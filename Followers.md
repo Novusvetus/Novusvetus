@@ -1,4 +1,5 @@
 
+- [madara1793](https://github.com/madara1793)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [nelbetancur](https://github.com/nelbetancur)
 - [sinha-19](https://github.com/sinha-19)
@@ -28,7 +29,6 @@
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
 - [TopTrenDev](https://github.com/TopTrenDev)
-- [Ballwictb](https://github.com/Ballwictb)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 - [d3v1sh](https://github.com/d3v1sh)
