@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [devddine](https://github.com/devddine)
 - [madara1793](https://github.com/madara1793)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [nelbetancur](https://github.com/nelbetancur)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
-- [cepseu1](https://github.com/cepseu1)
 
 #### 🎢 Stats
 
