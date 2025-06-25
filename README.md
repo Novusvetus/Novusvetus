@@ -53,13 +53,13 @@ _Nobody sponsors me. I am poor..._
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [devddine](https://github.com/devddine)
 - [madara1793](https://github.com/madara1793)
+- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [nelbetancur](https://github.com/nelbetancur)
 - [sinha-19](https://github.com/sinha-19)
 - [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
-- [yosuke-kuroki](https://github.com/yosuke-kuroki)
 
 #### 🎢 Stats
 
