@@ -1,4 +1,5 @@
 
+- [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [devddine](https://github.com/devddine)
 - [madara1793](https://github.com/madara1793)
@@ -98,4 +99,3 @@
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
-- [Anonymous1223334444](https://github.com/Anonymous1223334444)
