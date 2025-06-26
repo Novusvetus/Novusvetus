@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [18KRedApple](https://github.com/18KRedApple)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [devddine](https://github.com/devddine)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [sinha-19](https://github.com/sinha-19)
 - [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
-- [lucaboca82](https://github.com/lucaboca82)
 
 #### 🎢 Stats
 
