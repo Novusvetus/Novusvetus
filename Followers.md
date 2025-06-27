@@ -3,7 +3,6 @@
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [devddine](https://github.com/devddine)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [nelbetancur](https://github.com/nelbetancur)
 - [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
@@ -99,3 +98,4 @@
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
+- [itsKayWat](https://github.com/itsKayWat)
