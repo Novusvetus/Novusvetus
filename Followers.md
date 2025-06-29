@@ -1,4 +1,5 @@
 
+- [WaRtr0](https://github.com/WaRtr0)
 - [18KRedApple](https://github.com/18KRedApple)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
@@ -98,4 +99,3 @@
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
 - [Anonymous1223334444](https://github.com/Anonymous1223334444)
-- [itsKayWat](https://github.com/itsKayWat)
