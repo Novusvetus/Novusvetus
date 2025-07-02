@@ -1,4 +1,5 @@
 
+- [oluiscabral](https://github.com/oluiscabral)
 - [tpgusgh](https://github.com/tpgusgh)
 - [WaRtr0](https://github.com/WaRtr0)
 - [18KRedApple](https://github.com/18KRedApple)
@@ -98,4 +99,3 @@
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
-- [wintunmmocc](https://github.com/wintunmmocc)
