@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [khemssharma](https://github.com/khemssharma)
 - [oluiscabral](https://github.com/oluiscabral)
 - [tpgusgh](https://github.com/tpgusgh)
 - [WaRtr0](https://github.com/WaRtr0)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [devddine](https://github.com/devddine)
 - [nelbetancur](https://github.com/nelbetancur)
 - [chirsdav](https://github.com/chirsdav)
+- [buraksocial](https://github.com/buraksocial)
 
 #### 🎢 Stats
 
