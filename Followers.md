@@ -27,7 +27,6 @@
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Motaman-M](https://github.com/Motaman-M)
 - [bar-echa](https://github.com/bar-echa)
-- [vikram-singh9](https://github.com/vikram-singh9)
 - [kh-mahmoud](https://github.com/kh-mahmoud)
 - [gambling-addict](https://github.com/gambling-addict)
 - [hanzla-sib](https://github.com/hanzla-sib)
@@ -99,3 +98,4 @@
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [AbMosawerWadan](https://github.com/AbMosawerWadan)
+- [Kishankumar1328](https://github.com/Kishankumar1328)
