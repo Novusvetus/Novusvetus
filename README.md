@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [siddhantshukla108](https://github.com/siddhantshukla108)
 - [milksense](https://github.com/milksense)
 - [lucasqatech](https://github.com/lucasqatech)
 - [sinha-19](https://github.com/sinha-19)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [18KRedApple](https://github.com/18KRedApple)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
-- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
