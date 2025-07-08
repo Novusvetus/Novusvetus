@@ -1,4 +1,5 @@
 
+- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [milksense](https://github.com/milksense)
 - [lucasqatech](https://github.com/lucasqatech)
@@ -6,7 +7,7 @@
 - [holasoymalva](https://github.com/holasoymalva)
 - [oluiscabral](https://github.com/oluiscabral)
 - [WaRtr0](https://github.com/WaRtr0)
-- [18KRedApple](https://github.com/18KRedApple)
+- [mateoguerra0315](https://github.com/mateoguerra0315)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [devddine](https://github.com/devddine)
@@ -98,4 +99,3 @@
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
-- [AbMosawerWadan](https://github.com/AbMosawerWadan)
