@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [BJNFNE](https://github.com/BJNFNE)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [milksense](https://github.com/milksense)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [oluiscabral](https://github.com/oluiscabral)
 - [WaRtr0](https://github.com/WaRtr0)
 - [mateoguerra0315](https://github.com/mateoguerra0315)
-- [huzgrx](https://github.com/huzgrx)
 
 #### 🎢 Stats
 
