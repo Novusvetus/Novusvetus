@@ -1,4 +1,5 @@
 
+- [Lyne6666](https://github.com/Lyne6666)
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
 - [Vimaser](https://github.com/Vimaser)
@@ -98,4 +99,3 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
-- [oliviawilson2003](https://github.com/oliviawilson2003)

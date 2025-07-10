@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Lyne6666](https://github.com/Lyne6666)
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
 - [Vimaser](https://github.com/Vimaser)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [lucasqatech](https://github.com/lucasqatech)
 - [sinha-19](https://github.com/sinha-19)
 - [holasoymalva](https://github.com/holasoymalva)
-- [oluiscabral](https://github.com/oluiscabral)
 
 #### 🎢 Stats
 
