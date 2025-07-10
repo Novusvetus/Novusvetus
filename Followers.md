@@ -61,6 +61,7 @@
 - [nholuongut](https://github.com/nholuongut)
 - [SaadAbdElGhaffar](https://github.com/SaadAbdElGhaffar)
 - [snowMan128](https://github.com/snowMan128)
+- [tubakhxn](https://github.com/tubakhxn)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
@@ -98,4 +99,3 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
