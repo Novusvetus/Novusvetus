@@ -55,11 +55,11 @@ _Nobody sponsors me. I am poor..._
 - [Fadhaa](https://github.com/Fadhaa)
 - [Vimaser](https://github.com/Vimaser)
 - [BJNFNE](https://github.com/BJNFNE)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasqatech](https://github.com/lucasqatech)
 - [sinha-19](https://github.com/sinha-19)
 - [holasoymalva](https://github.com/holasoymalva)
+- [oluiscabral](https://github.com/oluiscabral)
 
 #### 🎢 Stats
 

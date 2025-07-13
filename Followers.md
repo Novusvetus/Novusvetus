@@ -4,7 +4,6 @@
 - [Fadhaa](https://github.com/Fadhaa)
 - [Vimaser](https://github.com/Vimaser)
 - [BJNFNE](https://github.com/BJNFNE)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasqatech](https://github.com/lucasqatech)
 - [sinha-19](https://github.com/sinha-19)
@@ -99,3 +98,4 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
+- [ezadin2](https://github.com/ezadin2)
