@@ -57,9 +57,9 @@ _Nobody sponsors me. I am poor..._
 - [BJNFNE](https://github.com/BJNFNE)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasqatech](https://github.com/lucasqatech)
-- [sinha-19](https://github.com/sinha-19)
 - [holasoymalva](https://github.com/holasoymalva)
 - [oluiscabral](https://github.com/oluiscabral)
+- [WaRtr0](https://github.com/WaRtr0)
 
 #### 🎢 Stats
 
