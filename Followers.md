@@ -13,7 +13,6 @@
 - [mateoguerra0315](https://github.com/mateoguerra0315)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
-- [devddine](https://github.com/devddine)
 - [nelbetancur](https://github.com/nelbetancur)
 - [chirsdav](https://github.com/chirsdav)
 - [buraksocial](https://github.com/buraksocial)
@@ -99,3 +98,4 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
+- [oliviawilson2003](https://github.com/oliviawilson2003)
