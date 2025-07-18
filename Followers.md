@@ -1,4 +1,5 @@
 
+- [devddine](https://github.com/devddine)
 - [FariaScripters](https://github.com/FariaScripters)
 - [Kintomon](https://github.com/Kintomon)
 - [osmanx8](https://github.com/osmanx8)
@@ -98,4 +99,3 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
