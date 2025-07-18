@@ -59,7 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [Vimaser](https://github.com/Vimaser)
 - [BJNFNE](https://github.com/BJNFNE)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
-- [lucasqatech](https://github.com/lucasqatech)
+- [lucasdcg](https://github.com/lucasdcg)
 
 #### 🎢 Stats
 

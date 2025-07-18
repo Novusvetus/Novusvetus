@@ -8,7 +8,7 @@
 - [Vimaser](https://github.com/Vimaser)
 - [BJNFNE](https://github.com/BJNFNE)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
-- [lucasqatech](https://github.com/lucasqatech)
+- [lucasdcg](https://github.com/lucasdcg)
 - [holasoymalva](https://github.com/holasoymalva)
 - [oluiscabral](https://github.com/oluiscabral)
 - [WaRtr0](https://github.com/WaRtr0)
