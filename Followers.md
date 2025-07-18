@@ -26,7 +26,6 @@
 - [marichu-kt](https://github.com/marichu-kt)
 - [mbahomaid](https://github.com/mbahomaid)
 - [will97331](https://github.com/will97331)
-- [mukeshlilawat1](https://github.com/mukeshlilawat1)
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
 - [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
@@ -99,3 +98,4 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
+- [ezadin2](https://github.com/ezadin2)
