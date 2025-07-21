@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
 - [XiaomingX](https://github.com/XiaomingX)
 - [devddine](https://github.com/devddine)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Lyne6666](https://github.com/Lyne6666)
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
-- [Vimaser](https://github.com/Vimaser)
 
 #### 🎢 Stats
 

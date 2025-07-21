@@ -1,4 +1,5 @@
 
+- [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
 - [XiaomingX](https://github.com/XiaomingX)
 - [devddine](https://github.com/devddine)
@@ -98,4 +99,3 @@
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
-- [AnitaSobhanian](https://github.com/AnitaSobhanian)
