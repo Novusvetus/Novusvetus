@@ -1,4 +1,5 @@
 
+- [prince0xdev](https://github.com/prince0xdev)
 - [XiaomingX](https://github.com/XiaomingX)
 - [devddine](https://github.com/devddine)
 - [FariaScripters](https://github.com/FariaScripters)
@@ -98,4 +99,3 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
-- [LinuxPath](https://github.com/LinuxPath)
