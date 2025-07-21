@@ -13,7 +13,6 @@
 - [BJNFNE](https://github.com/BJNFNE)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasdcg](https://github.com/lucasdcg)
-- [holasoymalva](https://github.com/holasoymalva)
 - [oluiscabral](https://github.com/oluiscabral)
 - [WaRtr0](https://github.com/WaRtr0)
 - [mateoguerra0315](https://github.com/mateoguerra0315)
@@ -99,3 +98,4 @@
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
+- [AnitaSobhanian](https://github.com/AnitaSobhanian)
