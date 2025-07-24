@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Kintomon](https://github.com/Kintomon)
 - [osmanx8](https://github.com/osmanx8)
 - [Lyne6666](https://github.com/Lyne6666)
-- [heinodendal](https://github.com/heinodendal)
 
 #### 🎢 Stats
 

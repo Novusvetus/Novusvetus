@@ -1,4 +1,5 @@
 
+- [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
@@ -98,4 +99,3 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
-- [Chitus](https://github.com/Chitus)
