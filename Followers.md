@@ -29,7 +29,6 @@
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [marichu-kt](https://github.com/marichu-kt)
-- [mbahomaid](https://github.com/mbahomaid)
 - [will97331](https://github.com/will97331)
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
