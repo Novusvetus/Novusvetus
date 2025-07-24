@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ewhu](https://github.com/ewhu)
 - [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [azuk4r](https://github.com/azuk4r)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [FariaScripters](https://github.com/FariaScripters)
 - [Kintomon](https://github.com/Kintomon)
 - [osmanx8](https://github.com/osmanx8)
-- [Lyne6666](https://github.com/Lyne6666)
 
 #### 🎢 Stats
 
