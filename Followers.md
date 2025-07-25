@@ -34,7 +34,6 @@
 - [will97331](https://github.com/will97331)
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
-- [EnigmaGlimmer](https://github.com/EnigmaGlimmer)
 - [AmirPeyravan](https://github.com/AmirPeyravan)
 - [Motaman-M](https://github.com/Motaman-M)
 - [bar-echa](https://github.com/bar-echa)
@@ -99,3 +98,4 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
+- [kayukeee](https://github.com/kayukeee)
