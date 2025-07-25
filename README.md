@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [WilliamMajanja](https://github.com/WilliamMajanja)
 - [sagarregmi2056](https://github.com/sagarregmi2056)
 - [ewhu](https://github.com/ewhu)
 - [thornebaker](https://github.com/thornebaker)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [XiaomingX](https://github.com/XiaomingX)
 - [devddine](https://github.com/devddine)
 - [FariaScripters](https://github.com/FariaScripters)
-- [Kintomon](https://github.com/Kintomon)
 
 #### 🎢 Stats
 
