@@ -1,4 +1,5 @@
 
+- [marcmotta](https://github.com/marcmotta)
 - [codewithdhruba01](https://github.com/codewithdhruba01)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [sagarregmi2056](https://github.com/sagarregmi2056)
@@ -98,4 +99,3 @@
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
-- [whitenight-eco](https://github.com/whitenight-eco)
