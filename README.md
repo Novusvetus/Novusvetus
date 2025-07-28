@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [aladinxyz](https://github.com/aladinxyz)
 - [AymaneMehdi](https://github.com/AymaneMehdi)
 - [marcmotta](https://github.com/marcmotta)
 - [codewithdhruba01](https://github.com/codewithdhruba01)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [azuk4r](https://github.com/azuk4r)
-- [prince0xdev](https://github.com/prince0xdev)
 
 #### 🎢 Stats
 
