@@ -1,4 +1,5 @@
 
+- [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
 - [AymaneMehdi](https://github.com/AymaneMehdi)
@@ -98,4 +99,3 @@
 - [DIMFLIX](https://github.com/DIMFLIX)
 - [mig1023](https://github.com/mig1023)
 - [aburraspace](https://github.com/aburraspace)
-- [tanishq-ctrl](https://github.com/tanishq-ctrl)
