@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 - [syedahirafatima](https://github.com/syedahirafatima)
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [sagarregmi2056](https://github.com/sagarregmi2056)
 - [thornebaker](https://github.com/thornebaker)
-- [Deveshshukla36](https://github.com/Deveshshukla36)
 
 #### 🎢 Stats
 
