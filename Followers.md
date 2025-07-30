@@ -1,4 +1,5 @@
 
+- [syedahirafatima](https://github.com/syedahirafatima)
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
@@ -6,7 +7,6 @@
 - [codewithdhruba01](https://github.com/codewithdhruba01)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [sagarregmi2056](https://github.com/sagarregmi2056)
-- [ewhu](https://github.com/ewhu)
 - [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [azuk4r](https://github.com/azuk4r)
