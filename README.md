@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
 - [Shinbatsu](https://github.com/Shinbatsu)
 - [Dragon0513](https://github.com/Dragon0513)
 - [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [aladinxyz](https://github.com/aladinxyz)
 - [AymaneMehdi](https://github.com/AymaneMehdi)
 - [codewithdhruba01](https://github.com/codewithdhruba01)
-- [WilliamMajanja](https://github.com/WilliamMajanja)
 
 #### 🎢 Stats
 
