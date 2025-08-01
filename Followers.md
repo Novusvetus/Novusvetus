@@ -16,7 +16,6 @@
 - [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
 - [XiaomingX](https://github.com/XiaomingX)
-- [devddine](https://github.com/devddine)
 - [FariaScripters](https://github.com/FariaScripters)
 - [Kintomon](https://github.com/Kintomon)
 - [osmanx8](https://github.com/osmanx8)
@@ -99,3 +98,4 @@
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [K1rsN7](https://github.com/K1rsN7)
+- [cfrBernard](https://github.com/cfrBernard)
