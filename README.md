@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
 - [Shinbatsu](https://github.com/Shinbatsu)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
-- [AymaneMehdi](https://github.com/AymaneMehdi)
 
 #### 🎢 Stats
 

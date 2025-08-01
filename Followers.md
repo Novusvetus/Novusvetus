@@ -1,4 +1,5 @@
 
+- [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
 - [Shinbatsu](https://github.com/Shinbatsu)
@@ -98,4 +99,3 @@
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
-- [K1rsN7](https://github.com/K1rsN7)
