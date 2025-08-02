@@ -1,4 +1,5 @@
 
+- [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
 - [leo-lem](https://github.com/leo-lem)
 - [devddine](https://github.com/devddine)
@@ -98,4 +99,3 @@
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
-- [hamxy](https://github.com/hamxy)

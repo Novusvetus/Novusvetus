@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
 - [leo-lem](https://github.com/leo-lem)
 - [devddine](https://github.com/devddine)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Dragon0513](https://github.com/Dragon0513)
 - [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 - [syedahirafatima](https://github.com/syedahirafatima)
-- [chmpX](https://github.com/chmpX)
 
 #### 🎢 Stats
 
