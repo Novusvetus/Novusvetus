@@ -1,4 +1,6 @@
 
+- [AhmadTigress](https://github.com/AhmadTigress)
+- [ludo53](https://github.com/ludo53)
 - [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
 - [leo-lem](https://github.com/leo-lem)
@@ -97,5 +99,3 @@
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
-- [niushaghavamii](https://github.com/niushaghavamii)
-- [thelabmde](https://github.com/thelabmde)

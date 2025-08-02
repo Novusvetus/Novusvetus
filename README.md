@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AhmadTigress](https://github.com/AhmadTigress)
+- [ludo53](https://github.com/ludo53)
 - [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
 - [leo-lem](https://github.com/leo-lem)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
 - [Shinbatsu](https://github.com/Shinbatsu)
 - [Dragon0513](https://github.com/Dragon0513)
-- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
-- [syedahirafatima](https://github.com/syedahirafatima)
 
 #### 🎢 Stats
 
