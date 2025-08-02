@@ -1,4 +1,5 @@
 
+- [leo-lem](https://github.com/leo-lem)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
@@ -98,4 +99,3 @@
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
-- [Geek-Bunny](https://github.com/Geek-Bunny)
