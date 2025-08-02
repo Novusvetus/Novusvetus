@@ -57,9 +57,9 @@ _Nobody sponsors me. I am poor..._
 - [leo-lem](https://github.com/leo-lem)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
-- [mdrijoanmaruf](https://github.com/mdrijoanmaruf)
 - [Shinbatsu](https://github.com/Shinbatsu)
 - [Dragon0513](https://github.com/Dragon0513)
+- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 
 #### 🎢 Stats
 
