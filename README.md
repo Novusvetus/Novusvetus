@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [AbdullahRashid133](https://github.com/AbdullahRashid133)
 - [gary111868](https://github.com/gary111868)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [ludo53](https://github.com/ludo53)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Shinbatsu](https://github.com/Shinbatsu)
-- [Dragon0513](https://github.com/Dragon0513)
 
 #### 🎢 Stats
 
