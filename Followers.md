@@ -1,4 +1,6 @@
 
+- [EminHaziyev](https://github.com/EminHaziyev)
+- [xgek](https://github.com/xgek)
 - [AbdullahRashid133](https://github.com/AbdullahRashid133)
 - [gary111868](https://github.com/gary111868)
 - [AhmadTigress](https://github.com/AhmadTigress)
@@ -97,5 +99,3 @@
 - [madhavaprmr](https://github.com/madhavaprmr)
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
-- [pinhe91](https://github.com/pinhe91)
-- [reid-harrisson](https://github.com/reid-harrisson)
