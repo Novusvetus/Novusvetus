@@ -1,4 +1,5 @@
 
+- [Coralnws](https://github.com/Coralnws)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [xgek](https://github.com/xgek)
 - [AbdullahRashid133](https://github.com/AbdullahRashid133)
@@ -98,4 +99,3 @@
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [pinhe91](https://github.com/pinhe91)
-- [reid-harrisson](https://github.com/reid-harrisson)

@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Coralnws](https://github.com/Coralnws)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [xgek](https://github.com/xgek)
 - [AbdullahRashid133](https://github.com/AbdullahRashid133)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
 - [leo-lem](https://github.com/leo-lem)
-- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
