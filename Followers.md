@@ -25,7 +25,6 @@
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
-- [XiaomingX](https://github.com/XiaomingX)
 - [FariaScripters](https://github.com/FariaScripters)
 - [osmanx8](https://github.com/osmanx8)
 - [Lyne6666](https://github.com/Lyne6666)
@@ -99,3 +98,4 @@
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [pinhe91](https://github.com/pinhe91)
+- [reid-harrisson](https://github.com/reid-harrisson)
