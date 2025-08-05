@@ -20,7 +20,6 @@
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
 - [AymaneMehdi](https://github.com/AymaneMehdi)
-- [codewithdhruba01](https://github.com/codewithdhruba01)
 - [WilliamMajanja](https://github.com/WilliamMajanja)
 - [sagarregmi2056](https://github.com/sagarregmi2056)
 - [thornebaker](https://github.com/thornebaker)
@@ -99,3 +98,4 @@
 - [madhavaprmr](https://github.com/madhavaprmr)
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
+- [pinhe91](https://github.com/pinhe91)
