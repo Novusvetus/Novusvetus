@@ -59,7 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [ludo53](https://github.com/ludo53)
 - [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
-- [leo-lem](https://github.com/leo-lem)
+- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 

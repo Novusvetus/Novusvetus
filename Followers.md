@@ -8,7 +8,6 @@
 - [ludo53](https://github.com/ludo53)
 - [vokrob](https://github.com/vokrob)
 - [Muramatsuu](https://github.com/Muramatsuu)
-- [leo-lem](https://github.com/leo-lem)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Shinbatsu](https://github.com/Shinbatsu)
@@ -99,3 +98,4 @@
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [pinhe91](https://github.com/pinhe91)
+- [reid-harrisson](https://github.com/reid-harrisson)
