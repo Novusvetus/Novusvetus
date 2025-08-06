@@ -9,7 +9,6 @@
 - [AbdullahRashid133](https://github.com/AbdullahRashid133)
 - [gary111868](https://github.com/gary111868)
 - [AhmadTigress](https://github.com/AhmadTigress)
-- [ludo53](https://github.com/ludo53)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Shinbatsu](https://github.com/Shinbatsu)
@@ -99,3 +98,4 @@
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [pinhe91](https://github.com/pinhe91)
+- [reid-harrisson](https://github.com/reid-harrisson)
