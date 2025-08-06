@@ -50,9 +50,9 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [connor-penrod](https://github.com/connor-penrod)
 - [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
-- [Coralnws](https://github.com/Coralnws)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [xgek](https://github.com/xgek)
 - [AbdullahRashid133](https://github.com/AbdullahRashid133)
