@@ -1,7 +1,6 @@
 
 - [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
-- [leo-lem](https://github.com/leo-lem)
 - [Coralnws](https://github.com/Coralnws)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [xgek](https://github.com/xgek)
@@ -10,7 +9,6 @@
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [ludo53](https://github.com/ludo53)
 - [vokrob](https://github.com/vokrob)
-- [Muramatsuu](https://github.com/Muramatsuu)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Shinbatsu](https://github.com/Shinbatsu)
@@ -99,3 +97,5 @@
 - [madhavaprmr](https://github.com/madhavaprmr)
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
+- [pinhe91](https://github.com/pinhe91)
+- [reid-harrisson](https://github.com/reid-harrisson)
