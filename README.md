@@ -58,8 +58,8 @@ _Nobody sponsors me. I am poor..._
 - [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
 - [EminHaziyev](https://github.com/EminHaziyev)
-- [xgek](https://github.com/xgek)
-- [AbdullahRashid133](https://github.com/AbdullahRashid133)
+- [AhmadTigress](https://github.com/AhmadTigress)
+- [devddine](https://github.com/devddine)
 
 #### 🎢 Stats
 
