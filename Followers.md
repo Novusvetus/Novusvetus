@@ -30,7 +30,6 @@
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
 - [Vimaser](https://github.com/Vimaser)
-- [BJNFNE](https://github.com/BJNFNE)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasdcg](https://github.com/lucasdcg)
 - [oluiscabral](https://github.com/oluiscabral)
@@ -99,3 +98,4 @@
 - [pinhe91](https://github.com/pinhe91)
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
+- [niushaghavamii](https://github.com/niushaghavamii)
