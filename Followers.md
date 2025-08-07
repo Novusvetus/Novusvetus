@@ -1,4 +1,6 @@
 
+- [seehiong](https://github.com/seehiong)
+- [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [connor-penrod](https://github.com/connor-penrod)
@@ -97,5 +99,3 @@
 - [madhavaprmr](https://github.com/madhavaprmr)
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
-- [pinhe91](https://github.com/pinhe91)
-- [reid-harrisson](https://github.com/reid-harrisson)

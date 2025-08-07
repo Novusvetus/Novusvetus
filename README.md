@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [seehiong](https://github.com/seehiong)
+- [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [connor-penrod](https://github.com/connor-penrod)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [xgek](https://github.com/xgek)
 - [AbdullahRashid133](https://github.com/AbdullahRashid133)
-- [gary111868](https://github.com/gary111868)
-- [AhmadTigress](https://github.com/AhmadTigress)
 
 #### 🎢 Stats
 
