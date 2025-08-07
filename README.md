@@ -54,12 +54,12 @@ _Nobody sponsors me. I am poor..._
 - [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [connor-penrod](https://github.com/connor-penrod)
 - [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [devddine](https://github.com/devddine)
+- [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 
 #### 🎢 Stats
 

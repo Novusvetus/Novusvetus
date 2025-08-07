@@ -3,7 +3,6 @@
 - [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [connor-penrod](https://github.com/connor-penrod)
 - [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
 - [EminHaziyev](https://github.com/EminHaziyev)
@@ -99,3 +98,4 @@
 - [reid-harrisson](https://github.com/reid-harrisson)
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
+- [thelabmde](https://github.com/thelabmde)
