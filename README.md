@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [seehiong](https://github.com/seehiong)
 - [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
+- [Shinbatsu](https://github.com/Shinbatsu)
 
 #### 🎢 Stats
 

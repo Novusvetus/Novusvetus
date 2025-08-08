@@ -1,5 +1,4 @@
 
-- [seehiong](https://github.com/seehiong)
 - [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
@@ -99,3 +98,4 @@
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
+- [hamxy](https://github.com/hamxy)
