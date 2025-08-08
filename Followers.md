@@ -20,7 +20,6 @@
 - [sagarregmi2056](https://github.com/sagarregmi2056)
 - [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
-- [azuk4r](https://github.com/azuk4r)
 - [prince0xdev](https://github.com/prince0xdev)
 - [FariaScripters](https://github.com/FariaScripters)
 - [osmanx8](https://github.com/osmanx8)
@@ -99,3 +98,4 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
+- [hipolitorodrigues](https://github.com/hipolitorodrigues)
