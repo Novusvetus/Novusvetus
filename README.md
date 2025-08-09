@@ -50,16 +50,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Shinbatsu](https://github.com/Shinbatsu)
+- [Dragon0513](https://github.com/Dragon0513)
+- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 
 #### 🎢 Stats
 

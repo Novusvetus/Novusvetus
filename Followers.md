@@ -1,8 +1,6 @@
 
-- [sandibrrm](https://github.com/sandibrrm)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [QOZU](https://github.com/QOZU)
 - [holasoymalva](https://github.com/holasoymalva)
 - [EminHaziyev](https://github.com/EminHaziyev)
 - [AhmadTigress](https://github.com/AhmadTigress)
@@ -99,3 +97,5 @@
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
+- [Geek-Bunny](https://github.com/Geek-Bunny)
+- [K1rsN7](https://github.com/K1rsN7)
