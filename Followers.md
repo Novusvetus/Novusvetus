@@ -2,7 +2,6 @@
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [holasoymalva](https://github.com/holasoymalva)
-- [EminHaziyev](https://github.com/EminHaziyev)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
@@ -99,3 +98,4 @@
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [K1rsN7](https://github.com/K1rsN7)
+- [cfrBernard](https://github.com/cfrBernard)
