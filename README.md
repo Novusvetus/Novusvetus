@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [venus0213](https://github.com/venus0213)
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Shinbatsu](https://github.com/Shinbatsu)
 - [Dragon0513](https://github.com/Dragon0513)
-- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 
 #### 🎢 Stats
 

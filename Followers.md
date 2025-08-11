@@ -1,4 +1,5 @@
 
+- [venus0213](https://github.com/venus0213)
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
@@ -98,4 +99,3 @@
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
-- [K1rsN7](https://github.com/K1rsN7)
