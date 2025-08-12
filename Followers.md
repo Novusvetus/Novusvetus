@@ -80,7 +80,7 @@
 - [tubakhxn](https://github.com/tubakhxn)
 - [nazari63](https://github.com/nazari63)
 - [segemun](https://github.com/segemun)
-- [Teymur-Babayev](https://github.com/Teymur-Babayev)
+- [luckydev050](https://github.com/luckydev050)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
