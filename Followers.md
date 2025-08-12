@@ -1,4 +1,5 @@
 
+- [narex-ai](https://github.com/narex-ai)
 - [venus0213](https://github.com/venus0213)
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
@@ -98,4 +99,3 @@
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
-- [Geek-Bunny](https://github.com/Geek-Bunny)
