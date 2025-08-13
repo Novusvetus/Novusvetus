@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [narex-ai](https://github.com/narex-ai)
 - [venus0213](https://github.com/venus0213)
 - [laurindoisaac](https://github.com/laurindoisaac)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
-- [Shinbatsu](https://github.com/Shinbatsu)
 
 #### 🎢 Stats
 
