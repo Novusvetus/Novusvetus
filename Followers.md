@@ -58,7 +58,6 @@
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
-- [TopTrenDev](https://github.com/TopTrenDev)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 - [d3v1sh](https://github.com/d3v1sh)
@@ -99,3 +98,4 @@
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
+- [hamxy](https://github.com/hamxy)
