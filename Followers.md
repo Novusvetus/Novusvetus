@@ -1,4 +1,5 @@
 
+- [dvlanders](https://github.com/dvlanders)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [narex-ai](https://github.com/narex-ai)
@@ -98,4 +99,3 @@
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
-- [hamxy](https://github.com/hamxy)
