@@ -33,7 +33,6 @@
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasdcg](https://github.com/lucasdcg)
 - [oluiscabral](https://github.com/oluiscabral)
-- [WaRtr0](https://github.com/WaRtr0)
 - [mateoguerra0315](https://github.com/mateoguerra0315)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
@@ -99,3 +98,4 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
+- [hipolitorodrigues](https://github.com/hipolitorodrigues)
