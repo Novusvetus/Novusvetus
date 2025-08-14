@@ -37,7 +37,6 @@
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [nelbetancur](https://github.com/nelbetancur)
 - [chirsdav](https://github.com/chirsdav)
-- [buraksocial](https://github.com/buraksocial)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
@@ -99,3 +98,4 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
+- [hipolitorodrigues](https://github.com/hipolitorodrigues)
