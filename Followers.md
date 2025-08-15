@@ -1,4 +1,5 @@
 
+- [rennf93](https://github.com/rennf93)
 - [dvlanders](https://github.com/dvlanders)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
@@ -98,4 +99,3 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
-- [hipolitorodrigues](https://github.com/hipolitorodrigues)
