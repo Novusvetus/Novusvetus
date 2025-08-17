@@ -12,7 +12,6 @@
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
-- [Shinbatsu](https://github.com/Shinbatsu)
 - [Dragon0513](https://github.com/Dragon0513)
 - [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 - [syedahirafatima](https://github.com/syedahirafatima)
@@ -99,3 +98,4 @@
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
+- [hamxy](https://github.com/hamxy)
