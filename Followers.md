@@ -13,7 +13,7 @@
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
 - [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
-- [syedahirafatima](https://github.com/syedahirafatima)
+- [heracodes123](https://github.com/heracodes123)
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
