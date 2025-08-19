@@ -71,7 +71,6 @@
 - [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
 - [HeavenizeSluagh](https://github.com/HeavenizeSluagh)
-- [murapadev](https://github.com/murapadev)
 - [Roohollah81](https://github.com/Roohollah81)
 - [sabbir-noyon](https://github.com/sabbir-noyon)
 - [nholuongut](https://github.com/nholuongut)
@@ -99,3 +98,4 @@
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
+- [Geek-Bunny](https://github.com/Geek-Bunny)
