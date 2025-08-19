@@ -1,4 +1,5 @@
 
+- [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [CodeVoyager15](https://github.com/CodeVoyager15)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
@@ -98,4 +99,3 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
-- [hipolitorodrigues](https://github.com/hipolitorodrigues)
