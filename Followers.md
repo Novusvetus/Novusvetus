@@ -11,7 +11,6 @@
 - [uhsr](https://github.com/uhsr)
 - [holasoymalva](https://github.com/holasoymalva)
 - [AhmadTigress](https://github.com/AhmadTigress)
-- [devddine](https://github.com/devddine)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
 - [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
@@ -99,3 +98,4 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
+- [hipolitorodrigues](https://github.com/hipolitorodrigues)
