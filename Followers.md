@@ -1,6 +1,5 @@
 
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
-- [peterruler](https://github.com/peterruler)
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [CodeVoyager15](https://github.com/CodeVoyager15)
@@ -99,3 +98,4 @@
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
+- [hipolitorodrigues](https://github.com/hipolitorodrigues)

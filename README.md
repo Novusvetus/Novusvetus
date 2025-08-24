@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
-- [peterruler](https://github.com/peterruler)
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [CodeVoyager15](https://github.com/CodeVoyager15)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [venus0213](https://github.com/venus0213)
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
+- [uhsr](https://github.com/uhsr)
 
 #### 🎢 Stats
 
