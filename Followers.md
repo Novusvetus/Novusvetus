@@ -25,7 +25,7 @@
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [prince0xdev](https://github.com/prince0xdev)
 - [FariaScripters](https://github.com/FariaScripters)
-- [osmanx8](https://github.com/osmanx8)
+- [rusi-dev](https://github.com/rusi-dev)
 - [Lyne6666](https://github.com/Lyne6666)
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
