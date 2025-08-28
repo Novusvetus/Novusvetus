@@ -56,10 +56,10 @@ _Nobody sponsors me. I am poor..._
 - [CodeVoyager15](https://github.com/CodeVoyager15)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
-- [venus0213](https://github.com/venus0213)
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
+- [holasoymalva](https://github.com/holasoymalva)
 
 #### 🎢 Stats
 
