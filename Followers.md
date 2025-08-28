@@ -25,7 +25,6 @@
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [prince0xdev](https://github.com/prince0xdev)
 - [FariaScripters](https://github.com/FariaScripters)
-- [rusi-dev](https://github.com/rusi-dev)
 - [Lyne6666](https://github.com/Lyne6666)
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
@@ -99,3 +98,4 @@
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
+- [Geek-Bunny](https://github.com/Geek-Bunny)
