@@ -39,7 +39,6 @@
 - [chirsdav](https://github.com/chirsdav)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
-- [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [marichu-kt](https://github.com/marichu-kt)
@@ -99,3 +98,4 @@
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
+- [cfrBernard](https://github.com/cfrBernard)
