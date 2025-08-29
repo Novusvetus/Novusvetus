@@ -8,7 +8,6 @@
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [holasoymalva](https://github.com/holasoymalva)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
@@ -99,3 +98,4 @@
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [cfrBernard](https://github.com/cfrBernard)
 - [aburraspace](https://github.com/aburraspace)
+- [tanishq-ctrl](https://github.com/tanishq-ctrl)

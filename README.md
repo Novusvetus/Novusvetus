@@ -59,7 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [laurindoisaac](https://github.com/laurindoisaac)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [holasoymalva](https://github.com/holasoymalva)
+- [AhmadTigress](https://github.com/AhmadTigress)
 
 #### 🎢 Stats
 
