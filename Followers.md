@@ -1,4 +1,5 @@
 
+- [peterruler](https://github.com/peterruler)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
@@ -98,4 +99,3 @@
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [cfrBernard](https://github.com/cfrBernard)
 - [aburraspace](https://github.com/aburraspace)
-- [tanishq-ctrl](https://github.com/tanishq-ctrl)
