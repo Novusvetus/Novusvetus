@@ -12,7 +12,6 @@
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
-- [Shahnazaouliaei](https://github.com/Shahnazaouliaei)
 - [heracodes123](https://github.com/heracodes123)
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
@@ -99,3 +98,4 @@
 - [cfrBernard](https://github.com/cfrBernard)
 - [aburraspace](https://github.com/aburraspace)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
+- [riseansmal](https://github.com/riseansmal)
