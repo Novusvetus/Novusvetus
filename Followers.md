@@ -40,7 +40,6 @@
 - [rosem-coder](https://github.com/rosem-coder)
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
-- [marichu-kt](https://github.com/marichu-kt)
 - [will97331](https://github.com/will97331)
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
@@ -99,3 +98,4 @@
 - [Geek-Bunny](https://github.com/Geek-Bunny)
 - [cfrBernard](https://github.com/cfrBernard)
 - [aburraspace](https://github.com/aburraspace)
+- [tanishq-ctrl](https://github.com/tanishq-ctrl)
