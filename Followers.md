@@ -37,6 +37,7 @@
 - [chirsdav](https://github.com/chirsdav)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
+- [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [will97331](https://github.com/will97331)
@@ -98,4 +99,3 @@
 - [cfrBernard](https://github.com/cfrBernard)
 - [aburraspace](https://github.com/aburraspace)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
-- [riseansmal](https://github.com/riseansmal)
