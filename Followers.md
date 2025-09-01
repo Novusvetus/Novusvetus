@@ -95,7 +95,7 @@
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
-- [cfrBernard](https://github.com/cfrBernard)
 - [aburraspace](https://github.com/aburraspace)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
+- [testhesabimacg](https://github.com/testhesabimacg)
