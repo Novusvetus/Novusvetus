@@ -4,7 +4,6 @@
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [CodeVoyager15](https://github.com/CodeVoyager15)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [AhmadTigress](https://github.com/AhmadTigress)
@@ -99,3 +98,4 @@
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
+- [james-guerrero](https://github.com/james-guerrero)

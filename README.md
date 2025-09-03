@@ -55,11 +55,11 @@ _Nobody sponsors me. I am poor..._
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [CodeVoyager15](https://github.com/CodeVoyager15)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
-- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
+- [Dragon0513](https://github.com/Dragon0513)
 
 #### 🎢 Stats
 
