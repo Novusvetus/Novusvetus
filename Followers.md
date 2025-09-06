@@ -1,4 +1,5 @@
 
+- [peterruler](https://github.com/peterruler)
 - [Valerian1964](https://github.com/Valerian1964)
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
@@ -98,4 +99,3 @@
 - [aburraspace](https://github.com/aburraspace)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
-- [testhesabimacg](https://github.com/testhesabimacg)
