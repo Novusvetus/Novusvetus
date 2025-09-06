@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [uhsr](https://github.com/uhsr)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
-- [Dragon0513](https://github.com/Dragon0513)
 
 #### 🎢 Stats
 
