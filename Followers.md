@@ -20,7 +20,6 @@
 - [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [prince0xdev](https://github.com/prince0xdev)
-- [FariaScripters](https://github.com/FariaScripters)
 - [Lyne6666](https://github.com/Lyne6666)
 - [heinodendal](https://github.com/heinodendal)
 - [Fadhaa](https://github.com/Fadhaa)
@@ -99,3 +98,4 @@
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
+- [james-guerrero](https://github.com/james-guerrero)
