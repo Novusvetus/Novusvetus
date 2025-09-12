@@ -37,7 +37,6 @@
 - [rosem-coder](https://github.com/rosem-coder)
 - [yosuke-kuroki](https://github.com/yosuke-kuroki)
 - [cepseu1](https://github.com/cepseu1)
-- [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [will97331](https://github.com/will97331)
 - [karmapoIice](https://github.com/karmapoIice)
 - [Rachad-Alabi-ADEKAMBI](https://github.com/Rachad-Alabi-ADEKAMBI)
@@ -99,3 +98,4 @@
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
+- [james-guerrero](https://github.com/james-guerrero)
