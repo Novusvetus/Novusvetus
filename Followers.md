@@ -1,5 +1,4 @@
 
-- [domx4q](https://github.com/domx4q)
 - [lrepo52](https://github.com/lrepo52)
 - [Valerian1964](https://github.com/Valerian1964)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -99,3 +98,4 @@
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
+- [james-guerrero](https://github.com/james-guerrero)
