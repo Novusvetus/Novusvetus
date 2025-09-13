@@ -1,6 +1,5 @@
 
 - [lrepo52](https://github.com/lrepo52)
-- [Valerian1964](https://github.com/Valerian1964)
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
@@ -99,3 +98,4 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
+- [kayukeee](https://github.com/kayukeee)
