@@ -1,5 +1,4 @@
 
-- [NamesMT](https://github.com/NamesMT)
 - [lrepo52](https://github.com/lrepo52)
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
