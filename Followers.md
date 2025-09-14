@@ -85,7 +85,7 @@
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [pinhe91](https://github.com/pinhe91)
-- [reid-harrisson](https://github.com/reid-harrisson)
+- [dachi-khelashvili](https://github.com/dachi-khelashvili)
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
