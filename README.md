@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [domx4q](https://github.com/domx4q)
 - [lrepo52](https://github.com/lrepo52)
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [AhmadTigress](https://github.com/AhmadTigress)
-- [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 
 #### 🎢 Stats
 
