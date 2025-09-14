@@ -71,7 +71,6 @@
 - [snowMan128](https://github.com/snowMan128)
 - [tubakhxn](https://github.com/tubakhxn)
 - [nazari63](https://github.com/nazari63)
-- [segemun](https://github.com/segemun)
 - [Teymur-Babayev](https://github.com/Teymur-Babayev)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
