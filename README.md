@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [frankiefab100](https://github.com/frankiefab100)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [lrepo52](https://github.com/lrepo52)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
-- [AhmadTigress](https://github.com/AhmadTigress)
 
 #### 🎢 Stats
 
