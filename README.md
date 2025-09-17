@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
-- [lrepo52](https://github.com/lrepo52)
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
+- [AhmadTigress](https://github.com/AhmadTigress)
 
 #### 🎢 Stats
 

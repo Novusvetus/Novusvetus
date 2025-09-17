@@ -1,7 +1,6 @@
 
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
-- [lrepo52](https://github.com/lrepo52)
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
@@ -99,3 +98,4 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
+- [kayukeee](https://github.com/kayukeee)
