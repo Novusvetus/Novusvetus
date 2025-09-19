@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Arison99](https://github.com/Arison99)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
+- [AhmadTigress](https://github.com/AhmadTigress)
 
 #### 🎢 Stats
 
