@@ -1,5 +1,4 @@
 
-- [gr33kurious](https://github.com/gr33kurious)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -99,3 +98,4 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
+- [kayukeee](https://github.com/kayukeee)
