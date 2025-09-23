@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [lrepo52](https://github.com/lrepo52)
-- [rennf93](https://github.com/rennf93)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [Bifenzine](https://github.com/Bifenzine)
+- [uhsr](https://github.com/uhsr)
 
 #### 🎢 Stats
 
