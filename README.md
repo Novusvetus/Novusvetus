@@ -50,7 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [lrepo52](https://github.com/lrepo52)
+- [levonk](https://github.com/levonk)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [XiaomingX](https://github.com/XiaomingX)
