@@ -1,5 +1,4 @@
 
-- [ikramagix](https://github.com/ikramagix)
 - [peterruler](https://github.com/peterruler)
 - [levonk](https://github.com/levonk)
 - [emilycodestar](https://github.com/emilycodestar)
@@ -99,3 +98,4 @@
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
+- [james-guerrero](https://github.com/james-guerrero)
