@@ -54,7 +54,6 @@
 - [hope-423126](https://github.com/hope-423126)
 - [TopTrenDev](https://github.com/TopTrenDev)
 - [CodeEvolv](https://github.com/CodeEvolv)
-- [likhonsheikhofficial](https://github.com/likhonsheikhofficial)
 - [d3v1sh](https://github.com/d3v1sh)
 - [Blockify0](https://github.com/Blockify0)
 - [Peti6inge](https://github.com/Peti6inge)
@@ -99,3 +98,4 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
+- [kayukeee](https://github.com/kayukeee)
