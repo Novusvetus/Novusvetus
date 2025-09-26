@@ -1,6 +1,5 @@
 
 - [peterruler](https://github.com/peterruler)
-- [levonk](https://github.com/levonk)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [XiaomingX](https://github.com/XiaomingX)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
