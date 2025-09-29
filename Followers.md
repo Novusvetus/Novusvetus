@@ -1,5 +1,4 @@
 
-- [peterruler](https://github.com/peterruler)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
@@ -99,3 +98,4 @@
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
+- [AnitaSobhanian](https://github.com/AnitaSobhanian)
