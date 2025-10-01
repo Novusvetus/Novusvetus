@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [weiquan98](https://github.com/weiquan98)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [Bifenzine](https://github.com/Bifenzine)
-- [uhsr](https://github.com/uhsr)
 
 #### 🎢 Stats
 
