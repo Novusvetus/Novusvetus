@@ -50,7 +50,6 @@
 - [crypto0402](https://github.com/crypto0402)
 - [anthonycancelled](https://github.com/anthonycancelled)
 - [hope-423126](https://github.com/hope-423126)
-- [TopTrenDev](https://github.com/TopTrenDev)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [d3v1sh](https://github.com/d3v1sh)
 - [Blockify0](https://github.com/Blockify0)
@@ -99,3 +98,4 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
+- [LinuxPath](https://github.com/LinuxPath)
