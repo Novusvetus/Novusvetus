@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [mpermar082](https://github.com/mpermar082)
 - [Willysc10](https://github.com/Willysc10)
-- [weiquan98](https://github.com/weiquan98)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
+- [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 
 #### 🎢 Stats
 

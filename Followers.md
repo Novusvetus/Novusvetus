@@ -1,7 +1,6 @@
 
 - [mpermar082](https://github.com/mpermar082)
 - [Willysc10](https://github.com/Willysc10)
-- [weiquan98](https://github.com/weiquan98)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
