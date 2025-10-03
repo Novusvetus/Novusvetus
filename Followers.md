@@ -63,7 +63,6 @@
 - [nullptrException100](https://github.com/nullptrException100)
 - [visualGravitySense](https://github.com/visualGravitySense)
 - [agathafr](https://github.com/agathafr)
-- [0joseDark](https://github.com/0joseDark)
 - [dimkagithub](https://github.com/dimkagithub)
 - [HeavenizeSluagh](https://github.com/HeavenizeSluagh)
 - [Roohollah81](https://github.com/Roohollah81)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
