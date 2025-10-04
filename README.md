@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [gamet2401](https://github.com/gamet2401)
 - [Nurulika](https://github.com/Nurulika)
 - [mpermar082](https://github.com/mpermar082)
 - [Willysc10](https://github.com/Willysc10)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [XiaomingX](https://github.com/XiaomingX)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
-- [AgileTech1014](https://github.com/AgileTech1014)
 
 #### 🎢 Stats
 
