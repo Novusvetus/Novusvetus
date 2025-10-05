@@ -1,5 +1,4 @@
 
-- [ikramagix](https://github.com/ikramagix)
 - [gamet2401](https://github.com/gamet2401)
 - [Nurulika](https://github.com/Nurulika)
 - [mpermar082](https://github.com/mpermar082)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
