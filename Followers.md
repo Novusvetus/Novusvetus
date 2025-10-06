@@ -1,7 +1,5 @@
 
 - [gamet2401](https://github.com/gamet2401)
-- [Nurulika](https://github.com/Nurulika)
-- [mpermar082](https://github.com/mpermar082)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
@@ -99,3 +97,5 @@
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
+- [AnitaSobhanian](https://github.com/AnitaSobhanian)
+- [LinuxPath](https://github.com/LinuxPath)
