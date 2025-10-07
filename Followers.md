@@ -49,7 +49,7 @@
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
-- [anthonycancelled](https://github.com/anthonycancelled)
+- [emotabii](https://github.com/emotabii)
 - [hope-423126](https://github.com/hope-423126)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [d3v1sh](https://github.com/d3v1sh)
