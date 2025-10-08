@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Hajjouz](https://github.com/Hajjouz)
 - [gamet2401](https://github.com/gamet2401)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
-- [Bifenzine](https://github.com/Bifenzine)
 
 #### 🎢 Stats
 
