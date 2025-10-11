@@ -33,7 +33,7 @@
 - [mateoguerra0315](https://github.com/mateoguerra0315)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
-- [nelbetancur](https://github.com/nelbetancur)
+- [nmbetancur](https://github.com/nmbetancur)
 - [chirsdav](https://github.com/chirsdav)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
