@@ -14,7 +14,7 @@
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
-- [heracodes123](https://github.com/heracodes123)
+- [syedahirafatima](https://github.com/syedahirafatima)
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
