@@ -14,7 +14,6 @@
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
-- [syedahirafatima](https://github.com/syedahirafatima)
 - [chmpX](https://github.com/chmpX)
 - [onamfc](https://github.com/onamfc)
 - [aladinxyz](https://github.com/aladinxyz)
@@ -99,3 +98,4 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
+- [LinuxPath](https://github.com/LinuxPath)
