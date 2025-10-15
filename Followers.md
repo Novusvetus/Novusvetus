@@ -9,7 +9,6 @@
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
-- [Cre4T3Tiv3](https://github.com/Cre4T3Tiv3)
 - [Bifenzine](https://github.com/Bifenzine)
 - [uhsr](https://github.com/uhsr)
 - [AhmadTigress](https://github.com/AhmadTigress)
@@ -99,3 +98,4 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
+- [LinuxPath](https://github.com/LinuxPath)
