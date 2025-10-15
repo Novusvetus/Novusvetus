@@ -29,7 +29,7 @@
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasdcg](https://github.com/lucasdcg)
 - [oluiscabral](https://github.com/oluiscabral)
-- [mateoguerra0315](https://github.com/mateoguerra0315)
+- [18KBlueApple](https://github.com/18KBlueApple)
 - [huzgrx](https://github.com/huzgrx)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [nmbetancur](https://github.com/nmbetancur)
