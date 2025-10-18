@@ -1,4 +1,5 @@
 
+- [peterruler](https://github.com/peterruler)
 - [lisaantal](https://github.com/lisaantal)
 - [frieren-mage](https://github.com/frieren-mage)
 - [potentialdev-web](https://github.com/potentialdev-web)
@@ -98,4 +99,3 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
-- [LinuxPath](https://github.com/LinuxPath)
