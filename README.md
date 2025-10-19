@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [pee331](https://github.com/pee331)
 - [XiaomingX](https://github.com/XiaomingX)
 - [peterruler](https://github.com/peterruler)
 - [frieren-mage](https://github.com/frieren-mage)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
-- [alexusharmon](https://github.com/alexusharmon)
 
 #### 🎢 Stats
 
