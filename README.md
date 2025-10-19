@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [XiaomingX](https://github.com/XiaomingX)
 - [peterruler](https://github.com/peterruler)
-- [lisaantal](https://github.com/lisaantal)
 - [frieren-mage](https://github.com/frieren-mage)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
+- [alexusharmon](https://github.com/alexusharmon)
 
 #### 🎢 Stats
 

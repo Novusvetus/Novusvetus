@@ -1,7 +1,6 @@
 
 - [XiaomingX](https://github.com/XiaomingX)
 - [peterruler](https://github.com/peterruler)
-- [lisaantal](https://github.com/lisaantal)
 - [frieren-mage](https://github.com/frieren-mage)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
@@ -99,3 +98,4 @@
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
+- [AnitaSobhanian](https://github.com/AnitaSobhanian)
