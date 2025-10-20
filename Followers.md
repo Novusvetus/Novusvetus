@@ -13,7 +13,6 @@
 - [alexusharmon](https://github.com/alexusharmon)
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [Bifenzine](https://github.com/Bifenzine)
-- [uhsr](https://github.com/uhsr)
 - [AhmadTigress](https://github.com/AhmadTigress)
 - [cerenyilmazjinx](https://github.com/cerenyilmazjinx)
 - [Dragon0513](https://github.com/Dragon0513)
@@ -99,3 +98,4 @@
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
+- [AnitaSobhanian](https://github.com/AnitaSobhanian)
