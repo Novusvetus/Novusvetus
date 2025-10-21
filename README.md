@@ -54,12 +54,12 @@ _Nobody sponsors me. I am poor..._
 - [pee331](https://github.com/pee331)
 - [XiaomingX](https://github.com/XiaomingX)
 - [peterruler](https://github.com/peterruler)
-- [frieren-mage](https://github.com/frieren-mage)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
 - [mseptiawan](https://github.com/mseptiawan)
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
+- [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 
 #### 🎢 Stats
 
