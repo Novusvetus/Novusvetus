@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [McUtty](https://github.com/McUtty)
-- [XiaomingX](https://github.com/XiaomingX)
 - [peterruler](https://github.com/peterruler)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [alexusharmon](https://github.com/alexusharmon)
+- [AgileTech1014](https://github.com/AgileTech1014)
 
 #### 🎢 Stats
 
