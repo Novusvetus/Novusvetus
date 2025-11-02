@@ -6,7 +6,7 @@
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
-- [alexusharmon](https://github.com/alexusharmon)
+- [aot-aoe](https://github.com/aot-aoe)
 - [AgileTech1014](https://github.com/AgileTech1014)
 - [Bifenzine](https://github.com/Bifenzine)
 - [AhmadTigress](https://github.com/AhmadTigress)
