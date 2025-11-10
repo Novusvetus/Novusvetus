@@ -1,4 +1,5 @@
 
+- [peterruler](https://github.com/peterruler)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
@@ -98,4 +99,3 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
