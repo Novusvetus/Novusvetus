@@ -53,7 +53,7 @@
 - [d3v1sh](https://github.com/d3v1sh)
 - [Blockify0](https://github.com/Blockify0)
 - [Peti6inge](https://github.com/Peti6inge)
-- [viriIe](https://github.com/viriIe)
+- [finlandization](https://github.com/finlandization)
 - [syedbilalalam1](https://github.com/syedbilalalam1)
 - [hoangks5](https://github.com/hoangks5)
 - [nullptrException100](https://github.com/nullptrException100)
