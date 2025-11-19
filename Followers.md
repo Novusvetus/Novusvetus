@@ -50,7 +50,6 @@
 - [emotabii](https://github.com/emotabii)
 - [hope-423126](https://github.com/hope-423126)
 - [CodeEvolv](https://github.com/CodeEvolv)
-- [d3v1sh](https://github.com/d3v1sh)
 - [Blockify0](https://github.com/Blockify0)
 - [Peti6inge](https://github.com/Peti6inge)
 - [finlandization](https://github.com/finlandization)
@@ -99,3 +98,4 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
+- [oliviawilson2003](https://github.com/oliviawilson2003)
