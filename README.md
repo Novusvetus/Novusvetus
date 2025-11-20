@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [peterruler](https://github.com/peterruler)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [aot-aoe](https://github.com/aot-aoe)
+- [AgileTech1014](https://github.com/AgileTech1014)
 
 #### 🎢 Stats
 

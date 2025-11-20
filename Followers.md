@@ -1,5 +1,4 @@
 
-- [peterruler](https://github.com/peterruler)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
@@ -99,3 +98,4 @@
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
+- [befoulers](https://github.com/befoulers)
