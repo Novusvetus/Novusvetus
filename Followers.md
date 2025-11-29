@@ -21,7 +21,6 @@
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [prince0xdev](https://github.com/prince0xdev)
 - [heinodendal](https://github.com/heinodendal)
-- [Fadhaa](https://github.com/Fadhaa)
 - [Vimaser](https://github.com/Vimaser)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasdcg](https://github.com/lucasdcg)
@@ -99,3 +98,4 @@
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
+- [KostasSliazas](https://github.com/KostasSliazas)
