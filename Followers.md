@@ -1,4 +1,5 @@
 
+- [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
@@ -98,4 +99,3 @@
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
-- [KostasSliazas](https://github.com/KostasSliazas)
