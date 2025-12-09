@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
-- [aot-aoe](https://github.com/aot-aoe)
 
 #### 🎢 Stats
 
