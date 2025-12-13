@@ -75,7 +75,6 @@
 - [ahr-i](https://github.com/ahr-i)
 - [treeMan0301](https://github.com/treeMan0301)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
-- [madhavaprmr](https://github.com/madhavaprmr)
 - [liamsmith413](https://github.com/liamsmith413)
 - [m4rcu5o](https://github.com/m4rcu5o)
 - [pinhe91](https://github.com/pinhe91)
@@ -99,3 +98,4 @@
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
+- [befoulers](https://github.com/befoulers)
