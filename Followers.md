@@ -1,4 +1,5 @@
 
+- [XiaomingX](https://github.com/XiaomingX)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
@@ -98,4 +99,3 @@
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
-- [befoulers](https://github.com/befoulers)
