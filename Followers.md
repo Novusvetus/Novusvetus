@@ -1,4 +1,5 @@
 
+- [frieren-mage](https://github.com/frieren-mage)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [pwnedroot](https://github.com/pwnedroot)
@@ -98,4 +99,3 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
-- [KCblama19](https://github.com/KCblama19)
