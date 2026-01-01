@@ -2,7 +2,6 @@
 - [frieren-mage](https://github.com/frieren-mage)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
-- [pwnedroot](https://github.com/pwnedroot)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
@@ -99,3 +98,4 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
+- [KCblama19](https://github.com/KCblama19)

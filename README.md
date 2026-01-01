@@ -53,13 +53,13 @@ _Nobody sponsors me. I am poor..._
 - [frieren-mage](https://github.com/frieren-mage)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
-- [pwnedroot](https://github.com/pwnedroot)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
+- [mseptiawan](https://github.com/mseptiawan)
 
 #### 🎢 Stats
 
