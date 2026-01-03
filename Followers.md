@@ -9,7 +9,6 @@
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
 - [mseptiawan](https://github.com/mseptiawan)
-- [emilycodestar](https://github.com/emilycodestar)
 - [slavaGanzin](https://github.com/slavaGanzin)
 - [SwapnilKuthe20](https://github.com/SwapnilKuthe20)
 - [aot-aoe](https://github.com/aot-aoe)
@@ -99,3 +98,4 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
+- [ezadin2](https://github.com/ezadin2)
