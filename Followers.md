@@ -1,5 +1,4 @@
 
-- [frieren-mage](https://github.com/frieren-mage)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
@@ -99,3 +98,4 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
+- [oliviawilson2003](https://github.com/oliviawilson2003)
