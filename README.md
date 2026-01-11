@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [SamuraiJack96](https://github.com/SamuraiJack96)
+- [thomaaf69](https://github.com/thomaaf69)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
-- [mseptiawan](https://github.com/mseptiawan)
-- [slavaGanzin](https://github.com/slavaGanzin)
 
 #### 🎢 Stats
 

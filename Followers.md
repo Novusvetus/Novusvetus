@@ -1,4 +1,6 @@
 
+- [SamuraiJack96](https://github.com/SamuraiJack96)
+- [thomaaf69](https://github.com/thomaaf69)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
@@ -97,5 +99,3 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
-- [oliviawilson2003](https://github.com/oliviawilson2003)
