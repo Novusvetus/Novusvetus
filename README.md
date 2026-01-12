@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [zynapsee](https://github.com/zynapsee)
 - [SamuraiJack96](https://github.com/SamuraiJack96)
 - [thomaaf69](https://github.com/thomaaf69)
 - [SuperAdam47](https://github.com/SuperAdam47)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
-- [gamet2401](https://github.com/gamet2401)
 
 #### 🎢 Stats
 
