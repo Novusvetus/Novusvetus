@@ -1,6 +1,5 @@
 
 - [zynapsee](https://github.com/zynapsee)
-- [SamuraiJack96](https://github.com/SamuraiJack96)
 - [thomaaf69](https://github.com/thomaaf69)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
@@ -99,3 +98,4 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
+- [KCblama19](https://github.com/KCblama19)
