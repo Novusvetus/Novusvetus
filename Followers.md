@@ -1,7 +1,6 @@
 
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [OOLin](https://github.com/OOLin)
-- [thomaaf69](https://github.com/thomaaf69)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
@@ -99,3 +98,4 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
+- [KCblama19](https://github.com/KCblama19)
