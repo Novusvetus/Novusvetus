@@ -1,7 +1,6 @@
 
 - [tetref](https://github.com/tetref)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
-- [OOLin](https://github.com/OOLin)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
@@ -99,3 +98,4 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
+- [ezadin2](https://github.com/ezadin2)

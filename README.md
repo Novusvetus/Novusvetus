@@ -52,7 +52,6 @@ _Nobody sponsors me. I am poor..._
 
 - [tetref](https://github.com/tetref)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
-- [OOLin](https://github.com/OOLin)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
+- [gamet2401](https://github.com/gamet2401)
 
 #### 🎢 Stats
 
