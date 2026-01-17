@@ -1,6 +1,5 @@
 
 - [xryutaro](https://github.com/xryutaro)
-- [tetref](https://github.com/tetref)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
@@ -99,3 +98,4 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
+- [ezadin2](https://github.com/ezadin2)
