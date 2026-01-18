@@ -1,4 +1,5 @@
 
+- [lezer0208](https://github.com/lezer0208)
 - [Light00Side](https://github.com/Light00Side)
 - [xryutaro](https://github.com/xryutaro)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
@@ -98,4 +99,3 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
-- [KCblama19](https://github.com/KCblama19)
