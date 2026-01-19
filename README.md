@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
 - [hasan4224](https://github.com/hasan4224)
 - [eagleeye410](https://github.com/eagleeye410)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Light00Side](https://github.com/Light00Side)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
-- [dexoryn](https://github.com/dexoryn)
 
 #### 🎢 Stats
 

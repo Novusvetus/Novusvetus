@@ -1,4 +1,5 @@
 
+- [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
 - [hasan4224](https://github.com/hasan4224)
 - [eagleeye410](https://github.com/eagleeye410)
@@ -30,7 +31,6 @@
 - [sagarregmi2056](https://github.com/sagarregmi2056)
 - [thornebaker](https://github.com/thornebaker)
 - [Deveshshukla36](https://github.com/Deveshshukla36)
-- [prince0xdev](https://github.com/prince0xdev)
 - [heinodendal](https://github.com/heinodendal)
 - [Vimaser](https://github.com/Vimaser)
 - [siddhantshukla108](https://github.com/siddhantshukla108)
