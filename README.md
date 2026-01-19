@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [hasan4224](https://github.com/hasan4224)
 - [eagleeye410](https://github.com/eagleeye410)
 - [draifodil](https://github.com/draifodil)
 - [Lilbodo12](https://github.com/Lilbodo12)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
-- [Nadeem1295](https://github.com/Nadeem1295)
 
 #### 🎢 Stats
 

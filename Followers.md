@@ -1,4 +1,5 @@
 
+- [hasan4224](https://github.com/hasan4224)
 - [eagleeye410](https://github.com/eagleeye410)
 - [draifodil](https://github.com/draifodil)
 - [Lilbodo12](https://github.com/Lilbodo12)
@@ -98,4 +99,3 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
-- [Chitus](https://github.com/Chitus)
