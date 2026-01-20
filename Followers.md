@@ -85,7 +85,7 @@
 - [treeMan0301](https://github.com/treeMan0301)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
 - [liamsmith413](https://github.com/liamsmith413)
-- [m4rcu5o](https://github.com/m4rcu5o)
+- [metaggdev](https://github.com/metaggdev)
 - [pinhe91](https://github.com/pinhe91)
 - [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
