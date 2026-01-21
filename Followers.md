@@ -1,4 +1,5 @@
 
+- [ZainJavaid](https://github.com/ZainJavaid)
 - [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
 - [hasan4224](https://github.com/hasan4224)
@@ -98,4 +99,3 @@
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
-- [james-guerrero](https://github.com/james-guerrero)
