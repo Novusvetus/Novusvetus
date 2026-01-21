@@ -35,7 +35,6 @@
 - [Deveshshukla36](https://github.com/Deveshshukla36)
 - [heinodendal](https://github.com/heinodendal)
 - [Vimaser](https://github.com/Vimaser)
-- [siddhantshukla108](https://github.com/siddhantshukla108)
 - [lucasdcg](https://github.com/lucasdcg)
 - [oluiscabral](https://github.com/oluiscabral)
 - [18KBlueApple](https://github.com/18KBlueApple)
@@ -99,3 +98,4 @@
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
+- [whitenight-eco](https://github.com/whitenight-eco)
