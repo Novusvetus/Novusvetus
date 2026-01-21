@@ -1,4 +1,5 @@
 
+- [eGBang](https://github.com/eGBang)
 - [ZainJavaid](https://github.com/ZainJavaid)
 - [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
@@ -98,4 +99,3 @@
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
-- [whitenight-eco](https://github.com/whitenight-eco)

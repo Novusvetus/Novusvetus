@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [eGBang](https://github.com/eGBang)
 - [ZainJavaid](https://github.com/ZainJavaid)
 - [Ronaldo45rt](https://github.com/Ronaldo45rt)
 - [iagomourarabelo](https://github.com/iagomourarabelo)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [Lilbodo12](https://github.com/Lilbodo12)
 - [lezer0208](https://github.com/lezer0208)
 - [Light00Side](https://github.com/Light00Side)
-- [Mmalkalbani](https://github.com/Mmalkalbani)
 
 #### 🎢 Stats
 
