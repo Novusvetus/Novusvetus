@@ -1,4 +1,5 @@
 
+- [Miracle0524](https://github.com/Miracle0524)
 - [eGBang](https://github.com/eGBang)
 - [ZainJavaid](https://github.com/ZainJavaid)
 - [Ronaldo45rt](https://github.com/Ronaldo45rt)
@@ -98,4 +99,3 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
-- [kayukeee](https://github.com/kayukeee)
