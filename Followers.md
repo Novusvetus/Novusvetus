@@ -56,7 +56,6 @@
 - [hanzla-sib](https://github.com/hanzla-sib)
 - [Abdelwahdn](https://github.com/Abdelwahdn)
 - [crypto0402](https://github.com/crypto0402)
-- [wiIsonn](https://github.com/wiIsonn)
 - [hope-423126](https://github.com/hope-423126)
 - [CodeEvolv](https://github.com/CodeEvolv)
 - [Blockify0](https://github.com/Blockify0)
@@ -99,3 +98,4 @@
 - [testhesabimacg](https://github.com/testhesabimacg)
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
+- [kayukeee](https://github.com/kayukeee)
