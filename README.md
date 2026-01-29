@@ -51,15 +51,15 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [Miracle0524](https://github.com/Miracle0524)
-- [eGBang](https://github.com/eGBang)
-- [ZainJavaid](https://github.com/ZainJavaid)
-- [Ronaldo45rt](https://github.com/Ronaldo45rt)
-- [iagomourarabelo](https://github.com/iagomourarabelo)
-- [hasan4224](https://github.com/hasan4224)
-- [eagleeye410](https://github.com/eagleeye410)
-- [draifodil](https://github.com/draifodil)
-- [Lilbodo12](https://github.com/Lilbodo12)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
+- [SuperAdam47](https://github.com/SuperAdam47)
+- [dexoryn](https://github.com/dexoryn)
+- [edge-smart](https://github.com/edge-smart)
+- [Nadeem1295](https://github.com/Nadeem1295)
+- [trinhminhtriet](https://github.com/trinhminhtriet)
+- [McUtty](https://github.com/McUtty)
+- [potentialdev-web](https://github.com/potentialdev-web)
+- [gamet2401](https://github.com/gamet2401)
 
 #### 🎢 Stats
 
