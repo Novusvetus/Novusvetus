@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [Miracle0524](https://github.com/Miracle0524)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
@@ -60,6 +59,7 @@ _Nobody sponsors me. I am poor..._
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
+- [mseptiawan](https://github.com/mseptiawan)
 
 #### 🎢 Stats
 

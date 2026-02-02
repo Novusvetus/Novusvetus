@@ -1,5 +1,4 @@
 
-- [Miracle0524](https://github.com/Miracle0524)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
@@ -99,3 +98,4 @@
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
+- [Kishankumar1328](https://github.com/Kishankumar1328)
