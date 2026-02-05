@@ -1,4 +1,6 @@
 
+- [susiasa](https://github.com/susiasa)
+- [Blazt95](https://github.com/Blazt95)
 - [syaharip005](https://github.com/syaharip005)
 - [Hstkj23](https://github.com/Hstkj23)
 - [gagaguguk](https://github.com/gagaguguk)
@@ -97,5 +99,3 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
-- [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
