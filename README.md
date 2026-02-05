@@ -50,6 +50,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [syaharip005](https://github.com/syaharip005)
+- [Hstkj23](https://github.com/Hstkj23)
 - [gagaguguk](https://github.com/gagaguguk)
 - [zeniofia](https://github.com/zeniofia)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
@@ -58,8 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
-- [McUtty](https://github.com/McUtty)
-- [potentialdev-web](https://github.com/potentialdev-web)
 
 #### 🎢 Stats
 
