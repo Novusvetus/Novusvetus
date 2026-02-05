@@ -1,4 +1,5 @@
 
+- [czerid](https://github.com/czerid)
 - [susiasa](https://github.com/susiasa)
 - [Blazt95](https://github.com/Blazt95)
 - [syaharip005](https://github.com/syaharip005)
@@ -98,4 +99,3 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
-- [LinuxPath](https://github.com/LinuxPath)
