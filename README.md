@@ -30,7 +30,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 🗜 Latest releases I've contributed to
 
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) ([1.2.17](https://github.com/Novusvetus/action-php_codesniffer/releases/tag/1.2.17) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.)
+_Really? Nothing?_
 
 #### 🛠 Latest Pull Requests I published
 
