@@ -50,6 +50,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [cleinvert](https://github.com/cleinvert)
 - [czerid](https://github.com/czerid)
 - [susiasa](https://github.com/susiasa)
 - [Blazt95](https://github.com/Blazt95)
@@ -59,7 +60,6 @@ _Nobody sponsors me. I am poor..._
 - [zeniofia](https://github.com/zeniofia)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
-- [dexoryn](https://github.com/dexoryn)
 
 #### 🎢 Stats
 
