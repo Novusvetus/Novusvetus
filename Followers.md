@@ -1,4 +1,5 @@
 
+- [lycherys](https://github.com/lycherys)
 - [rynesix](https://github.com/rynesix)
 - [xedeline](https://github.com/xedeline)
 - [szenled](https://github.com/szenled)
@@ -98,4 +99,3 @@
 - [aburraspace](https://github.com/aburraspace)
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
-- [testhesabimacg](https://github.com/testhesabimacg)
