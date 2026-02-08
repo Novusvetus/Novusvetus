@@ -11,9 +11,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-- [FashionRetail/.github](https://github.com/FashionRetail/.github)
-- [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - (WIP) Tracking your IntelliJ activity and push it to your own Endpoint.
-- [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer) - GitHub PHP_CodeSniffer action. This workflow check the PHP, CSS and Javascript files for the wanted coding standards.
+_I seem to be pretty lazy at the moment._
 
 #### 🐣 My latest projects
 
