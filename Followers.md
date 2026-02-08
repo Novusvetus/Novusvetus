@@ -1,4 +1,5 @@
 
+- [wenteris](https://github.com/wenteris)
 - [cleinvert](https://github.com/cleinvert)
 - [czerid](https://github.com/czerid)
 - [susiasa](https://github.com/susiasa)
@@ -98,4 +99,3 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
-- [Chitus](https://github.com/Chitus)
