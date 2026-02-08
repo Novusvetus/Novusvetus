@@ -1,4 +1,7 @@
 
+- [rynesix](https://github.com/rynesix)
+- [xedeline](https://github.com/xedeline)
+- [szenled](https://github.com/szenled)
 - [wenteris](https://github.com/wenteris)
 - [cleinvert](https://github.com/cleinvert)
 - [czerid](https://github.com/czerid)
@@ -96,6 +99,3 @@
 - [tanishq-ctrl](https://github.com/tanishq-ctrl)
 - [riseansmal](https://github.com/riseansmal)
 - [testhesabimacg](https://github.com/testhesabimacg)
-- [whitenight-eco](https://github.com/whitenight-eco)
-- [james-guerrero](https://github.com/james-guerrero)
-- [kayukeee](https://github.com/kayukeee)
