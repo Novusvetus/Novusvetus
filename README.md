@@ -48,16 +48,16 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [lycherys](https://github.com/lycherys)
-- [rynesix](https://github.com/rynesix)
-- [xedeline](https://github.com/xedeline)
-- [szenled](https://github.com/szenled)
-- [wenteris](https://github.com/wenteris)
-- [cleinvert](https://github.com/cleinvert)
 - [czerid](https://github.com/czerid)
 - [susiasa](https://github.com/susiasa)
 - [Blazt95](https://github.com/Blazt95)
 - [syaharip005](https://github.com/syaharip005)
+- [Hstkj23](https://github.com/Hstkj23)
+- [gagaguguk](https://github.com/gagaguguk)
+- [zeniofia](https://github.com/zeniofia)
+- [Mmalkalbani](https://github.com/Mmalkalbani)
+- [SuperAdam47](https://github.com/SuperAdam47)
+- [dexoryn](https://github.com/dexoryn)
 
 #### 🎢 Stats
 
