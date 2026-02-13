@@ -49,7 +49,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [syaharip005](https://github.com/syaharip005)
-- [gagaguguk](https://github.com/gagaguguk)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
@@ -58,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
+- [gamet2401](https://github.com/gamet2401)
 
 #### 🎢 Stats
 

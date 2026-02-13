@@ -1,6 +1,5 @@
 
 - [syaharip005](https://github.com/syaharip005)
-- [gagaguguk](https://github.com/gagaguguk)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [dexoryn](https://github.com/dexoryn)
@@ -99,3 +98,4 @@
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
+- [KostasSliazas](https://github.com/KostasSliazas)
