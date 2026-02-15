@@ -28,7 +28,6 @@
 - [lucasdcg](https://github.com/lucasdcg)
 - [oluiscabral](https://github.com/oluiscabral)
 - [18KBlueApple](https://github.com/18KBlueApple)
-- [web2and3](https://github.com/web2and3)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [nmbetancur](https://github.com/nmbetancur)
 - [chirsdav](https://github.com/chirsdav)
@@ -99,3 +98,4 @@
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
+- [salimnursalim](https://github.com/salimnursalim)
