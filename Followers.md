@@ -75,7 +75,6 @@
 - [yaroslavmatei](https://github.com/yaroslavmatei)
 - [liamsmith413](https://github.com/liamsmith413)
 - [pinhe91](https://github.com/pinhe91)
-- [miracleheras](https://github.com/miracleheras)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [thelabmde](https://github.com/thelabmde)
 - [hamxy](https://github.com/hamxy)
@@ -99,3 +98,4 @@
 - [Kishankumar1328](https://github.com/Kishankumar1328)
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
+- [wintunmmocc](https://github.com/wintunmmocc)
