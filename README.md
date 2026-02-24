@@ -48,7 +48,6 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
-- [syaharip005](https://github.com/syaharip005)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [SuperAdam47](https://github.com/SuperAdam47)
 - [edge-smart](https://github.com/edge-smart)
@@ -58,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
 - [mseptiawan](https://github.com/mseptiawan)
+- [slavaGanzin](https://github.com/slavaGanzin)
 
 #### 🎢 Stats
 
