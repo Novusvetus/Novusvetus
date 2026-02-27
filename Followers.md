@@ -1,6 +1,5 @@
 
 - [Mmalkalbani](https://github.com/Mmalkalbani)
-- [SuperAdam47](https://github.com/SuperAdam47)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
@@ -99,3 +98,4 @@
 - [Iqbolshoh](https://github.com/Iqbolshoh)
 - [salimnursalim](https://github.com/salimnursalim)
 - [wintunmmocc](https://github.com/wintunmmocc)
+- [Anonymous1223334444](https://github.com/Anonymous1223334444)
