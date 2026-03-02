@@ -48,6 +48,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [pabwinner](https://github.com/pabwinner)
 - [gerdwyne](https://github.com/gerdwyne)
 - [jackoye](https://github.com/jackoye)
 - [panyster](https://github.com/panyster)
@@ -57,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [japan1988](https://github.com/japan1988)
 - [Gorotet](https://github.com/Gorotet)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
-- [edge-smart](https://github.com/edge-smart)
 
 #### 🎢 Stats
 
