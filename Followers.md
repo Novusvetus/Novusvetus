@@ -4,7 +4,6 @@
 - [panyster](https://github.com/panyster)
 - [loreius](https://github.com/loreius)
 - [nerywine](https://github.com/nerywine)
-- [kylemank](https://github.com/kylemank)
 - [japan1988](https://github.com/japan1988)
 - [Gorotet](https://github.com/Gorotet)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
@@ -99,3 +98,4 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
+- [oliviawilson2003](https://github.com/oliviawilson2003)

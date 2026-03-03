@@ -53,11 +53,11 @@ _Nobody sponsors me. I am poor..._
 - [panyster](https://github.com/panyster)
 - [loreius](https://github.com/loreius)
 - [nerywine](https://github.com/nerywine)
-- [kylemank](https://github.com/kylemank)
 - [japan1988](https://github.com/japan1988)
 - [Gorotet](https://github.com/Gorotet)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [edge-smart](https://github.com/edge-smart)
+- [Nadeem1295](https://github.com/Nadeem1295)
 
 #### 🎢 Stats
 
