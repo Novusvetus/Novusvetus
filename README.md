@@ -48,6 +48,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lukestoik](https://github.com/lukestoik)
 - [zorktys](https://github.com/zorktys)
 - [lokitore](https://github.com/lokitore)
 - [xaviersins](https://github.com/xaviersins)
@@ -57,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
-- [potentialdev-web](https://github.com/potentialdev-web)
 
 #### 🎢 Stats
 

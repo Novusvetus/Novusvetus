@@ -1,4 +1,5 @@
 
+- [lukestoik](https://github.com/lukestoik)
 - [zorktys](https://github.com/zorktys)
 - [lokitore](https://github.com/lokitore)
 - [xaviersins](https://github.com/xaviersins)
@@ -98,4 +99,3 @@
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
-- [Kishankumar1328](https://github.com/Kishankumar1328)
