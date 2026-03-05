@@ -48,6 +48,8 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lokitore](https://github.com/lokitore)
+- [xaviersins](https://github.com/xaviersins)
 - [pabwinner](https://github.com/pabwinner)
 - [jackoye](https://github.com/jackoye)
 - [panyster](https://github.com/panyster)
@@ -56,8 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [japan1988](https://github.com/japan1988)
 - [Gorotet](https://github.com/Gorotet)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
-- [edge-smart](https://github.com/edge-smart)
-- [Nadeem1295](https://github.com/Nadeem1295)
 
 #### 🎢 Stats
 

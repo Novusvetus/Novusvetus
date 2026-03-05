@@ -1,4 +1,6 @@
 
+- [lokitore](https://github.com/lokitore)
+- [xaviersins](https://github.com/xaviersins)
 - [pabwinner](https://github.com/pabwinner)
 - [jackoye](https://github.com/jackoye)
 - [panyster](https://github.com/panyster)
@@ -97,5 +99,3 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
-- [oliviawilson2003](https://github.com/oliviawilson2003)
