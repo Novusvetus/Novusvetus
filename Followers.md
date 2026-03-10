@@ -5,6 +5,7 @@
 - [xaviersins](https://github.com/xaviersins)
 - [japan1988](https://github.com/japan1988)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
+- [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
@@ -98,4 +99,3 @@
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
-- [KostasSliazas](https://github.com/KostasSliazas)

@@ -54,10 +54,10 @@ _Nobody sponsors me. I am poor..._
 - [xaviersins](https://github.com/xaviersins)
 - [japan1988](https://github.com/japan1988)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
+- [dexoryn](https://github.com/dexoryn)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
-- [McUtty](https://github.com/McUtty)
 
 #### 🎢 Stats
 
