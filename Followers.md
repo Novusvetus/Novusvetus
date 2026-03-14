@@ -1,8 +1,4 @@
 
-- [lukestoik](https://github.com/lukestoik)
-- [zorktys](https://github.com/zorktys)
-- [lokitore](https://github.com/lokitore)
-- [xaviersins](https://github.com/xaviersins)
 - [japan1988](https://github.com/japan1988)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [edge-smart](https://github.com/edge-smart)
@@ -99,3 +95,7 @@
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
+- [Kishankumar1328](https://github.com/Kishankumar1328)
+- [Iqbolshoh](https://github.com/Iqbolshoh)
+- [salimnursalim](https://github.com/salimnursalim)
+- [wintunmmocc](https://github.com/wintunmmocc)
