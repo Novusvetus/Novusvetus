@@ -48,6 +48,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [japan1988](https://github.com/japan1988)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
@@ -57,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [McUtty](https://github.com/McUtty)
 - [potentialdev-web](https://github.com/potentialdev-web)
 - [gamet2401](https://github.com/gamet2401)
-- [mseptiawan](https://github.com/mseptiawan)
 
 #### 🎢 Stats
 
