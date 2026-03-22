@@ -1,4 +1,5 @@
 
+- [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [japan1988](https://github.com/japan1988)
@@ -98,4 +99,3 @@
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
 - [Kishankumar1328](https://github.com/Kishankumar1328)
-- [Iqbolshoh](https://github.com/Iqbolshoh)
