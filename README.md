@@ -11,10 +11,11 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
-_I seem to be pretty lazy at the moment._
+- [Novusvetus/ha-mychore](https://github.com/Novusvetus/ha-mychore) - Chore tracker for Home Assistant
 
 #### 🐣 My latest projects
 
+- [Novusvetus/ha-mychore](https://github.com/Novusvetus/ha-mychore) - Chore tracker for Home Assistant
 - [Novusvetus/Die-PARTEI-Links](https://github.com/Novusvetus/Die-PARTEI-Links) - A collection of links to the German party Die PARTEI
 - [Novusvetus/GedcomParser](https://github.com/Novusvetus/GedcomParser) - (WIP) A little helper to parse Gedcom files.
 - [Novusvetus/action-phpinsights](https://github.com/Novusvetus/action-phpinsights) - GitHub phpinsights action. This workflow check the PHP files for the wanted coding standards and security issues.
@@ -24,7 +25,6 @@ _I seem to be pretty lazy at the moment._
 - [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin) - (WIP) Tracking your IntelliJ activity and push it to your own Endpoint.
 - [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT) - (WIP) This project is made to provide information relevant to gamers and streamers via MQTT (Message Queuing Telemetry Transport).
 - [Novusvetus/AutoGitIgnore](https://github.com/Novusvetus/AutoGitIgnore) - A post-update-cmd script to automatically add Composer managed packages to .gitignore.
-- [Novusvetus/ClassHelper](https://github.com/Novusvetus/ClassHelper) - Some class helper.
 
 #### 🗜 Latest releases I've contributed to
 
@@ -32,6 +32,7 @@ _Really? Nothing?_
 
 #### 🛠 Latest Pull Requests I published
 
+- [First version](https://github.com/Novusvetus/ha-mychore/pull/8) on [Novusvetus/ha-mychore](https://github.com/Novusvetus/ha-mychore)
 - [Updates 2025-02-05](https://github.com/Novusvetus/action-php_codesniffer/pull/839) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2025-02-05](https://github.com/Novusvetus/IntelliJStatsPlugin/pull/6) on [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin)
 - [Updates 2025-02-05](https://github.com/Novusvetus/IntelliJStatsPlugin/pull/5) on [Novusvetus/IntelliJStatsPlugin](https://github.com/Novusvetus/IntelliJStatsPlugin)
@@ -40,7 +41,6 @@ _Really? Nothing?_
 - [Updates 2024-01-13](https://github.com/Novusvetus/action-php_codesniffer/pull/776) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-11](https://github.com/Novusvetus/action-php_codesniffer/pull/775) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-10](https://github.com/Novusvetus/action-php_codesniffer/pull/772) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2024-01-04](https://github.com/Novusvetus/StreamersMQTT/pull/14) on [Novusvetus/StreamersMQTT](https://github.com/Novusvetus/StreamersMQTT)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
