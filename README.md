@@ -48,6 +48,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [khemssharma](https://github.com/khemssharma)
 - [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
@@ -57,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [Nadeem1295](https://github.com/Nadeem1295)
 - [trinhminhtriet](https://github.com/trinhminhtriet)
 - [McUtty](https://github.com/McUtty)
-- [potentialdev-web](https://github.com/potentialdev-web)
 
 #### 🎢 Stats
 
