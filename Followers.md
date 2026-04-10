@@ -32,7 +32,7 @@
 - [oluiscabral](https://github.com/oluiscabral)
 - [topdigitalplus](https://github.com/topdigitalplus)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
-- [betancurn](https://github.com/betancurn)
+- [betcurn](https://github.com/betcurn)
 - [chirsdav](https://github.com/chirsdav)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
