@@ -1,4 +1,5 @@
 
+- [peterruler](https://github.com/peterruler)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
@@ -98,4 +99,3 @@
 - [oliviawilson2003](https://github.com/oliviawilson2003)
 - [befoulers](https://github.com/befoulers)
 - [KostasSliazas](https://github.com/KostasSliazas)
-- [Kishankumar1328](https://github.com/Kishankumar1328)
