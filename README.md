@@ -48,6 +48,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [foyezkafi](https://github.com/foyezkafi)
 - [peterruler](https://github.com/peterruler)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
@@ -57,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [Mmalkalbani](https://github.com/Mmalkalbani)
 - [edge-smart](https://github.com/edge-smart)
 - [Nadeem1295](https://github.com/Nadeem1295)
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 
 #### 🎢 Stats
 
