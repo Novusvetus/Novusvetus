@@ -82,7 +82,7 @@
 - [justFiveDev](https://github.com/justFiveDev)
 - [pinhe91](https://github.com/pinhe91)
 - [niushaghavamii](https://github.com/niushaghavamii)
-- [thelabmde](https://github.com/thelabmde)
+- [nmbetancur](https://github.com/nmbetancur)
 - [hamxy](https://github.com/hamxy)
 - [hipolitorodrigues](https://github.com/hipolitorodrigues)
 - [Geek-Bunny](https://github.com/Geek-Bunny)
