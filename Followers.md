@@ -2,7 +2,6 @@
 - [holasoymalva](https://github.com/holasoymalva)
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
-- [peterruler](https://github.com/peterruler)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
@@ -99,3 +98,4 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
+- [oliviawilson2003](https://github.com/oliviawilson2003)

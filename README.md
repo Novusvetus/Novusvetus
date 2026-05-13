@@ -51,13 +51,13 @@ _Nobody sponsors me. I am poor..._
 - [holasoymalva](https://github.com/holasoymalva)
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
-- [peterruler](https://github.com/peterruler)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [japan1988](https://github.com/japan1988)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
+- [edge-smart](https://github.com/edge-smart)
 
 #### 🎢 Stats
 
