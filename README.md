@@ -49,7 +49,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [abdulrdeveloper](https://github.com/abdulrdeveloper)
-- [peterruler](https://github.com/peterruler)
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
 - [0xhustlerr](https://github.com/0xhustlerr)
@@ -58,6 +57,7 @@ _Nobody sponsors me. I am poor..._
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [japan1988](https://github.com/japan1988)
 - [Mmalkalbani](https://github.com/Mmalkalbani)
+- [edge-smart](https://github.com/edge-smart)
 
 #### 🎢 Stats
 
