@@ -1,4 +1,5 @@
 
+- [bearamirez998-creator](https://github.com/bearamirez998-creator)
 - [peterruler](https://github.com/peterruler)
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
@@ -98,4 +99,3 @@
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
-- [oliviawilson2003](https://github.com/oliviawilson2003)
