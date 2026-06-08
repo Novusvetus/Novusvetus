@@ -74,7 +74,6 @@
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
-- [denishy-sh](https://github.com/denishy-sh)
 - [ahr-i](https://github.com/ahr-i)
 - [treeMan0301](https://github.com/treeMan0301)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
@@ -99,3 +98,4 @@
 - [KCblama19](https://github.com/KCblama19)
 - [ezadin2](https://github.com/ezadin2)
 - [oliviawilson2003](https://github.com/oliviawilson2003)
+- [befoulers](https://github.com/befoulers)
