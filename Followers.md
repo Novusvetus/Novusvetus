@@ -40,7 +40,7 @@
 - [chirsdav](https://github.com/chirsdav)
 - [lucaboca82](https://github.com/lucaboca82)
 - [rosem-coder](https://github.com/rosem-coder)
-- [yosuke-kuroki](https://github.com/yosuke-kuroki)
+- [guten-tag-100](https://github.com/guten-tag-100)
 - [cepseu1](https://github.com/cepseu1)
 - [will97331](https://github.com/will97331)
 - [karmapoIice](https://github.com/karmapoIice)
