@@ -48,6 +48,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [mubbashirdevsite](https://github.com/mubbashirdevsite)
 - [peterruler](https://github.com/peterruler)
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
 - [carlesloriente](https://github.com/carlesloriente)
@@ -57,7 +58,6 @@ _Nobody sponsors me. I am poor..._
 - [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
 - [japan1988](https://github.com/japan1988)
-- [Mmalkalbani](https://github.com/Mmalkalbani)
 
 #### 🎢 Stats
 
