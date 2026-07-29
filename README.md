@@ -11,6 +11,7 @@ Hello, I'm Marcel Rudolf (Novusvetus), a (web) developer from Bückeburg in Germ
 
 #### 💻 Check out what I'm currently working on
 
+- [OpenPolitik-de/data](https://github.com/OpenPolitik-de/data)
 - [Novusvetus/ha-mychore](https://github.com/Novusvetus/ha-mychore) - Chore tracker for Home Assistant
 
 #### 🐣 My latest projects
