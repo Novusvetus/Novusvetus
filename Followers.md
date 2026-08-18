@@ -1,4 +1,5 @@
 
+- [3xtroy](https://github.com/3xtroy)
 - [peterruler](https://github.com/peterruler)
 - [mubbashirdevsite](https://github.com/mubbashirdevsite)
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
@@ -98,4 +99,3 @@
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
 - [KCblama19](https://github.com/KCblama19)
-- [ezadin2](https://github.com/ezadin2)
