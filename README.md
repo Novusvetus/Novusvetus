@@ -50,7 +50,6 @@ _Nobody sponsors me. I am poor..._
 #### 👯 Check out some of my recent followers
 
 - [3xtroy](https://github.com/3xtroy)
-- [peterruler](https://github.com/peterruler)
 - [mubbashirdevsite](https://github.com/mubbashirdevsite)
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
 - [carlesloriente](https://github.com/carlesloriente)
@@ -59,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 - [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
+- [japan1988](https://github.com/japan1988)
 
 #### 🎢 Stats
 
