@@ -51,7 +51,6 @@ _Nobody sponsors me. I am poor..._
 
 - [HuckleR2003](https://github.com/HuckleR2003)
 - [peterruler](https://github.com/peterruler)
-- [Sahoo999](https://github.com/Sahoo999)
 - [3xtroy](https://github.com/3xtroy)
 - [mubbashirdevsite](https://github.com/mubbashirdevsite)
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
@@ -59,6 +58,7 @@ _Nobody sponsors me. I am poor..._
 - [foyezkafi](https://github.com/foyezkafi)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
+- [ChungusLord123](https://github.com/ChungusLord123)
 
 #### 🎢 Stats
 
