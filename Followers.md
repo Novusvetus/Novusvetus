@@ -1,5 +1,4 @@
 
-- [rahadbhuiya](https://github.com/rahadbhuiya)
 - [HuckleR2003](https://github.com/HuckleR2003)
 - [peterruler](https://github.com/peterruler)
 - [3xtroy](https://github.com/3xtroy)
@@ -99,3 +98,4 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
+- [LinuxPath](https://github.com/LinuxPath)
