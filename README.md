@@ -49,6 +49,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [lxcadoza993](https://github.com/lxcadoza993)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
 - [HuckleR2003](https://github.com/HuckleR2003)
 - [peterruler](https://github.com/peterruler)
@@ -58,7 +59,6 @@ _Nobody sponsors me. I am poor..._
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
 - [0xhustlerr](https://github.com/0xhustlerr)
-- [minaa66](https://github.com/minaa66)
 
 #### 🎢 Stats
 
