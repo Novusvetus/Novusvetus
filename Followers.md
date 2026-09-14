@@ -1,4 +1,5 @@
 
+- [Gabrieliam42](https://github.com/Gabrieliam42)
 - [lxcadoza993](https://github.com/lxcadoza993)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
 - [HuckleR2003](https://github.com/HuckleR2003)
@@ -98,4 +99,3 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
-- [Chitus](https://github.com/Chitus)
