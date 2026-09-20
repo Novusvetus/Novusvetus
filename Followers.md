@@ -3,7 +3,6 @@
 - [lxcadoza993](https://github.com/lxcadoza993)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
 - [HuckleR2003](https://github.com/HuckleR2003)
-- [peterruler](https://github.com/peterruler)
 - [3xtroy](https://github.com/3xtroy)
 - [mubbashirdevsite](https://github.com/mubbashirdevsite)
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
@@ -99,3 +98,4 @@
 - [whitenight-eco](https://github.com/whitenight-eco)
 - [james-guerrero](https://github.com/james-guerrero)
 - [kayukeee](https://github.com/kayukeee)
+- [Chitus](https://github.com/Chitus)
