@@ -75,7 +75,7 @@
 - [snowMan128](https://github.com/snowMan128)
 - [tubakhxn](https://github.com/tubakhxn)
 - [nazari63](https://github.com/nazari63)
-- [Ahmet-Aslancan](https://github.com/Ahmet-Aslancan)
+- [Teymur-Babayev](https://github.com/Teymur-Babayev)
 - [LinuxJS](https://github.com/LinuxJS)
 - [laurence57l](https://github.com/laurence57l)
 - [emmanuelvelmo](https://github.com/emmanuelvelmo)
