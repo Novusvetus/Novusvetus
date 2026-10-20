@@ -39,7 +39,7 @@
 - [Vimaser](https://github.com/Vimaser)
 - [lucasdcg](https://github.com/lucasdcg)
 - [oluiscabral](https://github.com/oluiscabral)
-- [topdigitalplus](https://github.com/topdigitalplus)
+- [gentlehand](https://github.com/gentlehand)
 - [vimalpravin-18](https://github.com/vimalpravin-18)
 - [nelbeu](https://github.com/nelbeu)
 - [chirsdav](https://github.com/chirsdav)
