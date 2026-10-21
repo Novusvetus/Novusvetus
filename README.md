@@ -34,6 +34,7 @@ _Really? Nothing?_
 
 #### 🛠 Latest Pull Requests I published
 
+- [Instructions for AI Agents added.](https://github.com/Novusvetus/clean-workflow-runs/pull/2) on [Novusvetus/clean-workflow-runs](https://github.com/Novusvetus/clean-workflow-runs)
 - [Release internal workflow to public](https://github.com/Novusvetus/clean-workflow-runs/pull/1) on [Novusvetus/clean-workflow-runs](https://github.com/Novusvetus/clean-workflow-runs)
 - [First version](https://github.com/Novusvetus/ha-mychore/pull/8) on [Novusvetus/ha-mychore](https://github.com/Novusvetus/ha-mychore)
 - [Updates 2025-02-05](https://github.com/Novusvetus/action-php_codesniffer/pull/839) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
