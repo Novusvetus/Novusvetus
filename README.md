@@ -34,6 +34,7 @@ _Really? Nothing?_
 
 #### 🛠 Latest Pull Requests I published
 
+- [Filters debugged](https://github.com/Novusvetus/clean-workflow-runs/pull/3) on [Novusvetus/clean-workflow-runs](https://github.com/Novusvetus/clean-workflow-runs)
 - [Instructions for AI Agents added.](https://github.com/Novusvetus/clean-workflow-runs/pull/2) on [Novusvetus/clean-workflow-runs](https://github.com/Novusvetus/clean-workflow-runs)
 - [Release internal workflow to public](https://github.com/Novusvetus/clean-workflow-runs/pull/1) on [Novusvetus/clean-workflow-runs](https://github.com/Novusvetus/clean-workflow-runs)
 - [First version](https://github.com/Novusvetus/ha-mychore/pull/8) on [Novusvetus/ha-mychore](https://github.com/Novusvetus/ha-mychore)
@@ -43,7 +44,6 @@ _Really? Nothing?_
 - [Updates 2024-01-15](https://github.com/Novusvetus/action-php_codesniffer/pull/779) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-14](https://github.com/Novusvetus/action-php_codesniffer/pull/777) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 - [Updates 2024-01-13](https://github.com/Novusvetus/action-php_codesniffer/pull/776) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
-- [Updates 2024-01-11](https://github.com/Novusvetus/action-php_codesniffer/pull/775) on [Novusvetus/action-php_codesniffer](https://github.com/Novusvetus/action-php_codesniffer)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
