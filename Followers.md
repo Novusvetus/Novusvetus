@@ -1,4 +1,5 @@
 
+- [arvelquigley99](https://github.com/arvelquigley99)
 - [Lucky-Lodhi2004](https://github.com/Lucky-Lodhi2004)
 - [HuckleR2003](https://github.com/HuckleR2003)
 - [3xtroy](https://github.com/3xtroy)
@@ -98,4 +99,3 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
-- [LinuxPath](https://github.com/LinuxPath)

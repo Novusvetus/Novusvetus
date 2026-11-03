@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [arvelquigley99](https://github.com/arvelquigley99)
 - [Lucky-Lodhi2004](https://github.com/Lucky-Lodhi2004)
 - [HuckleR2003](https://github.com/HuckleR2003)
 - [3xtroy](https://github.com/3xtroy)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [foyezkafi](https://github.com/foyezkafi)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
-- [ChungusLord123](https://github.com/ChungusLord123)
 
 #### 🎢 Stats
 
