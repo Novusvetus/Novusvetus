@@ -51,6 +51,7 @@ _Nobody sponsors me. I am poor..._
 
 #### 👯 Check out some of my recent followers
 
+- [bahattinyunus](https://github.com/bahattinyunus)
 - [peterruler](https://github.com/peterruler)
 - [Lucky-Lodhi2004](https://github.com/Lucky-Lodhi2004)
 - [HuckleR2003](https://github.com/HuckleR2003)
@@ -60,7 +61,6 @@ _Nobody sponsors me. I am poor..._
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
 - [0xhustlerr](https://github.com/0xhustlerr)
-- [minaa66](https://github.com/minaa66)
 
 #### 🎢 Stats
 
