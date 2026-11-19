@@ -60,7 +60,7 @@ _Nobody sponsors me. I am poor..._
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
-- [0xhustlerr](https://github.com/0xhustlerr)
+- [minaa66](https://github.com/minaa66)
 
 #### 🎢 Stats
 

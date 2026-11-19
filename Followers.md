@@ -8,7 +8,6 @@
 - [bearamirez998-creator](https://github.com/bearamirez998-creator)
 - [carlesloriente](https://github.com/carlesloriente)
 - [foyezkafi](https://github.com/foyezkafi)
-- [0xhustlerr](https://github.com/0xhustlerr)
 - [minaa66](https://github.com/minaa66)
 - [ChungusLord123](https://github.com/ChungusLord123)
 - [COUNTRY-HUMANS](https://github.com/COUNTRY-HUMANS)
@@ -99,3 +98,4 @@
 - [kayukeee](https://github.com/kayukeee)
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
+- [LinuxPath](https://github.com/LinuxPath)
