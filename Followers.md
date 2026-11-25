@@ -82,7 +82,6 @@
 - [treeMan0301](https://github.com/treeMan0301)
 - [yaroslavmatei](https://github.com/yaroslavmatei)
 - [liamsmith413](https://github.com/liamsmith413)
-- [justFiveDev](https://github.com/justFiveDev)
 - [pinhe91](https://github.com/pinhe91)
 - [niushaghavamii](https://github.com/niushaghavamii)
 - [nmbetancur](https://github.com/nmbetancur)
@@ -99,3 +98,4 @@
 - [Chitus](https://github.com/Chitus)
 - [AnitaSobhanian](https://github.com/AnitaSobhanian)
 - [LinuxPath](https://github.com/LinuxPath)
+- [KCblama19](https://github.com/KCblama19)
